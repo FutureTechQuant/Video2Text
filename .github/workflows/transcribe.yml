@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  transcribe:
+  transcribe-one:
     runs-on: ubuntu-latest
     timeout-minutes: 355
 
@@ -25,10 +25,8 @@ jobs:
       WHISPER_DEVICE: cpu
       WHISPER_COMPUTE_TYPE: int8
       WHISPER_LANGUAGE: zh
-      MAX_SECONDS: "19800"
       AUDIO_FORMAT: mp3
       AUDIO_QUALITY: "7"
-      SLEEP_BETWEEN_ITEMS: "2"
       BEAM_SIZE: "1"
       VAD_FILTER: "1"
 
@@ -46,15 +44,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg unzip
 
-      - name: Show GH CLI
-        run: gh --version
-
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp faster-whisper
 
-      - name: Write Bilibili cookies
+      - name: Write cookies
         shell: bash
         run: |
           cat > cookies.txt <<'EOF'
@@ -65,7 +60,8 @@ jobs:
         run: |
           mkdir -p scripts state transcripts tmp_audio
 
-      - name: Restore latest checkpoint from previous runs
+      - name: Restore latest checkpoint
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
@@ -80,10 +76,10 @@ jobs:
           repo = os.environ["GITHUB_REPOSITORY"]
           branch = os.environ["GITHUB_REF_NAME"]
 
-          print(f"[restore] repo={repo}, branch={branch}")
+          print(f"[restore] repo={repo} branch={branch}")
 
           try:
-              data = subprocess.check_output(
+              raw = subprocess.check_output(
                   [
                       "gh", "api",
                       "-H", "Accept: application/vnd.github+json",
@@ -92,10 +88,10 @@ jobs:
                   text=True
               )
           except subprocess.CalledProcessError as e:
-              print(f"[restore] failed to list artifacts: {e}")
+              print(f"[restore] list artifacts failed: {e}")
               sys.exit(0)
 
-          payload = json.loads(data)
+          payload = json.loads(raw)
           artifacts = payload.get("artifacts", [])
 
           matched = []
@@ -110,13 +106,13 @@ jobs:
               matched.append(a)
 
           if not matched:
-              print("[restore] no previous checkpoint artifact found")
+              print("[restore] no checkpoint found")
               sys.exit(0)
 
           matched.sort(key=lambda x: x.get("updated_at") or x.get("created_at") or "", reverse=True)
           target = matched[0]
           artifact_id = target["id"]
-          print(f"[restore] restoring artifact id={artifact_id}, updated_at={target.get('updated_at')}")
+          print(f"[restore] selected artifact id={artifact_id}")
 
           zip_path = pathlib.Path("latest-checkpoint.zip")
           with zip_path.open("wb") as f:
@@ -134,44 +130,52 @@ jobs:
           print("[restore] checkpoint restored")
           PY
 
-      - name: Show restored progress
+      - name: Show checkpoint summary
         shell: bash
         run: |
+          echo "===== progress ====="
           if [ -f state/progress.json ]; then
-            echo "===== state/progress.json ====="
             cat state/progress.json
           else
-            echo "No previous progress.json"
+            echo "no progress.json"
           fi
+          echo "===== done count ====="
           if [ -f state/done.txt ]; then
-            echo "===== done count ====="
             wc -l state/done.txt
+          else
+            echo "0 state/done.txt"
           fi
 
-      - name: Run transcriber
+      - name: Run one video
         run: |
           python scripts/transcribe_bili.py
 
-      - name: Show final progress
+      - name: Show final summary
         if: always()
         shell: bash
         run: |
+          echo "===== final progress ====="
           if [ -f state/progress.json ]; then
-            echo "===== final state/progress.json ====="
             cat state/progress.json
           else
-            echo "No progress.json generated"
+            echo "no progress.json"
           fi
+          echo "===== done count ====="
           if [ -f state/done.txt ]; then
-            echo "===== final done count ====="
             wc -l state/done.txt
+          else
+            echo "0 state/done.txt"
           fi
+          echo "===== failed count ====="
           if [ -f state/failed.txt ]; then
-            echo "===== failed count ====="
             wc -l state/failed.txt
+          else
+            echo "0 state/failed.txt"
           fi
+          echo "===== transcript files ====="
+          find transcripts -maxdepth 1 -type f | wc -l || true
 
-      - name: Upload latest checkpoint artifact
+      - name: Upload latest checkpoint
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -183,7 +187,7 @@ jobs:
           overwrite: true
           retention-days: 14
 
-      - name: Upload run snapshot artifact
+      - name: Upload run snapshot
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -194,16 +198,16 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
 
-      - name: Trigger next run when continue.flag exists
+      - name: Trigger next run
         if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
           if [ -f state/continue.flag ]; then
-            echo "continue.flag found, triggering next workflow run"
+            echo "continue.flag exists, trigger next run"
             sleep 15
             gh workflow run .github/workflows/transcribe.yml --ref "${GITHUB_REF_NAME}"
           else
-            echo "continue.flag not found, workflow stops here"
+            echo "continue.flag not found, stop here"
           fi
