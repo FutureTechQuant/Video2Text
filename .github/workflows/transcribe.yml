@@ -6,7 +6,7 @@ on:
     - cron: "20 */6 * * *"
 
 permissions:
-  contents: read
+  contents: write
   actions: write
 
 concurrency:
@@ -33,6 +33,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,7 +44,7 @@ jobs:
       - name: Install system packages
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg unzip
+          sudo apt-get install -y ffmpeg
 
       - name: Install Python dependencies
         run: |
@@ -58,99 +60,42 @@ jobs:
 
       - name: Prepare workspace
         run: |
-          mkdir -p scripts state transcripts tmp_audio
+          mkdir -p state transcripts tmp_audio scripts
 
-      - name: Restore latest checkpoint
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Show current repo state
         shell: bash
         run: |
-          python - <<'PY'
-          import json
-          import os
-          import pathlib
-          import subprocess
-          import sys
-
-          repo = os.environ["GITHUB_REPOSITORY"]
-          branch = os.environ["GITHUB_REF_NAME"]
-
-          print(f"[restore] repo={repo} branch={branch}")
-
-          try:
-              raw = subprocess.check_output(
-                  [
-                      "gh", "api",
-                      "-H", "Accept: application/vnd.github+json",
-                      f"/repos/{repo}/actions/artifacts?per_page=100"
-                  ],
-                  text=True
-              )
-          except subprocess.CalledProcessError as e:
-              print(f"[restore] list artifacts failed: {e}")
-              sys.exit(0)
-
-          payload = json.loads(raw)
-          artifacts = payload.get("artifacts", [])
-
-          matched = []
-          for a in artifacts:
-              if a.get("name") != "latest-checkpoint":
-                  continue
-              if a.get("expired"):
-                  continue
-              workflow_run = a.get("workflow_run") or {}
-              if workflow_run.get("head_branch") != branch:
-                  continue
-              matched.append(a)
-
-          if not matched:
-              print("[restore] no checkpoint found")
-              sys.exit(0)
-
-          matched.sort(key=lambda x: x.get("updated_at") or x.get("created_at") or "", reverse=True)
-          target = matched[0]
-          artifact_id = target["id"]
-          print(f"[restore] selected artifact id={artifact_id}")
-
-          zip_path = pathlib.Path("latest-checkpoint.zip")
-          with zip_path.open("wb") as f:
-              subprocess.run(
-                  [
-                      "gh", "api",
-                      "-H", "Accept: application/vnd.github+json",
-                      f"/repos/{repo}/actions/artifacts/{artifact_id}/zip"
-                  ],
-                  check=True,
-                  stdout=f
-              )
-
-          subprocess.run(["unzip", "-o", str(zip_path), "-d", "."], check=True)
-          print("[restore] checkpoint restored")
-          PY
-
-      - name: Show checkpoint summary
-        shell: bash
-        run: |
-          echo "===== progress ====="
-          if [ -f state/progress.json ]; then
-            cat state/progress.json
-          else
-            echo "no progress.json"
-          fi
+          echo "===== branch ====="
+          git branch --show-current || true
           echo "===== done count ====="
           if [ -f state/done.txt ]; then
             wc -l state/done.txt
           else
             echo "0 state/done.txt"
           fi
+          echo "===== failed count ====="
+          if [ -f state/failed.txt ]; then
+            wc -l state/failed.txt
+          else
+            echo "0 state/failed.txt"
+          fi
+          echo "===== current progress ====="
+          if [ -f state/progress.json ]; then
+            cat state/progress.json
+          else
+            echo "no progress.json"
+          fi
 
       - name: Run one video
         run: |
           python scripts/transcribe_bili.py
 
-      - name: Show final summary
+      - name: Show final repo state
         if: always()
         shell: bash
         run: |
@@ -174,29 +119,6 @@ jobs:
           fi
           echo "===== transcript files ====="
           find transcripts -maxdepth 1 -type f | wc -l || true
-
-      - name: Upload latest checkpoint
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: latest-checkpoint
-          path: |
-            state/**
-            transcripts/**
-          if-no-files-found: warn
-          overwrite: true
-          retention-days: 14
-
-      - name: Upload run snapshot
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: run-${{ github.run_id }}-${{ github.run_attempt }}
-          path: |
-            state/**
-            transcripts/**
-          if-no-files-found: warn
-          retention-days: 14
 
       - name: Trigger next run
         if: always()
