@@ -31,9 +31,12 @@ AUDIO_FORMAT = os.getenv("AUDIO_FORMAT", "mp3")
 AUDIO_QUALITY = os.getenv("AUDIO_QUALITY", "7")
 BEAM_SIZE = int(os.getenv("BEAM_SIZE", "1"))
 VAD_FILTER = os.getenv("VAD_FILTER", "1") == "1"
+GIT_BRANCH = os.getenv("GITHUB_REF_NAME", "").strip()
+
 
 def log(msg: str):
     print(msg, flush=True)
+
 
 def ensure_dirs():
     STATE_DIR.mkdir(parents=True, exist_ok=True)
@@ -41,14 +44,17 @@ def ensure_dirs():
     TMP_DIR.mkdir(parents=True, exist_ok=True)
     ERRORS_DIR.mkdir(parents=True, exist_ok=True)
 
+
 def atomic_write_text(path: Path, content: str, encoding: str = "utf-8"):
     tmp = path.with_suffix(path.suffix + ".tmp")
     tmp.write_text(content, encoding=encoding)
     tmp.replace(path)
 
+
 def append_line(path: Path, line: str):
     with path.open("a", encoding="utf-8") as f:
         f.write(line.rstrip("\n") + "\n")
+
 
 def load_json(path: Path, default):
     if not path.exists():
@@ -58,13 +64,16 @@ def load_json(path: Path, default):
     except Exception:
         return default
 
+
 def save_json(path: Path, data):
-    atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=2))
+    atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
 
 def load_set(path: Path) -> set:
     if not path.exists():
         return set()
     return {x.strip() for x in path.read_text(encoding="utf-8").splitlines() if x.strip()}
+
 
 def seconds_to_hms(sec: float) -> str:
     sec = max(0, int(sec))
@@ -73,14 +82,22 @@ def seconds_to_hms(sec: float) -> str:
     s = sec % 60
     return f"{h:02d}:{m:02d}:{s:02d}"
 
+
 def sanitize_filename(name: str, max_len: int = 200) -> str:
     name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name).strip()
     name = re.sub(r"\s+", " ", name)
     return name[:max_len].rstrip(" .") or "untitled"
 
+
 def run(cmd: List[str], capture: bool = False, check: bool = True):
     log("[cmd] " + " ".join(cmd))
     return subprocess.run(cmd, text=True, capture_output=capture, check=check)
+
+
+def git_run(cmd: List[str], check: bool = True):
+    log("[git] " + " ".join(cmd))
+    return subprocess.run(cmd, text=True, check=check)
+
 
 def format_video_url(entry: Dict) -> Optional[str]:
     url = entry.get("url") or entry.get("webpage_url") or ""
@@ -92,6 +109,7 @@ def format_video_url(entry: Dict) -> Optional[str]:
     if url.startswith("BV"):
         return f"https://www.bilibili.com/video/{url}"
     return None
+
 
 def save_progress(status: str, note: str = "", current: Optional[Dict] = None, queue_total: int = 0, queue_index: int = 0):
     payload = {
@@ -109,21 +127,29 @@ def save_progress(status: str, note: str = "", current: Optional[Dict] = None, q
         payload["current_url"] = current.get("url", "")
     save_json(PROGRESS_FILE, payload)
 
+
 def load_existing_done() -> set:
     done = load_set(DONE_FILE)
     for p in TRANSCRIPTS_DIR.glob("BV*.txt"):
         done.add(p.stem)
     return done
 
+
+def load_existing_failed() -> set:
+    return load_set(FAILED_FILE)
+
+
 def record_done(bvid: str):
     done = load_set(DONE_FILE)
     if bvid not in done:
         append_line(DONE_FILE, bvid)
 
+
 def record_failed(bvid: str):
     failed = load_set(FAILED_FILE)
     if bvid not in failed:
         append_line(FAILED_FILE, bvid)
+
 
 def write_error_file(bvid: str, title: str, url: str, err: Exception):
     path = ERRORS_DIR / f"{bvid}.txt"
@@ -135,6 +161,7 @@ def write_error_file(bvid: str, title: str, url: str, err: Exception):
         f"error: {repr(err)}\n"
     )
     atomic_write_text(path, body)
+
 
 def extract_queue_from_space() -> List[Dict]:
     if not COOKIES_FILE.exists():
@@ -172,6 +199,7 @@ def extract_queue_from_space() -> List[Dict]:
         raise RuntimeError("queue is empty")
     return queue
 
+
 def load_or_build_queue() -> List[Dict]:
     if QUEUE_FILE.exists():
         queue = load_json(QUEUE_FILE, [])
@@ -185,21 +213,26 @@ def load_or_build_queue() -> List[Dict]:
     log(f"[info] queue saved: {len(queue)} items")
     return queue
 
-def find_next_item(queue: List[Dict], done: set) -> Optional[Dict]:
+
+def find_next_item(queue: List[Dict], done: set, failed: set) -> Optional[Dict]:
     for item in queue:
         bvid = item["id"]
         transcript_file = TRANSCRIPTS_DIR / f"{bvid}.txt"
-        if bvid not in done and not transcript_file.exists():
-            return item
+        if bvid in done or bvid in failed or transcript_file.exists():
+            continue
+        return item
     return None
 
-def has_more_pending(queue: List[Dict], done: set) -> bool:
+
+def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
     for item in queue:
         bvid = item["id"]
         transcript_file = TRANSCRIPTS_DIR / f"{bvid}.txt"
-        if bvid not in done and not transcript_file.exists():
-            return True
+        if bvid in done or bvid in failed or transcript_file.exists():
+            continue
+        return True
     return False
+
 
 def download_audio(video_url: str, bvid: str) -> Path:
     outtmpl = str(TMP_DIR / f"{bvid}.%(ext)s")
@@ -221,9 +254,11 @@ def download_audio(video_url: str, bvid: str) -> Path:
     files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
     return files[0]
 
+
 def load_model() -> WhisperModel:
     log(f"[info] loading model: {MODEL_NAME}, device={DEVICE}, compute_type={COMPUTE_TYPE}")
     return WhisperModel(MODEL_NAME, device=DEVICE, compute_type=COMPUTE_TYPE)
+
 
 def transcribe_audio(model: WhisperModel, audio_path: Path) -> Dict:
     segments, info = model.transcribe(
@@ -250,6 +285,7 @@ def transcribe_audio(model: WhisperModel, audio_path: Path) -> Dict:
         "text": "\n".join(lines).strip(),
     }
 
+
 def write_transcript(item: Dict, result: Dict):
     bvid = item["id"]
     title = sanitize_filename(item["title"], 300)
@@ -269,6 +305,7 @@ def write_transcript(item: Dict, result: Dict):
     )
     atomic_write_text(out, body)
 
+
 def cleanup_temp_file(path: Optional[Path]):
     try:
         if path and path.exists():
@@ -276,11 +313,30 @@ def cleanup_temp_file(path: Optional[Path]):
     except Exception as e:
         log(f"[warn] cleanup failed: {e}")
 
+
 def touch_continue():
     CONTINUE_FLAG.write_text("1\n", encoding="utf-8")
 
+
 def clear_continue():
     CONTINUE_FLAG.unlink(missing_ok=True)
+
+
+def git_commit_and_push(message: str):
+    git_run(["git", "add", "transcripts", "state"], check=False)
+    diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+    if diff.returncode == 0:
+        log("[info] no git changes to commit")
+        return
+
+    git_run(["git", "commit", "-m", message])
+
+    if GIT_BRANCH:
+        subprocess.run(["git", "pull", "--rebase", "origin", GIT_BRANCH], check=False)
+        git_run(["git", "push", "origin", f"HEAD:{GIT_BRANCH}"])
+    else:
+        git_run(["git", "push"])
+
 
 def main():
     ensure_dirs()
@@ -288,18 +344,20 @@ def main():
 
     queue = load_or_build_queue()
     done = load_existing_done()
+    failed = load_existing_failed()
 
-    next_item = find_next_item(queue, done)
+    next_item = find_next_item(queue, done, failed)
     if not next_item:
         save_progress("finished", note="all items completed", queue_total=len(queue), queue_index=len(done))
+        git_commit_and_push("state: finished all transcripts")
         log("[info] all items completed")
         return
 
     model = load_model()
     audio_path = None
+    idx = next((i for i, x in enumerate(queue) if x["id"] == next_item["id"]), 0)
 
     try:
-        idx = next((i for i, x in enumerate(queue) if x["id"] == next_item["id"]), 0)
         save_progress("downloading_audio", current=next_item, queue_total=len(queue), queue_index=idx)
         audio_path = download_audio(next_item["url"], next_item["id"])
 
@@ -312,26 +370,59 @@ def main():
         record_done(next_item["id"])
         done.add(next_item["id"])
 
-        save_progress("done_one", note="one video processed", current=next_item, queue_total=len(queue), queue_index=idx + 1)
+        if has_more_pending(queue, done, failed):
+            touch_continue()
+            save_progress(
+                "done_one",
+                note="one video processed, more pending",
+                current=next_item,
+                queue_total=len(queue),
+                queue_index=idx + 1
+            )
+        else:
+            clear_continue()
+            save_progress(
+                "finished",
+                note="one video processed, no more pending",
+                current=next_item,
+                queue_total=len(queue),
+                queue_index=idx + 1
+            )
+
+        git_commit_and_push(f"transcript: {next_item['id']}")
         log(f"[ok] completed: {next_item['id']} {next_item['title']}")
 
     except Exception as e:
         record_failed(next_item["id"])
+        failed.add(next_item["id"])
         write_error_file(next_item["id"], next_item["title"], next_item["url"], e)
-        save_progress("error", note=repr(e), current=next_item, queue_total=len(queue), queue_index=idx)
+
+        if has_more_pending(queue, done, failed):
+            touch_continue()
+            save_progress(
+                "error",
+                note=repr(e),
+                current=next_item,
+                queue_total=len(queue),
+                queue_index=idx + 1
+            )
+        else:
+            clear_continue()
+            save_progress(
+                "finished_with_errors",
+                note=repr(e),
+                current=next_item,
+                queue_total=len(queue),
+                queue_index=idx + 1
+            )
+
+        git_commit_and_push(f"state: mark failed {next_item['id']}")
         log(f"[error] {next_item['id']}: {e}")
+        raise
 
     finally:
         cleanup_temp_file(audio_path)
 
-    if has_more_pending(queue, done):
-        touch_continue()
-        save_progress("queued_next_run", note="continue.flag created for next video", queue_total=len(queue), queue_index=len(done))
-        log("[info] more pending items exist, continue.flag created")
-    else:
-        clear_continue()
-        save_progress("finished", note="all items completed", queue_total=len(queue), queue_index=len(done))
-        log("[info] no more pending items")
 
 if __name__ == "__main__":
     main()
