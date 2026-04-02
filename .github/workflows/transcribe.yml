@@ -2,16 +2,11 @@ name: transcribe-zhangxuefeng
 
 on:
   workflow_dispatch:
-    inputs:
-      resume:
-        description: "resume flag"
-        required: false
-        default: "1"
   schedule:
     - cron: "20 */6 * * *"
 
 permissions:
-  contents: write
+  contents: read
   actions: write
 
 concurrency:
@@ -20,15 +15,12 @@ concurrency:
 
 jobs:
   transcribe:
-    # 如果你已经有自己的 runner，推荐改成 self-hosted
     runs-on: ubuntu-latest
     timeout-minutes: 355
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -40,7 +32,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Install dependencies
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp faster-whisper
@@ -52,33 +44,28 @@ jobs:
           ${{ secrets.BILIBILI_COOKIES }}
           EOF
 
-      - name: Prepare git
+      - name: Prepare dirs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p transcripts state tmp_audio
+          mkdir -p state transcripts tmp_audio
+
+      - name: Restore previous checkpoint artifact if exists
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: latest-checkpoint
+          path: .
 
       - name: Run transcriber
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: ${{ github.repository }}
-          WORKFLOW_FILE: transcribe.yml
-          RUN_REF: ${{ github.ref_name }}
         run: |
           python scripts/transcribe_bili.py
 
-      - name: Push progress
-        run: |
-          git pull --rebase origin "${GITHUB_REF_NAME}" || true
-          git add transcripts state
-          git diff --cached --quiet || git commit -m "progress: transcribed batch"
-          git push origin HEAD:"${GITHUB_REF_NAME}" || true
-
-      - name: Trigger next run if needed
+      - name: Upload checkpoint
         if: always()
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ -f state/continue.flag ]; then
-            gh workflow run transcribe.yml --ref "${GITHUB_REF_NAME}"
-          fi
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-checkpoint
+          path: |
+            state/**
+            transcripts/**
+          overwrite: true
+          retention-days: 14
