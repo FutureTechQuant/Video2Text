@@ -10,13 +10,27 @@ permissions:
   actions: write
 
 concurrency:
-  group: zhangxuefeng-transcribe
+  group: zhangxuefeng-transcribe-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
   transcribe:
     runs-on: ubuntu-latest
     timeout-minutes: 355
+
+    env:
+      BILIBILI_SPACE_URL: https://space.bilibili.com/28152637/video
+      BILIBILI_COOKIES_FILE: cookies.txt
+      WHISPER_MODEL: small
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      MAX_SECONDS: "19800"
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      SLEEP_BETWEEN_ITEMS: "2"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
 
     steps:
       - name: Checkout
@@ -27,39 +41,137 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install ffmpeg
+      - name: Install system packages
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg unzip
 
-      - name: Install deps
+      - name: Show GH CLI
+        run: gh --version
+
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp faster-whisper
 
-      - name: Write cookies
+      - name: Write Bilibili cookies
         shell: bash
         run: |
           cat > cookies.txt <<'EOF'
           ${{ secrets.BILIBILI_COOKIES }}
           EOF
 
-      - name: Prepare dirs
+      - name: Prepare workspace
         run: |
-          mkdir -p state transcripts tmp_audio
+          mkdir -p scripts state transcripts tmp_audio
 
-      - name: Restore previous checkpoint artifact if exists
-        continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: latest-checkpoint
-          path: .
+      - name: Restore latest checkpoint from previous runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import pathlib
+          import subprocess
+          import sys
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          branch = os.environ["GITHUB_REF_NAME"]
+
+          print(f"[restore] repo={repo}, branch={branch}")
+
+          try:
+              data = subprocess.check_output(
+                  [
+                      "gh", "api",
+                      "-H", "Accept: application/vnd.github+json",
+                      f"/repos/{repo}/actions/artifacts?per_page=100"
+                  ],
+                  text=True
+              )
+          except subprocess.CalledProcessError as e:
+              print(f"[restore] failed to list artifacts: {e}")
+              sys.exit(0)
+
+          payload = json.loads(data)
+          artifacts = payload.get("artifacts", [])
+
+          matched = []
+          for a in artifacts:
+              if a.get("name") != "latest-checkpoint":
+                  continue
+              if a.get("expired"):
+                  continue
+              workflow_run = a.get("workflow_run") or {}
+              if workflow_run.get("head_branch") != branch:
+                  continue
+              matched.append(a)
+
+          if not matched:
+              print("[restore] no previous checkpoint artifact found")
+              sys.exit(0)
+
+          matched.sort(key=lambda x: x.get("updated_at") or x.get("created_at") or "", reverse=True)
+          target = matched[0]
+          artifact_id = target["id"]
+          print(f"[restore] restoring artifact id={artifact_id}, updated_at={target.get('updated_at')}")
+
+          zip_path = pathlib.Path("latest-checkpoint.zip")
+          with zip_path.open("wb") as f:
+              subprocess.run(
+                  [
+                      "gh", "api",
+                      "-H", "Accept: application/vnd.github+json",
+                      f"/repos/{repo}/actions/artifacts/{artifact_id}/zip"
+                  ],
+                  check=True,
+                  stdout=f
+              )
+
+          subprocess.run(["unzip", "-o", str(zip_path), "-d", "."], check=True)
+          print("[restore] checkpoint restored")
+          PY
+
+      - name: Show restored progress
+        shell: bash
+        run: |
+          if [ -f state/progress.json ]; then
+            echo "===== state/progress.json ====="
+            cat state/progress.json
+          else
+            echo "No previous progress.json"
+          fi
+          if [ -f state/done.txt ]; then
+            echo "===== done count ====="
+            wc -l state/done.txt
+          fi
 
       - name: Run transcriber
         run: |
           python scripts/transcribe_bili.py
 
-      - name: Upload checkpoint
+      - name: Show final progress
+        if: always()
+        shell: bash
+        run: |
+          if [ -f state/progress.json ]; then
+            echo "===== final state/progress.json ====="
+            cat state/progress.json
+          else
+            echo "No progress.json generated"
+          fi
+          if [ -f state/done.txt ]; then
+            echo "===== final done count ====="
+            wc -l state/done.txt
+          fi
+          if [ -f state/failed.txt ]; then
+            echo "===== failed count ====="
+            wc -l state/failed.txt
+          fi
+
+      - name: Upload latest checkpoint artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -67,5 +179,31 @@ jobs:
           path: |
             state/**
             transcripts/**
+          if-no-files-found: warn
           overwrite: true
           retention-days: 14
+
+      - name: Upload run snapshot artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            state/**
+            transcripts/**
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Trigger next run when continue.flag exists
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          if [ -f state/continue.flag ]; then
+            echo "continue.flag found, triggering next workflow run"
+            sleep 15
+            gh workflow run .github/workflows/transcribe.yml --ref "${GITHUB_REF_NAME}"
+          else
+            echo "continue.flag not found, workflow stops here"
+          fi
