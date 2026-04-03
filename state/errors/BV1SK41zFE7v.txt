@@ -1,0 +1,5 @@
+bvid: BV1SK41zFE7v
+title: BV1SK41zFE7v
+url: https://www.bilibili.com/video/BV1SK41zFE7v
+time: 2026-04-03 03:54:29
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1SK41zFE7v.%(ext)s', 'https://www.bilibili.com/video/BV1SK41zFE7v'])
