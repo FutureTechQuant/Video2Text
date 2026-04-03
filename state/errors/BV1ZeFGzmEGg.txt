@@ -1,0 +1,5 @@
+bvid: BV1ZeFGzmEGg
+title: BV1ZeFGzmEGg
+url: https://www.bilibili.com/video/BV1ZeFGzmEGg
+time: 2026-04-03 00:21:44
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1ZeFGzmEGg.%(ext)s', 'https://www.bilibili.com/video/BV1ZeFGzmEGg'])
