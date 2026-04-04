@@ -12,7 +12,13 @@ def main():
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    for old in output_dir.glob("merged_*.txt"):
+        old.unlink()
+
     files = sorted(input_dir.glob("*.txt"))
+    if not files:
+        raise RuntimeError("No raw subtitle txt files found")
+
     bucket = []
     bucket_len = 0
     part = 1
@@ -21,29 +27,27 @@ def main():
         nonlocal bucket, bucket_len, part
         if not bucket:
             return
-        merged_text = "\n\n" + ("\n\n" + ("=" * 40) + "\n\n").join(bucket)
-        out = output_dir / f"merged_{part:03d}.txt"
-        out.write_text(merged_text.strip() + "\n", encoding="utf-8")
+        merged_text = ("\n\n" + "=" * 40 + "\n\n").join(bucket).strip() + "\n"
+        (output_dir / f"merged_{part:03d}.txt").write_text(merged_text, encoding="utf-8")
         part += 1
         bucket = []
         bucket_len = 0
 
     for file in files:
         text = file.read_text(encoding="utf-8", errors="ignore")
-        text_len = len(text)
+        size = len(text)
 
-        if text_len > args.limit:
+        if size > args.limit:
             flush()
-            out = output_dir / f"merged_{part:03d}.txt"
-            out.write_text(text, encoding="utf-8")
+            (output_dir / f"merged_{part:03d}.txt").write_text(text, encoding="utf-8")
             part += 1
             continue
 
-        if bucket_len + text_len > args.limit:
+        if bucket_len + size > args.limit:
             flush()
 
         bucket.append(text)
-        bucket_len += text_len
+        bucket_len += size
 
     flush()
 
