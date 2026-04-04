@@ -1,0 +1,79 @@
+name: transcribe-single
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_bvid:
+        description: '需要重新转录的 BV 号，例如 BV16x411k7nH'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: transcribe-bili-repo
+  cancel-in-progress: false
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U yt-dlp faster-whisper huggingface_hub
+
+      - name: Write cookies.txt
+        shell: bash
+        run: |
+          if [ -z "${{ secrets.BILIBILI_COOKIES_TXT }}" ]; then
+            echo "BILIBILI_COOKIES_TXT secret is empty"
+            exit 1
+          fi
+          cat > cookies.txt <<'EOF'
+${{ secrets.BILIBILI_COOKIES_TXT }}
+EOF
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run single transcriber
+        env:
+          BILIBILI_COOKIES_FILE: cookies.txt
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          TARGET_BVID: ${{ inputs.target_bvid }}
+        run: python scripts/transcribe_bili.py
+
+      - name: Show progress
+        if: always()
+        shell: bash
+        run: |
+          echo "===== final progress ====="
+          test -f state/progress.json && cat state/progress.json || true
+          echo "===== target transcript ====="
+          test -f "transcripts/${{ inputs.target_bvid }}.txt" && sed -n '1,40p' "transcripts/${{ inputs.target_bvid }}.txt" || true
+          echo "===== target error ====="
+          test -f "state/errors/${{ inputs.target_bvid }}.txt" && cat "state/errors/${{ inputs.target_bvid }}.txt" || true
