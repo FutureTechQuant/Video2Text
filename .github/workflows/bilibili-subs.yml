@@ -1,0 +1,62 @@
+name: Download Bilibili Subtitles
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp requests
+
+      - name: Prepare directories
+        run: |
+          mkdir -p "JS逆向工程/raw"
+          mkdir -p "JS逆向工程/merged"
+          touch "JS逆向工程/urls.txt"
+
+      - name: Write cookies
+        env:
+          BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
+        run: |
+          cat > cookies.txt <<'EOF'
+          ${BILIBILI_COOKIES}
+          EOF
+
+      - name: Download subtitles
+        run: |
+          python scripts/download_bilibili_subs.py \
+            --input "JS逆向工程/urls.txt" \
+            --output "JS逆向工程/raw" \
+            --cookies "cookies.txt" \
+            --manifest "JS逆向工程/manifest.json"
+
+      - name: Merge subtitles
+        run: |
+          python scripts/merge_subs.py \
+            --input-dir "JS逆向工程/raw" \
+            --output-dir "JS逆向工程/merged" \
+            --limit 100000
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "JS逆向工程"
+          git diff --cached --quiet || git commit -m "Update Bilibili subtitles"
+          git push
