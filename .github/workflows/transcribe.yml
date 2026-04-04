@@ -44,12 +44,12 @@ jobs:
       - name: Write cookies.txt
         shell: bash
         run: |
-          if [ -z "${{ secrets.BILIBILI_COOKIES_TXT }}" ]; then
-            echo "BILIBILI_COOKIES_TXT secret is empty"
+          if [ -z "${{ secrets.BILIBILI_COOKIES }}" ]; then
+            echo "BILIBILI_COOKIES secret is empty"
             exit 1
           fi
           cat > cookies.txt <<'EOF'
-            ${{ secrets.BILIBILI_COOKIES_TXT }}
+            ${{ secrets.BILIBILI_COOKIES }}
             EOF
 
       - name: Configure git
