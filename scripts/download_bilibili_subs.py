@@ -1,151 +1,268 @@
 import argparse
 import json
-import os
 import re
 import subprocess
 from pathlib import Path
 
+TEXT_EXTS = {".srt", ".vtt", ".ass", ".ssa", ".lrc", ".txt"}
+JSON_EXTS = {".json", ".bcc"}
+
 def safe_name(name: str) -> str:
-    name = re.sub(r'[\\/:*?"<>|]+', '_', name)
-    name = re.sub(r'\s+', ' ', name).strip()
+    name = re.sub(r'[\\/:*?"<>|]+', "_", name)
+    name = re.sub(r"\s+", " ", name).strip()
     return name[:120] if name else "untitled"
 
-def run_cmd(cmd):
+def run_cmd(cmd, check=True):
     result = subprocess.run(cmd, capture_output=True, text=True)
-    if result.returncode != 0:
-        raise RuntimeError(result.stderr.strip() or "command failed")
-    return result.stdout
+    if check and result.returncode != 0:
+        msg = result.stderr.strip() or result.stdout.strip() or "command failed"
+        raise RuntimeError(msg)
+    return result
 
-def get_info(url, cookies):
-    cmd = [
-        "yt-dlp",
-        "--cookies", cookies,
-        "--dump-single-json",
-        "--skip-download",
-        url
-    ]
-    data = run_cmd(cmd)
-    return json.loads(data)
+def read_cookie_input(path: str):
+    text = Path(path).read_text(encoding="utf-8", errors="ignore").strip()
+    if not text:
+        raise RuntimeError("cookie input is empty")
 
-def get_subtitle_content(url, cookies, lang_candidates=None):
-    if lang_candidates is None:
-        lang_candidates = ["zh-CN", "zh-Hans", "zh", "ai-zh", "en"]
+    lines = [x for x in text.splitlines() if x.strip()]
+    first = lines[0].strip() if lines else ""
 
-    tmp_dir = Path("tmp_subs")
-    tmp_dir.mkdir(exist_ok=True)
+    if first in ("# Netscape HTTP Cookie File", "# HTTP Cookie File"):
+        return ["--cookies", path]
 
-    base = tmp_dir / "sub"
-    for ext in ["vtt", "srt", "json3", "ass"]:
-        f = tmp_dir / f"sub.{ext}"
-        if f.exists():
-            f.unlink()
+    if "\t" in text and len(lines) >= 1:
+        return ["--cookies", path]
 
-    cmd = [
-        "yt-dlp",
-        "--cookies", cookies,
-        "--skip-download",
-        "--write-sub",
-        "--sub-langs", ",".join(lang_candidates),
-        "--convert-subs", "srt",
-        "-o", str(base) + ".%(ext)s",
-        url
-    ]
-    subprocess.run(cmd, capture_output=True, text=True)
+    one_line = "; ".join(x.strip() for x in text.splitlines() if x.strip())
+    return ["--add-header", f"Cookie: {one_line}"]
 
-    candidates = list(tmp_dir.glob("sub*.srt")) + list(tmp_dir.glob("sub*.vtt")) + list(tmp_dir.glob("sub*.ass"))
-    if not candidates:
-        return None
-
-    content = candidates[0].read_text(encoding="utf-8", errors="ignore")
-    for f in tmp_dir.iterdir():
-        f.unlink()
-    return content
-
-def clean_subtitle(text: str) -> str:
-    lines = []
-    for line in text.splitlines():
+def load_urls(path: str):
+    p = Path(path)
+    if not p.exists():
+        raise RuntimeError(f"input file not found: {path}")
+    urls = []
+    for line in p.read_text(encoding="utf-8").splitlines():
         s = line.strip()
+        if not s or s.startswith("#"):
+            continue
+        urls.append(s)
+    if not urls:
+        raise RuntimeError("urls.txt is empty")
+    return urls
+
+def get_info(url: str, auth_args):
+    cmd = ["yt-dlp", *auth_args, "--dump-single-json", "--skip-download", url]
+    result = run_cmd(cmd)
+    return json.loads(result.stdout)
+
+def list_subs(url: str, auth_args):
+    cmd = ["yt-dlp", *auth_args, "--list-subs", url]
+    result = run_cmd(cmd, check=False)
+    print(result.stdout)
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or result.stdout.strip() or "list-subs failed")
+
+def clean_text_subtitle(text: str):
+    cleaned = []
+    for raw in text.splitlines():
+        s = raw.strip()
         if not s:
+            continue
+        if s in {"WEBVTT", "NOTE"}:
             continue
         if re.match(r"^\d+$", s):
             continue
         if "-->" in s:
             continue
-        if re.match(r"^\d{2}:\d{2}:\d{2}", s):
+        if re.match(r"^\d{2}:\d{2}:\d{2}[.,]\d{1,3}$", s):
             continue
-        lines.append(s)
-    return "\n".join(lines).strip()
+        if re.match(r"^Dialogue:", s):
+            parts = s.split(",", 9)
+            s = parts[-1].strip() if len(parts) >= 10 else s
+        if s.startswith(("Style:", "Format:", "[Script Info]", "[V4+ Styles]", "[Events]")):
+            continue
+        s = re.sub(r"<[^>]+>", "", s)
+        s = re.sub(r"\{[^}]+\}", "", s)
+        s = re.sub(r"\\N", "\n", s)
+        s = s.strip()
+        if s:
+            cleaned.append(s)
+    return "\n".join(cleaned).strip()
+
+def extract_from_json_obj(obj):
+    chunks = []
+
+    def walk(x):
+        if isinstance(x, dict):
+            for key in ("content", "text", "utf8", "caption", "sentence", "transcript"):
+                val = x.get(key)
+                if isinstance(val, str) and val.strip():
+                    chunks.append(val.strip())
+            for v in x.values():
+                walk(v)
+        elif isinstance(x, list):
+            for item in x:
+                walk(item)
+
+    walk(obj)
+
+    dedup = []
+    seen = set()
+    for item in chunks:
+        if item not in seen:
+            seen.add(item)
+            dedup.append(item)
+    return "\n".join(dedup).strip()
+
+def parse_subtitle_file(path: Path):
+    ext = path.suffix.lower()
+    text = path.read_text(encoding="utf-8", errors="ignore")
+
+    if ext in TEXT_EXTS:
+        return clean_text_subtitle(text)
+
+    if ext in JSON_EXTS:
+        try:
+            obj = json.loads(text)
+            extracted = extract_from_json_obj(obj)
+            if extracted:
+                return extracted
+        except Exception:
+            pass
+        return text.strip()
+
+    return clean_text_subtitle(text)
+
+def find_sub_files(tmp_dir: Path):
+    exts = [".srt", ".vtt", ".json", ".bcc", ".ass", ".ssa", ".lrc", ".txt"]
+    files = []
+    for ext in exts:
+        files.extend(tmp_dir.glob(f"*{ext}"))
+    return sorted(files)
+
+def choose_best_file(files):
+    priority = {
+        ".srt": 1,
+        ".vtt": 2,
+        ".json": 3,
+        ".bcc": 4,
+        ".ass": 5,
+        ".ssa": 6,
+        ".lrc": 7,
+        ".txt": 8,
+    }
+    return sorted(files, key=lambda p: priority.get(p.suffix.lower(), 99))[0]
+
+def download_subs(url: str, auth_args, tmp_dir: Path):
+    for f in tmp_dir.glob("*"):
+        f.unlink()
+
+    base_cmd = [
+        "yt-dlp",
+        *auth_args,
+        "--skip-download",
+        "--sub-langs", "all",
+        "--sub-format", "srt/vtt/ass/json3/best",
+        "-o", str(tmp_dir / "%(id)s.%(ext)s"),
+        url
+    ]
+
+    regular = run_cmd([*base_cmd, "--write-subs"], check=False)
+    files = find_sub_files(tmp_dir)
+    if files:
+        return files, regular.stdout, regular.stderr, "written"
+
+    auto = run_cmd([*base_cmd, "--write-auto-subs"], check=False)
+    files = find_sub_files(tmp_dir)
+    if files:
+        return files, auto.stdout, auto.stderr, "auto"
+
+    msg = "\n".join([
+        "regular stderr:",
+        regular.stderr.strip(),
+        "regular stdout:",
+        regular.stdout.strip(),
+        "auto stderr:",
+        auto.stderr.strip(),
+        "auto stdout:",
+        auto.stdout.strip(),
+    ]).strip()
+    raise RuntimeError(msg or "No subtitle files downloaded")
+
+def batch_mode(args):
+    auth_args = read_cookie_input(args.cookie_input)
+    urls = load_urls(args.input)
+
+    out_dir = Path(args.output)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    manifest_path = Path(args.manifest)
+
+    tmp_dir = Path("tmp_subs")
+    tmp_dir.mkdir(exist_ok=True)
+
+    manifest = []
+
+    for idx, url in enumerate(urls, start=1):
+        row = {"index": idx, "url": url}
+        try:
+            info = get_info(url, auth_args)
+            title = info.get("title") or f"video_{idx:04d}"
+            row["title"] = title
+            row["subtitle_langs"] = sorted(list((info.get("subtitles") or {}).keys()))
+            row["auto_caption_langs"] = sorted(list((info.get("automatic_captions") or {}).keys()))
+
+            files, stdout, stderr, source = download_subs(url, auth_args, tmp_dir)
+            picked = choose_best_file(files)
+            text = parse_subtitle_file(picked)
+
+            if not text.strip():
+                raise RuntimeError(f"subtitle file exists but cleaned text is empty: {picked.name}")
+
+            filename = f"{idx:04d}_{safe_name(title)}.txt"
+            body = f"标题：{title}\n链接：{url}\n来源：{source}\n文件：{picked.name}\n\n{text.strip()}\n"
+            (out_dir / filename).write_text(body, encoding="utf-8")
+
+            row["status"] = "ok"
+            row["source"] = source
+            row["picked_file"] = picked.name
+            row["output_file"] = filename
+            row["chars"] = len(body)
+            row["stderr_tail"] = (stderr or "")[-1000:]
+            row["stdout_tail"] = (stdout or "")[-1000:]
+        except Exception as e:
+            row["status"] = "error"
+            row["error"] = str(e)
+
+        manifest.append(row)
+
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    ok_count = sum(1 for x in manifest if x["status"] == "ok")
+    if ok_count == 0:
+        raise RuntimeError("All subtitle downloads failed. Check manifest.json and first-url list-subs output.")
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", required=True)
-    parser.add_argument("--output", required=True)
-    parser.add_argument("--cookies", required=True)
-    parser.add_argument("--manifest", required=True)
+    parser.add_argument("--mode", choices=["list", "batch"], required=True)
+    parser.add_argument("--url")
+    parser.add_argument("--input")
+    parser.add_argument("--output")
+    parser.add_argument("--cookie-input", required=True)
+    parser.add_argument("--manifest")
     args = parser.parse_args()
 
-    input_file = Path(args.input)
-    output_dir = Path(args.output)
-    manifest_file = Path(args.manifest)
+    auth_args = read_cookie_input(args.cookie_input)
 
-    output_dir.mkdir(parents=True, exist_ok=True)
+    if args.mode == "list":
+        if not args.url:
+            raise RuntimeError("--url is required when mode=list")
+        list_subs(args.url, auth_args)
+        return
 
-    urls = []
-    if input_file.exists():
-        urls = [x.strip() for x in input_file.read_text(encoding="utf-8").splitlines() if x.strip()]
+    if not args.input or not args.output or not args.manifest:
+        raise RuntimeError("--input --output --manifest are required when mode=batch")
 
-    manifest = []
-    index = 1
-
-    for url in urls:
-        try:
-            info = get_info(url, args.cookies)
-            title = info.get("title") or f"video_{index:04d}"
-            clean_title = safe_name(title)
-            sub = get_subtitle_content(url, args.cookies)
-            if not sub:
-                manifest.append({
-                    "index": index,
-                    "url": url,
-                    "title": title,
-                    "status": "no_subtitle"
-                })
-                index += 1
-                continue
-
-            text = clean_subtitle(sub)
-            if not text:
-                manifest.append({
-                    "index": index,
-                    "url": url,
-                    "title": title,
-                    "status": "empty_after_clean"
-                })
-                index += 1
-                continue
-
-            filename = f"{index:04d}_{clean_title}.txt"
-            body = f"标题：{title}\n链接：{url}\n\n{text}\n"
-            (output_dir / filename).write_text(body, encoding="utf-8")
-
-            manifest.append({
-                "index": index,
-                "url": url,
-                "title": title,
-                "file": filename,
-                "chars": len(body),
-                "status": "ok"
-            })
-        except Exception as e:
-            manifest.append({
-                "index": index,
-                "url": url,
-                "status": "error",
-                "error": str(e)
-            })
-        index += 1
-
-    manifest_file.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    batch_mode(args)
 
 if __name__ == "__main__":
     main()
