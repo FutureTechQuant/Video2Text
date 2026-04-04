@@ -1,135 +1,99 @@
-name: transcribe-zhangxuefeng
+name: transcribe-batch
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 */6 * * *"
+    - cron: '17 */2 * * *'
 
 permissions:
   contents: write
   actions: write
 
 concurrency:
-  group: zhangxuefeng-transcribe-${{ github.ref }}
+  group: transcribe-bili-repo
   cancel-in-progress: false
 
 jobs:
-  transcribe-one:
+  transcribe:
     runs-on: ubuntu-latest
-    timeout-minutes: 355
-
-    env:
-      BILIBILI_SPACE_URL: https://space.bilibili.com/28152637/video
-      BILIBILI_COOKIES_FILE: cookies.txt
-      WHISPER_MODEL: small
-      WHISPER_DEVICE: cpu
-      WHISPER_COMPUTE_TYPE: int8
-      WHISPER_LANGUAGE: zh
-      AUDIO_FORMAT: mp3
-      AUDIO_QUALITY: "7"
-      BEAM_SIZE: "1"
-      VAD_FILTER: "1"
+    timeout-minutes: 180
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
+          ref: ${{ github.ref_name }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Install system packages
+      - name: Install ffmpeg
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp faster-whisper
+          pip install -U yt-dlp faster-whisper huggingface_hub
 
-      - name: Write cookies
+      - name: Write cookies.txt
         shell: bash
         run: |
+          if [ -z "${{ secrets.BILIBILI_COOKIES_TXT }}" ]; then
+            echo "BILIBILI_COOKIES_TXT secret is empty"
+            exit 1
+          fi
           cat > cookies.txt <<'EOF'
-          ${{ secrets.BILIBILI_COOKIES }}
-          EOF
-
-      - name: Prepare workspace
-        run: |
-          mkdir -p state transcripts tmp_audio scripts
+${{ secrets.BILIBILI_COOKIES_TXT }}
+EOF
 
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Show current repo state
-        shell: bash
-        run: |
-          echo "===== branch ====="
-          git branch --show-current || true
-          echo "===== done count ====="
-          if [ -f state/done.txt ]; then
-            wc -l state/done.txt
-          else
-            echo "0 state/done.txt"
-          fi
-          echo "===== failed count ====="
-          if [ -f state/failed.txt ]; then
-            wc -l state/failed.txt
-          else
-            echo "0 state/failed.txt"
-          fi
-          echo "===== current progress ====="
-          if [ -f state/progress.json ]; then
-            cat state/progress.json
-          else
-            echo "no progress.json"
-          fi
+      - name: Run batch transcriber
+        env:
+          BILIBILI_COOKIES_FILE: cookies.txt
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          TARGET_BVID: ""
+        run: python scripts/transcribe_bili.py
 
-      - name: Run one video
-        run: |
-          python scripts/transcribe_bili.py
-
-      - name: Show final repo state
+      - name: Show progress
         if: always()
         shell: bash
         run: |
           echo "===== final progress ====="
-          if [ -f state/progress.json ]; then
-            cat state/progress.json
-          else
-            echo "no progress.json"
-          fi
+          test -f state/progress.json && cat state/progress.json || true
           echo "===== done count ====="
-          if [ -f state/done.txt ]; then
-            wc -l state/done.txt
-          else
-            echo "0 state/done.txt"
-          fi
+          test -f state/done.txt && wc -l state/done.txt || true
           echo "===== failed count ====="
-          if [ -f state/failed.txt ]; then
-            wc -l state/failed.txt
-          else
-            echo "0 state/failed.txt"
-          fi
+          test -f state/failed.txt && wc -l state/failed.txt || true
           echo "===== transcript files ====="
-          find transcripts -maxdepth 1 -type f | wc -l || true
+          test -d transcripts && find transcripts -maxdepth 1 -name 'BV*.txt' | wc -l || true
 
-      - name: Trigger next run
+      - name: Trigger next batch run
         if: always()
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
         shell: bash
         run: |
           if [ -f state/continue.flag ]; then
             echo "continue.flag exists, trigger next run"
-            sleep 15
-            gh workflow run .github/workflows/transcribe.yml --ref "${GITHUB_REF_NAME}"
+            for i in 1 2 3 4 5; do
+              gh workflow run .github/workflows/transcribe-batch.yml --ref "${GITHUB_REF_NAME:-main}" && exit 0
+              echo "dispatch failed, retry ${i}/5"
+              sleep $((i * 30))
+            done
+            echo "Dispatch failed after retries. Next scheduled run can continue from repo state."
           else
             echo "continue.flag not found, stop here"
           fi
