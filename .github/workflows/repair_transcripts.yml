@@ -1,0 +1,338 @@
+name: repair-transcripts
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "执行模式"
+        required: true
+        default: all
+        type: choice
+        options:
+          - all
+          - rename_only
+          - retry_only
+      max_retries:
+        description: "最多重试多少个失败视频，0 表示全部"
+        required: true
+        default: "0"
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: repair-transcripts-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+
+    env:
+      BILIBILI_SPACE_URL: https://space.bilibili.com/28152637/video
+      BILIBILI_COOKIES_FILE: cookies.txt
+      WHISPER_MODEL: small
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+      MODE: ${{ inputs.mode }}
+      MAX_RETRIES: ${{ inputs.max_retries }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp faster-whisper
+
+      - name: Write cookies
+        shell: bash
+        run: |
+          cat > cookies.txt <<'EOF'
+          ${{ secrets.BILIBILI_COOKIES }}
+          EOF
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p state transcripts tmp_audio state/errors
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Prepare retry targets
+        if: ${{ env.MODE != 'rename_only' }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          state = Path("state")
+          errors_dir = state / "errors"
+          failed_file = state / "failed.txt"
+          queue_file = state / "queue.json"
+          backup_queue_file = state / "queue.full.backup.json"
+          retry_ids_file = state / "retry_ids.json"
+
+          retry_ids = []
+
+          if failed_file.exists():
+              retry_ids.extend(
+                  x.strip()
+                  for x in failed_file.read_text(encoding="utf-8").splitlines()
+                  if x.strip()
+              )
+
+          if errors_dir.exists():
+              retry_ids.extend(p.stem for p in sorted(errors_dir.glob("BV*.txt")))
+
+          retry_ids = list(dict.fromkeys(retry_ids))
+
+          max_retries = int(os.getenv("MAX_RETRIES", "0") or "0")
+          if max_retries > 0:
+              retry_ids = retry_ids[:max_retries]
+
+          retry_ids_file.write_text(
+              json.dumps(retry_ids, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          print(f"retry ids: {len(retry_ids)}")
+
+          if not retry_ids:
+              raise SystemExit(0)
+
+          if not queue_file.exists():
+              raise SystemExit("state/queue.json 不存在，无法只重跑失败项。请先保留原始运行生成的 queue.json。")
+
+          queue = json.loads(queue_file.read_text(encoding="utf-8"))
+          backup_queue_file.write_text(
+              json.dumps(queue, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          retry_set = set(retry_ids)
+          retry_queue = [item for item in queue if item.get("id") in retry_set]
+
+          if not retry_queue:
+              raise SystemExit("在 state/queue.json 里找不到失败项，停止。")
+
+          queue_file.write_text(
+              json.dumps(retry_queue, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          if failed_file.exists():
+              remain = [
+                  x.strip()
+                  for x in failed_file.read_text(encoding="utf-8").splitlines()
+                  if x.strip() and x.strip() not in retry_set
+              ]
+              failed_file.write_text(
+                  "".join(f"{x}\n" for x in remain),
+                  encoding="utf-8"
+              )
+
+          continue_flag = state / "continue.flag"
+          continue_flag.unlink(missing_ok=True)
+          PY
+
+      - name: Retry failed items
+        if: ${{ env.MODE != 'rename_only' }}
+        shell: bash
+        run: |
+          if [ ! -f state/retry_ids.json ]; then
+            echo "No retry_ids.json, skip."
+            exit 0
+          fi
+
+          COUNT=$(python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path("state/retry_ids.json")
+          if not p.exists():
+              print(0)
+          else:
+              data = json.loads(p.read_text(encoding="utf-8"))
+              print(len(data))
+          PY
+          )
+
+          if [ "$COUNT" = "0" ]; then
+            echo "No failed items to retry."
+            exit 0
+          fi
+
+          for i in $(seq 1 500); do
+            echo "===== retry round $i ====="
+            python scripts/transcribe_bili.py || true
+            if [ ! -f state/continue.flag ]; then
+              echo "continue.flag not found, stop retry loop."
+              break
+            fi
+            sleep 3
+          done
+
+      - name: Restore original queue
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          state = Path("state")
+          queue_file = state / "queue.json"
+          backup_queue_file = state / "queue.full.backup.json"
+
+          if backup_queue_file.exists():
+              queue_file.write_text(
+                  backup_queue_file.read_text(encoding="utf-8"),
+                  encoding="utf-8"
+              )
+              backup_queue_file.unlink()
+
+          (state / "continue.flag").unlink(missing_ok=True)
+          (state / "retry_ids.json").unlink(missing_ok=True)
+          PY
+
+      - name: Rename transcript files by title
+        if: ${{ env.MODE != 'retry_only' }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          transcripts_dir = Path("transcripts")
+
+          def sanitize_filename(name: str, max_len: int = 180) -> str:
+              name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name).strip()
+              name = re.sub(r"\s+", " ", name)
+              return name[:max_len].rstrip(" .") or "untitled"
+
+          def unique_path(path: Path) -> Path:
+              if not path.exists():
+                  return path
+              stem = path.stem
+              suffix = path.suffix
+              parent = path.parent
+              i = 2
+              while True:
+                  candidate = parent / f"{stem} ({i}){suffix}"
+                  if not candidate.exists():
+                      return candidate
+                  i += 1
+
+          renamed = 0
+
+          for src in sorted(transcripts_dir.glob("BV*.txt")):
+              text = src.read_text(encoding="utf-8", errors="ignore")
+              m = re.search(r"^标题：(.+)$", text, re.M)
+              title = m.group(1).strip() if m else src.stem
+              title = sanitize_filename(title)
+              dst = unique_path(transcripts_dir / f"{title}.txt")
+
+              if src.resolve() != dst.resolve():
+                  src.rename(dst)
+                  print(f"renamed: {src.name} -> {dst.name}")
+                  renamed += 1
+
+          print(f"renamed total: {renamed}")
+          PY
+
+      - name: Cleanup failed state after retry
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          state = Path("state")
+          errors_dir = state / "errors"
+          done_file = state / "done.txt"
+          failed_file = state / "failed.txt"
+
+          done = set()
+          if done_file.exists():
+              done = {
+                  x.strip()
+                  for x in done_file.read_text(encoding="utf-8").splitlines()
+                  if x.strip()
+              }
+
+          if failed_file.exists():
+              remain = [
+                  x.strip()
+                  for x in failed_file.read_text(encoding="utf-8").splitlines()
+                  if x.strip() and x.strip() not in done
+              ]
+              failed_file.write_text(
+                  "".join(f"{x}\n" for x in remain),
+                  encoding="utf-8"
+              )
+
+          if errors_dir.exists():
+              for p in errors_dir.glob("BV*.txt"):
+                  if p.stem in done:
+                      p.unlink(missing_ok=True)
+          PY
+
+      - name: Show result
+        if: always()
+        shell: bash
+        run: |
+          echo "===== transcripts ====="
+          find transcripts -maxdepth 1 -type f | sed 's#^#- #' || true
+
+          echo "===== failed.txt ====="
+          if [ -f state/failed.txt ]; then
+            cat state/failed.txt
+          else
+            echo "no state/failed.txt"
+          fi
+
+          echo "===== errors ====="
+          if [ -d state/errors ]; then
+            find state/errors -maxdepth 1 -type f | sed 's#^#- #' || true
+          else
+            echo "no state/errors"
+          fi
+
+      - name: Commit and push
+        if: always()
+        shell: bash
+        run: |
+          git add transcripts state
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "repair: rename transcripts and retry failed items"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
