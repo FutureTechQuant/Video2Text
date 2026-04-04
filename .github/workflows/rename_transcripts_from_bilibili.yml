@@ -1,0 +1,158 @@
+name: rename-transcripts-from-bilibili
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rename-transcripts-from-bilibili-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp
+
+      - name: Write cookies
+        shell: bash
+        run: |
+          cat > cookies.txt <<'EOF'
+          ${{ secrets.BILIBILI_COOKIES }}
+          EOF
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Rename transcripts from live Bilibili title
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import subprocess
+          from pathlib import Path
+
+          transcripts_dir = Path('transcripts')
+          cookies_file = Path('cookies.txt')
+
+          def sanitize_filename(name: str, max_len: int = 180) -> str:
+              name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', '_', name).strip()
+              name = re.sub(r'\s+', ' ', name)
+              return name[:max_len].rstrip(' .') or 'untitled'
+
+          def extract_bvid(text: str):
+              m = re.search(r'(BV[0-9A-Za-z]+)', text)
+              return m.group(1) if m else None
+
+          def unique_path(path: Path, src: Path) -> Path:
+              if not path.exists() or path.resolve() == src.resolve():
+                  return path
+              stem = path.stem
+              suffix = path.suffix
+              parent = path.parent
+              i = 2
+              while True:
+                  candidate = parent / f"{stem} ({i}){suffix}"
+                  if not candidate.exists() or candidate.resolve() == src.resolve():
+                      return candidate
+                  i += 1
+
+          def fetch_title(bvid: str) -> str:
+              url = f'https://www.bilibili.com/video/{bvid}'
+
+              cmd = [
+                  'yt-dlp',
+                  '--cookies', str(cookies_file),
+                  '--print', '%(title)s',
+                  '--no-warnings',
+                  '--no-playlist',
+                  url,
+              ]
+              r = subprocess.run(cmd, text=True, capture_output=True)
+              lines = [x.strip() for x in (r.stdout or '').splitlines() if x.strip()]
+              if r.returncode == 0 and lines:
+                  return lines[-1]
+
+              cmd_json = [
+                  'yt-dlp',
+                  '--cookies', str(cookies_file),
+                  '-J',
+                  '--no-warnings',
+                  '--no-playlist',
+                  url,
+              ]
+              r2 = subprocess.run(cmd_json, text=True, capture_output=True)
+              if r2.returncode == 0 and (r2.stdout or '').strip():
+                  data = json.loads(r2.stdout)
+                  title = (data.get('title') or '').strip()
+                  if title:
+                      return title
+
+              err = (r.stderr or '').strip() or (r2.stderr or '').strip()
+              raise RuntimeError(f'failed to fetch title for {bvid}: {err[-500:]}')
+
+          transcripts_dir.mkdir(parents=True, exist_ok=True)
+
+          renamed = 0
+          skipped = 0
+          failed = 0
+
+          for src in sorted(transcripts_dir.glob('BV*.txt')):
+              bvid = extract_bvid(src.stem)
+              if not bvid:
+                  print(f'skip(invalid bvid): {src.name}')
+                  skipped += 1
+                  continue
+
+              try:
+                  title = sanitize_filename(fetch_title(bvid))
+                  dst = unique_path(src.with_name(f'{title}{src.suffix}'), src)
+
+                  if src.resolve() == dst.resolve():
+                      print(f'skip(same): {src.name}')
+                      skipped += 1
+                      continue
+
+                  src.rename(dst)
+                  print(f'renamed: {src.name} -> {dst.name}')
+                  renamed += 1
+              except Exception as e:
+                  print(f'failed: {src.name} -> {e}')
+                  failed += 1
+
+          print(f'renamed total: {renamed}')
+          print(f'skipped total: {skipped}')
+          print(f'failed total: {failed}')
+          PY
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git add transcripts
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "repair: rename transcripts from bilibili title"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
