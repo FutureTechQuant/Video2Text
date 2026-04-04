@@ -49,8 +49,8 @@ jobs:
             exit 1
           fi
           cat > cookies.txt <<'EOF'
-${{ secrets.BILIBILI_COOKIES_TXT }}
-EOF
+            ${{ secrets.BILIBILI_COOKIES_TXT }}
+            EOF
 
       - name: Configure git
         run: |
