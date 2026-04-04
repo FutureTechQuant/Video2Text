@@ -1,12 +1,12 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1cW411K7v1.%(ext)s', 'https://www.bilibili.com/video/BV1cW411K7v1'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "space_url": "https://space.bilibili.com/28152637/video",
   "queue_total": 993,
-  "queue_index": 933,
-  "updated_at": 1775301462,
-  "updated_at_readable": "2026-04-04 11:17:42",
-  "current_bvid": "BV1cW411K7v1",
-  "current_title": "BV1cW411K7v1",
-  "current_url": "https://www.bilibili.com/video/BV1cW411K7v1"
+  "queue_index": 934,
+  "updated_at": 1775301636,
+  "updated_at_readable": "2026-04-04 11:20:36",
+  "current_bvid": "BV1bW411u77J",
+  "current_title": "BV1bW411u77J",
+  "current_url": "https://www.bilibili.com/video/BV1bW411u77J"
 }
