@@ -88,18 +88,15 @@ def record_done(bvid: str):
         save_set(FAILED_FILE, failed)
 
 
-
 def record_failed(bvid: str):
     failed = load_set(FAILED_FILE)
     failed.add(bvid)
     save_set(FAILED_FILE, failed)
 
 
-
 def delete_error_file(bvid: str):
     err_file = ERRORS_DIR / f"{bvid}.txt"
     err_file.unlink(missing_ok=True)
-
 
 
 def seconds_to_hms(sec: float) -> str:
@@ -110,12 +107,10 @@ def seconds_to_hms(sec: float) -> str:
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 
-
 def sanitize_filename(name: str, max_len: int = 200) -> str:
     name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name).strip()
     name = re.sub(r"\s+", " ", name)
     return name[:max_len].rstrip(" .") or "untitled"
-
 
 
 def run(cmd: List[str], capture: bool = False, check: bool = True):
@@ -123,11 +118,9 @@ def run(cmd: List[str], capture: bool = False, check: bool = True):
     return subprocess.run(cmd, text=True, capture_output=capture, check=check)
 
 
-
 def git_run(cmd: List[str], check: bool = True):
     log("[git] " + " ".join(cmd))
     return subprocess.run(cmd, text=True, check=check)
-
 
 
 def format_video_url(entry: Dict) -> Optional[str]:
@@ -140,7 +133,6 @@ def format_video_url(entry: Dict) -> Optional[str]:
     if url.startswith("BV"):
         return f"https://www.bilibili.com/video/{url}"
     return None
-
 
 
 def save_progress(status: str, note: str = "", current: Optional[Dict] = None, queue_total: int = 0, queue_index: int = 0):
@@ -161,7 +153,6 @@ def save_progress(status: str, note: str = "", current: Optional[Dict] = None, q
     save_json(PROGRESS_FILE, payload)
 
 
-
 def load_existing_done() -> set:
     done = load_set(DONE_FILE)
     for p in TRANSCRIPTS_DIR.glob("BV*.txt"):
@@ -169,10 +160,8 @@ def load_existing_done() -> set:
     return done
 
 
-
 def load_existing_failed() -> set:
     return load_set(FAILED_FILE)
-
 
 
 def write_error_file(bvid: str, title: str, url: str, err: Exception):
@@ -185,7 +174,6 @@ def write_error_file(bvid: str, title: str, url: str, err: Exception):
         f"error: {repr(err)}\n"
     )
     atomic_write_text(path, body)
-
 
 
 def extract_queue_from_space() -> List[Dict]:
@@ -221,7 +209,6 @@ def extract_queue_from_space() -> List[Dict]:
     return queue
 
 
-
 def load_or_build_queue(force_refresh: bool = False) -> List[Dict]:
     if not force_refresh and QUEUE_FILE.exists():
         queue = load_json(QUEUE_FILE, [])
@@ -236,17 +223,6 @@ def load_or_build_queue(force_refresh: bool = False) -> List[Dict]:
     return queue
 
 
-
-def find_target_item(queue: List[Dict], target_bvid: str) -> Optional[Dict]:
-    if not target_bvid:
-        return None
-    for item in queue:
-        if item["id"] == target_bvid:
-            return item
-    return None
-
-
-
 def find_next_item(queue: List[Dict], done: set, failed: set) -> Optional[Dict]:
     for item in queue:
         bvid = item["id"]
@@ -257,7 +233,6 @@ def find_next_item(queue: List[Dict], done: set, failed: set) -> Optional[Dict]:
     return None
 
 
-
 def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
     for item in queue:
         bvid = item["id"]
@@ -266,7 +241,6 @@ def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
             continue
         return True
     return False
-
 
 
 def download_audio(video_url: str, bvid: str) -> Path:
@@ -310,11 +284,9 @@ def download_audio(video_url: str, bvid: str) -> Path:
     raise last_err
 
 
-
 def load_model() -> WhisperModel:
     log(f"[info] loading model: {MODEL_NAME}, device={DEVICE}, compute_type={COMPUTE_TYPE}")
     return WhisperModel(MODEL_NAME, device=DEVICE, compute_type=COMPUTE_TYPE)
-
 
 
 def transcribe_audio(model: WhisperModel, audio_path: Path) -> Dict:
@@ -343,7 +315,6 @@ def transcribe_audio(model: WhisperModel, audio_path: Path) -> Dict:
     }
 
 
-
 def write_transcript(item: Dict, result: Dict):
     bvid = item["id"]
     title = sanitize_filename(item["title"], 300)
@@ -364,7 +335,6 @@ def write_transcript(item: Dict, result: Dict):
     atomic_write_text(out, body)
 
 
-
 def cleanup_temp_file(path: Optional[Path]):
     try:
         if path and path.exists():
@@ -373,15 +343,12 @@ def cleanup_temp_file(path: Optional[Path]):
         log(f"[warn] cleanup failed: {e}")
 
 
-
 def touch_continue():
     CONTINUE_FLAG.write_text("1\n", encoding="utf-8")
 
 
-
 def clear_continue():
     CONTINUE_FLAG.unlink(missing_ok=True)
-
 
 
 def git_commit_and_push(message: str):
@@ -408,7 +375,6 @@ def git_commit_and_push(message: str):
         git_run(["git", "push"])
 
 
-
 def main():
     ensure_dirs()
     clear_continue()
@@ -417,15 +383,12 @@ def main():
     done = load_existing_done()
     failed = load_existing_failed()
 
-    next_item = None
     if TARGET_BVID:
-        next_item = find_target_item(queue, TARGET_BVID)
-        if not next_item:
-            queue = load_or_build_queue(force_refresh=True)
-            next_item = find_target_item(queue, TARGET_BVID)
-        if not next_item:
-            save_progress("target_not_found", note=f"target bvid not found: {TARGET_BVID}", queue_total=len(queue))
-            raise RuntimeError(f"target bvid not found in queue: {TARGET_BVID}")
+        next_item = {
+            "id": TARGET_BVID,
+            "title": TARGET_BVID,
+            "url": f"https://www.bilibili.com/video/{TARGET_BVID}",
+        }
         log(f"[info] target mode enabled: {TARGET_BVID}")
     else:
         next_item = find_next_item(queue, done, failed)
@@ -526,7 +489,6 @@ def main():
 
     finally:
         cleanup_temp_file(audio_path)
-
 
 
 if __name__ == "__main__":
