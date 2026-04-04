@@ -3,9 +3,15 @@ import json
 import re
 import subprocess
 from pathlib import Path
+from xml.etree import ElementTree as ET
 
 TEXT_EXTS = {".srt", ".vtt", ".ass", ".ssa", ".lrc", ".txt"}
-JSON_EXTS = {".json", ".bcc"}
+JSON_EXTS = {".json", ".bcc", ".json3"}
+XML_EXTS = {".xml"}
+
+PREFERRED_SUB_LANGS = [
+    "zh-CN", "zh-Hans", "zh-Hant", "zh", "ai-zh", "en"
+]
 
 def safe_name(name: str) -> str:
     name = re.sub(r'[\\/:*?"<>|]+', "_", name)
@@ -87,7 +93,14 @@ def clean_text_subtitle(text: str):
         s = s.strip()
         if s:
             cleaned.append(s)
-    return "\n".join(cleaned).strip()
+
+    dedup = []
+    prev = None
+    for line in cleaned:
+        if line != prev:
+            dedup.append(line)
+        prev = line
+    return "\n".join(dedup).strip()
 
 def extract_from_json_obj(obj):
     chunks = []
@@ -114,44 +127,85 @@ def extract_from_json_obj(obj):
             dedup.append(item)
     return "\n".join(dedup).strip()
 
+def parse_json_subtitle(path: Path):
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    obj = json.loads(text)
+    extracted = extract_from_json_obj(obj)
+    return extracted.strip()
+
+def parse_danmaku_xml(path: Path):
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    root = ET.fromstring(text)
+    lines = []
+
+    for d in root.findall(".//d"):
+        if d.text:
+            s = d.text.strip()
+            if s:
+                lines.append(s)
+
+    dedup = []
+    prev = None
+    for line in lines:
+        if line != prev:
+            dedup.append(line)
+        prev = line
+
+    return "\n".join(dedup).strip()
+
 def parse_subtitle_file(path: Path):
     ext = path.suffix.lower()
-    text = path.read_text(encoding="utf-8", errors="ignore")
 
     if ext in TEXT_EXTS:
-        return clean_text_subtitle(text)
+        return clean_text_subtitle(path.read_text(encoding="utf-8", errors="ignore")), "text"
 
     if ext in JSON_EXTS:
         try:
-            obj = json.loads(text)
-            extracted = extract_from_json_obj(obj)
-            if extracted:
-                return extracted
+            return parse_json_subtitle(path), "json_subtitle"
         except Exception:
-            pass
-        return text.strip()
+            raw = path.read_text(encoding="utf-8", errors="ignore").strip()
+            return raw, "json_raw"
 
-    return clean_text_subtitle(text)
+    if ext in XML_EXTS:
+        try:
+            return parse_danmaku_xml(path), "danmaku_xml"
+        except Exception as e:
+            raise RuntimeError(f"xml parse failed: {e}")
+
+    raw = path.read_text(encoding="utf-8", errors="ignore")
+    return clean_text_subtitle(raw), "unknown"
 
 def find_sub_files(tmp_dir: Path):
-    exts = [".srt", ".vtt", ".json", ".bcc", ".ass", ".ssa", ".lrc", ".txt"]
+    exts = [".srt", ".vtt", ".json", ".json3", ".bcc", ".ass", ".ssa", ".lrc", ".txt", ".xml"]
     files = []
     for ext in exts:
         files.extend(tmp_dir.glob(f"*{ext}"))
     return sorted(files)
 
+def file_priority(path: Path):
+    ext = path.suffix.lower()
+    name = path.name.lower()
+
+    if ext == ".srt":
+        return 1
+    if ext == ".vtt":
+        return 2
+    if ext in {".json", ".json3", ".bcc"}:
+        return 3
+    if ext in {".ass", ".ssa"}:
+        return 4
+    if ext == ".lrc":
+        return 5
+    if ext == ".txt":
+        return 6
+    if ext == ".xml":
+        if "danmaku" in name:
+            return 20
+        return 10
+    return 99
+
 def choose_best_file(files):
-    priority = {
-        ".srt": 1,
-        ".vtt": 2,
-        ".json": 3,
-        ".bcc": 4,
-        ".ass": 5,
-        ".ssa": 6,
-        ".lrc": 7,
-        ".txt": 8,
-    }
-    return sorted(files, key=lambda p: priority.get(p.suffix.lower(), 99))[0]
+    return sorted(files, key=file_priority)[0]
 
 def download_subs(url: str, auth_args, tmp_dir: Path):
     for f in tmp_dir.glob("*"):
@@ -161,7 +215,7 @@ def download_subs(url: str, auth_args, tmp_dir: Path):
         "yt-dlp",
         *auth_args,
         "--skip-download",
-        "--sub-langs", "all",
+        "--sub-langs", ",".join(PREFERRED_SUB_LANGS),
         "--sub-format", "srt/vtt/ass/json3/best",
         "-o", str(tmp_dir / "%(id)s.%(ext)s"),
         url
@@ -172,10 +226,33 @@ def download_subs(url: str, auth_args, tmp_dir: Path):
     if files:
         return files, regular.stdout, regular.stderr, "written"
 
-    auto = run_cmd([*base_cmd, "--write-auto-subs"], check=False)
+    auto_cmd = [
+        "yt-dlp",
+        *auth_args,
+        "--skip-download",
+        "--write-auto-subs",
+        "--sub-langs", ",".join(PREFERRED_SUB_LANGS),
+        "--sub-format", "srt/vtt/ass/json3/best",
+        "-o", str(tmp_dir / "%(id)s.%(ext)s"),
+        url
+    ]
+    auto = run_cmd(auto_cmd, check=False)
     files = find_sub_files(tmp_dir)
     if files:
         return files, auto.stdout, auto.stderr, "auto"
+
+    danmaku = run_cmd([
+        "yt-dlp",
+        *auth_args,
+        "--skip-download",
+        "--write-subs",
+        "--sub-langs", "danmaku",
+        "-o", str(tmp_dir / "%(id)s.%(ext)s"),
+        url
+    ], check=False)
+    files = find_sub_files(tmp_dir)
+    if files:
+        return files, danmaku.stdout, danmaku.stderr, "danmaku"
 
     msg = "\n".join([
         "regular stderr:",
@@ -186,8 +263,21 @@ def download_subs(url: str, auth_args, tmp_dir: Path):
         auto.stderr.strip(),
         "auto stdout:",
         auto.stdout.strip(),
+        "danmaku stderr:",
+        danmaku.stderr.strip(),
+        "danmaku stdout:",
+        danmaku.stdout.strip(),
     ]).strip()
     raise RuntimeError(msg or "No subtitle files downloaded")
+
+def classify_subtitle_result(parsed_kind: str):
+    if parsed_kind in {"text", "json_subtitle"}:
+        return "text_subtitle"
+    if parsed_kind == "json_raw":
+        return "json_raw"
+    if parsed_kind == "danmaku_xml":
+        return "only_danmaku"
+    return "other"
 
 def batch_mode(args):
     auth_args = read_cookie_input(args.cookie_input)
@@ -213,18 +303,30 @@ def batch_mode(args):
 
             files, stdout, stderr, source = download_subs(url, auth_args, tmp_dir)
             picked = choose_best_file(files)
-            text = parse_subtitle_file(picked)
+            text, parsed_kind = parse_subtitle_file(picked)
 
             if not text.strip():
                 raise RuntimeError(f"subtitle file exists but cleaned text is empty: {picked.name}")
 
-            filename = f"{idx:04d}_{safe_name(title)}.txt"
-            body = f"标题：{title}\n链接：{url}\n来源：{source}\n文件：{picked.name}\n\n{text.strip()}\n"
+            result_type = classify_subtitle_result(parsed_kind)
+            ext_mark = "txt" if result_type != "only_danmaku" else "xml.txt"
+            filename = f"{idx:04d}_{safe_name(title)}.{ext_mark}"
+
+            body = (
+                f"标题：{title}\n"
+                f"链接：{url}\n"
+                f"来源：{source}\n"
+                f"文件：{picked.name}\n"
+                f"类型：{result_type}\n\n"
+                f"{text.strip()}\n"
+            )
             (out_dir / filename).write_text(body, encoding="utf-8")
 
             row["status"] = "ok"
             row["source"] = source
             row["picked_file"] = picked.name
+            row["parsed_kind"] = parsed_kind
+            row["result_type"] = result_type
             row["output_file"] = filename
             row["chars"] = len(body)
             row["stderr_tail"] = (stderr or "")[-1000:]
