@@ -28,23 +28,49 @@ jobs:
         run: |
           mkdir -p "JS逆向工程/raw"
           mkdir -p "JS逆向工程/merged"
+          mkdir -p scripts
           touch "JS逆向工程/urls.txt"
+          rm -f "JS逆向工程/raw/"*.txt || true
+          rm -f "JS逆向工程/merged/"*.txt || true
 
-      - name: Write cookies
+      - name: Write cookie input
         env:
           BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
         run: |
-          cat > cookies.txt <<'EOF'
-          ${BILIBILI_COOKIES}
-          EOF
+          test -n "$BILIBILI_COOKIES"
+          printf '%s\n' "$BILIBILI_COOKIES" > cookie_input.txt
+          echo "cookie_input.txt first line:"
+          head -n 1 cookie_input.txt || true
+
+      - name: Validate URLs
+        run: |
+          count=$(grep -cve '^[[:space:]]*$' "JS逆向工程/urls.txt" || true)
+          echo "url count=$count"
+          sed -n '1,5p' "JS逆向工程/urls.txt" || true
+          test "$count" -gt 0
+
+      - name: Debug first URL subtitles
+        run: |
+          first_url=$(grep -v '^[[:space:]]*$' "JS逆向工程/urls.txt" | head -n 1)
+          test -n "$first_url"
+          python scripts/download_bilibili_subs.py \
+            --mode list \
+            --url "$first_url" \
+            --cookie-input "cookie_input.txt"
 
       - name: Download subtitles
         run: |
           python scripts/download_bilibili_subs.py \
+            --mode batch \
             --input "JS逆向工程/urls.txt" \
             --output "JS逆向工程/raw" \
-            --cookies "cookies.txt" \
+            --cookie-input "cookie_input.txt" \
             --manifest "JS逆向工程/manifest.json"
+
+      - name: Show manifest
+        run: |
+          test -f "JS逆向工程/manifest.json"
+          cat "JS逆向工程/manifest.json"
 
       - name: Merge subtitles
         run: |
@@ -57,6 +83,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "JS逆向工程"
+          git add "JS逆向工程" ".github/workflows/bilibili-subs.yml" "scripts"
           git diff --cached --quiet || git commit -m "Update Bilibili subtitles"
           git push
