@@ -2,6 +2,7 @@ import json
 import os
 import re
 import subprocess
+import sys
 import time
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -9,8 +10,7 @@ from typing import Dict, List, Optional
 from faster_whisper import WhisperModel
 
 SPACE_URL = os.getenv("BILIBILI_SPACE_URL", "https://space.bilibili.com/28152637/video")
-COOKIES_FILE = Path(os.getenv("BILIBILI_COOKIES", "cookies.txt"))
-TARGET_BVID = os.getenv("TARGET_BVID", "").strip()
+COOKIES_FILE = Path(os.getenv("BILIBILI_COOKIES_FILE", "cookies.txt"))
 
 STATE_DIR = Path("state")
 TRANSCRIPTS_DIR = Path("transcripts")
@@ -51,6 +51,11 @@ def atomic_write_text(path: Path, content: str, encoding: str = "utf-8"):
     tmp.replace(path)
 
 
+def append_line(path: Path, line: str):
+    with path.open("a", encoding="utf-8") as f:
+        f.write(line.rstrip("\n") + "\n")
+
+
 def load_json(path: Path, default):
     if not path.exists():
         return default
@@ -68,35 +73,6 @@ def load_set(path: Path) -> set:
     if not path.exists():
         return set()
     return {x.strip() for x in path.read_text(encoding="utf-8").splitlines() if x.strip()}
-
-
-def save_set(path: Path, values: set):
-    text = "\n".join(sorted(values))
-    if text:
-        text += "\n"
-    atomic_write_text(path, text)
-
-
-def record_done(bvid: str):
-    done = load_set(DONE_FILE)
-    done.add(bvid)
-    save_set(DONE_FILE, done)
-
-    failed = load_set(FAILED_FILE)
-    if bvid in failed:
-        failed.remove(bvid)
-        save_set(FAILED_FILE, failed)
-
-
-def record_failed(bvid: str):
-    failed = load_set(FAILED_FILE)
-    failed.add(bvid)
-    save_set(FAILED_FILE, failed)
-
-
-def delete_error_file(bvid: str):
-    err_file = ERRORS_DIR / f"{bvid}.txt"
-    err_file.unlink(missing_ok=True)
 
 
 def seconds_to_hms(sec: float) -> str:
@@ -140,7 +116,6 @@ def save_progress(status: str, note: str = "", current: Optional[Dict] = None, q
         "status": status,
         "note": note,
         "space_url": SPACE_URL,
-        "target_bvid": TARGET_BVID,
         "queue_total": queue_total,
         "queue_index": queue_index,
         "updated_at": int(time.time()),
@@ -164,6 +139,18 @@ def load_existing_failed() -> set:
     return load_set(FAILED_FILE)
 
 
+def record_done(bvid: str):
+    done = load_set(DONE_FILE)
+    if bvid not in done:
+        append_line(DONE_FILE, bvid)
+
+
+def record_failed(bvid: str):
+    failed = load_set(FAILED_FILE)
+    if bvid not in failed:
+        append_line(FAILED_FILE, bvid)
+
+
 def write_error_file(bvid: str, title: str, url: str, err: Exception):
     path = ERRORS_DIR / f"{bvid}.txt"
     body = (
@@ -185,7 +172,7 @@ def extract_queue_from_space() -> List[Dict]:
         "--cookies", str(COOKIES_FILE),
         "--flat-playlist",
         "--dump-single-json",
-        SPACE_URL,
+        SPACE_URL
     ], capture=True)
 
     raw = result.stdout.strip()
@@ -202,15 +189,19 @@ def extract_queue_from_space() -> List[Dict]:
         url = format_video_url(e)
         if not bvid or not url:
             continue
-        queue.append({"id": bvid, "title": title, "url": url})
+        queue.append({
+            "id": bvid,
+            "title": title,
+            "url": url
+        })
 
     if not queue:
         raise RuntimeError("queue is empty")
     return queue
 
 
-def load_or_build_queue(force_refresh: bool = False) -> List[Dict]:
-    if not force_refresh and QUEUE_FILE.exists():
+def load_or_build_queue() -> List[Dict]:
+    if QUEUE_FILE.exists():
         queue = load_json(QUEUE_FILE, [])
         if queue:
             log(f"[info] loaded queue from state: {len(queue)} items")
@@ -245,43 +236,23 @@ def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
 
 def download_audio(video_url: str, bvid: str) -> Path:
     outtmpl = str(TMP_DIR / f"{bvid}.%(ext)s")
-    last_err = None
+    run([
+        "yt-dlp",
+        "--cookies", str(COOKIES_FILE),
+        "--no-playlist",
+        "-f", "ba/bestaudio",
+        "-x",
+        "--audio-format", AUDIO_FORMAT,
+        "--audio-quality", AUDIO_QUALITY,
+        "-o", outtmpl,
+        video_url
+    ])
 
-    format_candidates = [
-        "ba/bestaudio/b",
-        "bestaudio/best",
-        "b/best",
-    ]
-
-    for fmt in format_candidates:
-        for attempt in range(1, 4):
-            try:
-                run([
-                    "yt-dlp",
-                    "-vU",
-                    "--cookies", str(COOKIES_FILE),
-                    "--no-playlist",
-                    "--socket-timeout", "60",
-                    "--retries", "3",
-                    "--fragment-retries", "3",
-                    "-f", fmt,
-                    "-x",
-                    "--audio-format", AUDIO_FORMAT,
-                    "--audio-quality", AUDIO_QUALITY,
-                    "-o", outtmpl,
-                    video_url,
-                ])
-                files = [p for p in TMP_DIR.glob(f"{bvid}.*") if p.is_file() and not p.name.endswith(".part")]
-                if not files:
-                    raise RuntimeError(f"audio file not found for {bvid}")
-                files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
-                return files[0]
-            except Exception as e:
-                last_err = e
-                log(f"[warn] {bvid} format={fmt} attempt={attempt}/3 failed: {e}")
-                time.sleep(attempt * 10)
-
-    raise last_err
+    files = [p for p in TMP_DIR.glob(f"{bvid}.*") if p.is_file() and not p.name.endswith(".part")]
+    if not files:
+        raise RuntimeError(f"audio file not found for {bvid}")
+    files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
+    return files[0]
 
 
 def load_model() -> WhisperModel:
@@ -352,16 +323,7 @@ def clear_continue():
 
 
 def git_commit_and_push(message: str):
-    paths_to_add = []
-    for path in [TRANSCRIPTS_DIR, DONE_FILE, FAILED_FILE, ERRORS_DIR, QUEUE_FILE]:
-        if path.exists():
-            paths_to_add.append(str(path))
-
-    if not paths_to_add:
-        log("[info] nothing to git add")
-        return
-
-    git_run(["git", "add", *paths_to_add], check=False)
+    git_run(["git", "add", "transcripts", "state"], check=False)
     diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode == 0:
         log("[info] no git changes to commit")
@@ -370,6 +332,7 @@ def git_commit_and_push(message: str):
     git_run(["git", "commit", "-m", message])
 
     if GIT_BRANCH:
+        subprocess.run(["git", "pull", "--rebase", "origin", GIT_BRANCH], check=False)
         git_run(["git", "push", "origin", f"HEAD:{GIT_BRANCH}"])
     else:
         git_run(["git", "push"])
@@ -383,16 +346,7 @@ def main():
     done = load_existing_done()
     failed = load_existing_failed()
 
-    if TARGET_BVID:
-        next_item = {
-            "id": TARGET_BVID,
-            "title": TARGET_BVID,
-            "url": f"https://www.bilibili.com/video/{TARGET_BVID}",
-        }
-        log(f"[info] target mode enabled: {TARGET_BVID}")
-    else:
-        next_item = find_next_item(queue, done, failed)
-
+    next_item = find_next_item(queue, done, failed)
     if not next_item:
         save_progress("finished", note="all items completed", queue_total=len(queue), queue_index=len(done))
         git_commit_and_push("state: finished all transcripts")
@@ -412,29 +366,18 @@ def main():
 
         save_progress("writing_transcript", current=next_item, queue_total=len(queue), queue_index=idx)
         write_transcript(next_item, result)
-        delete_error_file(next_item["id"])
 
         record_done(next_item["id"])
         done.add(next_item["id"])
-        failed.discard(next_item["id"])
 
-        if TARGET_BVID:
-            clear_continue()
-            save_progress(
-                "done_target",
-                note="target video processed",
-                current=next_item,
-                queue_total=len(queue),
-                queue_index=idx + 1,
-            )
-        elif has_more_pending(queue, done, failed):
+        if has_more_pending(queue, done, failed):
             touch_continue()
             save_progress(
                 "done_one",
                 note="one video processed, more pending",
                 current=next_item,
                 queue_total=len(queue),
-                queue_index=idx + 1,
+                queue_index=idx + 1
             )
         else:
             clear_continue()
@@ -443,7 +386,7 @@ def main():
                 note="one video processed, no more pending",
                 current=next_item,
                 queue_total=len(queue),
-                queue_index=idx + 1,
+                queue_index=idx + 1
             )
 
         git_commit_and_push(f"transcript: {next_item['id']}")
@@ -454,23 +397,14 @@ def main():
         failed.add(next_item["id"])
         write_error_file(next_item["id"], next_item["title"], next_item["url"], e)
 
-        if TARGET_BVID:
-            clear_continue()
-            save_progress(
-                "target_error",
-                note=repr(e),
-                current=next_item,
-                queue_total=len(queue),
-                queue_index=idx + 1,
-            )
-        elif has_more_pending(queue, done, failed):
+        if has_more_pending(queue, done, failed):
             touch_continue()
             save_progress(
                 "error",
                 note=repr(e),
                 current=next_item,
                 queue_total=len(queue),
-                queue_index=idx + 1,
+                queue_index=idx + 1
             )
         else:
             clear_continue()
@@ -479,13 +413,12 @@ def main():
                 note=repr(e),
                 current=next_item,
                 queue_total=len(queue),
-                queue_index=idx + 1,
+                queue_index=idx + 1
             )
 
         git_commit_and_push(f"state: mark failed {next_item['id']}")
         log(f"[error] {next_item['id']}: {e}")
-        if TARGET_BVID:
-            raise
+        raise
 
     finally:
         cleanup_temp_file(audio_path)
