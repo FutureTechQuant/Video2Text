@@ -1,0 +1,95 @@
+name: rename-transcripts-by-title
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rename-transcripts-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Rename transcript files by title
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          transcripts_dir = Path("transcripts")
+          transcripts_dir.mkdir(parents=True, exist_ok=True)
+
+          def sanitize_filename(name: str, max_len: int = 180) -> str:
+              name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name).strip()
+              name = re.sub(r"\s+", " ", name)
+              return name[:max_len].rstrip(" .") or "untitled"
+
+          def unique_path(path: Path) -> Path:
+              if not path.exists():
+                  return path
+              stem = path.stem
+              suffix = path.suffix
+              parent = path.parent
+              i = 2
+              while True:
+                  candidate = parent / f"{stem} ({i}){suffix}"
+                  if not candidate.exists():
+                      return candidate
+                  i += 1
+
+          renamed = 0
+          skipped = 0
+
+          for src in sorted(transcripts_dir.glob("BV*.txt")):
+              text = src.read_text(encoding="utf-8", errors="ignore")
+              m = re.search(r"^标题：(.+)$", text, re.M)
+
+              if not m:
+                  print(f"skip(no title): {src.name}")
+                  skipped += 1
+                  continue
+
+              title = sanitize_filename(m.group(1).strip())
+              dst = unique_path(transcripts_dir / f"{title}.txt")
+
+              if src.resolve() == dst.resolve():
+                  print(f"skip(same): {src.name}")
+                  skipped += 1
+                  continue
+
+              src.rename(dst)
+              print(f"renamed: {src.name} -> {dst.name}")
+              renamed += 1
+
+          print(f"renamed total: {renamed}")
+          print(f"skipped total: {skipped}")
+          PY
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git add transcripts
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "repair: rename transcripts by title"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
