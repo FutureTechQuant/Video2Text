@@ -233,26 +233,45 @@ def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
         return True
     return False
 
-
 def download_audio(video_url: str, bvid: str) -> Path:
     outtmpl = str(TMP_DIR / f"{bvid}.%(ext)s")
-    run([
-        "yt-dlp",
-        "--cookies", str(COOKIES_FILE),
-        "--no-playlist",
-        "-f", "ba/bestaudio",
-        "-x",
-        "--audio-format", AUDIO_FORMAT,
-        "--audio-quality", AUDIO_QUALITY,
-        "-o", outtmpl,
-        video_url
-    ])
+    last_err = None
 
-    files = [p for p in TMP_DIR.glob(f"{bvid}.*") if p.is_file() and not p.name.endswith(".part")]
-    if not files:
-        raise RuntimeError(f"audio file not found for {bvid}")
-    files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
-    return files[0]
+    format_candidates = [
+        "ba/bestaudio/b",
+        "bestaudio/best",
+        "b/best",
+    ]
+
+    for fmt in format_candidates:
+        for attempt in range(1, 4):
+            try:
+                run([
+                    "yt-dlp",
+                    "-vU",
+                    "--cookies", str(COOKIES_FILE),
+                    "--no-playlist",
+                    "--socket-timeout", "60",
+                    "--retries", "3",
+                    "--fragment-retries", "3",
+                    "-f", fmt,
+                    "-x",
+                    "--audio-format", AUDIO_FORMAT,
+                    "--audio-quality", AUDIO_QUALITY,
+                    "-o", outtmpl,
+                    video_url
+                ])
+                files = [p for p in TMP_DIR.glob(f"{bvid}.*") if p.is_file() and not p.name.endswith(".part")]
+                if not files:
+                    raise RuntimeError(f"audio file not found for {bvid}")
+                files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
+                return files[0]
+            except Exception as e:
+                last_err = e
+                log(f"[warn] {bvid} format={fmt} attempt={attempt}/3 failed: {e}")
+                time.sleep(attempt * 10)
+
+    raise last_err
 
 
 def load_model() -> WhisperModel:
@@ -323,7 +342,16 @@ def clear_continue():
 
 
 def git_commit_and_push(message: str):
-    git_run(["git", "add", "transcripts", "state"], check=False)
+    subprocess.run(["git", "fetch", "origin"], check=False)
+
+    if GIT_BRANCH:
+        subprocess.run(["git", "reset", "--hard", f"origin/{GIT_BRANCH}"], check=False)
+
+    subprocess.run(
+        ["git", "add", "transcripts", "state/done.txt", "state/failed.txt", "state/errors"],
+        check=False
+    )
+
     diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode == 0:
         log("[info] no git changes to commit")
@@ -332,11 +360,9 @@ def git_commit_and_push(message: str):
     git_run(["git", "commit", "-m", message])
 
     if GIT_BRANCH:
-        subprocess.run(["git", "pull", "--rebase", "origin", GIT_BRANCH], check=False)
         git_run(["git", "push", "origin", f"HEAD:{GIT_BRANCH}"])
     else:
         git_run(["git", "push"])
-
 
 def main():
     ensure_dirs()
@@ -418,8 +444,7 @@ def main():
 
         git_commit_and_push(f"state: mark failed {next_item['id']}")
         log(f"[error] {next_item['id']}: {e}")
-        raise
-
+        
     finally:
         cleanup_temp_file(audio_path)
 
