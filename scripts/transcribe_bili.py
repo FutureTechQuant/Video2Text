@@ -9,7 +9,7 @@ from typing import Dict, List, Optional
 from faster_whisper import WhisperModel
 
 SPACE_URL = os.getenv("BILIBILI_SPACE_URL", "https://space.bilibili.com/28152637/video")
-COOKIES_FILE = Path(os.getenv("BILIBILI_COOKIES_FILE", "cookies.txt"))
+COOKIES_FILE = Path(os.getenv("BILIBILI_COOKIES", "cookies.txt"))
 TARGET_BVID = os.getenv("TARGET_BVID", "").strip()
 
 STATE_DIR = Path("state")
