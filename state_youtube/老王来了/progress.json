@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/hlj2iGzse6k.%(ext)s', 'https://www.youtube.com/watch?v=hlj2iGzse6k'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/uAQk-SyC17E.%(ext)s', 'https://www.youtube.com/watch?v=uAQk-SyC17E'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 10,
-  "updated_at": 1775381359,
-  "updated_at_readable": "2026-04-05 09:29:19",
-  "current_video_id": "hlj2iGzse6k",
-  "current_title": "老王厨房：热炒青椒牛肉 | 技术总结变幻各种热炒｜低盐无添加剂养肾护心健康菜谱",
-  "current_url": "https://www.youtube.com/watch?v=hlj2iGzse6k",
+  "queue_index": 11,
+  "updated_at": 1775381444,
+  "updated_at_readable": "2026-04-05 09:30:44",
+  "current_video_id": "uAQk-SyC17E",
+  "current_title": "老王厨房：卤牛舌 | 5分钟实现牛舌自由后附技术总结",
+  "current_url": "https://www.youtube.com/watch?v=uAQk-SyC17E",
   "current_tab": "videos"
 }
