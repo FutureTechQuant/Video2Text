@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/cwuk4N4kKso.%(ext)s', 'https://www.youtube.com/watch?v=cwuk4N4kKso'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 63,
-  "updated_at": 1775406155,
-  "updated_at_readable": "2026-04-05 16:22:35",
-  "current_video_id": "OA9dmQ04SGo",
-  "current_title": "自古以来的中国有多大｜孔子、陈庆之、欧阳修、石介、文天祥眼中的中国与天下",
-  "current_url": "https://www.youtube.com/watch?v=OA9dmQ04SGo",
+  "queue_index": 64,
+  "updated_at": 1775406240,
+  "updated_at_readable": "2026-04-05 16:24:00",
+  "current_video_id": "cwuk4N4kKso",
+  "current_title": "房地产回暖是假象，下跌大趋势不可阻挡（提纯自2025年2月22日直播内容））",
+  "current_url": "https://www.youtube.com/watch?v=cwuk4N4kKso",
   "current_tab": "videos"
 }
