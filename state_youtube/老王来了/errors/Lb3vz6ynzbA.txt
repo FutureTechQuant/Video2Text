@@ -1,0 +1,6 @@
+video_id: Lb3vz6ynzbA
+title: Pang Donglai and Da Lao Wang sang a song to thank Man Daren from the Second Creation Channel.
+url: https://www.youtube.com/watch?v=Lb3vz6ynzbA
+tab: videos
+time: 2026-04-05 09:19:51
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Lb3vz6ynzbA.%(ext)s', 'https://www.youtube.com/watch?v=Lb3vz6ynzbA'])
