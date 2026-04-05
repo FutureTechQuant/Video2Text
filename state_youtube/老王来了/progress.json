@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tc5b6tnn3o4.%(ext)s', 'https://www.youtube.com/watch?v=tc5b6tnn3o4'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 58,
-  "updated_at": 1775404166,
-  "updated_at_readable": "2026-04-05 15:49:26",
-  "current_video_id": "y4UdPO1Rhwc",
-  "current_title": "3月21日直播之时评精简版（没时间看大直播的朋友专用）",
-  "current_url": "https://www.youtube.com/watch?v=y4UdPO1Rhwc",
+  "queue_index": 59,
+  "updated_at": 1775404258,
+  "updated_at_readable": "2026-04-05 15:50:58",
+  "current_video_id": "tc5b6tnn3o4",
+  "current_title": "美股大幅度下跌，是否构成投资机会？",
+  "current_url": "https://www.youtube.com/watch?v=tc5b6tnn3o4",
   "current_tab": "videos"
 }
