@@ -21,8 +21,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp
 
       - name: Write cookies.txt
         shell: bash
@@ -32,30 +34,31 @@ jobs:
           printf '%s' "$BILIBILI_COOKIES_TXT" > cookies.txt
 
       - name: Validate cookies.txt
-        shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
-
           p = Path("cookies.txt")
           text = p.read_text(encoding="utf-8", errors="ignore")
           lines = text.splitlines()
-
           print("file exists:", p.exists())
           print("file size:", p.stat().st_size if p.exists() else 0)
-          print("line count:", len(lines))
           print("first line:", lines[0] if lines else "")
-          print("first 3 lines preview:")
-          for line in lines[:3]:
-              print(line)
           print("has SESSDATA:", "SESSDATA" in text)
           PY
 
-      - name: Fetch subtitles
-        env:
-          BVID: BV1TC1jYmEve
-          BILIBILI_COOKIE_FILE: cookies.txt
-        run: python scripts/fetch_bilibili_subtitles.py
+      - name: Download subtitles
+        run: |
+          mkdir -p subtitles
+          yt-dlp \
+            --cookies cookies.txt \
+            --skip-download \
+            --write-subs \
+            --write-auto-subs \
+            --sub-langs all \
+            --convert-subs srt \
+            --write-info-json \
+            -o "subtitles/%(playlist_id|BV1TC1jYmEve)s/%(playlist_index)03d-%(title).120B.%(ext)s" \
+            "https://www.bilibili.com/video/BV1TC1jYmEve"
 
       - name: Commit changes
         run: |
