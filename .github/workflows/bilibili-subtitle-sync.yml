@@ -1,0 +1,39 @@
+name: Sync Bilibili Subtitles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"   # 每天 UTC 03:00，可自行调整
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch subtitles
+        env:
+          BVID: BV1TC1jYmEve
+          BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
+        run: python scripts/fetch_bilibili_subtitles.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add subtitles/
+          git diff --cached --quiet || git commit -m "sync bilibili subtitles"
+          git push
