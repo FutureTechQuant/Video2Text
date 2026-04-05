@@ -31,6 +31,22 @@ def log(msg: str):
     print(msg, flush=True)
 
 
+def clean_url(text: str) -> str:
+    text = (text or "").strip()
+    if not text:
+        return text
+
+    md = re.fullmatch(r"\[(.*?)\]\((https?://[^)]+)\)", text)
+    if md:
+        return md.group(2).strip()
+
+    urls = re.findall(r"https?://[^\s\])>]+", text)
+    if urls:
+        return urls[0].strip()
+
+    return text
+
+
 def sanitize_key(name: str, max_len: int = 80) -> str:
     name = (name or "").strip()
     name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name)
@@ -107,6 +123,7 @@ def git_run(cmd: List[str], check: bool = True):
 
 
 def normalize_channel_url(url: str) -> str:
+    url = clean_url(url)
     if not url:
         raise ValueError("YOUTUBE_CHANNEL_URL is empty")
 
@@ -141,7 +158,7 @@ def save_progress(status: str, note: str = "", current: Optional[Dict] = None, q
         "status": status,
         "note": note,
         "destination": DESTINATION,
-        "channel_url": CHANNEL_URL,
+        "channel_url": clean_url(CHANNEL_URL),
         "include_members": INCLUDE_MEMBERS,
         "queue_total": queue_total,
         "queue_index": queue_index,
@@ -151,7 +168,7 @@ def save_progress(status: str, note: str = "", current: Optional[Dict] = None, q
     if current:
         payload["current_video_id"] = current.get("id", "")
         payload["current_title"] = current.get("title", "")
-        payload["current_url"] = current.get("url", "")
+        payload["current_url"] = clean_url(current.get("url", ""))
         payload["current_tab"] = current.get("tab", "")
     save_json(PROGRESS_FILE, payload)
 
@@ -173,7 +190,7 @@ def write_error_file(item: Dict, err: Exception):
     body = (
         f"video_id: {item['id']}\n"
         f"title: {item.get('title', '')}\n"
-        f"url: {item.get('url', '')}\n"
+        f"url: {clean_url(item.get('url', ''))}\n"
         f"tab: {item.get('tab', '')}\n"
         f"time: {time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())}\n"
         f"error: {repr(err)}\n"
@@ -182,6 +199,7 @@ def write_error_file(item: Dict, err: Exception):
 
 
 def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
+    tab_url = clean_url(tab_url)
     cmd = ["yt-dlp"]
     if use_cookies and COOKIES_FILE.exists():
         cmd.extend(["--cookies", str(COOKIES_FILE)])
@@ -211,11 +229,12 @@ def build_item_from_entry(entry: Dict, tab: str) -> Optional[Dict]:
     if not video_id:
         return None
 
-    url = (
+    url = clean_url(
         entry.get("url")
         or entry.get("webpage_url")
         or f"https://www.youtube.com/watch?v={video_id}"
     )
+
     if isinstance(url, str) and url.startswith("/watch"):
         url = "https://www.youtube.com" + url
     if isinstance(url, str) and not url.startswith("http://") and not url.startswith("https://"):
@@ -260,7 +279,7 @@ def extract_queue_from_channel() -> List[Dict]:
 def write_manifest(queue: List[Dict]):
     payload = {
         "destination": DESTINATION,
-        "channel_url": CHANNEL_URL,
+        "channel_url": clean_url(CHANNEL_URL),
         "include_members": INCLUDE_MEMBERS,
         "generated_at": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
         "items": queue,
@@ -295,6 +314,7 @@ def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
 
 
 def download_audio(video_url: str, video_id: str) -> Path:
+    video_url = clean_url(video_url)
     outtmpl = str(TMP_DIR / f"{video_id}.%(ext)s")
     cmd = ["yt-dlp"]
     if COOKIES_FILE.exists():
