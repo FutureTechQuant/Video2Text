@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       source_url:
-        description: "合集第一个视频链接"
+        description: "合集链接，优先填写 space.bilibili.com/.../lists/...?...type=season"
         required: true
         type: string
       destination:
-        description: "输出目录/文件名前缀，例如 zhangxuefeng_collection"
+        description: "输出目录/文件名前缀，例如 guonihe_qingnian 或 过拟合青年"
         required: true
         type: string
       whisper_model:
@@ -92,8 +92,10 @@ jobs:
         run: |
           SAFE_DEST=$(python - <<'PY'
           import os, re
-          s = os.environ.get("DESTINATION", "").strip()
-          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
+          s = (os.environ.get("DESTINATION", "") or "").strip()
+          s = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", s)
+          s = re.sub(r"\s+", "_", s)
+          s = s.strip("._ ")
           print((s[:80] or "default"))
           PY
           )
