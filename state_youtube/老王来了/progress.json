@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/8LCMXK7GKYQ.%(ext)s', 'https://www.youtube.com/watch?v=8LCMXK7GKYQ'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jwNNXSwkQZU.%(ext)s', 'https://www.youtube.com/watch?v=jwNNXSwkQZU'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 7,
-  "updated_at": 1775381130,
-  "updated_at_readable": "2026-04-05 09:25:30",
-  "current_video_id": "8LCMXK7GKYQ",
-  "current_title": "被删绝版：十堰事件预知梦｜我亲历的石家庄靳如超和鞍山大事件｜孩子躺平混日子不上学怎么办｜男人如何应对绿帽子",
-  "current_url": "https://www.youtube.com/watch?v=8LCMXK7GKYQ",
+  "queue_index": 8,
+  "updated_at": 1775381204,
+  "updated_at_readable": "2026-04-05 09:26:44",
+  "current_video_id": "jwNNXSwkQZU",
+  "current_title": "老王厨房：土豆烧牛肉 | 复刻的时候直接跳到第10分钟技术总结",
+  "current_url": "https://www.youtube.com/watch?v=jwNNXSwkQZU",
   "current_tab": "videos"
 }
