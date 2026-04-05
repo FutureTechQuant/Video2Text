@@ -1,0 +1,221 @@
+name: build-transcript-chunks
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "transcripts/*.txt"
+      - ".github/workflows/build-transcript-chunks.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-transcript-chunks-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build chunks.jsonl
+        shell: bash
+        run: |
+          mkdir -p output
+
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          TRANSCRIPTS_DIR = Path("transcripts")
+          OUTPUT_JSONL = Path("output/chunks.jsonl")
+          OUTPUT_STATS = Path("output/chunk_build_stats.json")
+
+          MAX_LINES = 6
+          MAX_SECONDS = 90
+          MAX_CHARS = 800
+
+          segment_re = re.compile(
+              r'^\[(\d{2}:\d{2}:\d{2})\s*-\s*(\d{2}:\d{2}:\d{2})\]\s*(.*)$',
+              re.M
+          )
+
+          def hms_to_seconds(s: str) -> int:
+              h, m, sec = map(int, s.split(":"))
+              return h * 3600 + m * 60 + sec
+
+          def seconds_to_hms(sec: int) -> str:
+              h = sec // 3600
+              m = (sec % 3600) // 60
+              s = sec % 60
+              return f"{h:02d}:{m:02d}:{s:02d}"
+
+          def extract_field(text: str, field: str) -> str:
+              m = re.search(rf'^{re.escape(field)}：(.+)$', text, re.M)
+              return m.group(1).strip() if m else ""
+
+          def extract_bvid(text: str, fallback: str = "") -> str:
+              m = re.search(r'(BV[0-9A-Za-z]+)', text or "")
+              return m.group(1) if m else fallback
+
+          def normalize_text(s: str) -> str:
+              s = s.strip()
+              s = re.sub(r'\s+', ' ', s)
+              return s
+
+          def flush_chunk(chunks, file_name, video_id, title, url, language, chunk_index, segs):
+              if not segs:
+                  return chunk_index
+
+              start_sec = segs[0]["start_sec"]
+              end_sec = segs[-1]["end_sec"]
+              texts = [x["text"] for x in segs if x["text"]]
+              chunk_text = "\n".join(texts).strip()
+              search_text = normalize_text(" ".join(texts))
+
+              chunk = {
+                  "chunk_id": f"{video_id or file_name}:{chunk_index:04d}",
+                  "file_name": file_name,
+                  "video_id": video_id,
+                  "video_title": title,
+                  "source_url": url,
+                  "language": language,
+                  "chunk_index": chunk_index,
+                  "start_time": seconds_to_hms(start_sec),
+                  "end_time": seconds_to_hms(end_sec),
+                  "start_seconds": start_sec,
+                  "end_seconds": end_sec,
+                  "duration_seconds": end_sec - start_sec,
+                  "segment_count": len(segs),
+                  "chunk_text": chunk_text,
+                  "search_text": search_text
+              }
+              chunks.append(chunk)
+              return chunk_index + 1
+
+          files = sorted(TRANSCRIPTS_DIR.glob("*.txt"))
+          all_chunks = []
+          files_total = 0
+          files_with_segments = 0
+          files_without_segments = 0
+          total_segments = 0
+
+          for path in files:
+              files_total += 1
+              content = path.read_text(encoding="utf-8", errors="ignore")
+
+              title = extract_field(content, "标题")
+              url = extract_field(content, "链接")
+              language = extract_field(content, "识别语言")
+              file_bvid = extract_field(content, "BV号")
+              video_id = file_bvid or extract_bvid(path.stem, path.stem)
+
+              seg_matches = list(segment_re.finditer(content))
+              if not seg_matches:
+                  files_without_segments += 1
+                  continue
+
+              files_with_segments += 1
+              segments = []
+              for m in seg_matches:
+                  start_time = m.group(1)
+                  end_time = m.group(2)
+                  text = normalize_text(m.group(3))
+                  segments.append({
+                      "start_time": start_time,
+                      "end_time": end_time,
+                      "start_sec": hms_to_seconds(start_time),
+                      "end_sec": hms_to_seconds(end_time),
+                      "text": text
+                  })
+
+              total_segments += len(segments)
+
+              chunk_index = 1
+              current = []
+
+              for seg in segments:
+                  if not current:
+                      current = [seg]
+                      continue
+
+                  candidate = current + [seg]
+                  candidate_start = candidate[0]["start_sec"]
+                  candidate_end = candidate[-1]["end_sec"]
+                  candidate_chars = sum(len(x["text"]) for x in candidate)
+
+                  if (
+                      len(candidate) > MAX_LINES or
+                      (candidate_end - candidate_start) > MAX_SECONDS or
+                      candidate_chars > MAX_CHARS
+                  ):
+                      chunk_index = flush_chunk(
+                          all_chunks, path.name, video_id, title, url, language, chunk_index, current
+                      )
+                      current = [seg]
+                  else:
+                      current = candidate
+
+              chunk_index = flush_chunk(
+                  all_chunks, path.name, video_id, title, url, language, chunk_index, current
+              )
+
+          with OUTPUT_JSONL.open("w", encoding="utf-8") as f:
+              for item in all_chunks:
+                  f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+          stats = {
+              "files_total": files_total,
+              "files_with_segments": files_with_segments,
+              "files_without_segments": files_without_segments,
+              "total_segments": total_segments,
+              "total_chunks": len(all_chunks),
+              "max_lines": MAX_LINES,
+              "max_seconds": MAX_SECONDS,
+              "max_chars": MAX_CHARS,
+              "output_file": str(OUTPUT_JSONL)
+          }
+
+          OUTPUT_STATS.write_text(
+              json.dumps(stats, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          summary = []
+          summary.append("## Chunk build result")
+          summary.append("")
+          summary.append(f"- Files total: {files_total}")
+          summary.append(f"- Files with segments: {files_with_segments}")
+          summary.append(f"- Files without segments: {files_without_segments}")
+          summary.append(f"- Total segments: {total_segments}")
+          summary.append(f"- Total chunks: {len(all_chunks)}")
+          summary.append(f"- Chunk rule: <= {MAX_LINES} lines, <= {MAX_SECONDS}s, <= {MAX_CHARS} chars")
+          summary.append("")
+          Path("output/summary.md").write_text("\n".join(summary) + "\n", encoding="utf-8")
+          PY
+
+      - name: Show summary
+        shell: bash
+        run: cat output/summary.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcript-chunks
+          path: |
+            output/chunks.jsonl
+            output/chunk_build_stats.json
+            output/summary.md
+          if-no-files-found: error
+          overwrite: true
