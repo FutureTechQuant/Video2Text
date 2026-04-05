@@ -1,0 +1,153 @@
+name: transcribe-collection
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_url:
+        description: "合集第一个视频链接"
+        required: true
+        type: string
+      destination:
+        description: "输出标识，仅用于目录名和文件名前缀"
+        required: true
+        type: string
+      whisper_model:
+        description: "Whisper 模型"
+        required: false
+        default: "small"
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: collection-${{ inputs.destination }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  transcribe-one:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+
+    env:
+      BILIBILI_SOURCE_URL: ${{ inputs.source_url }}
+      DESTINATION: ${{ inputs.destination }}
+      BILIBILI_COOKIES_FILE: cookies.txt
+      WHISPER_MODEL: ${{ inputs.whisper_model }}
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp faster-whisper
+
+      - name: Write cookies
+        shell: bash
+        run: |
+          cat > cookies.txt <<'EOF'
+          ${{ secrets.BILIBILI_COOKIES }}
+          EOF
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p state_collections destinations tmp_audio
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Show current repo state
+        shell: bash
+        run: |
+          SAFE_DEST=$(python - <<'PY'
+          import os, re
+          s = os.environ.get("DESTINATION", "").strip()
+          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
+          print((s[:80] or "default"))
+          PY
+          )
+          echo "===== branch ====="
+          git branch --show-current || true
+          echo "===== destination ====="
+          echo "$SAFE_DEST"
+          echo "===== current progress ====="
+          if [ -f "state_collections/$SAFE_DEST/progress.json" ]; then
+            cat "state_collections/$SAFE_DEST/progress.json"
+          else
+            echo "no progress.json"
+          fi
+
+      - name: Run one video
+        run: |
+          python scripts/transcribe_bili_collection.py
+
+      - name: Show final repo state
+        if: always()
+        shell: bash
+        run: |
+          SAFE_DEST=$(python - <<'PY'
+          import os, re
+          s = os.environ.get("DESTINATION", "").strip()
+          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
+          print((s[:80] or "default"))
+          PY
+          )
+          echo "===== final progress ====="
+          if [ -f "state_collections/$SAFE_DEST/progress.json" ]; then
+            cat "state_collections/$SAFE_DEST/progress.json"
+          else
+            echo "no progress.json"
+          fi
+          echo "===== files ====="
+          find "destinations/$SAFE_DEST" -type f | sort || true
+
+      - name: Trigger next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          SAFE_DEST=$(python - <<'PY'
+          import os, re
+          s = os.environ.get("DESTINATION", "").strip()
+          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
+          print((s[:80] or "default"))
+          PY
+          )
+          FLAG="state_collections/$SAFE_DEST/continue.flag"
+
+          if [ -f "$FLAG" ]; then
+            echo "continue.flag exists, trigger next run"
+            sleep 15
+            gh workflow run .github/workflows/transcribe_collection.yml \
+              --ref "${GITHUB_REF_NAME}" \
+              -f source_url="${BILIBILI_SOURCE_URL}" \
+              -f destination="${DESTINATION}" \
+              -f whisper_model="${WHISPER_MODEL}"
+          else
+            echo "continue.flag not found, stop here"
+          fi
