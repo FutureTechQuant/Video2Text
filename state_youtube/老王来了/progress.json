@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/3VTLE0TTuIc.%(ext)s', 'https://www.youtube.com/watch?v=3VTLE0TTuIc'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 54,
-  "updated_at": 1775401512,
-  "updated_at_readable": "2026-04-05 15:05:12",
-  "current_video_id": "3VTLE0TTuIc",
-  "current_title": "易经初步：六十四卦",
-  "current_url": "https://www.youtube.com/watch?v=3VTLE0TTuIc",
+  "queue_index": 55,
+  "updated_at": 1775402085,
+  "updated_at_readable": "2026-04-05 15:14:45",
+  "current_video_id": "7wHYzhwLJcE",
+  "current_title": "黄金还会继续上涨吗？黄金上涨的终极密码！",
+  "current_url": "https://www.youtube.com/watch?v=7wHYzhwLJcE",
   "current_tab": "videos"
 }
