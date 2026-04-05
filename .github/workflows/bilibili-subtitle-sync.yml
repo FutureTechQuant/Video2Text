@@ -25,23 +25,29 @@ jobs:
         run: pip install requests
 
       - name: Write cookies.txt
+        shell: bash
         env:
           BILIBILI_COOKIES_TXT: ${{ secrets.BILIBILI_COOKIES_TXT }}
         run: |
-          cat > cookies.txt <<'EOF'
-          $BILIBILI_COOKIES_TXT
-          EOF
+          printf '%s' "$BILIBILI_COOKIES_TXT" > cookies.txt
 
       - name: Validate cookies.txt
+        shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
+
           p = Path("cookies.txt")
           text = p.read_text(encoding="utf-8", errors="ignore")
-          first = text.splitlines()[0] if text.splitlines() else ""
+          lines = text.splitlines()
+
           print("file exists:", p.exists())
           print("file size:", p.stat().st_size if p.exists() else 0)
-          print("first line:", first)
+          print("line count:", len(lines))
+          print("first line:", lines[0] if lines else "")
+          print("first 3 lines preview:")
+          for line in lines[:3]:
+              print(line)
           print("has SESSDATA:", "SESSDATA" in text)
           PY
 
