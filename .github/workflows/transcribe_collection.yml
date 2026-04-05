@@ -8,11 +8,11 @@ on:
         required: true
         type: string
       destination:
-        description: "输出标识，仅用于目录名和文件名前缀"
+        description: "输出目录/文件名前缀，例如 zhangxuefeng_collection"
         required: true
         type: string
       whisper_model:
-        description: "Whisper 模型"
+        description: "Whisper 模型，如 tiny / base / small / medium"
         required: false
         default: "small"
         type: string
@@ -57,12 +57,12 @@ jobs:
       - name: Install system packages
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg jq
 
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp faster-whisper
+          pip install -U yt-dlp faster-whisper
 
       - name: Write cookies
         shell: bash
@@ -71,16 +71,23 @@ jobs:
           ${{ secrets.BILIBILI_COOKIES }}
           EOF
 
+      - name: Validate inputs
+        shell: bash
+        run: |
+          test -n "${BILIBILI_SOURCE_URL}" || (echo "source_url is empty" && exit 1)
+          test -n "${DESTINATION}" || (echo "destination is empty" && exit 1)
+
       - name: Prepare workspace
         run: |
-          mkdir -p state_collections destinations tmp_audio
+          mkdir -p state_collections destinations tmp_audio scripts
 
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Show current repo state
+      - name: Compute safe destination
+        id: vars
         shell: bash
         run: |
           SAFE_DEST=$(python - <<'PY'
@@ -90,15 +97,50 @@ jobs:
           print((s[:80] or "default"))
           PY
           )
+          echo "safe_dest=$SAFE_DEST" >> "$GITHUB_OUTPUT"
+          echo "SAFE_DEST=$SAFE_DEST" >> "$GITHUB_ENV"
+
+      - name: Show current repo state
+        shell: bash
+        run: |
           echo "===== branch ====="
           git branch --show-current || true
-          echo "===== destination ====="
-          echo "$SAFE_DEST"
+          echo
+          echo "===== source_url ====="
+          echo "${BILIBILI_SOURCE_URL}"
+          echo
+          echo "===== destination(raw) ====="
+          echo "${DESTINATION}"
+          echo
+          echo "===== destination(safe) ====="
+          echo "${SAFE_DEST}"
+          echo
+          echo "===== done count ====="
+          if [ -f "state_collections/${SAFE_DEST}/done.txt" ]; then
+            wc -l "state_collections/${SAFE_DEST}/done.txt"
+          else
+            echo "0 state_collections/${SAFE_DEST}/done.txt"
+          fi
+          echo
+          echo "===== failed count ====="
+          if [ -f "state_collections/${SAFE_DEST}/failed.txt" ]; then
+            wc -l "state_collections/${SAFE_DEST}/failed.txt"
+          else
+            echo "0 state_collections/${SAFE_DEST}/failed.txt"
+          fi
+          echo
           echo "===== current progress ====="
-          if [ -f "state_collections/$SAFE_DEST/progress.json" ]; then
-            cat "state_collections/$SAFE_DEST/progress.json"
+          if [ -f "state_collections/${SAFE_DEST}/progress.json" ]; then
+            cat "state_collections/${SAFE_DEST}/progress.json"
           else
             echo "no progress.json"
+          fi
+          echo
+          echo "===== current queue size ====="
+          if [ -f "state_collections/${SAFE_DEST}/queue.json" ]; then
+            jq 'length' "state_collections/${SAFE_DEST}/queue.json"
+          else
+            echo "no queue.json"
           fi
 
       - name: Run one video
@@ -109,21 +151,36 @@ jobs:
         if: always()
         shell: bash
         run: |
-          SAFE_DEST=$(python - <<'PY'
-          import os, re
-          s = os.environ.get("DESTINATION", "").strip()
-          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
-          print((s[:80] or "default"))
-          PY
-          )
           echo "===== final progress ====="
-          if [ -f "state_collections/$SAFE_DEST/progress.json" ]; then
-            cat "state_collections/$SAFE_DEST/progress.json"
+          if [ -f "state_collections/${SAFE_DEST}/progress.json" ]; then
+            cat "state_collections/${SAFE_DEST}/progress.json"
           else
             echo "no progress.json"
           fi
-          echo "===== files ====="
-          find "destinations/$SAFE_DEST" -type f | sort || true
+          echo
+          echo "===== done count ====="
+          if [ -f "state_collections/${SAFE_DEST}/done.txt" ]; then
+            wc -l "state_collections/${SAFE_DEST}/done.txt"
+          else
+            echo "0 state_collections/${SAFE_DEST}/done.txt"
+          fi
+          echo
+          echo "===== failed count ====="
+          if [ -f "state_collections/${SAFE_DEST}/failed.txt" ]; then
+            wc -l "state_collections/${SAFE_DEST}/failed.txt"
+          else
+            echo "0 state_collections/${SAFE_DEST}/failed.txt"
+          fi
+          echo
+          echo "===== queue size ====="
+          if [ -f "state_collections/${SAFE_DEST}/queue.json" ]; then
+            jq 'length' "state_collections/${SAFE_DEST}/queue.json"
+          else
+            echo "no queue.json"
+          fi
+          echo
+          echo "===== output files ====="
+          find "destinations/${SAFE_DEST}" -type f | sort || true
 
       - name: Trigger next run
         if: always()
@@ -131,19 +188,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
-          SAFE_DEST=$(python - <<'PY'
-          import os, re
-          s = os.environ.get("DESTINATION", "").strip()
-          s = re.sub(r"[^0-9A-Za-z._-]+", "_", s).strip("._ ")
-          print((s[:80] or "default"))
-          PY
-          )
-          FLAG="state_collections/$SAFE_DEST/continue.flag"
+          FLAG="state_collections/${SAFE_DEST}/continue.flag"
 
           if [ -f "$FLAG" ]; then
             echo "continue.flag exists, trigger next run"
             sleep 15
-            gh workflow run .github/workflows/transcribe_collection.yml \
+            gh workflow run ".github/workflows/transcribe_collection.yml" \
               --ref "${GITHUB_REF_NAME}" \
               -f source_url="${BILIBILI_SOURCE_URL}" \
               -f destination="${DESTINATION}" \
