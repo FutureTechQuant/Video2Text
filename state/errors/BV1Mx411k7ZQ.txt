@@ -1,5 +1,5 @@
 bvid: BV1Mx411k7ZQ
 title: BV1Mx411k7ZQ
 url: https://www.bilibili.com/video/BV1Mx411k7ZQ
-time: 2026-04-04 13:16:52
+time: 2026-04-05 00:36:05
 error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1Mx411k7ZQ.%(ext)s', 'https://www.bilibili.com/video/BV1Mx411k7ZQ'])
