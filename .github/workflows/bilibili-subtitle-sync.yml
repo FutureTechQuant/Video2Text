@@ -24,23 +24,31 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Validate cookie env
+      - name: Write cookies.txt
         env:
-          BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
+          BILIBILI_COOKIES_TXT: ${{ secrets.BILIBILI_COOKIES_TXT }}
+        run: |
+          cat > cookies.txt <<'EOF'
+          $BILIBILI_COOKIES_TXT
+          EOF
+
+      - name: Validate cookies.txt
         run: |
           python - <<'PY'
-          import os
-          c = os.getenv("BILIBILI_COOKIES", "")
-          print("cookie exists:", bool(c))
-          print("cookie length:", len(c))
-          print("has newline:", ("\n" in c) or ("\r" in c))
-          print("has SESSDATA:", "SESSDATA=" in c)
+          from pathlib import Path
+          p = Path("cookies.txt")
+          text = p.read_text(encoding="utf-8", errors="ignore")
+          first = text.splitlines()[0] if text.splitlines() else ""
+          print("file exists:", p.exists())
+          print("file size:", p.stat().st_size if p.exists() else 0)
+          print("first line:", first)
+          print("has SESSDATA:", "SESSDATA" in text)
           PY
 
       - name: Fetch subtitles
         env:
           BVID: BV1TC1jYmEve
-          BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
+          BILIBILI_COOKIE_FILE: cookies.txt
         run: python scripts/fetch_bilibili_subtitles.py
 
       - name: Commit changes
