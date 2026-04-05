@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Calculate transcript durations
+      - name: Calculate transcript stats
         shell: bash
         run: |
           mkdir -p state
@@ -36,10 +36,14 @@ jobs:
           from pathlib import Path
 
           transcripts_dir = Path("transcripts")
-          report_json = Path("state/transcript_duration_report.json")
-          report_csv = Path("state/transcript_duration_files.csv")
+          report_json = Path("state/transcript_stats_report.json")
+          report_csv = Path("state/transcript_stats_files.csv")
+          summary_md = Path(".summary_transcript_stats.md")
 
           time_pattern = re.compile(r'\[(\d{2}:\d{2}:\d{2})\s*-\s*(\d{2}:\d{2}:\d{2})\]')
+          title_pattern = re.compile(r'^标题：(.+)$', re.M)
+          bvid_pattern = re.compile(r'^BV号：(.+)$', re.M)
+          text_line_pattern = re.compile(r'^\[\d{2}:\d{2}:\d{2}\s*-\s*\d{2}:\d{2}:\d{2}\]\s*(.*)$', re.M)
 
           def hms_to_seconds(s: str) -> int:
               h, m, sec = map(int, s.split(":"))
@@ -56,51 +60,68 @@ jobs:
               m = re.search(r'(BV[0-9A-Za-z]+)', text or "")
               return m.group(1) if m else ""
 
+          def count_cjk_chars(s: str) -> int:
+              return len(re.findall(r'[\u4e00-\u9fff]', s))
+
+          def count_all_visible_chars(s: str) -> int:
+              return len(re.sub(r'\s+', '', s))
+
           files = sorted(transcripts_dir.glob("*.txt"))
 
           rows = []
           total_seconds = 0
+          total_segments = 0
+          total_subtitle_lines = 0
+          total_cjk_chars = 0
+          total_visible_chars = 0
           files_with_timestamps = 0
           files_without_timestamps = 0
 
           for path in files:
               content = path.read_text(encoding="utf-8", errors="ignore")
               matches = list(time_pattern.finditer(content))
+              subtitle_texts = [m.group(1).strip() for m in text_line_pattern.finditer(content) if m.group(1).strip()]
 
-              if not matches:
-                  rows.append({
-                      "file_name": path.name,
-                      "bvid": extract_bvid(content) or extract_bvid(path.stem),
-                      "title": "",
-                      "segments_found": 0,
-                      "duration_seconds": 0,
-                      "duration_hms": "00:00:00"
-                  })
+              title_match = title_pattern.search(content)
+              bvid_match = bvid_pattern.search(content)
+
+              duration_sec = 0
+              if matches:
+                  duration_sec = max(hms_to_seconds(m.group(2)) for m in matches)
+                  files_with_timestamps += 1
+              else:
                   files_without_timestamps += 1
-                  continue
 
-              max_end = 0
-              for m in matches:
-                  end_sec = hms_to_seconds(m.group(2))
-                  if end_sec > max_end:
-                      max_end = end_sec
-
-              title_match = re.search(r'^标题：(.+)$', content, re.M)
-              bvid_match = re.search(r'^BV号：(.+)$', content, re.M)
+              joined_text = "".join(subtitle_texts)
 
               row = {
                   "file_name": path.name,
                   "bvid": (bvid_match.group(1).strip() if bvid_match else extract_bvid(path.stem)),
                   "title": (title_match.group(1).strip() if title_match else ""),
                   "segments_found": len(matches),
-                  "duration_seconds": max_end,
-                  "duration_hms": seconds_to_hms(max_end)
+                  "subtitle_lines": len(subtitle_texts),
+                  "duration_seconds": duration_sec,
+                  "duration_hms": seconds_to_hms(duration_sec),
+                  "cjk_chars": count_cjk_chars(joined_text),
+                  "visible_chars": count_all_visible_chars(joined_text),
               }
               rows.append(row)
-              total_seconds += max_end
-              files_with_timestamps += 1
 
-          rows_sorted = sorted(rows, key=lambda x: x["duration_seconds"], reverse=True)
+              total_seconds += duration_sec
+              total_segments += len(matches)
+              total_subtitle_lines += len(subtitle_texts)
+              total_cjk_chars += row["cjk_chars"]
+              total_visible_chars += row["visible_chars"]
+
+          rows_by_duration_desc = sorted(rows, key=lambda x: x["duration_seconds"], reverse=True)
+          rows_with_duration = [x for x in rows if x["duration_seconds"] > 0]
+
+          avg_seconds = int(total_seconds / len(rows_with_duration)) if rows_with_duration else 0
+          chars_per_hour = round(total_cjk_chars / (total_seconds / 3600), 2) if total_seconds > 0 else 0
+          visible_chars_per_hour = round(total_visible_chars / (total_seconds / 3600), 2) if total_seconds > 0 else 0
+
+          longest = rows_by_duration_desc[0] if rows_by_duration_desc else None
+          shortest = min(rows_with_duration, key=lambda x: x["duration_seconds"]) if rows_with_duration else None
 
           report = {
               "total_files": len(files),
@@ -109,7 +130,17 @@ jobs:
               "total_duration_seconds": total_seconds,
               "total_duration_hms": seconds_to_hms(total_seconds),
               "total_duration_hours": round(total_seconds / 3600, 2),
-              "top_10_longest_files": rows_sorted[:10]
+              "average_duration_seconds": avg_seconds,
+              "average_duration_hms": seconds_to_hms(avg_seconds),
+              "total_segments": total_segments,
+              "total_subtitle_lines": total_subtitle_lines,
+              "total_cjk_chars": total_cjk_chars,
+              "total_visible_chars": total_visible_chars,
+              "cjk_chars_per_hour": chars_per_hour,
+              "visible_chars_per_hour": visible_chars_per_hour,
+              "longest_file": longest,
+              "shortest_file": shortest,
+              "top_20_longest_files": rows_by_duration_desc[:20]
           }
 
           report_json.write_text(
@@ -125,44 +156,74 @@ jobs:
                       "bvid",
                       "title",
                       "segments_found",
+                      "subtitle_lines",
                       "duration_seconds",
-                      "duration_hms"
+                      "duration_hms",
+                      "cjk_chars",
+                      "visible_chars"
                   ]
               )
               writer.writeheader()
-              writer.writerows(rows_sorted)
+              writer.writerows(rows_by_duration_desc)
 
-          summary_path = Path(".summary_duration.md")
           lines = []
-          lines.append("## Transcript duration stats")
+          lines.append("## Transcript stats")
           lines.append("")
           lines.append(f"- Total files: {len(files)}")
           lines.append(f"- Files with timestamps: {files_with_timestamps}")
           lines.append(f"- Files without timestamps: {files_without_timestamps}")
           lines.append(f"- Total duration: {seconds_to_hms(total_seconds)}")
           lines.append(f"- Total duration (hours): {round(total_seconds / 3600, 2)}")
+          lines.append(f"- Average duration: {seconds_to_hms(avg_seconds)}")
+          lines.append(f"- Total segments: {total_segments}")
+          lines.append(f"- Total subtitle lines: {total_subtitle_lines}")
+          lines.append(f"- Total CJK chars: {total_cjk_chars}")
+          lines.append(f"- Total visible chars: {total_visible_chars}")
+          lines.append(f"- CJK chars per hour: {chars_per_hour}")
+          lines.append(f"- Visible chars per hour: {visible_chars_per_hour}")
           lines.append("")
-          lines.append("### Top 10 longest files")
+
+          if longest:
+              lines.append("### Longest file")
+              lines.append("")
+              lines.append(f"- File: {longest['file_name']}")
+              lines.append(f"- BV: {longest['bvid']}")
+              lines.append(f"- Duration: {longest['duration_hms']}")
+              lines.append(f"- Segments: {longest['segments_found']}")
+              lines.append("")
+
+          if shortest:
+              lines.append("### Shortest file")
+              lines.append("")
+              lines.append(f"- File: {shortest['file_name']}")
+              lines.append(f"- BV: {shortest['bvid']}")
+              lines.append(f"- Duration: {shortest['duration_hms']}")
+              lines.append(f"- Segments: {shortest['segments_found']}")
+              lines.append("")
+
+          lines.append("### Top 20 longest files")
           lines.append("")
-          lines.append("| file_name | bvid | duration | segments |")
-          lines.append("|---|---|---:|---:|")
-          for row in rows_sorted[:10]:
+          lines.append("| file_name | bvid | duration | segments | subtitle_lines | cjk_chars |")
+          lines.append("|---|---|---:|---:|---:|---:|")
+          for row in rows_by_duration_desc[:20]:
               lines.append(
-                  f"| {row['file_name']} | {row['bvid']} | {row['duration_hms']} | {row['segments_found']} |"
+                  f"| {row['file_name']} | {row['bvid']} | {row['duration_hms']} | {row['segments_found']} | {row['subtitle_lines']} | {row['cjk_chars']} |"
               )
-          summary_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+          summary_md.write_text("\n".join(lines) + "\n", encoding="utf-8")
           PY
 
       - name: Show summary in job
         shell: bash
         run: |
-          cat .summary_duration.md >> "$GITHUB_STEP_SUMMARY"
+          cat .summary_transcript_stats.md >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Upload duration report
+      - name: Upload report artifact
         uses: actions/upload-artifact@v4
         with:
-          name: transcript-duration-report
+          name: transcript-stats-report
           path: |
-            state/transcript_duration_report.json
-            state/transcript_duration_files.csv
+            state/transcript_stats_report.json
+            state/transcript_stats_files.csv
           if-no-files-found: error
+          overwrite: true
