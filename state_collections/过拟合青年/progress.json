@@ -1,14 +1,14 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished",
+  "note": "one video processed, no more pending",
   "destination": "过拟合青年",
   "source_url": "https://space.bilibili.com/255230761/lists/7803289?type=season",
   "queue_total": 4,
-  "queue_index": 3,
-  "updated_at": 1775355853,
-  "updated_at_readable": "2026-04-05 02:24:13",
-  "current_item_id": "0003_BV1K59NBoEdE",
-  "current_bvid": "BV1K59NBoEdE",
-  "current_title": "item_3",
-  "current_url": "https://www.bilibili.com/video/BV1K59NBoEdE"
+  "queue_index": 4,
+  "updated_at": 1775355994,
+  "updated_at_readable": "2026-04-05 02:26:34",
+  "current_item_id": "0004_BV1qYDTBrEVo",
+  "current_bvid": "BV1qYDTBrEVo",
+  "current_title": "item_4",
+  "current_url": "https://www.bilibili.com/video/BV1qYDTBrEVo"
 }
