@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Pd6AJqdprfk.%(ext)s', 'https://www.youtube.com/watch?v=Pd6AJqdprfk'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 85,
-  "updated_at": 1775411646,
-  "updated_at_readable": "2026-04-05 17:54:06",
-  "current_video_id": "Pd6AJqdprfk",
-  "current_title": "中美贸易战，战什么？",
-  "current_url": "https://www.youtube.com/watch?v=Pd6AJqdprfk",
+  "queue_index": 86,
+  "updated_at": 1775411734,
+  "updated_at_readable": "2026-04-05 17:55:34",
+  "current_video_id": "IHBpylX-4BQ",
+  "current_title": "10万粉履行承诺：真跳了！",
+  "current_url": "https://www.youtube.com/watch?v=IHBpylX-4BQ",
   "current_tab": "videos"
 }
