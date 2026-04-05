@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "index": 1,
+    "url": "https://www.bilibili.com/video/BV1TC1jYmEve",
+    "title": "【无逆向难爬虫】爬虫高手进阶之路，JS逆向技术深度剖析与实战教程，还学不会咱们就转行吧！！",
+    "subtitle_langs": [],
+    "auto_caption_langs": [],
+    "status": "ok",
+    "source": "danmaku",
+    "picked_file": "BV1TC1jYmEve_p1.danmaku.xml",
+    "parsed_kind": "danmaku_xml",
+    "result_type": "only_danmaku",
+    "output_file": "0001_【无逆向难爬虫】爬虫高手进阶之路，JS逆向技术深度剖析与实战教程，还学不会咱们就转行吧！！.xml.txt",
+    "chars": 8815,
+    "stderr_tail": "or how to manually pass cookies\nWARNING: [BiliBili] Subtitles are only available when logged in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\nWARNING: [BiliBili] Subtitles are only available when logged in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\nWARNING: [BiliBili] Subtitles are only available when logged in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\nWARNING: [BiliBili] Subtitles are only available when logged in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n",
+    "stdout_tail": "s://www.bilibili.com/video/BV1TC1jYmEve?p=62\n[BiliBili] 1TC1jYmEve: Downloading webpage\n[BiliBili] BV1TC1jYmEve: Extracting videos in anthology\n[BiliBili] Format(s) 1080P 高清, 720P 准高清 are missing; you have to become a premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n[BiliBili] 113384099939962: Extracting chapters\n[BiliBili] BV1TC1jYmEve: Extracting subtitle info 26502038566\n[info] BV1TC1jYmEve_p62: Downloading subtitles: danmaku\n[info] BV1TC1jYmEve_p62: Downloading 1 format(s): 30032+30280\n[info] Writing video subtitles to: tmp_subs/BV1TC1jYmEve_p62.danmaku.xml\n[download] Destination: tmp_subs/BV1TC1jYmEve_p62.danmaku.xml\n\n[download] 141.8% of    141.00B at  Unknown B/s ETA Unknown\n[download] 100% of    200.00B in 00:00:00 at 833.03B/s     \n[download] Finished downloading playlist: 【无逆向难爬虫】爬虫高手进阶之路，JS逆向技术深度剖析与实战教程，还学不会咱们就转行吧！！\n"
+  }
+]
