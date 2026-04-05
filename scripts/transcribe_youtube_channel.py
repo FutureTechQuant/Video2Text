@@ -21,7 +21,7 @@ INITIAL_PROMPT = os.getenv("WHISPER_INITIAL_PROMPT", "").strip()
 AUDIO_FORMAT = os.getenv("AUDIO_FORMAT", "mp3")
 AUDIO_QUALITY = os.getenv("AUDIO_QUALITY", "7")
 BEAM_SIZE = int(os.getenv("BEAM_SIZE", "1"))
-VAD_FILTER = os.getenv("VAD_FILTER", "1") == "true" or os.getenv("VAD_FILTER", "1") == "1"
+VAD_FILTER = os.getenv("VAD_FILTER", "1") in {"1", "true", "True"}
 
 INCLUDE_MEMBERS = str(os.getenv("YOUTUBE_INCLUDE_MEMBERS", "false")).strip().lower() in {"1", "true", "yes", "on"}
 GIT_BRANCH = os.getenv("GITHUB_REF_NAME", "").strip()
@@ -36,13 +36,17 @@ def clean_url(text: str) -> str:
     if not text:
         return text
 
-    md = re.fullmatch(r"\[(.*?)\]\((https?://[^)]+)\)", text)
-    if md:
-        return md.group(2).strip()
+    if text.startswith("[") and "](" in text and text.endswith(")"):
+        m = re.match(r'^\[(?:.*?)\]\((https?://.+)\)$', text)
+        if m:
+            return m.group(1).strip()
 
-    urls = re.findall(r"https?://[^\s\])>]+", text)
-    if urls:
-        return urls[0].strip()
+    m = re.search(r'https?://[^\s]+', text)
+    if m:
+        url = m.group(0).strip()
+        if url.endswith(")") and url.count("(") < url.count(")"):
+            url = url[:-1]
+        return url
 
     return text
 
@@ -114,7 +118,9 @@ def load_set(path: Path) -> set:
 
 def run(cmd: List[str], capture: bool = False, check: bool = True):
     log("[cmd] " + " ".join(cmd))
-    return subprocess.run(cmd, text=True, capture_output=capture, check=check)
+    if capture:
+        return subprocess.run(cmd, text=True, capture_output=True, check=check)
+    return subprocess.run(cmd, text=True, check=check)
 
 
 def git_run(cmd: List[str], check: bool = True):
@@ -212,7 +218,7 @@ def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
     if result.returncode != 0 or not raw:
         log(f"[warn] failed or empty tab: {tab_url}")
         if result.stderr:
-            log(result.stderr[-1000:])
+            log(result.stderr[-1200:])
         return []
 
     try:
@@ -229,15 +235,12 @@ def build_item_from_entry(entry: Dict, tab: str) -> Optional[Dict]:
     if not video_id:
         return None
 
-    url = clean_url(
-        entry.get("url")
-        or entry.get("webpage_url")
-        or f"https://www.youtube.com/watch?v={video_id}"
-    )
+    raw_url = entry.get("url") or entry.get("webpage_url") or ""
+    url = clean_url(raw_url)
 
     if isinstance(url, str) and url.startswith("/watch"):
         url = "https://www.youtube.com" + url
-    if isinstance(url, str) and not url.startswith("http://") and not url.startswith("https://"):
+    if not url or (not url.startswith("http://") and not url.startswith("https://")):
         url = f"https://www.youtube.com/watch?v={video_id}"
 
     title = (entry.get("title") or video_id).strip()
@@ -314,7 +317,15 @@ def has_more_pending(queue: List[Dict], done: set, failed: set) -> bool:
 
 
 def download_audio(video_url: str, video_id: str) -> Path:
+    raw_url = video_url
     video_url = clean_url(video_url)
+
+    log(f"[debug] raw_url={raw_url}")
+    log(f"[debug] cleaned_url={video_url}")
+
+    if not video_url.startswith("http://") and not video_url.startswith("https://"):
+        raise ValueError(f"invalid cleaned url for {video_id}: {video_url}")
+
     outtmpl = str(TMP_DIR / f"{video_id}.%(ext)s")
     cmd = ["yt-dlp"]
     if COOKIES_FILE.exists():
