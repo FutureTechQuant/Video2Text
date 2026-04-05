@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/0oefxU6Z7Ec.%(ext)s', 'https://www.youtube.com/watch?v=0oefxU6Z7Ec'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Po4PW-jmQ3w.%(ext)s', 'https://www.youtube.com/watch?v=Po4PW-jmQ3w'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 4,
-  "updated_at": 1775380869,
-  "updated_at_readable": "2026-04-05 09:21:09",
-  "current_video_id": "0oefxU6Z7Ec",
-  "current_title": "The most authoritative CCTV military expert's report on the combat capabilities of the Chinese an...",
-  "current_url": "https://www.youtube.com/watch?v=0oefxU6Z7Ec",
+  "queue_index": 5,
+  "updated_at": 1775380956,
+  "updated_at_readable": "2026-04-05 09:22:36",
+  "current_video_id": "Po4PW-jmQ3w",
+  "current_title": "Why does Bitcoin/Gold often crash sharply right after you buy it?｜关注NOTHING wang频道学地道金融英语！",
+  "current_url": "https://www.youtube.com/watch?v=Po4PW-jmQ3w",
   "current_tab": "videos"
 }
