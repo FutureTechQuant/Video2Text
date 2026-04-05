@@ -28,7 +28,9 @@ def log(msg: str):
 
 
 def sanitize_key(name: str, max_len: int = 80) -> str:
-    name = re.sub(r"[^0-9A-Za-z._-]+", "_", (name or "").strip())
+    name = (name or "").strip()
+    name = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", name)
+    name = re.sub(r"\s+", "_", name)
     name = name.strip("._ ")
     return (name[:max_len] or "default")
 
@@ -112,6 +114,10 @@ def detect_page(url: str) -> Optional[int]:
         return int(p) if p else None
     except Exception:
         return None
+
+
+def is_space_season_url(url: str) -> bool:
+    return "space.bilibili.com" in url and "/lists/" in url and "type=season" in url
 
 
 def normalize_bilibili_base_url(url: str) -> str:
@@ -206,17 +212,42 @@ def write_error_file(item: Dict, err: Exception):
     atomic_write_text(path, body)
 
 
-def fetch_json_via_yt_dlp(url: str) -> Dict:
-    result = run([
-        "yt-dlp",
-        "--cookies", str(COOKIES_FILE),
-        "--dump-single-json",
-        url
-    ], capture=True)
+def fetch_json_via_yt_dlp(url: str, flat_playlist: bool = False) -> Dict:
+    cmd = ["yt-dlp", "--cookies", str(COOKIES_FILE)]
+    if flat_playlist:
+        cmd.append("--flat-playlist")
+    cmd.extend(["--dump-single-json", url])
+    result = run(cmd, capture=True)
     raw = result.stdout.strip()
     if not raw:
         raise RuntimeError(f"empty json from yt-dlp: {url}")
     return json.loads(raw)
+
+
+def build_queue_from_entries(entries: List[Dict], fallback_bvid: str = "") -> List[Dict]:
+    queue = []
+    for i, e in enumerate(entries, start=1):
+        url = format_video_url(e, fallback_bvid=fallback_bvid)
+        bvid = detect_bvid((e.get("id") or "") + " " + (url or "") + " " + fallback_bvid) or fallback_bvid
+
+        if not url and bvid:
+            url = f"https://www.bilibili.com/video/{bvid}"
+
+        if not url:
+            continue
+
+        title = (e.get("title") or f"item_{i}").strip()
+        item_id = f"{i:04d}_{bvid or 'NOID'}"
+
+        queue.append({
+            "item_id": item_id,
+            "index": i,
+            "bvid": bvid,
+            "page": detect_page(url) or 1,
+            "title": title,
+            "url": url,
+        })
+    return queue
 
 
 def try_extract_entries_from_data(data: Dict, base_bvid: str) -> List[Dict]:
@@ -317,6 +348,13 @@ def extract_queue_from_source() -> List[Dict]:
         raise ValueError("BILIBILI_SOURCE_URL is empty")
     if not COOKIES_FILE.exists():
         raise FileNotFoundError(f"cookies file not found: {COOKIES_FILE}")
+
+    if is_space_season_url(SOURCE_URL):
+        data = fetch_json_via_yt_dlp(SOURCE_URL, flat_playlist=True)
+        queue = build_queue_from_entries(data.get("entries") or [])
+        if queue:
+            return queue
+        raise RuntimeError("season list parsed but entries are empty")
 
     base_url = normalize_bilibili_base_url(SOURCE_URL)
     base_bvid = detect_bvid(base_url)
