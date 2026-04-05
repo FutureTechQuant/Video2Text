@@ -1,0 +1,168 @@
+name: stat-transcripts-duration
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: stat-transcripts-duration-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  stat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Calculate transcript durations
+        shell: bash
+        run: |
+          mkdir -p state
+
+          python - <<'PY'
+          import csv
+          import json
+          import re
+          from pathlib import Path
+
+          transcripts_dir = Path("transcripts")
+          report_json = Path("state/transcript_duration_report.json")
+          report_csv = Path("state/transcript_duration_files.csv")
+
+          time_pattern = re.compile(r'\[(\d{2}:\d{2}:\d{2})\s*-\s*(\d{2}:\d{2}:\d{2})\]')
+
+          def hms_to_seconds(s: str) -> int:
+              h, m, sec = map(int, s.split(":"))
+              return h * 3600 + m * 60 + sec
+
+          def seconds_to_hms(sec: int) -> str:
+              sec = max(0, int(sec))
+              h = sec // 3600
+              m = (sec % 3600) // 60
+              s = sec % 60
+              return f"{h:02d}:{m:02d}:{s:02d}"
+
+          def extract_bvid(text: str):
+              m = re.search(r'(BV[0-9A-Za-z]+)', text or "")
+              return m.group(1) if m else ""
+
+          files = sorted(transcripts_dir.glob("*.txt"))
+
+          rows = []
+          total_seconds = 0
+          files_with_timestamps = 0
+          files_without_timestamps = 0
+
+          for path in files:
+              content = path.read_text(encoding="utf-8", errors="ignore")
+              matches = list(time_pattern.finditer(content))
+
+              if not matches:
+                  rows.append({
+                      "file_name": path.name,
+                      "bvid": extract_bvid(content) or extract_bvid(path.stem),
+                      "title": "",
+                      "segments_found": 0,
+                      "duration_seconds": 0,
+                      "duration_hms": "00:00:00"
+                  })
+                  files_without_timestamps += 1
+                  continue
+
+              max_end = 0
+              for m in matches:
+                  end_sec = hms_to_seconds(m.group(2))
+                  if end_sec > max_end:
+                      max_end = end_sec
+
+              title_match = re.search(r'^标题：(.+)$', content, re.M)
+              bvid_match = re.search(r'^BV号：(.+)$', content, re.M)
+
+              row = {
+                  "file_name": path.name,
+                  "bvid": (bvid_match.group(1).strip() if bvid_match else extract_bvid(path.stem)),
+                  "title": (title_match.group(1).strip() if title_match else ""),
+                  "segments_found": len(matches),
+                  "duration_seconds": max_end,
+                  "duration_hms": seconds_to_hms(max_end)
+              }
+              rows.append(row)
+              total_seconds += max_end
+              files_with_timestamps += 1
+
+          rows_sorted = sorted(rows, key=lambda x: x["duration_seconds"], reverse=True)
+
+          report = {
+              "total_files": len(files),
+              "files_with_timestamps": files_with_timestamps,
+              "files_without_timestamps": files_without_timestamps,
+              "total_duration_seconds": total_seconds,
+              "total_duration_hms": seconds_to_hms(total_seconds),
+              "total_duration_hours": round(total_seconds / 3600, 2),
+              "top_10_longest_files": rows_sorted[:10]
+          }
+
+          report_json.write_text(
+              json.dumps(report, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          with report_csv.open("w", encoding="utf-8-sig", newline="") as f:
+              writer = csv.DictWriter(
+                  f,
+                  fieldnames=[
+                      "file_name",
+                      "bvid",
+                      "title",
+                      "segments_found",
+                      "duration_seconds",
+                      "duration_hms"
+                  ]
+              )
+              writer.writeheader()
+              writer.writerows(rows_sorted)
+
+          summary_path = Path(".summary_duration.md")
+          lines = []
+          lines.append("## Transcript duration stats")
+          lines.append("")
+          lines.append(f"- Total files: {len(files)}")
+          lines.append(f"- Files with timestamps: {files_with_timestamps}")
+          lines.append(f"- Files without timestamps: {files_without_timestamps}")
+          lines.append(f"- Total duration: {seconds_to_hms(total_seconds)}")
+          lines.append(f"- Total duration (hours): {round(total_seconds / 3600, 2)}")
+          lines.append("")
+          lines.append("### Top 10 longest files")
+          lines.append("")
+          lines.append("| file_name | bvid | duration | segments |")
+          lines.append("|---|---|---:|---:|")
+          for row in rows_sorted[:10]:
+              lines.append(
+                  f"| {row['file_name']} | {row['bvid']} | {row['duration_hms']} | {row['segments_found']} |"
+              )
+          summary_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY
+
+      - name: Show summary in job
+        shell: bash
+        run: |
+          cat .summary_duration.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload duration report
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcript-duration-report
+          path: |
+            state/transcript_duration_report.json
+            state/transcript_duration_files.csv
+          if-no-files-found: error
