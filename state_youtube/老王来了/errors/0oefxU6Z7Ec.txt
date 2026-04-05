@@ -1,0 +1,6 @@
+video_id: 0oefxU6Z7Ec
+title: The most authoritative CCTV military expert's report on the combat capabilities of the Chinese an...
+url: https://www.youtube.com/watch?v=0oefxU6Z7Ec
+tab: videos
+time: 2026-04-05 09:21:09
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/0oefxU6Z7Ec.%(ext)s', 'https://www.youtube.com/watch?v=0oefxU6Z7Ec'])
