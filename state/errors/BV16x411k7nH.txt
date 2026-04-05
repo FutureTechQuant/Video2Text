@@ -1,5 +1,5 @@
 bvid: BV16x411k7nH
 title: BV16x411k7nH
 url: https://www.bilibili.com/video/BV16x411k7nH
-time: 2026-04-04 15:29:33
-error: CalledProcessError(1, ['yt-dlp', '-vU', '--cookies', 'cookies.txt', '--no-playlist', '--socket-timeout', '60', '--retries', '3', '--fragment-retries', '3', '-f', 'b/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV16x411k7nH.%(ext)s', 'https://www.bilibili.com/video/BV16x411k7nH'])
+time: 2026-04-05 00:36:13
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV16x411k7nH.%(ext)s', 'https://www.bilibili.com/video/BV16x411k7nH'])
