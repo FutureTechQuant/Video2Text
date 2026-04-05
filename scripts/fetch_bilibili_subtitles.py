@@ -9,17 +9,28 @@ BVID = os.getenv("BVID", "BV1TC1jYmEve")
 OUT_DIR = Path("subtitles") / BVID
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+def normalize_cookie(raw: str) -> str:
+    raw = (raw or "").strip()
+    raw = raw.replace("\r", " ").replace("\n", " ")
+    raw = re.sub(r"^\s*Cookie:\s*", "", raw, flags=re.I)
+    raw = re.sub(r"\s*;\s*", "; ", raw)
+    raw = re.sub(r"\s+", " ", raw).strip()
+    return raw
+
+COOKIE = normalize_cookie(os.getenv("BILIBILI_COOKIES", ""))
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "Referer": f"https://www.bilibili.com/video/{BVID}",
-    "Cookie": os.getenv("BILIBILI_COOKIES", "").strip(),
 }
+if COOKIE:
+    HEADERS["Cookie"] = COOKIE
 
 session = requests.Session()
 session.headers.update(HEADERS)
 
 def safe_name(name: str) -> str:
-    name = re.sub(r'[\\\\/:*?"<>|\\n\\r\\t]+', "_", name)
+    name = re.sub(r'[\\/:*?"<>|\n\r\t]+', "_", name)
     return name[:120].strip(" ._") or "untitled"
 
 def sec_to_srt_time(sec: float) -> str:
@@ -37,9 +48,11 @@ def json_to_srt(body):
     for idx, item in enumerate(body, start=1):
         start = sec_to_srt_time(item["from"])
         end = sec_to_srt_time(item["to"])
-        content = item["content"].strip()
-        lines.append(f"{idx}\\n{start} --> {end}\\n{content}\\n")
-    return "\\n".join(lines)
+        content = item.get("content", "").strip()
+        if not content:
+            continue
+        lines.append(f"{idx}\n{start} --> {end}\n{content}\n")
+    return "\n".join(lines)
 
 def get_video_info(bvid):
     url = "https://api.bilibili.com/x/web-interface/view"
@@ -86,7 +99,17 @@ def download_subtitle_json(subtitle_url):
     r.raise_for_status()
     return r.json()
 
+def validate_env():
+    if not COOKIE:
+        raise RuntimeError("BILIBILI_COOKIES is empty")
+    if "\n" in COOKIE or "\r" in COOKIE:
+        raise RuntimeError("BILIBILI_COOKIES still contains newline characters")
+    if "SESSDATA=" not in COOKIE:
+        raise RuntimeError("BILIBILI_COOKIES seems invalid: missing SESSDATA")
+
 def main():
+    validate_env()
+
     info = get_video_info(BVID)
     title = info["title"]
     pages = get_pages(BVID)
@@ -106,6 +129,7 @@ def main():
         try:
             subtitles = get_subtitles_meta(BVID, cid)
             chosen = pick_subtitle(subtitles)
+
             if not chosen:
                 print(f"[skip] p{p} {part} -> no subtitle")
                 meta["pages"].append({
@@ -114,6 +138,7 @@ def main():
                     "part": part,
                     "subtitle": None
                 })
+                time.sleep(1)
                 continue
 
             sub_json = download_subtitle_json(chosen["subtitle_url"])
@@ -135,8 +160,8 @@ def main():
                 "subtitle": {
                     "lan": chosen.get("lan"),
                     "lan_doc": chosen.get("lan_doc"),
-                    "json": str(json_path).replace("\\\\", "/"),
-                    "srt": str(srt_path).replace("\\\\", "/")
+                    "json": str(json_path).replace("\\", "/"),
+                    "srt": str(srt_path).replace("\\", "/")
                 }
             })
 
@@ -151,6 +176,7 @@ def main():
                 "part": part,
                 "error": str(e)
             })
+            time.sleep(1)
 
     with open(OUT_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
