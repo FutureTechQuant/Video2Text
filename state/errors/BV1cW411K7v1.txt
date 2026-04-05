@@ -1,5 +1,0 @@
-bvid: BV1cW411K7v1
-title: BV1cW411K7v1
-url: https://www.bilibili.com/video/BV1cW411K7v1
-time: 2026-04-04 11:17:42
-error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1cW411K7v1.%(ext)s', 'https://www.bilibili.com/video/BV1cW411K7v1'])

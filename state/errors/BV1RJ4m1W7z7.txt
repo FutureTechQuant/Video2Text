@@ -1,5 +1,0 @@
-bvid: BV1RJ4m1W7z7
-title: BV1RJ4m1W7z7
-url: https://www.bilibili.com/video/BV1RJ4m1W7z7
-time: 2026-04-03 12:31:00
-error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/BV1RJ4m1W7z7.%(ext)s', 'https://www.bilibili.com/video/BV1RJ4m1W7z7'])
