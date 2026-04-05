@@ -1,0 +1,14 @@
+{
+  "status": "finished",
+  "note": "one video processed, no more pending",
+  "destination": "default",
+  "source_url": "https://www.bilibili.com/video/BV1DX9EBMEec",
+  "queue_total": 1,
+  "queue_index": 1,
+  "updated_at": 1775355115,
+  "updated_at_readable": "2026-04-05 02:11:55",
+  "current_item_id": "0001_BV1DX9EBMEec",
+  "current_bvid": "BV1DX9EBMEec",
+  "current_title": "BV1DX9EBMEec",
+  "current_url": "https://www.bilibili.com/video/BV1DX9EBMEec"
+}
