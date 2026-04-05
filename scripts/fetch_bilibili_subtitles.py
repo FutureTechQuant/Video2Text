@@ -1,37 +1,33 @@
+import json
 import os
 import re
-import json
 import time
-import requests
 from pathlib import Path
+from http.cookiejar import MozillaCookieJar
+
+import requests
 
 BVID = os.getenv("BVID", "BV1TC1jYmEve")
+COOKIE_FILE = os.getenv("BILIBILI_COOKIE_FILE", "cookies.txt")
+
 OUT_DIR = Path("subtitles") / BVID
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-def normalize_cookie(raw: str) -> str:
-    raw = (raw or "").strip()
-    raw = raw.replace("\r", " ").replace("\n", " ")
-    raw = re.sub(r"^\s*Cookie:\s*", "", raw, flags=re.I)
-    raw = re.sub(r"\s*;\s*", "; ", raw)
-    raw = re.sub(r"\s+", " ", raw).strip()
-    return raw
-
-COOKIE = normalize_cookie(os.getenv("BILIBILI_COOKIES", ""))
-
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/123.0.0.0 Safari/537.36"
+    ),
     "Referer": f"https://www.bilibili.com/video/{BVID}",
 }
-if COOKIE:
-    HEADERS["Cookie"] = COOKIE
 
-session = requests.Session()
-session.headers.update(HEADERS)
 
 def safe_name(name: str) -> str:
     name = re.sub(r'[\\/:*?"<>|\n\r\t]+', "_", name)
+    name = re.sub(r"\s+", " ", name).strip()
     return name[:120].strip(" ._") or "untitled"
+
 
 def sec_to_srt_time(sec: float) -> str:
     ms = int(round(sec * 1000))
@@ -43,73 +39,104 @@ def sec_to_srt_time(sec: float) -> str:
     ms %= 1000
     return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
 
+
 def json_to_srt(body):
     lines = []
-    for idx, item in enumerate(body, start=1):
-        start = sec_to_srt_time(item["from"])
-        end = sec_to_srt_time(item["to"])
-        content = item.get("content", "").strip()
+    idx = 1
+    for item in body:
+        content = str(item.get("content", "")).strip()
         if not content:
             continue
+        start = sec_to_srt_time(float(item["from"]))
+        end = sec_to_srt_time(float(item["to"]))
         lines.append(f"{idx}\n{start} --> {end}\n{content}\n")
+        idx += 1
     return "\n".join(lines)
 
-def get_video_info(bvid):
+
+def build_session() -> requests.Session:
+    cookie_path = Path(COOKIE_FILE)
+    if not cookie_path.exists():
+        raise RuntimeError(f"cookie file not found: {COOKIE_FILE}")
+
+    first_line = cookie_path.read_text(encoding="utf-8", errors="ignore").splitlines()
+    if not first_line:
+        raise RuntimeError("cookie file is empty")
+
+    if not first_line[0].startswith("# Netscape HTTP Cookie File") and not first_line[0].startswith("# HTTP Cookie File"):
+        raise RuntimeError("cookie file is not Netscape/Mozilla format")
+
+    jar = MozillaCookieJar(str(cookie_path))
+    jar.load(ignore_discard=True, ignore_expires=True)
+
+    all_cookie_names = {c.name for c in jar}
+    if "SESSDATA" not in all_cookie_names:
+        raise RuntimeError("cookies.txt missing SESSDATA")
+
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    session.cookies = jar
+    return session
+
+
+session = build_session()
+
+
+def get_json(url: str, params=None):
+    r = session.get(url, params=params, timeout=30)
+    r.raise_for_status()
+    data = r.json()
+    if isinstance(data, dict) and data.get("code") not in (None, 0):
+        raise RuntimeError(f"api failed: {data}")
+    return data
+
+
+def get_video_info(bvid: str):
     url = "https://api.bilibili.com/x/web-interface/view"
-    r = session.get(url, params={"bvid": bvid}, timeout=30)
-    r.raise_for_status()
-    data = r.json()
-    if data["code"] != 0:
-        raise RuntimeError(f"view api failed: {data}")
+    data = get_json(url, {"bvid": bvid})
     return data["data"]
 
-def get_pages(bvid):
+
+def get_pages(bvid: str):
     url = "https://api.bilibili.com/x/player/pagelist"
-    r = session.get(url, params={"bvid": bvid}, timeout=30)
-    r.raise_for_status()
-    data = r.json()
-    if data["code"] != 0:
-        raise RuntimeError(f"pagelist api failed: {data}")
+    data = get_json(url, {"bvid": bvid})
     return data["data"]
 
-def get_subtitles_meta(bvid, cid):
+
+def get_subtitles_meta(bvid: str, cid: int):
     url = "https://api.bilibili.com/x/player/v2"
-    r = session.get(url, params={"bvid": bvid, "cid": cid}, timeout=30)
-    r.raise_for_status()
-    data = r.json()
-    if data["code"] != 0:
-        raise RuntimeError(f"player v2 api failed: {data}")
+    data = get_json(url, {"bvid": bvid, "cid": cid})
     subtitle = data.get("data", {}).get("subtitle", {})
     return subtitle.get("subtitles", [])
+
 
 def pick_subtitle(subtitles):
     if not subtitles:
         return None
-    preferred = ["zh-CN", "zh-Hans", "zh", "ai-zh", "zh-TW"]
+
+    preferred = [
+        "zh-CN",
+        "zh-Hans",
+        "zh",
+        "ai-zh",
+        "zh-TW",
+    ]
     for lan in preferred:
-        for s in subtitles:
-            if s.get("lan") == lan:
-                return s
+        for item in subtitles:
+            if item.get("lan") == lan:
+                return item
     return subtitles[0]
 
-def download_subtitle_json(subtitle_url):
+
+def download_subtitle_json(subtitle_url: str):
     if subtitle_url.startswith("//"):
         subtitle_url = "https:" + subtitle_url
     r = session.get(subtitle_url, timeout=30)
     r.raise_for_status()
     return r.json()
 
-def validate_env():
-    if not COOKIE:
-        raise RuntimeError("BILIBILI_COOKIES is empty")
-    if "\n" in COOKIE or "\r" in COOKIE:
-        raise RuntimeError("BILIBILI_COOKIES still contains newline characters")
-    if "SESSDATA=" not in COOKIE:
-        raise RuntimeError("BILIBILI_COOKIES seems invalid: missing SESSDATA")
 
 def main():
-    validate_env()
-
     info = get_video_info(BVID)
     title = info["title"]
     pages = get_pages(BVID)
@@ -117,6 +144,7 @@ def main():
     meta = {
         "bvid": BVID,
         "title": title,
+        "video_count": len(pages),
         "pages": []
     }
 
@@ -160,8 +188,9 @@ def main():
                 "subtitle": {
                     "lan": chosen.get("lan"),
                     "lan_doc": chosen.get("lan_doc"),
+                    "subtitle_url": chosen.get("subtitle_url"),
                     "json": str(json_path).replace("\\", "/"),
-                    "srt": str(srt_path).replace("\\", "/")
+                    "srt": str(srt_path).replace("\\", "/"),
                 }
             })
 
@@ -180,6 +209,7 @@ def main():
 
     with open(OUT_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
+
 
 if __name__ == "__main__":
     main()
