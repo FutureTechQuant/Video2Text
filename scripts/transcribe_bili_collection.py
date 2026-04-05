@@ -114,7 +114,14 @@ def detect_page(url: str) -> Optional[int]:
         return None
 
 
-def format_video_url(entry: Dict) -> Optional[str]:
+def normalize_bilibili_base_url(url: str) -> str:
+    bvid = detect_bvid(url)
+    if not bvid:
+        raise ValueError(f"cannot detect BV id from url: {url}")
+    return f"https://www.bilibili.com/video/{bvid}"
+
+
+def format_video_url(entry: Dict, fallback_bvid: str = "") -> Optional[str]:
     url = (entry.get("url") or entry.get("webpage_url") or "").strip()
     if url.startswith("http://") or url.startswith("https://"):
         return url
@@ -123,10 +130,10 @@ def format_video_url(entry: Dict) -> Optional[str]:
 
     vid = (entry.get("id") or "").strip()
     if not vid:
-        vid = detect_bvid(url)
+        vid = detect_bvid(url) or fallback_bvid
 
+    page = entry.get("page") or entry.get("page_num") or entry.get("page_number")
     if vid.startswith("BV"):
-        page = entry.get("page") or entry.get("page_num")
         full = f"https://www.bilibili.com/video/{vid}"
         if page:
             full += f"?p={page}"
@@ -199,58 +206,132 @@ def write_error_file(item: Dict, err: Exception):
     atomic_write_text(path, body)
 
 
+def fetch_json_via_yt_dlp(url: str) -> Dict:
+    result = run([
+        "yt-dlp",
+        "--cookies", str(COOKIES_FILE),
+        "--dump-single-json",
+        url
+    ], capture=True)
+    raw = result.stdout.strip()
+    if not raw:
+        raise RuntimeError(f"empty json from yt-dlp: {url}")
+    return json.loads(raw)
+
+
+def try_extract_entries_from_data(data: Dict, base_bvid: str) -> List[Dict]:
+    entries = data.get("entries") or []
+    queue = []
+
+    for i, e in enumerate(entries, start=1):
+        url = format_video_url(e, fallback_bvid=base_bvid)
+        bvid = detect_bvid((e.get("id") or "") + " " + (url or "") + " " + base_bvid) or base_bvid
+        title = (e.get("title") or f"item_{i}").strip()
+        page = detect_page(url or "") or e.get("page") or e.get("page_num") or e.get("page_number") or i
+        item_id = f"{i:04d}_{bvid or 'NOID'}"
+
+        if not url and bvid:
+            url = f"https://www.bilibili.com/video/{bvid}?p={page}"
+
+        if not url:
+            continue
+
+        queue.append({
+            "item_id": item_id,
+            "index": i,
+            "bvid": bvid,
+            "page": page,
+            "title": title,
+            "url": url,
+        })
+    return queue
+
+
+def try_extract_pages_from_webpage(base_url: str, base_bvid: str) -> List[Dict]:
+    result = run([
+        "yt-dlp",
+        "--cookies", str(COOKIES_FILE),
+        "--print", "webpage",
+        "--skip-download",
+        base_url
+    ], capture=True)
+
+    html = result.stdout or ""
+    if not html:
+        return []
+
+    patterns = [
+        r'(?s)window\.__INITIAL_STATE__\s*=\s*(\{.*?\})\s*;\s*\(function',
+        r'(?s)window\.__INITIAL_STATE__\s*=\s*(\{.*?\})\s*;\s*$',
+        r'(?s)__INITIAL_STATE__=(\{.*?\});',
+    ]
+
+    state = None
+    for pat in patterns:
+        m = re.search(pat, html)
+        if not m:
+            continue
+        blob = m.group(1)
+        try:
+            state = json.loads(blob)
+            break
+        except Exception:
+            continue
+
+    if not state:
+        return []
+
+    video_data = state.get("videoData") or {}
+    pages = video_data.get("pages") or state.get("pages") or []
+    title = (video_data.get("title") or base_bvid).strip()
+
+    queue = []
+    for i, p in enumerate(pages, start=1):
+        page_no = p.get("page") or i
+        part = (p.get("part") or title or f"item_{i}").strip()
+        url = f"https://www.bilibili.com/video/{base_bvid}?p={page_no}"
+        queue.append({
+            "item_id": f"{i:04d}_{base_bvid or 'NOID'}",
+            "index": i,
+            "bvid": base_bvid,
+            "page": page_no,
+            "title": part,
+            "url": url,
+        })
+    return queue
+
+
+def build_single_item_queue(base_url: str, base_bvid: str) -> List[Dict]:
+    return [{
+        "item_id": f"{1:04d}_{base_bvid or 'NOID'}",
+        "index": 1,
+        "bvid": base_bvid,
+        "page": 1,
+        "title": base_bvid or DESTINATION,
+        "url": base_url,
+    }]
+
+
 def extract_queue_from_source() -> List[Dict]:
     if not SOURCE_URL:
         raise ValueError("BILIBILI_SOURCE_URL is empty")
     if not COOKIES_FILE.exists():
         raise FileNotFoundError(f"cookies file not found: {COOKIES_FILE}")
 
-    result = run([
-        "yt-dlp",
-        "--cookies", str(COOKIES_FILE),
-        "--yes-playlist",
-        "--flat-playlist",
-        "--dump-single-json",
-        SOURCE_URL
-    ], capture=True)
+    base_url = normalize_bilibili_base_url(SOURCE_URL)
+    base_bvid = detect_bvid(base_url)
 
-    raw = result.stdout.strip()
-    if not raw:
-        raise RuntimeError("empty playlist json")
+    data = fetch_json_via_yt_dlp(base_url)
+    queue = try_extract_entries_from_data(data, base_bvid)
 
-    data = json.loads(raw)
-    entries = data.get("entries") or []
-    queue = []
+    if len(queue) <= 1:
+        log("[warn] yt-dlp entries not enough, fallback to webpage pages")
+        fallback_queue = try_extract_pages_from_webpage(base_url, base_bvid)
+        if len(fallback_queue) > len(queue):
+            queue = fallback_queue
 
-    if entries:
-        for i, e in enumerate(entries, start=1):
-            url = format_video_url(e)
-            title = (e.get("title") or f"item_{i}").strip()
-            bvid = detect_bvid((e.get("id") or "") + " " + (url or ""))
-            page = detect_page(url or "") or e.get("page") or e.get("page_num")
-            item_id = f"{i:04d}_{bvid or 'NOID'}"
-
-            if not url:
-                continue
-
-            queue.append({
-                "item_id": item_id,
-                "index": i,
-                "bvid": bvid,
-                "page": page,
-                "title": title,
-                "url": url,
-            })
-    else:
-        bvid = detect_bvid(SOURCE_URL)
-        queue.append({
-            "item_id": f"{1:04d}_{bvid or 'NOID'}",
-            "index": 1,
-            "bvid": bvid,
-            "page": detect_page(SOURCE_URL),
-            "title": bvid or DESTINATION,
-            "url": SOURCE_URL,
-        })
+    if not queue:
+        queue = build_single_item_queue(base_url, base_bvid)
 
     if not queue:
         raise RuntimeError("queue is empty")
