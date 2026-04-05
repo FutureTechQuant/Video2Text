@@ -206,7 +206,7 @@ def write_error_file(item: Dict, err: Exception):
 
 def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
     tab_url = clean_url(tab_url)
-    cmd = ["yt-dlp"]
+    cmd = ["yt-dlp", "--remote-components", "ejs:github"]
     if use_cookies and COOKIES_FILE.exists():
         cmd.extend(["--cookies", str(COOKIES_FILE)])
     cmd.extend(["--flat-playlist", "--dump-single-json", tab_url])
@@ -327,7 +327,7 @@ def download_audio(video_url: str, video_id: str) -> Path:
         raise ValueError(f"invalid cleaned url for {video_id}: {video_url}")
 
     outtmpl = str(TMP_DIR / f"{video_id}.%(ext)s")
-    cmd = ["yt-dlp"]
+    cmd = ["yt-dlp", "--remote-components", "ejs:github"]
     if COOKIES_FILE.exists():
         cmd.extend(["--cookies", str(COOKIES_FILE)])
     cmd.extend([
