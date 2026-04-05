@@ -8,7 +8,7 @@ on:
         required: true
         type: string
       destination:
-        description: "输出目录名，例如 laodongheton"
+        description: "输出目录名，例如 laowang"
         required: true
         type: string
       include_members:
@@ -61,6 +61,11 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
       - name: Install system packages
         run: |
           sudo apt-get update
@@ -69,7 +74,14 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -U yt-dlp faster-whisper
+          pip install -U "yt-dlp[default]" faster-whisper
+
+      - name: Show tool versions
+        run: |
+          python --version
+          pip --version
+          yt-dlp --version
+          deno --version
 
       - name: Write cookies
         shell: bash
@@ -154,6 +166,14 @@ jobs:
           else
             echo "no queue.json"
           fi
+
+      - name: Probe one known video format
+        shell: bash
+        run: |
+          yt-dlp -vU \
+            --remote-components ejs:github \
+            --cookies youtube_cookies.txt \
+            -F "https://www.youtube.com/watch?v=-ekkxGk3yQg" || true
 
       - name: Run one video
         run: |
