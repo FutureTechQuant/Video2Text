@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jwNNXSwkQZU.%(ext)s', 'https://www.youtube.com/watch?v=jwNNXSwkQZU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gbmH-VEYtOw.%(ext)s', 'https://www.youtube.com/watch?v=gbmH-VEYtOw'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 8,
-  "updated_at": 1775381204,
-  "updated_at_readable": "2026-04-05 09:26:44",
-  "current_video_id": "jwNNXSwkQZU",
-  "current_title": "老王厨房：土豆烧牛肉 | 复刻的时候直接跳到第10分钟技术总结",
-  "current_url": "https://www.youtube.com/watch?v=jwNNXSwkQZU",
+  "queue_index": 9,
+  "updated_at": 1775381281,
+  "updated_at_readable": "2026-04-05 09:28:01",
+  "current_video_id": "gbmH-VEYtOw",
+  "current_title": "翡翠投资大揭秘（下）造假正邪两派与中央交易所的遗憾",
+  "current_url": "https://www.youtube.com/watch?v=gbmH-VEYtOw",
   "current_tab": "videos"
 }
