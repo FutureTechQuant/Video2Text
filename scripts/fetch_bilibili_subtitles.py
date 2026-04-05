@@ -59,12 +59,15 @@ def build_session() -> requests.Session:
     if not cookie_path.exists():
         raise RuntimeError(f"cookie file not found: {COOKIE_FILE}")
 
-    first_line = cookie_path.read_text(encoding="utf-8", errors="ignore").splitlines()
-    if not first_line:
+    text = cookie_path.read_text(encoding="utf-8", errors="ignore")
+    lines = [line for line in text.splitlines() if line.strip()]
+
+    if not lines:
         raise RuntimeError("cookie file is empty")
 
-    if not first_line[0].startswith("# Netscape HTTP Cookie File") and not first_line[0].startswith("# HTTP Cookie File"):
-        raise RuntimeError("cookie file is not Netscape/Mozilla format")
+    first = lines[0].strip()
+    if first not in ("# Netscape HTTP Cookie File", "# HTTP Cookie File"):
+        raise RuntimeError(f"cookie file is not Netscape/Mozilla format, first line: {first!r}")
 
     jar = MozillaCookieJar(str(cookie_path))
     jar.load(ignore_discard=True, ignore_expires=True)
