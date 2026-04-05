@@ -1,0 +1,288 @@
+name: retry-failed-transcripts
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_retries:
+        description: "最多重跑多少个失败项，0 表示全部"
+        required: true
+        default: "0"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: retry-failed-transcripts-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+
+    env:
+      BILIBILI_SPACE_URL: https://space.bilibili.com/28152637/video
+      BILIBILI_COOKIES_FILE: cookies.txt
+      WHISPER_MODEL: small
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+      MAX_RETRIES: ${{ inputs.max_retries }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp faster-whisper
+
+      - name: Write cookies
+        shell: bash
+        run: |
+          cat > cookies.txt <<'EOF'
+          ${{ secrets.BILIBILI_COOKIES }}
+          EOF
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p state transcripts tmp_audio state/errors
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Prepare failed retry queue
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          state = Path("state")
+          errors_dir = state / "errors"
+          failed_file = state / "failed.txt"
+          queue_file = state / "queue.json"
+          backup_queue_file = state / "queue.full.backup.json"
+          retry_ids_file = state / "retry_ids.json"
+
+          def extract_bvid(text: str):
+              m = re.search(r'(BV[0-9A-Za-z]+)', text or "")
+              return m.group(1) if m else None
+
+          retry_ids = []
+
+          if failed_file.exists():
+              for line in failed_file.read_text(encoding="utf-8").splitlines():
+                  bvid = extract_bvid(line.strip())
+                  if bvid:
+                      retry_ids.append(bvid)
+
+          if errors_dir.exists():
+              for p in sorted(errors_dir.glob("*.txt")):
+                  bvid = extract_bvid(p.stem)
+                  if bvid:
+                      retry_ids.append(bvid)
+
+          retry_ids = list(dict.fromkeys(retry_ids))
+
+          max_retries = int(os.getenv("MAX_RETRIES", "0") or "0")
+          if max_retries > 0:
+              retry_ids = retry_ids[:max_retries]
+
+          retry_ids_file.write_text(
+              json.dumps(retry_ids, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          print(f"retry ids count: {len(retry_ids)}")
+
+          if not retry_ids:
+              raise SystemExit(0)
+
+          if not queue_file.exists():
+              raise SystemExit("缺少 state/queue.json，无法精确只重跑失败项。")
+
+          queue = json.loads(queue_file.read_text(encoding="utf-8"))
+          backup_queue_file.write_text(
+              json.dumps(queue, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          retry_set = set(retry_ids)
+          retry_queue = [item for item in queue if extract_bvid(item.get("id", "")) in retry_set]
+
+          if not retry_queue:
+              raise SystemExit("queue.json 中找不到失败项。")
+
+          queue_file.write_text(
+              json.dumps(retry_queue, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          if failed_file.exists():
+              remain = []
+              for line in failed_file.read_text(encoding="utf-8").splitlines():
+                  bvid = extract_bvid(line.strip())
+                  if not bvid or bvid not in retry_set:
+                      if line.strip():
+                          remain.append(line.strip())
+              failed_file.write_text(
+                  "".join(f"{x}\n" for x in remain),
+                  encoding="utf-8"
+              )
+
+          (state / "continue.flag").unlink(missing_ok=True)
+          PY
+
+      - name: Retry failed items with existing script
+        shell: bash
+        run: |
+          COUNT=$(python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path("state/retry_ids.json")
+          if not p.exists():
+              print(0)
+          else:
+              print(len(json.loads(p.read_text(encoding="utf-8"))))
+          PY
+          )
+
+          if [ "$COUNT" = "0" ]; then
+            echo "No failed items to retry."
+            exit 0
+          fi
+
+          for i in $(seq 1 500); do
+            echo "===== retry round $i ====="
+            python scripts/transcribe_bili.py || true
+            if [ ! -f state/continue.flag ]; then
+              echo "No continue.flag, stop."
+              break
+            fi
+            sleep 3
+          done
+
+      - name: Restore queue and cleanup flags
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          state = Path("state")
+          queue_file = state / "queue.json"
+          backup_queue_file = state / "queue.full.backup.json"
+
+          if backup_queue_file.exists():
+              queue_file.write_text(
+                  backup_queue_file.read_text(encoding="utf-8"),
+                  encoding="utf-8"
+              )
+              backup_queue_file.unlink()
+
+          (state / "continue.flag").unlink(missing_ok=True)
+          (state / "retry_ids.json").unlink(missing_ok=True)
+          PY
+
+      - name: Cleanup error records already fixed
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          state = Path("state")
+          errors_dir = state / "errors"
+          done_file = state / "done.txt"
+          failed_file = state / "failed.txt"
+
+          def extract_bvid(text: str):
+              m = re.search(r'(BV[0-9A-Za-z]+)', text or "")
+              return m.group(1) if m else None
+
+          done = set()
+          if done_file.exists():
+              for line in done_file.read_text(encoding="utf-8").splitlines():
+                  bvid = extract_bvid(line.strip())
+                  if bvid:
+                      done.add(bvid)
+
+          if failed_file.exists():
+              remain = []
+              for line in failed_file.read_text(encoding="utf-8").splitlines():
+                  bvid = extract_bvid(line.strip())
+                  if line.strip() and bvid not in done:
+                      remain.append(line.strip())
+              failed_file.write_text(
+                  "".join(f"{x}\n" for x in remain),
+                  encoding="utf-8"
+              )
+
+          if errors_dir.exists():
+              for p in errors_dir.glob("*.txt"):
+                  bvid = extract_bvid(p.stem)
+                  if bvid and bvid in done:
+                      p.unlink(missing_ok=True)
+          PY
+
+      - name: Show final state
+        if: always()
+        shell: bash
+        run: |
+          echo "===== progress ====="
+          if [ -f state/progress.json ]; then
+            cat state/progress.json
+          else
+            echo "no progress.json"
+          fi
+
+          echo "===== failed.txt ====="
+          if [ -f state/failed.txt ]; then
+            cat state/failed.txt
+          else
+            echo "no failed.txt"
+          fi
+
+          echo "===== errors ====="
+          if [ -d state/errors ]; then
+            find state/errors -maxdepth 1 -type f | sed 's#^#- #' || true
+          else
+            echo "no errors dir"
+          fi
+
+      - name: Commit and push
+        if: always()
+        shell: bash
+        run: |
+          git add transcripts state
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "repair: retry failed transcripts"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
