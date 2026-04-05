@@ -3,7 +3,7 @@ name: Sync Bilibili Subtitles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"   # 每天 UTC 03:00，可自行调整
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
@@ -23,6 +23,19 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+
+      - name: Validate cookie env
+        env:
+          BILIBILI_COOKIES: ${{ secrets.BILIBILI_COOKIES }}
+        run: |
+          python - <<'PY'
+          import os
+          c = os.getenv("BILIBILI_COOKIES", "")
+          print("cookie exists:", bool(c))
+          print("cookie length:", len(c))
+          print("has newline:", ("\n" in c) or ("\r" in c))
+          print("has SESSDATA:", "SESSDATA=" in c)
+          PY
 
       - name: Fetch subtitles
         env:
