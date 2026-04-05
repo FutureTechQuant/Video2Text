@@ -1,0 +1,15 @@
+{
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/-ekkxGk3yQg.%(ext)s', 'https://www.youtube.com/watch?v=-ekkxGk3yQg'])",
+  "destination": "老王来了",
+  "channel_url": "https://www.youtube.com/@dlw2023",
+  "include_members": false,
+  "queue_total": 952,
+  "queue_index": 1,
+  "updated_at": 1775380314,
+  "updated_at_readable": "2026-04-05 09:11:54",
+  "current_video_id": "-ekkxGk3yQg",
+  "current_title": "Damn! Lin Bai is speaking Taiwanese now! Thanks to the Mandarin boss for the fan-made channel!",
+  "current_url": "https://www.youtube.com/watch?v=-ekkxGk3yQg",
+  "current_tab": "videos"
+}
