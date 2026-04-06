@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eTEL99rAFPY.%(ext)s', 'https://www.youtube.com/watch?v=eTEL99rAFPY'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 326,
-  "updated_at": 1775514558,
-  "updated_at_readable": "2026-04-06 22:29:18",
-  "current_video_id": "eTEL99rAFPY",
-  "current_title": "习拜会特辑：习遭奇耻大辱，攻台倒计时，京沪深房价重蹈东京大阪覆辙！習拜會特輯：習遭奇恥大辱，攻台倒計時，全國軍管進行時，京滬房價重蹈東京大阪覆轍！",
-  "current_url": "https://www.youtube.com/watch?v=eTEL99rAFPY",
+  "queue_index": 327,
+  "updated_at": 1775514827,
+  "updated_at_readable": "2026-04-06 22:33:47",
+  "current_video_id": "_3beNKTgg8w",
+  "current_title": "拜习会暖场：老王邀请翟山鹰合作说相声！迪拜币圈真相：个个盘口的庄家都有人命在身，而且不止一条.......",
+  "current_url": "https://www.youtube.com/watch?v=_3beNKTgg8w",
   "current_tab": "videos"
 }
