@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/VG3SHApaEZ4.%(ext)s', 'https://www.youtube.com/watch?v=VG3SHApaEZ4'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 305,
-  "updated_at": 1775506712,
-  "updated_at_readable": "2026-04-06 20:18:32",
-  "current_video_id": "VG3SHApaEZ4",
-  "current_title": "香港铁板神数大师算命结果技术分析：万亿分之一的盲猜概率如何做到？如何逆天改命？为何必须行善？何为人算不如天算？",
-  "current_url": "https://www.youtube.com/watch?v=VG3SHApaEZ4",
+  "queue_index": 306,
+  "updated_at": 1775507088,
+  "updated_at_readable": "2026-04-06 20:24:48",
+  "current_video_id": "hoIVqkKvFlQ",
+  "current_title": "为什么习近平打台湾，美国华人不会进集中营",
+  "current_url": "https://www.youtube.com/watch?v=hoIVqkKvFlQ",
   "current_tab": "videos"
 }
