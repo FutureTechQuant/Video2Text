@@ -1,0 +1,140 @@
+name: transcribe-single-video
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_url:
+        description: "YouTube 或 Bilibili 单视频链接"
+        required: true
+        type: string
+      destination:
+        description: "输出目录名，例如 laowang_ep001"
+        required: true
+        type: string
+      platform:
+        description: "平台，auto / youtube / bilibili"
+        required: false
+        default: "auto"
+        type: string
+      use_cookies:
+        description: "是否使用 cookies"
+        required: false
+        default: true
+        type: boolean
+      whisper_model:
+        description: "Whisper 模型，如 tiny / base / small / medium"
+        required: false
+        default: "small"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: single-video-${{ inputs.destination }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    env:
+      SOURCE_URL: ${{ inputs.source_url }}
+      DESTINATION: ${{ inputs.destination }}
+      PLATFORM: ${{ inputs.platform }}
+      USE_COOKIES: ${{ inputs.use_cookies }}
+      YOUTUBE_COOKIES_FILE: youtube_cookies.txt
+      BILIBILI_COOKIES_FILE: bilibili_cookies.txt
+      WHISPER_MODEL: ${{ inputs.whisper_model }}
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      WHISPER_INITIAL_PROMPT: 请将结果转录为简体中文。以下内容为中国大陆普通话口语。
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg jq
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U "yt-dlp[default]" faster-whisper
+
+      - name: Show versions
+        run: |
+          python --version
+          yt-dlp --version
+          deno --version
+          ffmpeg -version | head -n 1
+
+      - name: Write YouTube cookies
+        shell: bash
+        run: |
+          cat > youtube_cookies.txt <<'EOF'
+          ${{ secrets.YOUTUBE_COOKIES }}
+          EOF
+
+      - name: Write Bilibili cookies
+        shell: bash
+        run: |
+          cat > bilibili_cookies.txt <<'EOF'
+          ${{ secrets.BILIBILI_COOKIES }}
+          EOF
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p single_videos state_single_video tmp_audio scripts
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run transcription
+        run: |
+          python scripts/transcribe_single_video.py
+
+      - name: Show outputs
+        if: always()
+        shell: bash
+        run: |
+          SAFE_DEST=$(python - <<'PY'
+          import os, re
+          s = (os.environ.get("DESTINATION", "") or "").strip()
+          s = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", s)
+          s = re.sub(r"\s+", "_", s)
+          s = s.strip("._ ")
+          print((s[:80] or "default"))
+          PY
+          )
+          find "single_videos/${SAFE_DEST}" -type f | sort || true
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git add single_videos state_single_video
+          git diff --cached --quiet || git commit -m "single-video: ${DESTINATION}"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
