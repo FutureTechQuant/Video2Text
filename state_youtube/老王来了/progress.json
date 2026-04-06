@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/YDmGzzsJGQQ.%(ext)s', 'https://www.youtube.com/watch?v=YDmGzzsJGQQ'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 329,
-  "updated_at": 1775515323,
-  "updated_at_readable": "2026-04-06 22:42:03",
-  "current_video_id": "YDmGzzsJGQQ",
-  "current_title": "习近平访美：搭灵棚，坐灵车，驶入不归单行路！A股美股要来小高潮？",
-  "current_url": "https://www.youtube.com/watch?v=YDmGzzsJGQQ",
+  "queue_index": 330,
+  "updated_at": 1775515660,
+  "updated_at_readable": "2026-04-06 22:47:40",
+  "current_video_id": "Wm5IW8pShEw",
+  "current_title": "辽宁胡仙附体的大师，真实经历如实复刻，不喜勿喷。",
+  "current_url": "https://www.youtube.com/watch?v=Wm5IW8pShEw",
   "current_tab": "videos"
 }
