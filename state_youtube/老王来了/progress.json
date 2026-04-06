@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/yAMeYZUw4Ic.%(ext)s', 'https://www.youtube.com/watch?v=yAMeYZUw4Ic'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 332,
-  "updated_at": 1775516080,
-  "updated_at_readable": "2026-04-06 22:54:40",
-  "current_video_id": "wsxF1ZEGhbM",
-  "current_title": "5分钟提纯版：大印钞为什么物价没暴涨？（成人专享）",
-  "current_url": "https://www.youtube.com/watch?v=wsxF1ZEGhbM",
+  "queue_index": 333,
+  "updated_at": 1775516167,
+  "updated_at_readable": "2026-04-06 22:56:07",
+  "current_video_id": "yAMeYZUw4Ic",
+  "current_title": "终极解密天量印钞并发通缩绝症，大水漫灌的人民币流到哪里去了，为什么老百姓赚不到钱了？",
+  "current_url": "https://www.youtube.com/watch?v=yAMeYZUw4Ic",
   "current_tab": "videos"
 }
