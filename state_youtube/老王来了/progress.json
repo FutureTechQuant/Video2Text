@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/nWCKwFOue64.%(ext)s', 'https://www.youtube.com/watch?v=nWCKwFOue64'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/PDAy-Zwak-E.%(ext)s', 'https://www.youtube.com/watch?v=PDAy-Zwak-E'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 443,
-  "updated_at": 1775551922,
-  "updated_at_readable": "2026-04-07 08:52:02",
-  "current_video_id": "nWCKwFOue64",
-  "current_title": "紧急插播阿肯色新爹求助信｜狂欢夏威夷：旅游攻略房产物价地理历史｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=nWCKwFOue64",
+  "queue_index": 444,
+  "updated_at": 1775552021,
+  "updated_at_readable": "2026-04-07 08:53:41",
+  "current_video_id": "PDAy-Zwak-E",
+  "current_title": "周末玄学：阴阳眼看到的老王的灵｜父亲跑去泰国签署魔鬼邪合同怎么办｜成为老王来了的会员见识更多真相",
+  "current_url": "https://www.youtube.com/watch?v=PDAy-Zwak-E",
   "current_tab": "streams"
 }
