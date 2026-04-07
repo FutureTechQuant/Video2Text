@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/5tf6ZfcW1A8.%(ext)s', 'https://www.youtube.com/watch?v=5tf6ZfcW1A8'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Sbif4RUZ6r0.%(ext)s', 'https://www.youtube.com/watch?v=Sbif4RUZ6r0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 423,
-  "updated_at": 1775549041,
-  "updated_at_readable": "2026-04-07 08:04:01",
-  "current_video_id": "5tf6ZfcW1A8",
-  "current_title": "老王讲故事：柬埔寨如何成为人间地狱｜加播重大新闻中国出生人数降至乾隆年间｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=5tf6ZfcW1A8",
+  "queue_index": 424,
+  "updated_at": 1775549138,
+  "updated_at_readable": "2026-04-07 08:05:38",
+  "current_video_id": "Sbif4RUZ6r0",
+  "current_title": "你俩有完没完了🤣｜加拿大总理说的世界新秩序不等于僖宗的人类命运共同体｜聂卫平五大生活习惯导致过早去世｜成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=Sbif4RUZ6r0",
   "current_tab": "streams"
 }
