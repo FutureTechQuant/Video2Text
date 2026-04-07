@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/kPe8baZTO8o.%(ext)s', 'https://www.youtube.com/watch?v=kPe8baZTO8o'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/PPvTGL1ucw8.%(ext)s', 'https://www.youtube.com/watch?v=PPvTGL1ucw8'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 462,
-  "updated_at": 1775554977,
-  "updated_at_readable": "2026-04-07 09:42:57",
-  "current_video_id": "kPe8baZTO8o",
-  "current_title": "VIP百刀会直播：出门在外直播不便，闲聊几句，下周补两期！",
-  "current_url": "https://www.youtube.com/watch?v=kPe8baZTO8o",
+  "queue_index": 463,
+  "updated_at": 1775555065,
+  "updated_at_readable": "2026-04-07 09:44:25",
+  "current_video_id": "PPvTGL1ucw8",
+  "current_title": "解密权贵突然年轻的黑暗产业链｜新疆新冠炼狱｜一个开局地狱模式的少年教友人生自救计划｜为何官司缠身孩子辍学｜上海地主的求救｜二婚家庭教育孩子的问题｜可怜的小圆子｜外甥女不是女儿请保持边界",
+  "current_url": "https://www.youtube.com/watch?v=PPvTGL1ucw8",
   "current_tab": "streams"
 }
