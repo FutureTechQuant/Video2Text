@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ByV-C8enzjI.%(ext)s', 'https://www.youtube.com/watch?v=ByV-C8enzjI'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/l69fMPsXzpc.%(ext)s', 'https://www.youtube.com/watch?v=l69fMPsXzpc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 398,
-  "updated_at": 1775542312,
-  "updated_at_readable": "2026-04-07 06:11:52",
-  "current_video_id": "ByV-C8enzjI",
-  "current_title": "爆炸新闻：美潜艇公海悍然击沉伊朗德纳号护卫舰｜上百伊朗海军官兵国耻级死亡｜波斯湾霍尔姆斯海峡梗阻大批中国货轮被困",
-  "current_url": "https://www.youtube.com/watch?v=ByV-C8enzjI",
+  "queue_index": 399,
+  "updated_at": 1775542405,
+  "updated_at_readable": "2026-04-07 06:13:25",
+  "current_video_id": "l69fMPsXzpc",
+  "current_title": "AI进化的道路与英伟达不可避免的衰落",
+  "current_url": "https://www.youtube.com/watch?v=l69fMPsXzpc",
   "current_tab": "streams"
 }
