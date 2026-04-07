@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/26hWMXZcZ84.%(ext)s', 'https://www.youtube.com/watch?v=26hWMXZcZ84'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 393,
-  "updated_at": 1775540671,
-  "updated_at_readable": "2026-04-07 05:44:31",
-  "current_video_id": "26hWMXZcZ84",
-  "current_title": "王志安手撕山鹰，大老王为什么不慌？｜补充超密度金融圈子内幕分析",
-  "current_url": "https://www.youtube.com/watch?v=26hWMXZcZ84",
+  "queue_index": 394,
+  "updated_at": 1775540916,
+  "updated_at_readable": "2026-04-07 05:48:36",
+  "current_video_id": "aa2JCECHtJU",
+  "current_title": "Test live broadcast signal",
+  "current_url": "https://www.youtube.com/watch?v=aa2JCECHtJU",
   "current_tab": "streams"
 }
