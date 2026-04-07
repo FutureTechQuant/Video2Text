@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/9etPPw92WXc.%(ext)s', 'https://www.youtube.com/watch?v=9etPPw92WXc'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/HTWPtX8pv0w.%(ext)s', 'https://www.youtube.com/watch?v=HTWPtX8pv0w'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 419,
-  "updated_at": 1775548674,
-  "updated_at_readable": "2026-04-07 07:57:54",
-  "current_video_id": "9etPPw92WXc",
-  "current_title": "号外：张又侠刘振立政变失败堪比林彪坠机！｜论大外宣职业反贼与听床师！｜论打台湾的可能性！",
-  "current_url": "https://www.youtube.com/watch?v=9etPPw92WXc",
+  "queue_index": 420,
+  "updated_at": 1775548759,
+  "updated_at_readable": "2026-04-07 07:59:19",
+  "current_video_id": "HTWPtX8pv0w",
+  "current_title": "周末玄学：APP红外摄像头驱鬼的最清晰录像｜狐妖冒充北京国学育儿专家的真事儿｜亲爹被喇嘛勾魂夺舍偏财的经理｜成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=HTWPtX8pv0w",
   "current_tab": "streams"
 }
