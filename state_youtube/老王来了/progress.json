@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/p3wdvd1V7F0.%(ext)s', 'https://www.youtube.com/watch?v=p3wdvd1V7F0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/c21PhbgC4vk.%(ext)s', 'https://www.youtube.com/watch?v=c21PhbgC4vk'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 408,
-  "updated_at": 1775544967,
-  "updated_at_readable": "2026-04-07 06:56:07",
-  "current_video_id": "p3wdvd1V7F0",
-  "current_title": "随便聊聊：CIA招募解放军打广告了，说我们国家在疯子手里，谁是疯子？｜冬奥会谷爱凌大翻车，中美两边不讨好",
-  "current_url": "https://www.youtube.com/watch?v=p3wdvd1V7F0",
+  "queue_index": 409,
+  "updated_at": 1775545896,
+  "updated_at_readable": "2026-04-07 07:11:36",
+  "current_video_id": "c21PhbgC4vk",
+  "current_title": "VIP直播：《美国防堵“红色供应链”政策的深层逻辑与中资新能源赴美投资实战分析》｜超级EMBA级董事长总裁班",
+  "current_url": "https://www.youtube.com/watch?v=c21PhbgC4vk",
   "current_tab": "streams"
 }
