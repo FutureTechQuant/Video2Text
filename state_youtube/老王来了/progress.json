@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/f6dqh1e2oNE.%(ext)s', 'https://www.youtube.com/watch?v=f6dqh1e2oNE'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 391,
-  "updated_at": 1775540438,
-  "updated_at_readable": "2026-04-07 05:40:38",
-  "current_video_id": "OQnnvCFB2Cg",
-  "current_title": "评胖东来以退为进，躺平退休对抗河南省委书记0元购的新思路！",
-  "current_url": "https://www.youtube.com/watch?v=OQnnvCFB2Cg",
+  "queue_index": 392,
+  "updated_at": 1775540548,
+  "updated_at_readable": "2026-04-07 05:42:28",
+  "current_video_id": "f6dqh1e2oNE",
+  "current_title": "慢聊老王台湾行：为什么老一代大陆人会莫名喜欢台湾？",
+  "current_url": "https://www.youtube.com/watch?v=f6dqh1e2oNE",
   "current_tab": "streams"
 }
