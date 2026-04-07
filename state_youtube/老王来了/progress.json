@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/hJPNSC_4qvE.%(ext)s', 'https://www.youtube.com/watch?v=hJPNSC_4qvE'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 385,
-  "updated_at": 1775536645,
-  "updated_at_readable": "2026-04-07 04:37:25",
-  "current_video_id": "hJPNSC_4qvE",
-  "current_title": "VIP直播：揭秘共产党跨境控制王志安们的高招｜揭秘反共大V为什么突然亲共？｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=hJPNSC_4qvE",
+  "queue_index": 386,
+  "updated_at": 1775537424,
+  "updated_at_readable": "2026-04-07 04:50:24",
+  "current_video_id": "oWvM43Ut-6U",
+  "current_title": "惊闻张雪峰去世，老登们要服老！剧烈运动不如戈家躺着！",
+  "current_url": "https://www.youtube.com/watch?v=oWvM43Ut-6U",
   "current_tab": "streams"
 }
