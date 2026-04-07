@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/X-e2FYvwXHQ.%(ext)s', 'https://www.youtube.com/watch?v=X-e2FYvwXHQ'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 350,
-  "updated_at": 1775523087,
-  "updated_at_readable": "2026-04-07 00:51:27",
-  "current_video_id": "X-e2FYvwXHQ",
-  "current_title": "资本大佬亲身揭秘：区块链电子盘各种币圈骗局（一）",
-  "current_url": "https://www.youtube.com/watch?v=X-e2FYvwXHQ",
+  "queue_index": 351,
+  "updated_at": 1775523439,
+  "updated_at_readable": "2026-04-07 00:57:19",
+  "current_video_id": "pBEsj8FSjDc",
+  "current_title": "炫富专场：97套迪拜气体房产，300尺浴缸级游艇，裤裆珍藏级名表，卖币的小红鸟朝老王喷射如潮，老王如何应对？！",
+  "current_url": "https://www.youtube.com/watch?v=pBEsj8FSjDc",
   "current_tab": "videos"
 }
