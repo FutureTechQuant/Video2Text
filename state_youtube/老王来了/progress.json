@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/XH4yujI4_Qw.%(ext)s', 'https://www.youtube.com/watch?v=XH4yujI4_Qw'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 449,
-  "updated_at": 1775553768,
-  "updated_at_readable": "2026-04-07 09:22:48",
-  "current_video_id": "_3bDdTDidto",
-  "current_title": "信号测试｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=_3bDdTDidto",
+  "queue_index": 450,
+  "updated_at": 1775553870,
+  "updated_at_readable": "2026-04-07 09:24:30",
+  "current_video_id": "XH4yujI4_Qw",
+  "current_title": "周五欢乐玄学大放送：神与神棍，如何帮助亲人通过死亡大关，性力教的科学道理，赚了100万的您可以打赏我了",
+  "current_url": "https://www.youtube.com/watch?v=XH4yujI4_Qw",
   "current_tab": "streams"
 }
