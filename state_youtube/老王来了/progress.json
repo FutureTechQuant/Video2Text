@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/f6dqh1e2oNE.%(ext)s', 'https://www.youtube.com/watch?v=f6dqh1e2oNE'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/26hWMXZcZ84.%(ext)s', 'https://www.youtube.com/watch?v=26hWMXZcZ84'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 392,
-  "updated_at": 1775540548,
-  "updated_at_readable": "2026-04-07 05:42:28",
-  "current_video_id": "f6dqh1e2oNE",
-  "current_title": "慢聊老王台湾行：为什么老一代大陆人会莫名喜欢台湾？",
-  "current_url": "https://www.youtube.com/watch?v=f6dqh1e2oNE",
+  "queue_index": 393,
+  "updated_at": 1775540671,
+  "updated_at_readable": "2026-04-07 05:44:31",
+  "current_video_id": "26hWMXZcZ84",
+  "current_title": "王志安手撕山鹰，大老王为什么不慌？｜补充超密度金融圈子内幕分析",
+  "current_url": "https://www.youtube.com/watch?v=26hWMXZcZ84",
   "current_tab": "streams"
 }
