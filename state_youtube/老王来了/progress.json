@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/vF8XKZDV0SY.%(ext)s', 'https://www.youtube.com/watch?v=vF8XKZDV0SY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/NMENXhBfZPM.%(ext)s', 'https://www.youtube.com/watch?v=NMENXhBfZPM'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 438,
-  "updated_at": 1775551469,
-  "updated_at_readable": "2026-04-07 08:44:29",
-  "current_video_id": "vF8XKZDV0SY",
-  "current_title": "周末瞎聊：聊聊老艺术家离岸爱国｜美国的农夫市场与斩杀线｜",
-  "current_url": "https://www.youtube.com/watch?v=vF8XKZDV0SY",
+  "queue_index": 439,
+  "updated_at": 1775551565,
+  "updated_at_readable": "2026-04-07 08:46:05",
+  "current_video_id": "NMENXhBfZPM",
+  "current_title": "周末玄学：春晚LOGO陕西话解读太犀利｜神秘医生小爆料｜毒蛇替命｜黄仙说你的前世是菩萨｜菩萨转世投胎吗？",
+  "current_url": "https://www.youtube.com/watch?v=NMENXhBfZPM",
   "current_tab": "streams"
 }
