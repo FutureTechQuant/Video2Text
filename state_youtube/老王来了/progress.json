@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/g0-5ID4pmpc.%(ext)s', 'https://www.youtube.com/watch?v=g0-5ID4pmpc'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/QUQDK6wefKg.%(ext)s', 'https://www.youtube.com/watch?v=QUQDK6wefKg'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 465,
-  "updated_at": 1775555247,
-  "updated_at_readable": "2026-04-07 09:47:27",
-  "current_video_id": "g0-5ID4pmpc",
-  "current_title": "星舰基地与南帕德罗岛游记｜国富论与环境保护的矛盾｜爱是51%的挂念与帮助+49%的生理高潮｜为什么酒醉之后有人笑有人哭",
-  "current_url": "https://www.youtube.com/watch?v=g0-5ID4pmpc",
+  "queue_index": 466,
+  "updated_at": 1775555354,
+  "updated_at_readable": "2026-04-07 09:49:14",
+  "current_video_id": "QUQDK6wefKg",
+  "current_title": "测试直播信号：聊聊得克萨斯",
+  "current_url": "https://www.youtube.com/watch?v=QUQDK6wefKg",
   "current_tab": "streams"
 }
