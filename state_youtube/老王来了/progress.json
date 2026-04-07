@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/X-e2FYvwXHQ.%(ext)s', 'https://www.youtube.com/watch?v=X-e2FYvwXHQ'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 952,
-  "queue_index": 349,
-  "updated_at": 1775522988,
-  "updated_at_readable": "2026-04-07 00:49:48",
-  "current_video_id": "0OzkBwM7fqA",
-  "current_title": "炸裂重磅：翟币喜币各种币怎么割韭菜？资本大佬大起底，币圈防骗自救指南。",
-  "current_url": "https://www.youtube.com/watch?v=0OzkBwM7fqA",
+  "queue_index": 350,
+  "updated_at": 1775523087,
+  "updated_at_readable": "2026-04-07 00:51:27",
+  "current_video_id": "X-e2FYvwXHQ",
+  "current_title": "资本大佬亲身揭秘：区块链电子盘各种币圈骗局（一）",
+  "current_url": "https://www.youtube.com/watch?v=X-e2FYvwXHQ",
   "current_tab": "videos"
 }
