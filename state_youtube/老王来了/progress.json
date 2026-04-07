@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/mnNhQVKCT2M.%(ext)s', 'https://www.youtube.com/watch?v=mnNhQVKCT2M'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 365,
-  "updated_at": 1775527201,
-  "updated_at_readable": "2026-04-07 02:00:01",
-  "current_video_id": "mnNhQVKCT2M",
-  "current_title": "对比黄光裕顾雏军，点评中国上市公司包装财技，揭秘资本大鳄饲养现金奶牛的技术",
-  "current_url": "https://www.youtube.com/watch?v=mnNhQVKCT2M",
+  "queue_index": 366,
+  "updated_at": 1775527639,
+  "updated_at_readable": "2026-04-07 02:07:19",
+  "current_video_id": "F-6lkz6efVQ",
+  "current_title": "答网友问：翟山鹰刘仲敬王林大金人程慕阳曹查理撸网贷打台湾，润不出来怎么办？",
+  "current_url": "https://www.youtube.com/watch?v=F-6lkz6efVQ",
   "current_tab": "videos"
 }
