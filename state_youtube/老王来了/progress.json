@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/BoUttlFddCM.%(ext)s', 'https://www.youtube.com/watch?v=BoUttlFddCM'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Y8PqvMjJYPs.%(ext)s', 'https://www.youtube.com/watch?v=Y8PqvMjJYPs'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 500,
-  "updated_at": 1775587337,
-  "updated_at_readable": "2026-04-07 18:42:17",
-  "current_video_id": "BoUttlFddCM",
-  "current_title": "论人类的劣根性｜偷偷颂几句圣",
-  "current_url": "https://www.youtube.com/watch?v=BoUttlFddCM",
+  "queue_index": 501,
+  "updated_at": 1775587428,
+  "updated_at_readable": "2026-04-07 18:43:48",
+  "current_video_id": "Y8PqvMjJYPs",
+  "current_title": "VIP31黑天鹅杀死养鹅人：联储降息黄金看涨水贝金商逆势跑路｜美股再次错过调整风险向下一轮积累｜中国楼市阅兵后逆势大跌无可挽回二房东行业彻底出局｜于朦胧真相",
+  "current_url": "https://www.youtube.com/watch?v=Y8PqvMjJYPs",
   "current_tab": "streams"
 }
