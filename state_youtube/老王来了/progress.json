@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/EIj0SVq30Kc.%(ext)s', 'https://www.youtube.com/watch?v=EIj0SVq30Kc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 495,
-  "updated_at": 1775586074,
-  "updated_at_readable": "2026-04-07 18:21:14",
-  "current_video_id": "Esk-pbgFaBI",
-  "current_title": "于朦胧母亲的声明系伪造｜教美国教友躲避ICE抓人的择吉时法｜周末玄学大课堂：鬼遮眼实例与科学解读｜出门给儿童叫魂的定向秘法｜或疯或死出马仙的可怜下场｜",
-  "current_url": "https://www.youtube.com/watch?v=Esk-pbgFaBI",
+  "queue_index": 496,
+  "updated_at": 1775586165,
+  "updated_at_readable": "2026-04-07 18:22:45",
+  "current_video_id": "EIj0SVq30Kc",
+  "current_title": "VIP32吴亦凡真相：他到底得罪了谁？",
+  "current_url": "https://www.youtube.com/watch?v=EIj0SVq30Kc",
   "current_tab": "streams"
 }
