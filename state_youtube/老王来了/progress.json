@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/CG4y4tMgpBY.%(ext)s', 'https://www.youtube.com/watch?v=CG4y4tMgpBY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RKFYXZGQ41M.%(ext)s', 'https://www.youtube.com/watch?v=RKFYXZGQ41M'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 503,
-  "updated_at": 1775588447,
-  "updated_at_readable": "2026-04-07 19:00:47",
-  "current_video_id": "CG4y4tMgpBY",
-  "current_title": "解密金三角教父2：缅甸王李弥，缅北乱局自他开始！（正片21分钟处开始）",
-  "current_url": "https://www.youtube.com/watch?v=CG4y4tMgpBY",
+  "queue_index": 504,
+  "updated_at": 1775588528,
+  "updated_at_readable": "2026-04-07 19:02:08",
+  "current_video_id": "RKFYXZGQ41M",
+  "current_title": "周末大瓜：罗永浩摩擦贾国龙，西贝口玉龙！｜UBC大学生人群对查理柯克遇刺的真实反应田野调查统计",
+  "current_url": "https://www.youtube.com/watch?v=RKFYXZGQ41M",
   "current_tab": "streams"
 }
