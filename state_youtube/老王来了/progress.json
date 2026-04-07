@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Ox6hOqH9EeQ.%(ext)s', 'https://www.youtube.com/watch?v=Ox6hOqH9EeQ'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/5lWLLD3fTM4.%(ext)s', 'https://www.youtube.com/watch?v=5lWLLD3fTM4'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 375,
-  "updated_at": 1775529766,
-  "updated_at_readable": "2026-04-07 02:42:46",
-  "current_video_id": "Ox6hOqH9EeQ",
-  "current_title": "干货第3期：A股原罪之假钞论，一小时单口戏说股市史，弄明白为什么A股一定会赔钱？",
-  "current_url": "https://www.youtube.com/watch?v=Ox6hOqH9EeQ",
+  "queue_index": 376,
+  "updated_at": 1775529857,
+  "updated_at_readable": "2026-04-07 02:44:17",
+  "current_video_id": "5lWLLD3fTM4",
+  "current_title": "第一次模拟直播，与推友们的精彩评论互动",
+  "current_url": "https://www.youtube.com/watch?v=5lWLLD3fTM4",
   "current_tab": "videos"
 }
