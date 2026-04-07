@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/t4QQIxXinUs.%(ext)s', 'https://www.youtube.com/watch?v=t4QQIxXinUs'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 515,
-  "updated_at": 1775596943,
-  "updated_at_readable": "2026-04-07 21:22:23",
-  "current_video_id": "t4QQIxXinUs",
-  "current_title": "VIP28｜郭文贵启示：从反抗者到囚徒｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=t4QQIxXinUs",
+  "queue_index": 516,
+  "updated_at": 1775598174,
+  "updated_at_readable": "2026-04-07 21:42:54",
+  "current_video_id": "LB_bS1codRg",
+  "current_title": "范曾使我们又相信爱情了？为什么坏人可以活百岁！｜最后说说张又侠！",
+  "current_url": "https://www.youtube.com/watch?v=LB_bS1codRg",
   "current_tab": "streams"
 }
