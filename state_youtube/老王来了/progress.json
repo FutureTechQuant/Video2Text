@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/blGT1GRGP9I.%(ext)s', 'https://www.youtube.com/watch?v=blGT1GRGP9I'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 400,
-  "updated_at": 1775543568,
-  "updated_at_readable": "2026-04-07 06:32:48",
-  "current_video_id": "-U3x7eVQ1xU",
-  "current_title": "美伊局势评论：维尼小熊开始抓特务了！",
-  "current_url": "https://www.youtube.com/watch?v=-U3x7eVQ1xU",
+  "queue_index": 401,
+  "updated_at": 1775543672,
+  "updated_at_readable": "2026-04-07 06:34:32",
+  "current_video_id": "blGT1GRGP9I",
+  "current_title": "插播特大喜讯：美军一天报销哈梅内伊，下一个！下一个！｜别太担心AI，车到山前必有路，回忆机器朋克时代｜成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=blGT1GRGP9I",
   "current_tab": "streams"
 }
