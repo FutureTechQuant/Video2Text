@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/EIj0SVq30Kc.%(ext)s', 'https://www.youtube.com/watch?v=EIj0SVq30Kc'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 496,
-  "updated_at": 1775586165,
-  "updated_at_readable": "2026-04-07 18:22:45",
-  "current_video_id": "EIj0SVq30Kc",
-  "current_title": "VIP32吴亦凡真相：他到底得罪了谁？",
-  "current_url": "https://www.youtube.com/watch?v=EIj0SVq30Kc",
+  "queue_index": 497,
+  "updated_at": 1775587032,
+  "updated_at_readable": "2026-04-07 18:37:12",
+  "current_video_id": "4we_E7f2wPg",
+  "current_title": "金三角教父3:拉拉之王杨二小姐",
+  "current_url": "https://www.youtube.com/watch?v=4we_E7f2wPg",
   "current_tab": "streams"
 }
