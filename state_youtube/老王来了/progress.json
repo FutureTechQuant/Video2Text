@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/bZcbiBq5KPg.%(ext)s', 'https://www.youtube.com/watch?v=bZcbiBq5KPg'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 478,
-  "updated_at": 1775564533,
-  "updated_at_readable": "2026-04-07 12:22:13",
-  "current_video_id": "OafsSVRhzlk",
-  "current_title": "四中全会召开国内媒体一片死寂｜起底大热胡春华｜二创鸣谢素材来自中日政经频道",
-  "current_url": "https://www.youtube.com/watch?v=OafsSVRhzlk",
+  "queue_index": 479,
+  "updated_at": 1775564620,
+  "updated_at_readable": "2026-04-07 12:23:40",
+  "current_video_id": "bZcbiBq5KPg",
+  "current_title": "VIP35解密海航2：陈峰的第一桶金｜谁是贯君｜王健为什么必须死！",
+  "current_url": "https://www.youtube.com/watch?v=bZcbiBq5KPg",
   "current_tab": "streams"
 }
