@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RKFYXZGQ41M.%(ext)s', 'https://www.youtube.com/watch?v=RKFYXZGQ41M'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 504,
-  "updated_at": 1775588528,
-  "updated_at_readable": "2026-04-07 19:02:08",
-  "current_video_id": "RKFYXZGQ41M",
-  "current_title": "周末大瓜：罗永浩摩擦贾国龙，西贝口玉龙！｜UBC大学生人群对查理柯克遇刺的真实反应田野调查统计",
-  "current_url": "https://www.youtube.com/watch?v=RKFYXZGQ41M",
+  "queue_index": 505,
+  "updated_at": 1775589560,
+  "updated_at_readable": "2026-04-07 19:19:20",
+  "current_video_id": "KJ8bHjt6qxw",
+  "current_title": "插播：美国刺客抓住了，居然是个传统保守共和党家庭的儿子，论美国大学的堕落｜中元节教友见鬼实录｜哈尔滨猫脸老太太的传说｜拿性教梦中吃鬼剑身健体已经成为新潮流",
+  "current_url": "https://www.youtube.com/watch?v=KJ8bHjt6qxw",
   "current_tab": "streams"
 }
