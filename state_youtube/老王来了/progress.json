@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/5lWLLD3fTM4.%(ext)s', 'https://www.youtube.com/watch?v=5lWLLD3fTM4'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 376,
-  "updated_at": 1775529857,
-  "updated_at_readable": "2026-04-07 02:44:17",
-  "current_video_id": "5lWLLD3fTM4",
-  "current_title": "第一次模拟直播，与推友们的精彩评论互动",
-  "current_url": "https://www.youtube.com/watch?v=5lWLLD3fTM4",
+  "queue_index": 377,
+  "updated_at": 1775530045,
+  "updated_at_readable": "2026-04-07 02:47:25",
+  "current_video_id": "EXrZTTrj8lc",
+  "current_title": "开播宣言：立个棍儿，大老王真来了！",
+  "current_url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
   "current_tab": "videos"
 }
