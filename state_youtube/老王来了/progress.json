@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/-D97AHyMPEg.%(ext)s', 'https://www.youtube.com/watch?v=-D97AHyMPEg'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 490,
-  "updated_at": 1775579567,
-  "updated_at_readable": "2026-04-07 16:32:47",
-  "current_video_id": "EJaKTflEWYk",
-  "current_title": "周末玄学：出马仙为什么会早死或者疯？｜凡人链接阿卡西获得神通的方法｜玄学怀孕｜",
-  "current_url": "https://www.youtube.com/watch?v=EJaKTflEWYk",
+  "queue_index": 491,
+  "updated_at": 1775579656,
+  "updated_at_readable": "2026-04-07 16:34:16",
+  "current_video_id": "-D97AHyMPEg",
+  "current_title": "VIP33稳定币的本质：从去中心化回到中心化｜为什么说稳定币才是人类的未来货币｜稳定币如何稳定｜为什么美国赢了第一局",
+  "current_url": "https://www.youtube.com/watch?v=-D97AHyMPEg",
   "current_tab": "streams"
 }
