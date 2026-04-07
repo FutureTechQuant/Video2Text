@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/KIRJh5uMoGw.%(ext)s', 'https://www.youtube.com/watch?v=KIRJh5uMoGw'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 378,
-  "updated_at": 1775530142,
-  "updated_at_readable": "2026-04-07 02:49:02",
-  "current_video_id": "KIRJh5uMoGw",
-  "current_title": "光荣弹与MC130：中式英雄与美式英雄你选哪一个？",
-  "current_url": "https://www.youtube.com/watch?v=KIRJh5uMoGw",
+  "queue_index": 379,
+  "updated_at": 1775531568,
+  "updated_at_readable": "2026-04-07 03:12:47",
+  "current_video_id": "43vUZFFfpu8",
+  "current_title": "周末来信：迪拜完了吗？伊朗很厉害？迪拜生活真实状态报道｜玄学：又有教友被鬼压床了，老王手把手教给你DIY驱鬼｜台灣小開爭家產｜深圳學渣初中生的前途",
+  "current_url": "https://www.youtube.com/watch?v=43vUZFFfpu8",
   "current_tab": "streams"
 }
