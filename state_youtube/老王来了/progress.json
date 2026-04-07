@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jINtOrPs9qM.%(ext)s', 'https://www.youtube.com/watch?v=jINtOrPs9qM'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 509,
-  "updated_at": 1775593242,
-  "updated_at_readable": "2026-04-07 20:20:42",
-  "current_video_id": "V5W5Y1i4K6A",
-  "current_title": "A股阅兵后出现150岁熊｜论本次大阅兵的4大诡异｜周末玄学之多人梦见阴间大基建",
-  "current_url": "https://www.youtube.com/watch?v=V5W5Y1i4K6A",
+  "queue_index": 510,
+  "updated_at": 1775593338,
+  "updated_at_readable": "2026-04-07 20:22:18",
+  "current_video_id": "jINtOrPs9qM",
+  "current_title": "VIP29：古董车收藏市场与秘籍｜A股出现150岁暴跌：盘点阅兵的4大诡与1大爆",
+  "current_url": "https://www.youtube.com/watch?v=jINtOrPs9qM",
   "current_tab": "streams"
 }
