@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jBrZBkuovJ4.%(ext)s', 'https://www.youtube.com/watch?v=jBrZBkuovJ4'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 369,
-  "updated_at": 1775528458,
-  "updated_at_readable": "2026-04-07 02:20:58",
-  "current_video_id": "jBrZBkuovJ4",
-  "current_title": "今日蹭翟秀草蛇灰线埋几个猛料，BD经济学家评舒默访华及人民币汇率破8",
-  "current_url": "https://www.youtube.com/watch?v=jBrZBkuovJ4",
+  "queue_index": 370,
+  "updated_at": 1775528587,
+  "updated_at_readable": "2026-04-07 02:23:07",
+  "current_video_id": "99URI2p9-WM",
+  "current_title": "发生播报事故，录到最后电话进来打断了，补上。新警察故事，说成新城市猎人了，片中向刘阿姨致敬！加拿大合法拥枪，有很多油管频道主拆箱枪支不会被封号！",
+  "current_url": "https://www.youtube.com/watch?v=99URI2p9-WM",
   "current_tab": "videos"
 }
