@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/l69fMPsXzpc.%(ext)s', 'https://www.youtube.com/watch?v=l69fMPsXzpc'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 399,
-  "updated_at": 1775542405,
-  "updated_at_readable": "2026-04-07 06:13:25",
-  "current_video_id": "l69fMPsXzpc",
-  "current_title": "AI进化的道路与英伟达不可避免的衰落",
-  "current_url": "https://www.youtube.com/watch?v=l69fMPsXzpc",
+  "queue_index": 400,
+  "updated_at": 1775543568,
+  "updated_at_readable": "2026-04-07 06:32:48",
+  "current_video_id": "-U3x7eVQ1xU",
+  "current_title": "美伊局势评论：维尼小熊开始抓特务了！",
+  "current_url": "https://www.youtube.com/watch?v=-U3x7eVQ1xU",
   "current_tab": "streams"
 }
