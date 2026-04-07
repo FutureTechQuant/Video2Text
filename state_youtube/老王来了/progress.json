@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/_6dbZT47PYE.%(ext)s', 'https://www.youtube.com/watch?v=_6dbZT47PYE'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 476,
-  "updated_at": 1775561400,
-  "updated_at_readable": "2026-04-07 11:30:00",
-  "current_video_id": "_6dbZT47PYE",
-  "current_title": "VIP36：美元、黄金与美股，如何抓住黄金大潮，揭秘颐和黄金的商业计划",
-  "current_url": "https://www.youtube.com/watch?v=_6dbZT47PYE",
+  "queue_index": 477,
+  "updated_at": 1775563426,
+  "updated_at_readable": "2026-04-07 12:03:46",
+  "current_video_id": "BPOrVwfa_64",
+  "current_title": "中华田园基督徒为什么不能进天堂｜避世修行者的孩子如何重返社会｜犯错误不是关键有没有家族点拨才是关键｜大学同学托梦",
+  "current_url": "https://www.youtube.com/watch?v=BPOrVwfa_64",
   "current_tab": "streams"
 }
