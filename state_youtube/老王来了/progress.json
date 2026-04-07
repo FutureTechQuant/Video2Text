@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tq3oscKyLYI.%(ext)s', 'https://www.youtube.com/watch?v=tq3oscKyLYI'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tTGMyOv11t0.%(ext)s', 'https://www.youtube.com/watch?v=tTGMyOv11t0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 373,
-  "updated_at": 1775529583,
-  "updated_at_readable": "2026-04-07 02:39:43",
-  "current_video_id": "tq3oscKyLYI",
-  "current_title": "旁观巴以战争，作为中国族裔人，我们没有仇恨只有悲伤（第25分钟开始正片之前是金融相声）",
-  "current_url": "https://www.youtube.com/watch?v=tq3oscKyLYI",
+  "queue_index": 374,
+  "updated_at": 1775529680,
+  "updated_at_readable": "2026-04-07 02:41:20",
+  "current_video_id": "tTGMyOv11t0",
+  "current_title": "干货第4期：炒股您赔的钱被谁赚走了？村支书大老王股市第一问，非常枯燥无味，感谢steebu推友的英文字幕！",
+  "current_url": "https://www.youtube.com/watch?v=tTGMyOv11t0",
   "current_tab": "videos"
 }
