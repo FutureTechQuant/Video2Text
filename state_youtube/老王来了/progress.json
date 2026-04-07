@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/q0db__EUC7U.%(ext)s', 'https://www.youtube.com/watch?v=q0db__EUC7U'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 524,
-  "updated_at": 1775605304,
-  "updated_at_readable": "2026-04-07 23:41:44",
-  "current_video_id": "tJUbBgzUh6w",
-  "current_title": "周末玄学：如何摆脱六道轮回，破瓦法与夺舍法的秘诀",
-  "current_url": "https://www.youtube.com/watch?v=tJUbBgzUh6w",
+  "queue_index": 525,
+  "updated_at": 1775605400,
+  "updated_at_readable": "2026-04-07 23:43:20",
+  "current_video_id": "q0db__EUC7U",
+  "current_title": "VIP26:哇哈哈完全大揭秘｜今日起百刀会半价了，欢迎成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=q0db__EUC7U",
   "current_tab": "streams"
 }
