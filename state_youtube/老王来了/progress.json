@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/zD_35-CQcHU.%(ext)s', 'https://www.youtube.com/watch?v=zD_35-CQcHU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ze3pqA4XMU4.%(ext)s', 'https://www.youtube.com/watch?v=ze3pqA4XMU4'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 470,
-  "updated_at": 1775555733,
-  "updated_at_readable": "2026-04-07 09:55:33",
-  "current_video_id": "zD_35-CQcHU",
-  "current_title": "长夜漫漫无心睡眠聊聊天放放松快乐助眠一整天",
-  "current_url": "https://www.youtube.com/watch?v=zD_35-CQcHU",
+  "queue_index": 471,
+  "updated_at": 1775558381,
+  "updated_at_readable": "2026-04-07 10:39:41",
+  "current_video_id": "ze3pqA4XMU4",
+  "current_title": "VIP直播：海航剧终：不能公开的秘密｜普通人如何正确混入政策决策圈我的经验｜我为什么反习不反党",
+  "current_url": "https://www.youtube.com/watch?v=ze3pqA4XMU4",
   "current_tab": "streams"
 }
