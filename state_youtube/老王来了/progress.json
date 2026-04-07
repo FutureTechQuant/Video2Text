@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/NVFxyRE2dKc.%(ext)s', 'https://www.youtube.com/watch?v=NVFxyRE2dKc'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gYBh-eEGl9c.%(ext)s', 'https://www.youtube.com/watch?v=gYBh-eEGl9c'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 952,
-  "queue_index": 358,
-  "updated_at": 1775525753,
-  "updated_at_readable": "2026-04-07 01:35:53",
-  "current_video_id": "NVFxyRE2dKc",
-  "current_title": "解答王林终极问题：有钱人都是傻逼？他有神通为什么不救自己？",
-  "current_url": "https://www.youtube.com/watch?v=NVFxyRE2dKc",
+  "queue_total": 953,
+  "queue_index": 359,
+  "updated_at": 1775525859,
+  "updated_at_readable": "2026-04-07 01:37:39",
+  "current_video_id": "gYBh-eEGl9c",
+  "current_title": "王永红背后的男人二：填坑王林大师",
+  "current_url": "https://www.youtube.com/watch?v=gYBh-eEGl9c",
   "current_tab": "videos"
 }
