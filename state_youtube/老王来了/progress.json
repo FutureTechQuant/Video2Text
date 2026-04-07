@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/1hTWgiRdLxA.%(ext)s', 'https://www.youtube.com/watch?v=1hTWgiRdLxA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/p3wdvd1V7F0.%(ext)s', 'https://www.youtube.com/watch?v=p3wdvd1V7F0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 407,
-  "updated_at": 1775544870,
-  "updated_at_readable": "2026-04-07 06:54:30",
-  "current_video_id": "1hTWgiRdLxA",
-  "current_title": "周末玄学：孙中山转世河南聋哑人张四目｜女鬼吸阳气导致少年险情的经历｜父亲中阴身跨洋回国团聚的故事｜我与老公性生活是今生唯一憾事",
-  "current_url": "https://www.youtube.com/watch?v=1hTWgiRdLxA",
+  "queue_index": 408,
+  "updated_at": 1775544967,
+  "updated_at_readable": "2026-04-07 06:56:07",
+  "current_video_id": "p3wdvd1V7F0",
+  "current_title": "随便聊聊：CIA招募解放军打广告了，说我们国家在疯子手里，谁是疯子？｜冬奥会谷爱凌大翻车，中美两边不讨好",
+  "current_url": "https://www.youtube.com/watch?v=p3wdvd1V7F0",
   "current_tab": "streams"
 }
