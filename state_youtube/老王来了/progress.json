@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/mnNhQVKCT2M.%(ext)s', 'https://www.youtube.com/watch?v=mnNhQVKCT2M'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 364,
-  "updated_at": 1775527100,
-  "updated_at_readable": "2026-04-07 01:58:20",
-  "current_video_id": "OfqlY5mdKX8",
-  "current_title": "睡前聊聊天：撸网贷，穷人参军，大饥荒，凭票供应，大洪水，唐万新，德隆系，平安个人大股东，马明哲，温家宝，张工，温云松，红色轮盘赌",
-  "current_url": "https://www.youtube.com/watch?v=OfqlY5mdKX8",
+  "queue_index": 365,
+  "updated_at": 1775527201,
+  "updated_at_readable": "2026-04-07 02:00:01",
+  "current_video_id": "mnNhQVKCT2M",
+  "current_title": "对比黄光裕顾雏军，点评中国上市公司包装财技，揭秘资本大鳄饲养现金奶牛的技术",
+  "current_url": "https://www.youtube.com/watch?v=mnNhQVKCT2M",
   "current_tab": "videos"
 }
