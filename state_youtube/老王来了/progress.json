@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/FJQsqL3nPCk.%(ext)s', 'https://www.youtube.com/watch?v=FJQsqL3nPCk'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 519,
-  "updated_at": 1775601440,
-  "updated_at_readable": "2026-04-07 22:37:20",
-  "current_video_id": "3cq6cLguW3A",
-  "current_title": "周五玄学：孩子离世的教友心碎来信｜见鬼录3则白天雾状夜晚光斑的人间之鬼与实体化的阴间之鬼｜澳洲塔罗牌美女来信｜澳洲美加白人阴阳师的存在｜真正的射覆之术与超感气功修行｜",
-  "current_url": "https://www.youtube.com/watch?v=3cq6cLguW3A",
+  "queue_index": 520,
+  "updated_at": 1775601540,
+  "updated_at_readable": "2026-04-07 22:39:00",
+  "current_video_id": "FJQsqL3nPCk",
+  "current_title": "VIP27:解密哇哈哈2：为什么让宗馥莉代持？为什么是21亿美元？｜公安教友详解拿兴教的喝茶风险｜解构郭文贵",
+  "current_url": "https://www.youtube.com/watch?v=FJQsqL3nPCk",
   "current_tab": "streams"
 }
