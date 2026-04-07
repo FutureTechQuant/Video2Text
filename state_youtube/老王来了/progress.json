@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/dDZJWrJfqaE.%(ext)s', 'https://www.youtube.com/watch?v=dDZJWrJfqaE'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Qq47RRzzWXQ.%(ext)s', 'https://www.youtube.com/watch?v=Qq47RRzzWXQ'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 417,
-  "updated_at": 1775548504,
-  "updated_at_readable": "2026-04-07 07:55:04",
-  "current_video_id": "dDZJWrJfqaE",
-  "current_title": "VIP41直播：超级MBA货币金融课之黄金的合理价格区间预测",
-  "current_url": "https://www.youtube.com/watch?v=dDZJWrJfqaE",
+  "queue_index": 418,
+  "updated_at": 1775548588,
+  "updated_at_readable": "2026-04-07 07:56:28",
+  "current_video_id": "Qq47RRzzWXQ",
+  "current_title": "闲聊几句张又侠出卖核机密的可能性｜沙利文站出来说话了，你不知道的中美军事交流内幕！",
+  "current_url": "https://www.youtube.com/watch?v=Qq47RRzzWXQ",
   "current_tab": "streams"
 }
