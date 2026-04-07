@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/a2PZSRgrU8E.%(ext)s', 'https://www.youtube.com/watch?v=a2PZSRgrU8E'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 410,
-  "updated_at": 1775545986,
-  "updated_at_readable": "2026-04-07 07:13:06",
-  "current_video_id": "a2PZSRgrU8E",
-  "current_title": "军报删除批张文章，习春节下基层下部队不离京｜王志安再陷麻烦，陈光诚大战王志安｜经济下行企业家被纪委勒索个没完没了怎么办",
-  "current_url": "https://www.youtube.com/watch?v=a2PZSRgrU8E",
+  "queue_index": 411,
+  "updated_at": 1775547070,
+  "updated_at_readable": "2026-04-07 07:31:10",
+  "current_video_id": "4arNR0JKjJw",
+  "current_title": "史上砸孙第一人陶成章｜孙中山贪污革命经费的3大罪状14条污点｜",
+  "current_url": "https://www.youtube.com/watch?v=4arNR0JKjJw",
   "current_tab": "streams"
 }
