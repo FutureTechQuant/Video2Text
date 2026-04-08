@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/MPozrZr52J8.%(ext)s', 'https://www.youtube.com/watch?v=MPozrZr52J8'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gmWxbz6CrrA.%(ext)s', 'https://www.youtube.com/watch?v=gmWxbz6CrrA'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 638,
-  "updated_at": 1775671082,
-  "updated_at_readable": "2026-04-08 17:58:02",
-  "current_video_id": "MPozrZr52J8",
-  "current_title": "VIP首播1：抬头望见北极光",
-  "current_url": "https://www.youtube.com/watch?v=MPozrZr52J8",
+  "queue_index": 639,
+  "updated_at": 1775671175,
+  "updated_at_readable": "2026-04-08 17:59:35",
+  "current_video_id": "gmWxbz6CrrA",
+  "current_title": "巴菲特如是说：IC卡贸易战解决方案｜川普版与巴菲特版的同与不同",
+  "current_url": "https://www.youtube.com/watch?v=gmWxbz6CrrA",
   "current_tab": "streams"
 }
