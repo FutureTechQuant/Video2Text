@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/u2_CoxM77g8.%(ext)s', 'https://www.youtube.com/watch?v=u2_CoxM77g8'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/hF2Ta6c0swU.%(ext)s', 'https://www.youtube.com/watch?v=hF2Ta6c0swU'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 577,
-  "updated_at": 1775647485,
-  "updated_at_readable": "2026-04-08 11:24:45",
-  "current_video_id": "u2_CoxM77g8",
-  "current_title": "VIP15:下周一美股将大跌，美式六四箭在弦上，川乱国一蠢再蠢｜",
-  "current_url": "https://www.youtube.com/watch?v=u2_CoxM77g8",
+  "queue_index": 578,
+  "updated_at": 1775647590,
+  "updated_at_readable": "2026-04-08 11:26:30",
+  "current_video_id": "hF2Ta6c0swU",
+  "current_title": "VIP14:马斯克命盘解析未来特斯拉走势｜黄泉路实景及下黄泉鬼道的法术（非专业人士在家勿练）｜密法若干，鬼事若干",
+  "current_url": "https://www.youtube.com/watch?v=hF2Ta6c0swU",
   "current_tab": "streams"
 }
