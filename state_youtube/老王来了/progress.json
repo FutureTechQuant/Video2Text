@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/KhGmzD5qSyA.%(ext)s', 'https://www.youtube.com/watch?v=KhGmzD5qSyA'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 560,
-  "updated_at": 1775636753,
-  "updated_at_readable": "2026-04-08 08:25:53",
-  "current_video_id": "KhGmzD5qSyA",
-  "current_title": "为什么癌症越來越多，越來越年輕！",
-  "current_url": "https://www.youtube.com/watch?v=KhGmzD5qSyA",
+  "queue_index": 561,
+  "updated_at": 1775637809,
+  "updated_at_readable": "2026-04-08 08:43:29",
+  "current_video_id": "j70TVIiv-7Y",
+  "current_title": "为什么蒋经国私生子姓郭？｜为什么章亚若不可能让王继春上自己，为什么蒋经国日记不可信？",
+  "current_url": "https://www.youtube.com/watch?v=j70TVIiv-7Y",
   "current_tab": "streams"
 }
