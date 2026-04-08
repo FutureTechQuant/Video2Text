@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/83R7_4pxaAU.%(ext)s', 'https://www.youtube.com/watch?v=83R7_4pxaAU'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 530,
-  "updated_at": 1775608427,
-  "updated_at_readable": "2026-04-08 00:33:47",
-  "current_video_id": "83R7_4pxaAU",
-  "current_title": "VIP25：江油上街的真相与费拉洼地的基层组织构造｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=83R7_4pxaAU",
+  "queue_index": 531,
+  "updated_at": 1775609613,
+  "updated_at_readable": "2026-04-08 00:53:33",
+  "current_video_id": "qOz2v4fncFw",
+  "current_title": "江青和她的男人们（下）！",
+  "current_url": "https://www.youtube.com/watch?v=qOz2v4fncFw",
   "current_tab": "streams"
 }
