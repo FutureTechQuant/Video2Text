@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eFNAwgQ9w9E.%(ext)s', 'https://www.youtube.com/watch?v=eFNAwgQ9w9E'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Yo8hb3k3O9k.%(ext)s', 'https://www.youtube.com/watch?v=Yo8hb3k3O9k'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 613,
-  "updated_at": 1775665429,
-  "updated_at_readable": "2026-04-08 16:23:49",
-  "current_video_id": "eFNAwgQ9w9E",
-  "current_title": "周末玄学与家庭、两性特辑瞎胡聊",
-  "current_url": "https://www.youtube.com/watch?v=eFNAwgQ9w9E",
+  "queue_index": 614,
+  "updated_at": 1775665529,
+  "updated_at_readable": "2026-04-08 16:25:29",
+  "current_video_id": "Yo8hb3k3O9k",
+  "current_title": "回忆狼教授为什么毅然放弃美国教职，报效祖国？｜周末玄学与家庭、两性特辑瞎胡聊",
+  "current_url": "https://www.youtube.com/watch?v=Yo8hb3k3O9k",
   "current_tab": "streams"
 }
