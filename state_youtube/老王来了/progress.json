@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/308dzlWHzK0.%(ext)s', 'https://www.youtube.com/watch?v=308dzlWHzK0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gw_ZC9Nxmoo.%(ext)s', 'https://www.youtube.com/watch?v=gw_ZC9Nxmoo'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 611,
-  "updated_at": 1775665248,
-  "updated_at_readable": "2026-04-08 16:20:48",
-  "current_video_id": "308dzlWHzK0",
-  "current_title": "VIP（7）：东莞的繁华、没落与胡春华的魅影",
-  "current_url": "https://www.youtube.com/watch?v=308dzlWHzK0",
+  "queue_index": 612,
+  "updated_at": 1775665337,
+  "updated_at_readable": "2026-04-08 16:22:17",
+  "current_video_id": "gw_ZC9Nxmoo",
+  "current_title": "一个纯GAY的痛苦自白｜理工学妹婚外情困惑｜多伦多老板观众风水格局破财生病亲历记｜",
+  "current_url": "https://www.youtube.com/watch?v=gw_ZC9Nxmoo",
   "current_tab": "streams"
 }
