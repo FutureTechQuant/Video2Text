@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/IlwAOhYVqIU.%(ext)s', 'https://www.youtube.com/watch?v=IlwAOhYVqIU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/4ErJYWHFxNc.%(ext)s', 'https://www.youtube.com/watch?v=4ErJYWHFxNc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 609,
-  "updated_at": 1775660983,
-  "updated_at_readable": "2026-04-08 15:09:43",
-  "current_video_id": "IlwAOhYVqIU",
-  "current_title": "母子连心的惊人命书案例分享，与观众共同见证人类的奇特预知梦",
-  "current_url": "https://www.youtube.com/watch?v=IlwAOhYVqIU",
+  "queue_index": 610,
+  "updated_at": 1775665132,
+  "updated_at_readable": "2026-04-08 16:18:52",
+  "current_video_id": "4ErJYWHFxNc",
+  "current_title": "资本之神巴菲特亮牌：选日本弃中国｜习四中全会退总书记保留国家主席军委主席｜泽连斯基瞄准红场阅兵，习头铁坚持亲自测试｜变性人的命运之树走向｜",
+  "current_url": "https://www.youtube.com/watch?v=4ErJYWHFxNc",
   "current_tab": "streams"
 }
