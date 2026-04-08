@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/KLYW14E5RQo.%(ext)s', 'https://www.youtube.com/watch?v=KLYW14E5RQo'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Iw9Sbi7_EE4.%(ext)s', 'https://www.youtube.com/watch?v=Iw9Sbi7_EE4'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 654,
-  "updated_at": 1775680736,
-  "updated_at_readable": "2026-04-08 20:38:56",
-  "current_video_id": "KLYW14E5RQo",
-  "current_title": "中共风向突变真相：为什么放过嘉诚打夹头｜老习家捞了多少？美国要出报告！｜周末玄学鬼故事（下）",
-  "current_url": "https://www.youtube.com/watch?v=KLYW14E5RQo",
+  "queue_index": 655,
+  "updated_at": 1775680838,
+  "updated_at_readable": "2026-04-08 20:40:38",
+  "current_video_id": "Iw9Sbi7_EE4",
+  "current_title": "习国师忠诚不绝对，玄学解析云贵之旅｜司马南跑了！｜马斯克急了｜周末玄学会客厅",
+  "current_url": "https://www.youtube.com/watch?v=Iw9Sbi7_EE4",
   "current_tab": "streams"
 }
