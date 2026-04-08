@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/M-qzeNNkIj0.%(ext)s', 'https://www.youtube.com/watch?v=M-qzeNNkIj0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 565,
-  "updated_at": 1775642448,
-  "updated_at_readable": "2026-04-08 10:00:48",
-  "current_video_id": "hWupJsNOQ0k",
-  "current_title": "习泽平的改命书｜55岁老年性觉醒了怎么办｜人生励志与迷途故事｜女儿被霸凌跳楼怎么办？",
-  "current_url": "https://www.youtube.com/watch?v=hWupJsNOQ0k",
+  "queue_index": 566,
+  "updated_at": 1775642544,
+  "updated_at_readable": "2026-04-08 10:02:24",
+  "current_video_id": "M-qzeNNkIj0",
+  "current_title": "VIP18:点评白彬案真相｜拿兴教的和平饭店！",
+  "current_url": "https://www.youtube.com/watch?v=M-qzeNNkIj0",
   "current_tab": "streams"
 }
