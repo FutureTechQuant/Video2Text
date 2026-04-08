@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/603gpYMfiS0.%(ext)s', 'https://www.youtube.com/watch?v=603gpYMfiS0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/it3ZIAYkg6U.%(ext)s', 'https://www.youtube.com/watch?v=it3ZIAYkg6U'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 615,
-  "updated_at": 1775665631,
-  "updated_at_readable": "2026-04-08 16:27:11",
-  "current_video_id": "603gpYMfiS0",
-  "current_title": "VIP直播（6）：中国证券市场回忆录之假账风云｜成为老王来了的会员，手把手帮你做假账",
-  "current_url": "https://www.youtube.com/watch?v=603gpYMfiS0",
+  "queue_index": 616,
+  "updated_at": 1775665732,
+  "updated_at_readable": "2026-04-08 16:28:52",
+  "current_video_id": "it3ZIAYkg6U",
+  "current_title": "美股上涨，传言中美达成初步共识｜伊朗大爆炸是摩萨德点了中国出口的固体导弹燃料｜加拿大保守党败选博励志可能辞职",
+  "current_url": "https://www.youtube.com/watch?v=it3ZIAYkg6U",
   "current_tab": "streams"
 }
