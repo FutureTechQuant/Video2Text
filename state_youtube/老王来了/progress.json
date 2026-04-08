@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Ub3JG3qCJ7s.%(ext)s', 'https://www.youtube.com/watch?v=Ub3JG3qCJ7s'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/9l-SMX5UYdU.%(ext)s', 'https://www.youtube.com/watch?v=9l-SMX5UYdU'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 575,
-  "updated_at": 1775647292,
-  "updated_at_readable": "2026-04-08 11:21:32",
-  "current_video_id": "Ub3JG3qCJ7s",
-  "current_title": "VIP17:复盘郭文贵得失，预测何时出狱？｜论时代人物的神学使命与悟性面板",
-  "current_url": "https://www.youtube.com/watch?v=Ub3JG3qCJ7s",
+  "queue_index": 576,
+  "updated_at": 1775647394,
+  "updated_at_readable": "2026-04-08 11:23:14",
+  "current_video_id": "9l-SMX5UYdU",
+  "current_title": "VIP16:聊聊洛杉矶暴乱的本质与美股走势/户外星链测试",
+  "current_url": "https://www.youtube.com/watch?v=9l-SMX5UYdU",
   "current_tab": "streams"
 }
