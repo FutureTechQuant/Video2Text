@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/NEIaV-PaY6o.%(ext)s', 'https://www.youtube.com/watch?v=NEIaV-PaY6o'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tK86FneDUJ8.%(ext)s', 'https://www.youtube.com/watch?v=tK86FneDUJ8'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 617,
-  "updated_at": 1775665821,
-  "updated_at_readable": "2026-04-08 16:30:21",
-  "current_video_id": "NEIaV-PaY6o",
-  "current_title": "美国不再民主｜从灯塔到利益，评未来三十年五大矛盾之下的美国可控衰落。",
-  "current_url": "https://www.youtube.com/watch?v=NEIaV-PaY6o",
+  "queue_index": 618,
+  "updated_at": 1775665918,
+  "updated_at_readable": "2026-04-08 16:31:58",
+  "current_video_id": "tK86FneDUJ8",
+  "current_title": "教皇方济各之死：上帝插手，人皇觉悟，一场葬礼改写的人类未来与金融市场走向",
+  "current_url": "https://www.youtube.com/watch?v=tK86FneDUJ8",
   "current_tab": "streams"
 }
