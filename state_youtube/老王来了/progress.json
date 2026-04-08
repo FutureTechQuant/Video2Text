@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eWmr3h2OJcY.%(ext)s', 'https://www.youtube.com/watch?v=eWmr3h2OJcY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/E9zVsuoSbJo.%(ext)s', 'https://www.youtube.com/watch?v=E9zVsuoSbJo'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 607,
-  "updated_at": 1775660785,
-  "updated_at_readable": "2026-04-08 15:06:25",
-  "current_video_id": "eWmr3h2OJcY",
-  "current_title": "阵风战机败北，幻影2000咋办？",
-  "current_url": "https://www.youtube.com/watch?v=eWmr3h2OJcY",
+  "queue_index": 608,
+  "updated_at": 1775660880,
+  "updated_at_readable": "2026-04-08 15:08:00",
+  "current_video_id": "E9zVsuoSbJo",
+  "current_title": "VIP8:长篇资本市场纪实连载《抬头看见北极光》1：入得皇城拌水边",
+  "current_url": "https://www.youtube.com/watch?v=E9zVsuoSbJo",
   "current_tab": "streams"
 }
