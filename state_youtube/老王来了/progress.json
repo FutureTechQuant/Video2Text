@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Q-efYZLAsVM.%(ext)s', 'https://www.youtube.com/watch?v=Q-efYZLAsVM'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 628,
-  "updated_at": 1775668294,
-  "updated_at_readable": "2026-04-08 17:11:34",
-  "current_video_id": "Q-efYZLAsVM",
-  "current_title": "VIP直播（4）：中国证券市场繁花初绽与胎毒",
-  "current_url": "https://www.youtube.com/watch?v=Q-efYZLAsVM",
+  "queue_index": 629,
+  "updated_at": 1775669374,
+  "updated_at_readable": "2026-04-08 17:29:34",
+  "current_video_id": "6X9PBH7RGn4",
+  "current_title": "428加拿大大选投什么人？30个问题手把手教你选择执政党！赠澳洲大选指南！",
+  "current_url": "https://www.youtube.com/watch?v=6X9PBH7RGn4",
   "current_tab": "streams"
 }
