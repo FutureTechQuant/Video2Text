@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gw_ZC9Nxmoo.%(ext)s', 'https://www.youtube.com/watch?v=gw_ZC9Nxmoo'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eFNAwgQ9w9E.%(ext)s', 'https://www.youtube.com/watch?v=eFNAwgQ9w9E'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 612,
-  "updated_at": 1775665337,
-  "updated_at_readable": "2026-04-08 16:22:17",
-  "current_video_id": "gw_ZC9Nxmoo",
-  "current_title": "一个纯GAY的痛苦自白｜理工学妹婚外情困惑｜多伦多老板观众风水格局破财生病亲历记｜",
-  "current_url": "https://www.youtube.com/watch?v=gw_ZC9Nxmoo",
+  "queue_index": 613,
+  "updated_at": 1775665429,
+  "updated_at_readable": "2026-04-08 16:23:49",
+  "current_video_id": "eFNAwgQ9w9E",
+  "current_title": "周末玄学与家庭、两性特辑瞎胡聊",
+  "current_url": "https://www.youtube.com/watch?v=eFNAwgQ9w9E",
   "current_tab": "streams"
 }
