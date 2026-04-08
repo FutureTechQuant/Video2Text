@@ -1,0 +1,47 @@
+{
+  "destination": "过拟合青年",
+  "source_url": "https://space.bilibili.com/255230761/lists/7803289?type=season",
+  "generated_at": "2026-04-08 01:02:39",
+  "items": [
+    {
+      "item_id": "0001_BV1DX9EBMEec",
+      "index": 1,
+      "bvid": "BV1DX9EBMEec",
+      "page": 1,
+      "title": "item_1",
+      "url": "https://www.bilibili.com/video/BV1DX9EBMEec"
+    },
+    {
+      "item_id": "0002_BV1WG9cBkEDv",
+      "index": 2,
+      "bvid": "BV1WG9cBkEDv",
+      "page": 1,
+      "title": "item_2",
+      "url": "https://www.bilibili.com/video/BV1WG9cBkEDv"
+    },
+    {
+      "item_id": "0003_BV1K59NBoEdE",
+      "index": 3,
+      "bvid": "BV1K59NBoEdE",
+      "page": 1,
+      "title": "item_3",
+      "url": "https://www.bilibili.com/video/BV1K59NBoEdE"
+    },
+    {
+      "item_id": "0004_BV1qYDTBrEVo",
+      "index": 4,
+      "bvid": "BV1qYDTBrEVo",
+      "page": 1,
+      "title": "item_4",
+      "url": "https://www.bilibili.com/video/BV1qYDTBrEVo"
+    },
+    {
+      "item_id": "0005_BV1HqDiBhEGc",
+      "index": 5,
+      "bvid": "BV1HqDiBhEGc",
+      "page": 1,
+      "title": "item_5",
+      "url": "https://www.bilibili.com/video/BV1HqDiBhEGc"
+    }
+  ]
+}
