@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Iw9Sbi7_EE4.%(ext)s', 'https://www.youtube.com/watch?v=Iw9Sbi7_EE4'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 655,
-  "updated_at": 1775680838,
-  "updated_at_readable": "2026-04-08 20:40:38",
-  "current_video_id": "Iw9Sbi7_EE4",
-  "current_title": "习国师忠诚不绝对，玄学解析云贵之旅｜司马南跑了！｜马斯克急了｜周末玄学会客厅",
-  "current_url": "https://www.youtube.com/watch?v=Iw9Sbi7_EE4",
+  "queue_index": 656,
+  "updated_at": 1775682238,
+  "updated_at_readable": "2026-04-08 21:03:58",
+  "current_video_id": "CcteFH1D7ZU",
+  "current_title": "红烧嘉诚白灼马，扒一扒我党的抢钱史｜朱德的扁担，毛泽东与希特勒的贸易，绝命毒师张思德，荒野大镖客白求恩",
+  "current_url": "https://www.youtube.com/watch?v=CcteFH1D7ZU",
   "current_tab": "streams"
 }
