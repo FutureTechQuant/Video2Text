@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/iePGJo6RJMc.%(ext)s', 'https://www.youtube.com/watch?v=iePGJo6RJMc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 561,
-  "updated_at": 1775637809,
-  "updated_at_readable": "2026-04-08 08:43:29",
-  "current_video_id": "j70TVIiv-7Y",
-  "current_title": "为什么蒋经国私生子姓郭？｜为什么章亚若不可能让王继春上自己，为什么蒋经国日记不可信？",
-  "current_url": "https://www.youtube.com/watch?v=j70TVIiv-7Y",
+  "queue_index": 562,
+  "updated_at": 1775640367,
+  "updated_at_readable": "2026-04-08 09:26:07",
+  "current_video_id": "iePGJo6RJMc",
+  "current_title": "VIP19:百刀会聊聊天💬",
+  "current_url": "https://www.youtube.com/watch?v=iePGJo6RJMc",
   "current_tab": "streams"
 }
