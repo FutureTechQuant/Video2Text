@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RXCre_nd3Zk.%(ext)s', 'https://www.youtube.com/watch?v=RXCre_nd3Zk'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 557,
-  "updated_at": 1775635798,
-  "updated_at_readable": "2026-04-08 08:09:58",
-  "current_video_id": "JVuwxEUmu68",
-  "current_title": "殡仪馆游鬼附体失败案例｜自修仙入精神病院案例｜被边控教友出逃海外特价通道｜易占50根筮草之谜已经揭开",
-  "current_url": "https://www.youtube.com/watch?v=JVuwxEUmu68",
+  "queue_index": 558,
+  "updated_at": 1775635882,
+  "updated_at_readable": "2026-04-08 08:11:22",
+  "current_video_id": "RXCre_nd3Zk",
+  "current_title": "VIP20:抬头看见北极光（上部终）：黄金世纪机遇的发现与高德黄金和颐和黄金的分裂",
+  "current_url": "https://www.youtube.com/watch?v=RXCre_nd3Zk",
   "current_tab": "streams"
 }
