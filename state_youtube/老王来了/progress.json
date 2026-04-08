@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/GsaVRwjZoyg.%(ext)s', 'https://www.youtube.com/watch?v=GsaVRwjZoyg'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 619,
-  "updated_at": 1775667445,
-  "updated_at_readable": "2026-04-08 16:57:25",
-  "current_video_id": "0wGidcWCLgQ",
-  "current_title": "天生反贼孙中山（下）｜何以解忧？成为老王来了的会员可以解忧！",
-  "current_url": "https://www.youtube.com/watch?v=0wGidcWCLgQ",
+  "queue_index": 620,
+  "updated_at": 1775667534,
+  "updated_at_readable": "2026-04-08 16:58:54",
+  "current_video_id": "GsaVRwjZoyg",
+  "current_title": "最新命理实践证明：拉拉和基佬是命中注定的｜雪白肌肤小少妇的迷茫｜成为老王来了的会员可以解忧",
+  "current_url": "https://www.youtube.com/watch?v=GsaVRwjZoyg",
   "current_tab": "streams"
 }
