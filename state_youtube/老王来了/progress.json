@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/rCPMr4vfLnQ.%(ext)s', 'https://www.youtube.com/watch?v=rCPMr4vfLnQ'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 580,
-  "updated_at": 1775647783,
-  "updated_at_readable": "2026-04-08 11:29:43",
-  "current_video_id": "rCPMr4vfLnQ",
-  "current_title": "VIP12:特斯拉即将创造新低！｜抬头看见北极光5：二逼草莽金牛座与文化小人郎咸平｜江湖：为何有人善遇贵人而有人屡结仇人？",
-  "current_url": "https://www.youtube.com/watch?v=rCPMr4vfLnQ",
+  "queue_index": 581,
+  "updated_at": 1775648861,
+  "updated_at_readable": "2026-04-08 11:47:41",
+  "current_video_id": "Gg0_EJ2pdnA",
+  "current_title": "国运临头：袁世凯PK赵紫阳，戏说中国政变史！",
+  "current_url": "https://www.youtube.com/watch?v=Gg0_EJ2pdnA",
   "current_tab": "streams"
 }
