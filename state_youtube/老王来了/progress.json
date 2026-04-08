@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/38e9eo457m0.%(ext)s', 'https://www.youtube.com/watch?v=38e9eo457m0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eWmr3h2OJcY.%(ext)s', 'https://www.youtube.com/watch?v=eWmr3h2OJcY'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 606,
-  "updated_at": 1775660680,
-  "updated_at_readable": "2026-04-08 15:04:40",
-  "current_video_id": "38e9eo457m0",
-  "current_title": "心灵按摩与算命，福祸相依凡人善用命书改命｜哈萨丫头的故事｜变性人能改命吗｜",
-  "current_url": "https://www.youtube.com/watch?v=38e9eo457m0",
+  "queue_index": 607,
+  "updated_at": 1775660785,
+  "updated_at_readable": "2026-04-08 15:06:25",
+  "current_video_id": "eWmr3h2OJcY",
+  "current_title": "阵风战机败北，幻影2000咋办？",
+  "current_url": "https://www.youtube.com/watch?v=eWmr3h2OJcY",
   "current_tab": "streams"
 }
