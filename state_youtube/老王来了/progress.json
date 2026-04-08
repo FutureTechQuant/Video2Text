@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/w-VGUyZ7QyI.%(ext)s', 'https://www.youtube.com/watch?v=w-VGUyZ7QyI'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/e5QPN-1Dicc.%(ext)s', 'https://www.youtube.com/watch?v=e5QPN-1Dicc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 600,
-  "updated_at": 1775656137,
-  "updated_at_readable": "2026-04-08 13:48:57",
-  "current_video_id": "w-VGUyZ7QyI",
-  "current_title": "中美贸易谈判何立峰丧权辱国：论习主席才是美国的大救星｜下半场讲鬼故事：唱戏的纸扎小人",
-  "current_url": "https://www.youtube.com/watch?v=w-VGUyZ7QyI",
+  "queue_index": 601,
+  "updated_at": 1775656240,
+  "updated_at_readable": "2026-04-08 13:50:40",
+  "current_video_id": "e5QPN-1Dicc",
+  "current_title": "VIP9:《抬头看见北极光》（2）：如何利用太子党与秘书帮，老美股市破万点开始于命中出现，王京阳与叶静子，暗恋张泉灵，大嫂的雪白肉体！",
+  "current_url": "https://www.youtube.com/watch?v=e5QPN-1Dicc",
   "current_tab": "streams"
 }
