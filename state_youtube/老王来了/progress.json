@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/4bTn_Pwu8J4.%(ext)s', 'https://www.youtube.com/watch?v=4bTn_Pwu8J4'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/xFxFOn-1RS0.%(ext)s', 'https://www.youtube.com/watch?v=xFxFOn-1RS0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 640,
-  "updated_at": 1775671275,
-  "updated_at_readable": "2026-04-08 18:01:15",
-  "current_video_id": "4bTn_Pwu8J4",
-  "current_title": "为何习中风成为众望所归？｜论川普关税战与胡佛关税战的本质区别？",
-  "current_url": "https://www.youtube.com/watch?v=4bTn_Pwu8J4",
+  "queue_index": 641,
+  "updated_at": 1775671382,
+  "updated_at_readable": "2026-04-08 18:03:02",
+  "current_video_id": "xFxFOn-1RS0",
+  "current_title": "论郭美美收费为什么越来越贵？｜送给全天下的真爷们一句话：因为一次绿帽子离婚者非蠢即坏｜",
+  "current_url": "https://www.youtube.com/watch?v=xFxFOn-1RS0",
   "current_tab": "streams"
 }
