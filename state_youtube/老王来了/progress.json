@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/e5QPN-1Dicc.%(ext)s', 'https://www.youtube.com/watch?v=e5QPN-1Dicc'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/LpLFRSk5XqY.%(ext)s', 'https://www.youtube.com/watch?v=LpLFRSk5XqY'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 601,
-  "updated_at": 1775656240,
-  "updated_at_readable": "2026-04-08 13:50:40",
-  "current_video_id": "e5QPN-1Dicc",
-  "current_title": "VIP9:《抬头看见北极光》（2）：如何利用太子党与秘书帮，老美股市破万点开始于命中出现，王京阳与叶静子，暗恋张泉灵，大嫂的雪白肉体！",
-  "current_url": "https://www.youtube.com/watch?v=e5QPN-1Dicc",
+  "queue_index": 602,
+  "updated_at": 1775656336,
+  "updated_at_readable": "2026-04-08 13:52:16",
+  "current_video_id": "LpLFRSk5XqY",
+  "current_title": "揭穿一切邪教：老王手把手教你制造邪教，宗教就是这样炼成的！｜论邪教与宗教的没有区别",
+  "current_url": "https://www.youtube.com/watch?v=LpLFRSk5XqY",
   "current_tab": "streams"
 }
