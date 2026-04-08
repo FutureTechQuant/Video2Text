@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/yvDGmsTwSU0.%(ext)s', 'https://www.youtube.com/watch?v=yvDGmsTwSU0'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/DFMPxoEZ2KY.%(ext)s', 'https://www.youtube.com/watch?v=DFMPxoEZ2KY'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 626,
-  "updated_at": 1775668112,
-  "updated_at_readable": "2026-04-08 17:08:32",
-  "current_video_id": "yvDGmsTwSU0",
-  "current_title": "号外插播：加拿大大选关键时刻！起来！不愿去投票的人们！",
-  "current_url": "https://www.youtube.com/watch?v=yvDGmsTwSU0",
+  "queue_index": 627,
+  "updated_at": 1775668203,
+  "updated_at_readable": "2026-04-08 17:10:03",
+  "current_video_id": "DFMPxoEZ2KY",
+  "current_title": "周末玄学专场之：黄鼠狼迷人与预测梦的真实体验｜各种有关妖魔鬼怪的信",
+  "current_url": "https://www.youtube.com/watch?v=DFMPxoEZ2KY",
   "current_tab": "streams"
 }
