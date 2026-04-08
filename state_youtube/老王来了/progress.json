@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RIwagKAUltY.%(ext)s', 'https://www.youtube.com/watch?v=RIwagKAUltY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Cw-w7btEHh8.%(ext)s', 'https://www.youtube.com/watch?v=Cw-w7btEHh8'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 631,
-  "updated_at": 1775669588,
-  "updated_at_readable": "2026-04-08 17:33:08",
-  "current_video_id": "RIwagKAUltY",
-  "current_title": "李大钊何来绞刑这么洋的死法？｜为什么是张作霖？｜为什么苏联对大使馆被砸睁一只眼闭一只眼？",
-  "current_url": "https://www.youtube.com/watch?v=RIwagKAUltY",
+  "queue_index": 632,
+  "updated_at": 1775669687,
+  "updated_at_readable": "2026-04-08 17:34:47",
+  "current_video_id": "Cw-w7btEHh8",
+  "current_title": "15万粉感恩：长夜漫漫无心睡眠，骂几句人！",
+  "current_url": "https://www.youtube.com/watch?v=Cw-w7btEHh8",
   "current_tab": "streams"
 }
