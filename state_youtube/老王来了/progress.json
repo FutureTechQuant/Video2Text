@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jk50MyLJBYc.%(ext)s', 'https://www.youtube.com/watch?v=jk50MyLJBYc'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 573,
-  "updated_at": 1775647101,
-  "updated_at_readable": "2026-04-08 11:18:21",
-  "current_video_id": "B8Y-yXjiPVQ",
-  "current_title": "以色列为何骑脸暴打伊朗｜讲讲以色列灭核的前世今生：大哥始终是大哥！｜从巴比伦道果园到崛起狮子",
-  "current_url": "https://www.youtube.com/watch?v=B8Y-yXjiPVQ",
+  "queue_index": 574,
+  "updated_at": 1775647197,
+  "updated_at_readable": "2026-04-08 11:19:57",
+  "current_video_id": "jk50MyLJBYc",
+  "current_title": "解读印度坠机技术细节推测坠机原因，盘点空难规律｜为什么烂尾之皇习近平必不得善终？｜未来中国革命的必然走向与年轻一代中国人的政治历史机遇！",
+  "current_url": "https://www.youtube.com/watch?v=jk50MyLJBYc",
   "current_tab": "streams"
 }
