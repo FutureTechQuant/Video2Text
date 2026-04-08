@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/CUNOMR6jeYE.%(ext)s', 'https://www.youtube.com/watch?v=CUNOMR6jeYE'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 550,
-  "updated_at": 1775628223,
-  "updated_at_readable": "2026-04-08 06:03:43",
-  "current_video_id": "b6LZo6ljWo4",
-  "current_title": "和老程哥喝大了替程大哥给白彬指导几句｜周末超级玄专场：活人被抓去替阴司做假账的工资单实地调查｜安徽蚌埠保家仙的故事｜活人为什么会被鬼跟上以及为什么鬼附体会筋骨疼痛",
-  "current_url": "https://www.youtube.com/watch?v=b6LZo6ljWo4",
+  "queue_index": 551,
+  "updated_at": 1775628320,
+  "updated_at_readable": "2026-04-08 06:05:20",
+  "current_video_id": "CUNOMR6jeYE",
+  "current_title": "VIP21：张又侠的崛起与习按计划八月退休。",
+  "current_url": "https://www.youtube.com/watch?v=CUNOMR6jeYE",
   "current_tab": "streams"
 }
