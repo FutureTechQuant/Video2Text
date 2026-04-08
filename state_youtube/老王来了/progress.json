@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "error",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/dLF9snoyIq0.%(ext)s', 'https://www.youtube.com/watch?v=dLF9snoyIq0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 594,
-  "updated_at": 1775653581,
-  "updated_at_readable": "2026-04-08 13:06:21",
-  "current_video_id": "nQWp8Z87cx4",
-  "current_title": "美股美债美元三杀，长期利好黄金何比特币｜川普白宫痛斥南非老黑总统，令人解气！",
-  "current_url": "https://www.youtube.com/watch?v=nQWp8Z87cx4",
+  "queue_index": 595,
+  "updated_at": 1775653669,
+  "updated_at_readable": "2026-04-08 13:07:49",
+  "current_video_id": "dLF9snoyIq0",
+  "current_title": "成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=dLF9snoyIq0",
   "current_tab": "streams"
 }
