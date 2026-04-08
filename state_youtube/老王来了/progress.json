@@ -1,15 +1,15 @@
 {
   "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/LpLFRSk5XqY.%(ext)s', 'https://www.youtube.com/watch?v=LpLFRSk5XqY'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Nl6e_mj1mjE.%(ext)s', 'https://www.youtube.com/watch?v=Nl6e_mj1mjE'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 953,
-  "queue_index": 602,
-  "updated_at": 1775656336,
-  "updated_at_readable": "2026-04-08 13:52:16",
-  "current_video_id": "LpLFRSk5XqY",
-  "current_title": "揭穿一切邪教：老王手把手教你制造邪教，宗教就是这样炼成的！｜论邪教与宗教的没有区别",
-  "current_url": "https://www.youtube.com/watch?v=LpLFRSk5XqY",
+  "queue_index": 603,
+  "updated_at": 1775656440,
+  "updated_at_readable": "2026-04-08 13:54:00",
+  "current_video_id": "Nl6e_mj1mjE",
+  "current_title": "拿兴教外遇少妇的困扰：我是廉价妓女还是享受人生？｜一大堆人生十字路口教友来信！拿兴教是棋盘路？",
+  "current_url": "https://www.youtube.com/watch?v=Nl6e_mj1mjE",
   "current_tab": "streams"
 }
