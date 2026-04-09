@@ -1,14 +1,14 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished",
+  "note": "one video processed, no more pending",
   "destination": "阿斗来了",
   "source_url": "https://space.bilibili.com/21837784/lists/7687233?type=season",
   "queue_total": 5,
-  "queue_index": 4,
-  "updated_at": 1775700584,
-  "updated_at_readable": "2026-04-09 02:09:44",
-  "current_item_id": "0004_BV13BXKBKEy5",
-  "current_bvid": "BV13BXKBKEy5",
-  "current_title": "item_4",
-  "current_url": "https://www.bilibili.com/video/BV13BXKBKEy5"
+  "queue_index": 5,
+  "updated_at": 1775700815,
+  "updated_at_readable": "2026-04-09 02:13:35",
+  "current_item_id": "0005_BV1WEDzB3Ewd",
+  "current_bvid": "BV1WEDzB3Ewd",
+  "current_title": "item_5",
+  "current_url": "https://www.bilibili.com/video/BV1WEDzB3Ewd"
 }
