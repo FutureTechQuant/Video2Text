@@ -1,0 +1,47 @@
+{
+  "destination": "阿斗来了",
+  "source_url": "https://space.bilibili.com/21837784/lists/7687233?type=season",
+  "generated_at": "2026-04-09 01:49:26",
+  "items": [
+    {
+      "item_id": "0001_BV1yZ4y1A7Uz",
+      "index": 1,
+      "bvid": "BV1yZ4y1A7Uz",
+      "page": 1,
+      "title": "item_1",
+      "url": "https://www.bilibili.com/video/BV1yZ4y1A7Uz"
+    },
+    {
+      "item_id": "0002_BV1XX4y1V7WB",
+      "index": 2,
+      "bvid": "BV1XX4y1V7WB",
+      "page": 1,
+      "title": "item_2",
+      "url": "https://www.bilibili.com/video/BV1XX4y1V7WB"
+    },
+    {
+      "item_id": "0003_BV1BDwYz5Eue",
+      "index": 3,
+      "bvid": "BV1BDwYz5Eue",
+      "page": 1,
+      "title": "item_3",
+      "url": "https://www.bilibili.com/video/BV1BDwYz5Eue"
+    },
+    {
+      "item_id": "0004_BV13BXKBKEy5",
+      "index": 4,
+      "bvid": "BV13BXKBKEy5",
+      "page": 1,
+      "title": "item_4",
+      "url": "https://www.bilibili.com/video/BV13BXKBKEy5"
+    },
+    {
+      "item_id": "0005_BV1WEDzB3Ewd",
+      "index": 5,
+      "bvid": "BV1WEDzB3Ewd",
+      "page": 1,
+      "title": "item_5",
+      "url": "https://www.bilibili.com/video/BV1WEDzB3Ewd"
+    }
+  ]
+}

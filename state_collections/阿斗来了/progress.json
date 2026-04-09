@@ -1,0 +1,14 @@
+{
+  "status": "done_one",
+  "note": "one video processed, more pending",
+  "destination": "阿斗来了",
+  "source_url": "https://space.bilibili.com/21837784/lists/7687233?type=season",
+  "queue_total": 5,
+  "queue_index": 1,
+  "updated_at": 1775699588,
+  "updated_at_readable": "2026-04-09 01:53:08",
+  "current_item_id": "0001_BV1yZ4y1A7Uz",
+  "current_bvid": "BV1yZ4y1A7Uz",
+  "current_title": "item_1",
+  "current_url": "https://www.bilibili.com/video/BV1yZ4y1A7Uz"
+}
