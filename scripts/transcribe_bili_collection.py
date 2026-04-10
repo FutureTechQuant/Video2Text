@@ -157,7 +157,7 @@ def mmss_mmm(sec: float) -> str:
 
 def build_output_basename(item: Dict) -> str:
     bvid = item.get("bvid") or "NOID"
-    return f"{DESTINATION}_{item['index']:04d}_{bvid}"
+    return f"{DESTINATION}_{item['index']:04d}_p{bvid}"
 
 
 def plain_output_path(item: Dict) -> Path:
@@ -351,7 +351,7 @@ def extract_queue_from_source() -> List[Dict]:
 
     if is_space_season_url(SOURCE_URL):
         data = fetch_json_via_yt_dlp(SOURCE_URL, flat_playlist=True)
-        queue = build_queue_from_entries(data.get("entries") or [])
+        queue = build_queue_from_collection_entries(data.get("entries") or [])
         if queue:
             return queue
         raise RuntimeError("season list parsed but entries are empty")
@@ -598,6 +598,86 @@ def main():
     finally:
         cleanup_temp_file(audio_path)
 
+
+def normalize_queue_items(items: List[Dict]) -> List[Dict]:
+    normalized = []
+    for i, item in enumerate(items, start=1):
+        bvid = (item.get("bvid") or "").strip() or "NOID"
+        page = int(item.get("page") or 1)
+        title = (item.get("title") or bvid).strip()
+        url = item.get("url") or f"https://www.bilibili.com/video/{bvid}?p={page}"
+
+        normalized.append({
+            "item_id": f"{i:04d}_{bvid}_p{page:02d}",
+            "index": i,
+            "bvid": bvid,
+            "page": page,
+            "title": title,
+            "url": url,
+        })
+    return normalized
+
+
+def expand_video_to_pages(video_url: str, fallback_title: str = "") -> List[Dict]:
+    base_url = normalize_bilibili_base_url(video_url)
+    base_bvid = detect_bvid(base_url)
+
+    data = fetch_json_via_yt_dlp(base_url)
+    queue = try_extract_entries_from_data(data, base_bvid)
+
+    if len(queue) <= 1:
+        log(f"[warn] yt-dlp entries not enough for {base_bvid}, fallback to webpage pages")
+        fallback_queue = try_extract_pages_from_webpage(base_url, base_bvid)
+        if len(fallback_queue) > len(queue):
+            queue = fallback_queue
+
+    if not queue:
+        queue = build_single_item_queue(base_url, base_bvid)
+
+    seen = set()
+    expanded = []
+    for item in queue:
+        page = int(item.get("page") or 1)
+        key = (base_bvid, page)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        title = (item.get("title") or fallback_title or base_bvid).strip()
+        expanded.append({
+            "bvid": base_bvid,
+            "page": page,
+            "title": title,
+            "url": f"https://www.bilibili.com/video/{base_bvid}?p={page}",
+        })
+
+    return expanded
+
+
+def build_queue_from_collection_entries(entries: List[Dict]) -> List[Dict]:
+    raw_items = []
+
+    for e in entries:
+        url = format_video_url(e)
+        if not url:
+            continue
+
+        fallback_title = (e.get("title") or "").strip()
+
+        try:
+            pages = expand_video_to_pages(url, fallback_title=fallback_title)
+            raw_items.extend(pages)
+        except Exception as ex:
+            log(f"[warn] expand failed for {url}: {ex}")
+            bvid = detect_bvid(url)
+            raw_items.append({
+                "bvid": bvid,
+                "page": detect_page(url) or 1,
+                "title": fallback_title or bvid or "item",
+                "url": url,
+            })
+
+    return normalize_queue_items(raw_items)
 
 if __name__ == "__main__":
     main()
