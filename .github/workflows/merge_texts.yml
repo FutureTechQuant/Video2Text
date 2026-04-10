@@ -1,0 +1,140 @@
+name: merge-text-files
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder_path:
+        description: "要合并的目录，例如 destinations/AI大模型基础入门教程/plain"
+        required: true
+        type: string
+      output_name:
+        description: "输出文件名，例如 merged.txt"
+        required: false
+        default: "merged.txt"
+        type: string
+      separator:
+        description: "文件之间的分隔标题：none / filename / line"
+        required: false
+        default: "filename"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-text-${{ inputs.folder_path }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  merge-texts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      FOLDER_PATH: ${{ inputs.folder_path }}
+      OUTPUT_NAME: ${{ inputs.output_name }}
+      SEPARATOR: ${{ inputs.separator }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate inputs
+        shell: bash
+        run: |
+          test -n "${FOLDER_PATH}" || (echo "folder_path is empty" && exit 1)
+          test -d "${FOLDER_PATH}" || (echo "folder not found: ${FOLDER_PATH}" && exit 1)
+
+          case "${SEPARATOR}" in
+            none|filename|line) ;;
+            *) echo "separator must be one of: none / filename / line" && exit 1 ;;
+          esac
+
+      - name: Merge txt files
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import os
+          import re
+
+          folder = Path(os.environ["FOLDER_PATH"]).resolve()
+          output_name = (os.environ.get("OUTPUT_NAME") or "merged.txt").strip()
+          separator = (os.environ.get("SEPARATOR") or "filename").strip()
+
+          if not output_name.endswith(".txt"):
+              output_name += ".txt"
+
+          output_path = folder / output_name
+
+          def natural_key(path: Path):
+              parts = re.split(r'(\d+)', path.name)
+              return [int(x) if x.isdigit() else x.lower() for x in parts]
+
+          txt_files = sorted(
+              [
+                  p for p in folder.glob("*.txt")
+                  if p.is_file() and p.name != output_path.name
+              ],
+              key=natural_key
+          )
+
+          if not txt_files:
+              raise SystemExit(f"no txt files found in {folder}")
+
+          merged_parts = []
+
+          for i, path in enumerate(txt_files, start=1):
+              text = path.read_text(encoding="utf-8", errors="ignore").strip()
+
+              if separator == "filename":
+                  merged_parts.append(f"\n\n===== {path.name} =====\n\n{text}\n")
+              elif separator == "line":
+                  merged_parts.append(text)
+                  merged_parts.append("\n\n" + ("-" * 60) + "\n\n")
+              else:
+                  merged_parts.append(text)
+                  merged_parts.append("\n\n")
+
+          merged_text = "".join(merged_parts).strip() + "\n"
+          output_path.write_text(merged_text, encoding="utf-8")
+
+          print(f"merged {len(txt_files)} files -> {output_path}")
+          for p in txt_files:
+              print(f"- {p.name}")
+          PY
+
+      - name: Show result
+        shell: bash
+        run: |
+          echo "===== merged file ====="
+          ls -lh "${FOLDER_PATH}/${OUTPUT_NAME}" || true
+          echo
+          echo "===== first 80 lines ====="
+          head -n 80 "${FOLDER_PATH}/${OUTPUT_NAME}" || true
+
+      - name: Configure git
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git add "${FOLDER_PATH}/${OUTPUT_NAME}"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "merge texts: ${FOLDER_PATH}/${OUTPUT_NAME}"
+          git push
