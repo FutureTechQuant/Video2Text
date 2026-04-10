@@ -1,0 +1,114 @@
+[
+  {
+    "item_id": "0001_BV13jUYBaE5c_p01",
+    "index": 1,
+    "bvid": "BV13jUYBaE5c",
+    "page": 1,
+    "title": "BV13jUYBaE5c",
+    "url": "https://www.bilibili.com/video/BV13jUYBaE5c?p=1"
+  },
+  {
+    "item_id": "0002_BV17y2uBTEjr_p01",
+    "index": 2,
+    "bvid": "BV17y2uBTEjr",
+    "page": 1,
+    "title": "【大模型】一套学习路线，轻松通关AI大模型全栈，升职涨薪必备！ p01 【大模型】学习路线_导学篇",
+    "url": "https://www.bilibili.com/video/BV17y2uBTEjr?p=1"
+  },
+  {
+    "item_id": "0003_BV17y2uBTEjr_p02",
+    "index": 3,
+    "bvid": "BV17y2uBTEjr",
+    "page": 2,
+    "title": "【大模型】一套学习路线，轻松通关AI大模型全栈，升职涨薪必备！ p02 【大模型】学习路线_详解篇",
+    "url": "https://www.bilibili.com/video/BV17y2uBTEjr?p=2"
+  },
+  {
+    "item_id": "0004_BV1qNyhBxEe4_p01",
+    "index": 4,
+    "bvid": "BV1qNyhBxEe4",
+    "page": 1,
+    "title": "BV1qNyhBxEe4",
+    "url": "https://www.bilibili.com/video/BV1qNyhBxEe4?p=1"
+  },
+  {
+    "item_id": "0005_BV1BzsqzmEfw_p01",
+    "index": 5,
+    "bvid": "BV1BzsqzmEfw",
+    "page": 1,
+    "title": "【大模型】一个视频搞懂RAG、Agent、MCP是什么？有什么用？ p01 大模型概述和RAG技术原理与理论分析",
+    "url": "https://www.bilibili.com/video/BV1BzsqzmEfw?p=1"
+  },
+  {
+    "item_id": "0006_BV1BzsqzmEfw_p02",
+    "index": 6,
+    "bvid": "BV1BzsqzmEfw",
+    "page": 2,
+    "title": "【大模型】一个视频搞懂RAG、Agent、MCP是什么？有什么用？ p02 RAG、Agent、MCP理论与应用及其关联分析",
+    "url": "https://www.bilibili.com/video/BV1BzsqzmEfw?p=2"
+  },
+  {
+    "item_id": "0007_BV1fSj2zpEFs_p01",
+    "index": 7,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 1,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p01 【RAG实战1】大模型工作核心原理剖析",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=1"
+  },
+  {
+    "item_id": "0008_BV1fSj2zpEFs_p02",
+    "index": 8,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 2,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p02 【RAG实战2】当前大模型商业落地痛点",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=2"
+  },
+  {
+    "item_id": "0009_BV1fSj2zpEFs_p03",
+    "index": 9,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 3,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p03 【RAG实战3】RAG检索增强生成流程讲解",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=3"
+  },
+  {
+    "item_id": "0010_BV1fSj2zpEFs_p04",
+    "index": 10,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 4,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p04 【RAG实战4】语料向量化嵌入底层原理",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=4"
+  },
+  {
+    "item_id": "0011_BV1fSj2zpEFs_p05",
+    "index": 11,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 5,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p05 【RAG实战5】大模型商业化部署技术栈",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=5"
+  },
+  {
+    "item_id": "0012_BV1fSj2zpEFs_p06",
+    "index": 12,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 6,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p06 【RAG实战6】RAG检索结果全流程优化",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=6"
+  },
+  {
+    "item_id": "0013_BV1fSj2zpEFs_p07",
+    "index": 13,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 7,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p07 【RAG实战7】企业级RAG项目落地案例",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=7"
+  },
+  {
+    "item_id": "0014_BV1fSj2zpEFs_p08",
+    "index": 14,
+    "bvid": "BV1fSj2zpEFs",
+    "page": 8,
+    "title": "【大模型RAG完整教程】手把手带你结合项目实战，完成一套完整的RAG项目！增加检索/文本向量/知识库搭建 p08 【RAG实战8】大模型行业分析与职业规划",
+    "url": "https://www.bilibili.com/video/BV1fSj2zpEFs?p=8"
+  }
+]
