@@ -1,0 +1,865 @@
+There is a seismic shift happening in the data center industry.
+A shift that's so fast enough such proportion
+it's not only changing data centers, but entire industries.
+And you don't have to take my word for it.
+Let me show you,this is Temple a town about 1 hour outside of Ostentexas.
+But we are not here for the city and it's historical Santa Fe Railroad Depot.
+我們在這裡看見一個大型的園體
+在市區的建築區域
+要仔細看
+現在我們在看照片
+從2021年來的August
+一年到2022年
+整個園體都已經離開了
+我們用了中國建築物體
+明明是META
+它們的公司
+Botherland 也有很多大業務
+他們也有利益
+四個月後
+現在在12月22日
+我們可以看到
+一個建築物的數據
+是在這裡的
+但有些奇怪的事
+再五個月後
+在 April 2023
+我們感興趣的
+在園園看起來
+所有的建築物都已經
+已經移到地上
+Meta 也只能移到
+整個數據中
+半個數據
+在建築中
+預計$70 億
+只已經移到
+好像是移到
+但為什麼
+為什麼?
+是因為他們有問題在建設嗎?
+或是他們沒有順便繼續建設
+實際上這件事沒有任何事要做
+這次我們不僅會想出
+為什麼META 做了這麼大的決定
+但我們會看看
+如何一個新的資料公司
+去探索為什麼整個生產
+變得這麼快
+因為如果這個狀況繼續
+AID 和資料公司開始吃世界
+So what happened in temple?
+In order to understand what's going on in our field in Texas and the entire data
+center industry in general, we have to understand how a data center works, because a modern
+data center is much more than just a shed with some computers inside.
+But for a long time that's basically what a data center was.
+Early data centers were often located inside business properties, where fewer
+例如在基礎中,
+使用了幾個基礎的屋房
+來建造IT的產品
+在網上的大量,
+資料中心變得更加重要
+而他們變成了大量
+在基礎中心的大量
+在天使中心的大量
+成為了一個基礎
+資料中心變成了
+大量的建設項目
+並使用了2.0的網站的大量
+他們基本上
+將基礎的產品
+成為了
+網際公司的
+像是Google, Microsoft,
+Meta, Amazon
+他們的主頁
+是帳戶和购买资料
+所以叫做
+资料中心
+现在你正在看一个YouTube视频
+也就是
+它在一个Google资料中心
+在哪里
+那些是希望不太远离
+因为你不想快速和不接触
+当它来到视频
+像YouTube、Netflix
+或基本上
+任何东西在空中
+你不想接触
+资料中心
+不仅要提供一大量的资料
+Storage, but also a lot of network bandwidth and good latency.
+And that's where location comes into play.
+Data centers, as we know them, are more location sensitive than you might think.
+A great example for this is communities like Ashburn or Sterling,
+which are located right next to the Dallas International Airport in Washington, DC.
+This small area contains a lot of data centers
+because it combines a prime location
+以及有很多的大量雜工的
+每次新的游泳工具都已建造了
+是一個完美的游泳工具
+如果你地位寄屋服務或
+正式寄屋內的資料
+那就是你要你的游泳工具
+游泳工具的比喻和
+進行更接近你的游泳的
+physical location
+the better for a traditional data center
+不過這件事全是由AI的改變
+She's difficult to see the facts because from the outside
+an AI data center
+looks very much like a traditional one
+it a large, mostly flat, storaged high building
+with power and cooling infrastructure surrounding it
+but that's quite literally
+where the similarities end
+if all you take away from this video
+is that ai data centers
+are nothing like traditional data centers
+it's already a win
+Howling at AI data center
+might even be a bit misleading
+但它是成為了安排名字
+我認為更適合的名字是AI超級電腦
+因為這就是它
+讓我解釋
+從高級 overview
+a data center has four main components
+computer, connectivity, cooling, and power
+如果我們用這四個領域
+來比喻一般的AI data center
+就會變得快點變成
+這會讓我們一步的近距離
+來解決我們的天堂的故事
+我們開始用電腦
+因為我們剛剛提到
+如何重要的位置
+是為了傳統的數據中
+但位置
+不需要為了
+傳統的AI數據中
+至少不需要
+為了傳統的數據中
+兩件事
+是為了用 AI數據中
+首先
+它可以訓練一個大型的語言
+叫訓練
+第二
+它可以使用
+這類訓練的模式
+來提供出現
+叫做 運行訓練
+訓練的方式
+是更或少一種關閉的系統
+它不論你放棄的地方
+也不至於在於
+關閉了客人
+因為沒有客人在註意資訊
+它仍然有網路
+還有努力去接觸
+大量訓練的設計
+跟其他各地的
+非常大的五個線
+是為了
+導致大量訓練的目標
+通過了各種AI的訓練
+但那並不是一樣的
+訓練時間
+而是通過
+對比訓練的
+傳統訓練需要
+但是如果你問了通訊軟件
+你會直接發言
+與電腦中間的電腦中間
+而這也是真正的
+通訊軟件也不需要同一個電腦
+作為一個傳統電腦中間
+因為不只是軟件
+電腦中間的部分
+基本上在計算中的答案
+可以多數秒
+如果你加500秒
+的軟件上的
+這就是很多
+沒有改變過的經驗
+A chatbot is not a latency sensitive application
+as long as it is limited by compute.
+It also doesn't require a lot of bandwidth.
+Even considering new applications
+like image and video generation,
+the compute times still outweigh
+any network connection when it comes to response time.
+This might change in the future
+once AI becomes more responsive.
+But for now, neither training nor inference
+have strong latency or bandwidth requirements,
+at least not consumer facing.
+Netflix streaming thousands and thousands of 4K movies at the same time
+is in a whole different ballpark.
+Just like a video call or the video game
+has much tighter latency requirements.
+For AI data centers, it's not an important factor.
+And the difference is only get bigger when we look at compute.
+As I've said, AI data centers are actually more like supercomputers.
+Their only goal is to deliver as much computational performance
+as efficiently as possible.
+而在使用AI的效果增加
+你必须增加大量
+这开始在级别的程度
+如果我们看第一位许多AI的许多
+NVIDIA
+我们可以看到
+每次Volta
+NVIDIA的第一次10-core GPU
+每个GPU的效果和能量
+都从 Skyrocketed 发生了
+而Volta 只能充选了
+255W的10TDP
+Unpeer 成功率達400W
+Next Hopper 增加TDP 至700W
+NVIDIA 新一代 Blackwell 達1000W
+For a single GPU
+A GB200 Superchip 加上兩個 Blackwell GPUs
+With NVIDIA Grace CPU 加上 2700W GPU
+For a single board
+And this trend will continue
+NVIDIA 已經提出了 GPUs
+它们仍然有4个红色的银纸
+它们的银纸是一样的黑色
+而且它们的更加的效率
+也有更加的精彩的效率
+第一个2000W GPU
+不太远
+它的电子电池
+是非常增加的
+在银纸的程度
+但它不停地停留下
+不仅仅是新的新的银纸
+发挥了更多的电子电池
+电子电池的数量
+在一个电子电池上
+但在同一時間內,每個層面的數量
+都會增加
+當你建立了一個新的AI data center
+你必須建立4efficiency
+每個層面的數量都不需要
+實際上的 computer 都需要
+而在 Optical Interconnects
+長遠的距離
+並且實際上沒有其他選擇
+在某些距離中
+需要 Optical Transceivers 和 Retimers
+需要很多力量
+因此,你需要
+用量的量量
+NVIDIA's GV200 NVL72 Compute Rack
+存在5000W 和2mAh的Copper
+如果NVIDIA 更用了Optics
+它会用20000W 更多的
+核心的Copper-based NVLink 解决
+但Copper 是非常重要的
+在RackScale
+甚至在一个电子中
+你必须要把Optics 转移到一些位置
+这就是为什么要用
+很多GPUs 进入一个Rack 只能用
+所以你可以用這些團體 as many of them using copper
+compute density is the holy grail when it comes to AI data centers
+you want your GPUs to use as much silicon as possible
+have as many GPUs on a single board as possible
+and as many of these in a single rack as possible
+that's why the power requirements for a single rack are continuing to grow
+the best way to see just how different traditional and AI data centers are
+是看 how much compute and as a direct effect
+how much energy a single lag in each of these data center types is using.
+If you pick a random server in a traditional data center
+outside of hyperscalers like Google meta and so on
+you'd be hard pressed to find a rack that uses more than 10kW.
+The typical rack power consumption is in the range of 3 to maybe 7kW.
+Everything above 10kW per rack is already considered high performance for a traditional data center.
+承受 forex and while hyperscalers are building RACs
+in the 15 to 20 kW range
+even that doesn't compare to RACs
+used for AI compute, the nvidiagb200 nvl72
+we just talked about, which is nvidia's
+fastest RAC size solution has four power shelves
+that provide 33kW each
+that's a total of 132kW for a single RAC
+10 times what would be considered
+high performance setup in a traditional data center
+30-40x的重量
+是一種普通的運輸器
+我們不在這裡說小的分別
+是晚上
+我還不知道
+當我說的AI data center
+是一個不明顯的名字
+因為這些數目
+甚至是特朗普的超級電腦
+如果這樣是可能
+AI hyperskaters
+會建立一個綽號的重量
+因為重量是 king
+你可以想像
+這個大量的增加
+和重量的重量
+也會直接影響學校
+demons and is with a lower critical it power
+Meet smaller good insolution make sense
+until recently almost all data centers
+where our code
+but this is changing data centers that run
+a i compute art quickly transitioning
+to liquid cooling
+there are three specific reasons for this
+or related to density
+this is a indiesMI 300 X
+a i accelerator
+one GPU ready to be installed
+in a server plate
+but about 90% of its volume
+是用了一个大火箭
+小的PCB 底下的所有材料
+是整个GPU
+就像使用GPUs
+三个GPUs 没有一个人的粉丝
+他们只是用大火箭
+而是用了高能量的
+材料粉丝
+来吸收每个部分的
+一个标志
+吸收水水的水
+细菌的水
+会減少
+每个GPU的水
+因为水水的溫度
+比大火箭
+更加高的溫度
+需要吸收水
+它 quite literally increases density
+因为它让你充足更多的硬碟
+进入一个 single server blade
+和 RAC
+因为少数空间在游泳上浸泳
+当然 水冷水需要很多的
+更多的质疑
+在一个与其中的 data center
+但是那是外面的 RAC 游泳
+游泳不需要再浸泳
+第二个是水冷表现
+水冷水可以吸收
+大概 4000 倍的更多的
+能量比空的比较高
+如果要把很多的游泳
+因为你需要放很多的GPUs
+在一个很细的设备上
+是唯一的选择
+超级细腻的设计
+只能用水冷水冷的
+而且有些黑色的设计
+仍然使用水冷水
+接下来的GEN AI
+设计者会
+几乎使用水冷水冷的
+Google 例如
+选择水冷水冷
+在高速的高速GPUs
+很久以前
+但是有一个
+三个未经过的
+水冷水冷的
+在低热的温度上
+不僅增加了它的高度
+但也增加了能量的能量
+如果只能用一個GPU
+就不太有效率
+但如果用100,000GPUs
+賺錢會增加
+能量可以用來更重要的東西
+像是更加的功能
+當然 水冷是一個
+你必須要計算的東西
+一個水冷的數據中
+是很不同的設計
+至於水冷
+不是你每個手機
+你能夠調整水冷水冷水的空氣
+完全改變了雙方的資料中
+你需要包括水冷水
+從雙方的屋頂到建築屋
+然後設置大量的雙方的屋頂
+但並不是只能用雙方的屋頂
+當你用最高的量來調整屋頂
+就沒有任何不可的方式
+如果你想要保持屋頂
+現在我們已經調整了
+雙方的屋頂和屋頂
+我們來談談雙方的屋頂
+但並不是雙方的屋頂
+我們已經談談雙方的屋頂
+我提及的力量在整個工廠的程度上
+這就變成了第一名的套餐
+我們提及的大型數字
+我們提及的數字並不是整個數字
+而是整個數字的能量
+也叫做Critical IT Power
+傳統的銀行數字
+經常提供10MW的Critical IT Power
+連整個銀行數字
+像是大型數字的大型數字
+在大陸的大陸的大陸的大陸
+只有10-30MW這類
+新的超級數量資料中
+像是 Microsoft、Google、Amazon等
+我還在說的傳統的資料中
+在原本的資料中
+能達到40-100MW 數量體積
+但他們都在相比
+在體積的數量體積的數量體積
+有很多數量體積的數量體積
+有數量體積的數量體積
+數量體積的數量體積
+例如 Microsoft 它們
+AiData Center for OpenAI
+AiData Center for OpenAI
+And this is just the beginning
+AI campuses with 1GW
+of critical IT power
+are already under construction
+All of this is further amplified
+by the fact that while a traditional
+data center has fluctuating power demand
+based on usage patterns
+and rarely run at full power
+AI data centers are more or less
+constantly running it close to full load
+They not only have this massive
+Massive Critical IT Power
+They actually use it
+With the power requirements of AI data centers
+We are talking about direct access
+To major high voltage power lines
+And because server X don't run on high voltage
+Which is over 100kV
+You need transformers to step down the voltage
+First to medium voltage
+And then to low voltage
+Which for data centers is usually 415V
+With a power consumption at rivals
+Large cities
+这些大量的AI data centers
+需要很多的传媒
+那么多的传媒
+已经有了一个背景
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+传媒
+另一个有趣的分别
+是传媒
+传媒
+传媒
+传媒
+backup power for a traditional data center loss of power is a major critical failure point
+that's why they need a system that ensures uninterrupted power supply for the very short term
+that means batteries which have to bridge the time until the emergency generators come online
+but AI data centers have such a massive power demand they need a large amount of generators
+which should only have to be bought but also require the proper permits
+这不仅 takes a lot of additional cost
+but it takes time to set up
+And since time to market
+is crucial in the AI race
+AI data centers often have
+a very limited UPS system
+In this case
+the data center just stops working
+if the main power source fails
+which funny enough
+isn't that big of a deal for training runs
+as the GPU already introduced
+somewhat frequent failures
+When the power goes out
+you can simply continue
+the training run when it comes back
+and I'm really just scratching
+the surface here
+不管是營業 和溫暖 或者是力量
+有更多的深力
+most of what we just covered
+is based on the amazing data center anatomy series
+from seminalysis
+which covers every aspect of a modern AI data center
+in great detail
+if you want to know how the power stage
+of a massive AI data center really works
+or what's required
+to make a data center ready for liquid cooling
+I highly recommend that you check out the articles
+I've linked in the video description below
+我已經有召喚一部正式相關的
+訂閱者訪問前之後
+我們已經開始了
+這部資金
+但他的手段就是
+80%的一部傑瑪文證
+並非背後的文字
+這是我對他們的意思
+每一個領域我研究的
+我找了一個非常細節的文字
+由今的網路學者
+特別表明
+是他們的形勞
+雖然以外的書尺
+但是這是一種領域
+但以統計書尺
+仍然有更好的效果
+我认为这一句话是很严肃的
+如果您还在研究
+和AI的研究中心
+请在下面评论一下
+这也很值得
+现在我们都学会了AI研究中心
+还有什么样的研究中心
+我们回到我们的调查中心
+为什么Meta开始建议
+一个新研究中心
+只为半个转移到建设
+作为一个简直的改变
+建设开始在明年2022
+直至至最后的2022年
+但在 April 2023 年
+整个建造的程序都被困在了
+这段时间中
+会让 Meta 作出一个这样的秩序
+传统者们可能已经发现
+这次的程序
+已经完美地进行
+在2020年2月的
+达基比特的公开发展
+所以
+我们的答案是
+Meta 开始建立
+一个传统的研究中
+并发现
+半路向建設中
+它們被改變成了
+那種
+但更加加難
+建設中的最初是
+META試試的
+H-Type data center
+這叫做
+因為它的尾形
+看起來像H字
+如果我們看近鏡
+看下了電源畫面
+我們可以看到
+建設中會看起來像H
+如果它結束
+很多這些
+H-type data centers
+用於更多的
+電源圖
+例如CPUs和硬碟
+但在最高能量能量的建议中
+Meta的H-type data centers
+已经能够开启GPUs
+Meta 和NVIDIA Hopper-based AI cluster
+合作100.000H100GPUs
+在同一个H-type data centers中
+有很多的Meta
+所以Meta 已经建议了
+一个AI-capable campus
+在天堂
+但它并没有给予
+一个高能量能量的建议
+让它更加能够开启
+这就是 how fast the industry is moving
+甚至AI data centers
+建造在很快的 timeline
+可以成为更早的
+做工
+故事有一个幸运
+至少是Meta
+如果看最新的
+Satellite Images from 2025
+可以看到
+我们的小小固域和天堂
+现在的屋子不是一
+但是两AI data centers
+这是Meta's
+新的高-density design
+每个建议
+提供85MW
+为170MW的
+联系性能量
+加上并关系性的
+The new design also has the added benefit of supporting liquid cooling
+which makes the high density layout possible in the first place.
+The older age design would have only supported a total of 60 megawatt.
+goodlittle in today's AI Data Center race
+and it's only the beginning.
+This is Three Mile Island, a nuclear power plant located on the Susquina river
+outside of Harrisburg, Pennsylvania.
+in march of 1979,the Three Mile Island power plant became infamous
+当TMI-2的产生产生产生了一个丰富的失误
+而发生了一种断绳的迷路
+至今仍然是最丰富的产生
+在美国的历史上
+TMI-2的关系已经被迫移除了
+而第二产生产生的TMI-1
+已经被迫移除了
+因为它在失败时正在迫移
+整个产生已经被迫移除了
+但这变化了
+在2024年
+Microsoft 发布了一项交易产生
+主持者的目的,開始重新開始
+還在工作的TMI-1產品
+Nuclear Power Plant
+預計將在2027年
+全球能量運輸在Mikrosoft
+接下來20年
+我確定你已經知道
+Mikrosoft需要的所有能力
+將將來的AI data sensors
+能夠增加
+如果你想像,這是一個極限的例子
+再想一想
+不遠的3米海岸
+只有2小時左右
+是Sesquana Steam Electric Station
+A nuclear power plant with about 2500 megawatt output
+In 2023, Taylone Energy, the operator of the power plant
+Started to build a massive on-site data center
+Which was acquired by Amazon AWS in 2024
+For about 650 million dollars
+And there is only one reason to place a data center
+Right next to a nuclear power plant
+To power the massive energy demand for AI
+我們可以看到有幾個動作在整個商業上
+Meta不僅重新建造
+資料中心的基礎中心
+它們開始設立新的
+AI資料中心的強勢
+因為它會減少製造時間
+除了基礎的大量
+它們的快速是重要的
+在AI的基礎中心
+Meta的最高2位AI基礎
+是Bromithia在奧海
+以及已經有的AI基礎
+配合了 gas turbine
+那應該是將近1GW
+在下個年期
+但第一是超級超級
+這應該達到
+真正的可能性
+在2030年
+地位在蘆西蘭
+是達到
+兩百萬瓦的
+混合性電源電源電源
+用量去達五百萬瓦
+相比
+中國和加拿大
+有一個大量的電源
+有六百萬瓦
+CoreWeave
+是超級超級
+Aguiard
+和Retrofitted
+是新的
+新的data center
+在南庭,Texas
+是前面使用的
+Mind Bitcoin
+如果我們看看
+Satellite Images
+我們可以看到
+一個大大量的
+建築物在這個位置
+但一個不像其他
+中央是一個
+非常大的 gas-powered power plant
+直接給 AI 資料
+給 AI 資料中心
+Elon Musk's XAI
+是最大 還有 150,000
+NVIDIA GP200
+資料中心的資料中心
+長得很快
+他們必須要
+用 mobile generators
+因為主機的資料
+take too long to get online
+everyone is scrambling as fast as they can
+what we are seeing right now is only the beginning
+300 megawatt clusters might seem big in 2025
+but the first gigawatt clusters will come online next year
+Right now 200,000 GPUs are a lot for an AI cluster
+but they are already plans for a million GPUs
+and these won't be the same hopper or blackwell generations as today
+这些会是最高的GPU年代
+和比较高的GDP
+最简单的原因是
+它不在于你相信AGI
+或不
+这些都在于
+大多数的主流人
+非常清楚地相信
+AGI是一种费用
+而谁能够得到他们的第一个
+就会拿到整个盘子
+因为这个盘子
+是值几万美元
+他们是想做
+每一个人的力量
+去得到他们的第一个
+这些力量
+实际上是需要很多力量
+Google has announced that it is funding the construction of three advanced nuclear power plants.
+It won't be long until most major hyperscalers will be major players in the energy business,
+including owning and operating multiple nuclear power plants.
+Next gen AI data centers not only have nothing in common with traditional data centers,
+soon individual data center campuses will surpass even the power demand of mega cities and huge industrial parks.
+而最大量的AI工程
+是增加了力量
+而是依照那些
+工程的國內的財富
+並不下降
+財富的AI工程
+並不僅僅是用來補充
+而是用來補充
+both literally and figuratively
+如果這個狀況繼續
+AI會變成
+第一位飲品人員
+在工程中的資料
+有很多的東西
+是無法跟進
+所有的發展
+雖然超級工程
+無法被列入
+超級500的工程
+但他們卻沒有
+AI 數據中心更加隱蔽
+AI 數據中心不在開放
+至少在外面的
+R 公告
+如果你不懂得看
+超級數據不想你
+或是比賽
+知道他們的實際上
+他們會在
+幾個月或年來
+以及比賽
+已經有多大
+AI 數據中心
+有多少
+以及所有數據中心的力量
+但我們如何知道
+這些項目
+如何知道
+他們的重要IT能量
+他們的經驗 他們的經驗
+他們的能量 他們的能量
+他們的用法
+這個答案是
+大量的知識基礎
+很多高級的資料
+其實是在高度的資料
+賺取的資料
+而我不想在Google Earth
+每個半年都會有
+低級資料
+我意思是
+高級資料
+我不介意
+一個想法的想法
+這是其實
+What the pre-nex of the semi-analysis data center team are doing
+It might be a bit insane, but semi-analysis is tracking over 5,000 data centers worldwide.
+And by tracking I don't mean a simple Excel sheet with a name and an address.
+I'm talking about the true Sherlock Holmes stuff.
+The data center model not only tracks new construction projects, but also existing data centers.
+High-res satellite images are analyzed in detail.
+And because the power stages, generators and cooling infrastructure are visible,
+达到的资源团体能实际上
+提供各种资源的计划
+当然这只能作出
+如果你们知道要看什么
+但如果你们做
+和达到的达到资源团体
+一定会做
+达到的资源团体是一本文章
+我认为没有任何
+远离的关系
+以资源和资源
+来调整
+达到的资源资源
+从达到的资源资源
+如果你们在工作
+或在工业
+而且在与达到的
+有細節的 overview of the current AI data center market
+你得看看 data center model
+並不僅是很酷的
+它會把最多的廣告資訊
+進入快速競爭的 AGI
+CHAGPD was released in November of 2022
+不少 than three years ago
+從來都感覺到
+每一項都快速上升
+AGI has created an insatiable demand
+for AI compute
+that only seems to accelerate
+data center industry is now more focused on building AI supercomputers
+than actual data centers.
+And with it comes a massive demand for power.
+That not only means more transformers, more generators and liquid cooling,
+but energy generation is more and more a focus point of hyper-skillers
+and big tech companies.
+From the launch of chat GPT to next year,
+AI compute will add an estimated 40 to 50 gigawatts of global power demand.
+These are numbers comparable to the average use of entire countries
+像是在德國和法國
+我已經知道我自己在說
+但這只是最初
+如果這段繼續
+就只會花了幾年
+在Google、Microsoft、Meta、Amazon
+還有其他超級技術
+會有更多的優勢
+比全世界的國家
+加上AI資料中心
+有重要的IT能量
+能夠通過
+全世界的一年
+這 all of this in hopes of being the first to achieve AGI
+而且如果他們得到,Ai的權利 demand will surge even more
+它開始看起來,AI data centers are going to eat the world
+第一種食物已經可以見證,如果您知道它有多長
