@@ -1,0 +1,152 @@
+[00:00.240 --> 00:03.380] Thank you so much, Elan, for being here at Build.
+[00:03.380 --> 00:06.640] I know you started off as an intern at Microsoft,
+[00:06.640 --> 00:08.060] you were a Windows developer,
+[00:08.060 --> 00:10.340] and of course you're a big PC gamer still.
+[00:10.340 --> 00:13.100] You want to just talk about even your early days
+[00:13.100 --> 00:16.680] with Windows and the kinds of things you built?
+[00:16.680 --> 00:20.360] Yeah. Well actually started before Windows with DOS.
+[00:20.360 --> 00:24.920] I had one of the early IBM PCs with MS DOS.
+[00:24.920 --> 00:29.140] and I think I had like 128K in the beginning
+[00:29.140 --> 00:32.300] and then it doubled to 256k which felt like a lot
+[00:33.440 --> 00:36.580] so, yeah, a pro program, video games and DOS
+[00:36.580 --> 00:43.820] and then they can, in windows, remember windows 3.1
+[00:43.820 --> 00:44.840] yeah
+[00:44.840 --> 00:45.820] know it's wonderful
+[00:45.820 --> 00:47.820] I even that the last time I chatted with you
+[00:47.820 --> 00:48.580] you were talking
+[00:48.580 --> 00:51.480] all about everything, the intricacies of active directory
+[00:52.060 --> 00:53.920] and, so it's fantastic
+[00:53.920 --> 00:55.620] to have you at our Developer Conference
+[00:55.620 --> 00:57.220] obviously the exciting thing for us
+[00:57.220 --> 00:58.680] is to be able to launch
+[00:58.680 --> 01:03.380] I know you have a deep vision for what AI needs to be
+[01:03.380 --> 01:06.200] and that's what got you to get this built.
+[01:06.200 --> 01:09.720] It's a family of models that have both responses and reasoning models.
+[01:09.720 --> 01:11.460] And you have a very exciting roadmap.
+[01:11.460 --> 01:14.020] You want to just tell us a little bit about sort of your vision,
+[01:14.020 --> 01:15.020] the capability,
+[01:15.020 --> 01:17.680] you're pushing on both capability and efficiency.
+[01:17.680 --> 01:19.680] So maybe you can just talk about a little bit of that.
+[01:19.680 --> 01:22.120] Sure,So yeah, with with GROC,
+[01:22.120 --> 01:25.800] especially with GROC 3.5 that is brought to be released,
+[01:25.800 --> 01:28.800] trying to reason from first principle
+[01:28.800 --> 01:33.800] so applying the tools of physics to thinking
+[01:33.800 --> 01:36.800] so if you're trying to get to fundamental truths
+[01:36.800 --> 01:40.800] you boil things down to the axiomatic elements
+[01:40.800 --> 01:42.800] that are most likely to be correct
+[01:42.800 --> 01:44.800] and then you reason up from there
+[01:44.800 --> 01:45.800] and then you contest your conclusions
+[01:45.800 --> 01:47.800] against those axiomatic elements
+[01:47.800 --> 01:50.800] and physics, if you violate conservation of energy
+[01:50.800 --> 01:54.800] you're either going to get a Nobel prize
+[01:54.800 --> 01:56.800] 你錯了,你錯了,你確實錯了
+[01:56.800 --> 01:58.800] 基本上
+[01:58.800 --> 02:00.800] 所以,最佳的
+[02:00.800 --> 02:02.800] 主要是,GROC 3.5
+[02:02.800 --> 02:04.800] 是
+[02:04.800 --> 02:06.800] 一個
+[02:06.800 --> 02:08.800] 基本的學習
+[02:08.800 --> 02:10.800] 以及學習的學習
+[02:10.800 --> 02:12.800] 通過所有的理念
+[02:12.800 --> 02:14.800] 而去批判
+[02:14.800 --> 02:16.800] 實際上
+[02:16.800 --> 02:18.800] 有些錯誤
+[02:18.800 --> 02:20.800] 但
+[02:20.800 --> 02:22.800] 我們要
+[02:22.800 --> 02:25.520] get to truth with acknowledged error
+[02:25.520 --> 02:27.800] but minimized error over time
+[02:27.800 --> 02:30.400] and I think that's actually extremely important
+[02:30.400 --> 02:33.120] for AI safety.
+[02:33.120 --> 02:35.600] So I've thought a lot for a long time about AI safety
+[02:35.600 --> 02:37.960] and my ultimate conclusion is
+[02:37.960 --> 02:41.320] the old maxim that honesty is the best policy.
+[02:41.320 --> 02:44.960] It really is for safety.
+[02:44.960 --> 02:47.200] But I do want to emphasize
+[02:47.200 --> 02:48.520] we have and will make mistakes
+[02:48.520 --> 02:51.120] but we aspire to correct them very quickly
+[02:51.120 --> 02:54.500] 我們 very much looking forward to feedback from the developer community
+[02:54.820 --> 02:57.140] like what do you need? Where are we wrong?
+[02:57.340 --> 02:58.380] how can we make it better?
+[02:59.020 --> 03:02.420] And to have GROC be something that developer community
+[03:03.380 --> 03:08.580] is very excited to use and where they can feel that their feedback is being heard
+[03:08.580 --> 03:13.260] and GROC is improving and serving their need.
+[03:13.660 --> 03:17.980] Yeah, I know it's in some sense cracking the physics of intelligence
+[03:17.980 --> 03:24.080] 可能是個 real goal for us to be able to use AI at scale
+[03:24.080 --> 03:26.940] and so it's so good to take that first principles approach
+[03:26.940 --> 03:30.240] that you and your team are taking, and also you're deploying this.
+[03:30.240 --> 03:32.580] I mean, one of the things about sort of what you do is
+[03:32.580 --> 03:36.540] you're doing unsupervised FSD on one side,
+[03:36.540 --> 03:38.780] you're doing robotics, ofcourse there's grok,
+[03:38.780 --> 03:41.320] you're deploying grok across all of your businesses
+[03:41.320 --> 03:44.080] from SpaceX to Tesla,obviously at x,
+[03:44.080 --> 03:46.080] 我會喜歡,你也知道,
+[03:46.080 --> 03:48.080] 一位團體的發展會議員,
+[03:48.080 --> 03:52.080] Ylan,我們在建設一些非常有信心的AI App
+[03:52.080 --> 03:54.080] 並不是任何一種模式,
+[03:54.080 --> 03:56.080] 而是在建設很多模式的,
+[03:56.080 --> 03:58.080] 很多的領導者,
+[03:58.080 --> 04:00.080] 任何東西你所看到
+[04:00.080 --> 04:02.080] 在實際世界的應用上
+[04:02.080 --> 04:04.080] 甚至在你的自己的公司上
+[04:04.080 --> 04:05.080] 當你考慮到
+[04:05.080 --> 04:06.080] Tesla,或SpaceX,
+[04:06.080 --> 04:07.080] 當你把Groc,
+[04:07.080 --> 04:09.080] 還有其他AI模式,
+[04:09.080 --> 04:10.080] 你建設的?
+[04:10.080 --> 04:12.080] 對,這很重要
+[04:12.080 --> 04:15.080] 是最重要的,A.I. model, to be grounded in reality.
+[04:15.080 --> 04:20.080] Reality, I was saying which is like physics is the law
+[04:20.080 --> 04:22.080] and everything else is a recommendation,
+[04:22.080 --> 04:27.080] which I'm not suggesting people break the laws made by humans.
+[04:27.080 --> 04:30.080] We should generally obey the laws of humans,
+[04:30.080 --> 04:34.080] but I've seen many people break human-made laws,
+[04:34.080 --> 04:37.080] but I have not seen anyone break the laws of physics.
+[04:37.080 --> 04:41.960] So for any given AI grounding it against reality
+[04:41.960 --> 04:45.380] And reality for example as you mentioned with with the car
+[04:45.380 --> 04:47.880] It needs to drive safely and correctly
+[04:47.880 --> 04:52.880] The humanoid robot optimist needs to perform the task
+[04:52.880 --> 04:55.280] That it's being asked to perform
+[04:56.480 --> 05:02.980] These are things that are very helpful for ensuring that the model is truthful and accurate
+[05:02.980 --> 05:05.920] Because it has to adhere to laws of physics
+[05:05.920 --> 05:07.920] 所以我認為這可能是
+[05:07.920 --> 05:09.920] 一些不太多的看法
+[05:09.920 --> 05:11.920] 或是不太說了的
+[05:11.920 --> 05:13.920] 是真的要有力量
+[05:13.920 --> 05:15.920] 要有力量
+[05:15.920 --> 05:17.920] 要有實際的想法
+[05:17.920 --> 05:19.920] 在於實際上
+[05:19.920 --> 05:21.920] 這就是一個非常重要的事
+[05:21.920 --> 05:23.920] 能夠關注
+[05:23.920 --> 05:25.920] 這與人類的車和動物
+[05:25.920 --> 05:27.920] 是非常重要的
+[05:27.920 --> 05:29.920] 我們在Customer Service
+[05:29.920 --> 05:31.920] 也會有很重要的
+[05:31.920 --> 05:33.920] 我們也會有很重要的
+[05:33.920 --> 05:37.280] AIs infinitely patient and friendly
+[05:37.280 --> 05:38.160] and you can yell at it
+[05:38.160 --> 05:39.920] and it's still going to be very nice.
+[05:39.920 --> 05:42.280] So that's good.
+[05:42.280 --> 05:44.360] Yeah, and so
+[05:44.360 --> 05:48.820] so I think in terms of improving the quality of customer service
+[05:48.820 --> 05:50.860] and sort of issue resolution,
+[05:50.860 --> 05:53.560] AIs already,
+[05:53.560 --> 05:55.920] Grock is already doing quite a good job
+[05:55.920 --> 05:57.560] that at SpaceX and Tesla
+[05:57.560 --> 06:01.860] and we look forward to offering that to other companies.
+[06:01.860 --> 06:03.260] No, that's fantastic.
+[06:03.260 --> 06:06.260] 我真的非常感激到這段時間開始
+[06:06.260 --> 06:08.260] 獲得了發展的資料
+[06:08.260 --> 06:10.260] 然後再看他們的發展
+[06:10.260 --> 06:12.260] 他們的語言模式
+[06:12.260 --> 06:14.260] 我們會在時間中
+[06:14.260 --> 06:16.260] 一起發展這個語言模式
+[06:16.260 --> 06:18.260] 與動力與動力
+[06:18.260 --> 06:20.260] 但你對於實際世界的模式
+[06:20.260 --> 06:24.260] 這就是最後的目標
+[06:24.260 --> 06:26.260] 謝謝你 伊蘭
+[06:26.260 --> 06:28.260] 今天為我們參與
+[06:28.260 --> 06:29.260] 我們很期待在工作
+[06:29.260 --> 06:31.260] 和獲得這個獲得的資料
+[06:31.260 --> 06:32.260] 謝謝你
+[06:32.260 --> 06:37.140] And I can't emphasize enough that we're looking for feedback from you, the developer audience.
+[06:37.140 --> 06:39.980] Tell us what you want and we'll make it happen. Thank you.

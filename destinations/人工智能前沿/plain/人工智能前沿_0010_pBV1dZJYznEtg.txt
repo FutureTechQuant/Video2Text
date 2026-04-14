@@ -1,0 +1,152 @@
+Thank you so much, Elan, for being here at Build.
+I know you started off as an intern at Microsoft,
+you were a Windows developer,
+and of course you're a big PC gamer still.
+You want to just talk about even your early days
+with Windows and the kinds of things you built?
+Yeah. Well actually started before Windows with DOS.
+I had one of the early IBM PCs with MS DOS.
+and I think I had like 128K in the beginning
+and then it doubled to 256k which felt like a lot
+so, yeah, a pro program, video games and DOS
+and then they can, in windows, remember windows 3.1
+yeah
+know it's wonderful
+I even that the last time I chatted with you
+you were talking
+all about everything, the intricacies of active directory
+and, so it's fantastic
+to have you at our Developer Conference
+obviously the exciting thing for us
+is to be able to launch
+I know you have a deep vision for what AI needs to be
+and that's what got you to get this built.
+It's a family of models that have both responses and reasoning models.
+And you have a very exciting roadmap.
+You want to just tell us a little bit about sort of your vision,
+the capability,
+you're pushing on both capability and efficiency.
+So maybe you can just talk about a little bit of that.
+Sure,So yeah, with with GROC,
+especially with GROC 3.5 that is brought to be released,
+trying to reason from first principle
+so applying the tools of physics to thinking
+so if you're trying to get to fundamental truths
+you boil things down to the axiomatic elements
+that are most likely to be correct
+and then you reason up from there
+and then you contest your conclusions
+against those axiomatic elements
+and physics, if you violate conservation of energy
+you're either going to get a Nobel prize
+你錯了,你錯了,你確實錯了
+基本上
+所以,最佳的
+主要是,GROC 3.5
+是
+一個
+基本的學習
+以及學習的學習
+通過所有的理念
+而去批判
+實際上
+有些錯誤
+但
+我們要
+get to truth with acknowledged error
+but minimized error over time
+and I think that's actually extremely important
+for AI safety.
+So I've thought a lot for a long time about AI safety
+and my ultimate conclusion is
+the old maxim that honesty is the best policy.
+It really is for safety.
+But I do want to emphasize
+we have and will make mistakes
+but we aspire to correct them very quickly
+我們 very much looking forward to feedback from the developer community
+like what do you need? Where are we wrong?
+how can we make it better?
+And to have GROC be something that developer community
+is very excited to use and where they can feel that their feedback is being heard
+and GROC is improving and serving their need.
+Yeah, I know it's in some sense cracking the physics of intelligence
+可能是個 real goal for us to be able to use AI at scale
+and so it's so good to take that first principles approach
+that you and your team are taking, and also you're deploying this.
+I mean, one of the things about sort of what you do is
+you're doing unsupervised FSD on one side,
+you're doing robotics, ofcourse there's grok,
+you're deploying grok across all of your businesses
+from SpaceX to Tesla,obviously at x,
+我會喜歡,你也知道,
+一位團體的發展會議員,
+Ylan,我們在建設一些非常有信心的AI App
+並不是任何一種模式,
+而是在建設很多模式的,
+很多的領導者,
+任何東西你所看到
+在實際世界的應用上
+甚至在你的自己的公司上
+當你考慮到
+Tesla,或SpaceX,
+當你把Groc,
+還有其他AI模式,
+你建設的?
+對,這很重要
+是最重要的,A.I. model, to be grounded in reality.
+Reality, I was saying which is like physics is the law
+and everything else is a recommendation,
+which I'm not suggesting people break the laws made by humans.
+We should generally obey the laws of humans,
+but I've seen many people break human-made laws,
+but I have not seen anyone break the laws of physics.
+So for any given AI grounding it against reality
+And reality for example as you mentioned with with the car
+It needs to drive safely and correctly
+The humanoid robot optimist needs to perform the task
+That it's being asked to perform
+These are things that are very helpful for ensuring that the model is truthful and accurate
+Because it has to adhere to laws of physics
+所以我認為這可能是
+一些不太多的看法
+或是不太說了的
+是真的要有力量
+要有力量
+要有實際的想法
+在於實際上
+這就是一個非常重要的事
+能夠關注
+這與人類的車和動物
+是非常重要的
+我們在Customer Service
+也會有很重要的
+我們也會有很重要的
+AIs infinitely patient and friendly
+and you can yell at it
+and it's still going to be very nice.
+So that's good.
+Yeah, and so
+so I think in terms of improving the quality of customer service
+and sort of issue resolution,
+AIs already,
+Grock is already doing quite a good job
+that at SpaceX and Tesla
+and we look forward to offering that to other companies.
+No, that's fantastic.
+我真的非常感激到這段時間開始
+獲得了發展的資料
+然後再看他們的發展
+他們的語言模式
+我們會在時間中
+一起發展這個語言模式
+與動力與動力
+但你對於實際世界的模式
+這就是最後的目標
+謝謝你 伊蘭
+今天為我們參與
+我們很期待在工作
+和獲得這個獲得的資料
+謝謝你
+And I can't emphasize enough that we're looking for feedback from you, the developer audience.
+Tell us what you want and we'll make it happen. Thank you.
