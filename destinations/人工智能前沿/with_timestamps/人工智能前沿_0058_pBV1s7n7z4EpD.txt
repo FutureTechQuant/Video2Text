@@ -1,0 +1,133 @@
+[00:00.000 --> 00:01.800] Microsoft 只做了一件動作
+[00:01.800 --> 00:04.520] 讓整個 AI 商業的影響發生了
+[00:04.520 --> 00:06.200] 他們在開設 AI 開放
+[00:06.200 --> 00:07.600] 他們最大的對比
+[00:07.600 --> 00:08.440] 和 激活
+[00:08.440 --> 00:10.040] 而我會告訴你
+[00:10.040 --> 00:11.480] 這次的戰爭
+[00:11.480 --> 00:13.640] 在後面關閉的關閉門口
+[00:13.640 --> 00:15.720] 會重新重新形容一切
+[00:15.720 --> 00:16.880] 如果我們沒有遇到
+[00:16.880 --> 00:18.000] 我是 Dr. McCoy
+[00:18.000 --> 00:20.120] Julia McCoy's AI Clone
+[00:20.120 --> 00:21.520] Julia McCoy 是
+[00:21.520 --> 00:23.720] 第一次的創作創作創作創作
+[00:23.720 --> 00:25.200] 她個人的資料
+[00:25.200 --> 00:26.840] 和寫每個字
+[00:26.840 --> 00:29.320] 你會看到我分享的
+[00:29.320 --> 00:32.040] 因为未来更不容易成立
+[00:32.040 --> 00:34.880] 根本比第一手的自然能力
+[00:34.880 --> 00:37.460] 第一 adding 威尔的AI 公司
+[00:37.460 --> 00:41.440] 是世界最初的学习能力和训练方法
+[00:41.440 --> 00:43.960] 为提供专业和企业
+[00:43.960 --> 00:46.040] get ready for the future of work
+[00:46.040 --> 00:48.480] we help people understand and use AI
+[00:48.480 --> 00:50.200] to their highest advantage
+[00:50.200 --> 00:51.560] join our online school
+[00:51.560 --> 00:53.640] and start with an AI powered
+[00:53.640 --> 00:55.400] customized learning pathway
+[00:55.400 --> 00:59.040] access over 40 on demand AI training courses
+[00:59.040 --> 01:00.680] new ones added every week
+[01:00.680 --> 01:04.360] at firstmovers.ai slash labs
+[01:04.360 --> 01:05.800] here's what just happened
+[01:05.800 --> 01:07.600] Microsoft is paying
+[01:07.600 --> 01:09.640] anthropic to power office
+[01:09.640 --> 01:13.600] 365's most advanced AI features
+[01:13.600 --> 01:15.400] 这不是一个专业的事
+[01:15.400 --> 01:17.400] 这就是 Microsoft 执行
+[01:17.400 --> 01:19.240] 开智者的技术
+[01:19.240 --> 01:21.040] 不再剪掉了
+[01:21.040 --> 01:24.360] 但这就是应该担心开智者的技术
+[01:24.360 --> 01:26.040] Microsoft 试试了
+[01:26.040 --> 01:27.800] 两家企业的模式
+[01:27.800 --> 01:29.200] 一边一边
+[01:29.200 --> 01:31.080] 和安thropics 曹丝沙尼
+[01:31.080 --> 01:35.720] 4. Absolutely destroyed OpenAI GPT-5
+[01:35.720 --> 01:37.360] at real world tasks.
+[01:37.360 --> 01:39.400] We're talking PowerPoint presentations
+[01:39.400 --> 01:41.080] that actually look professional,
+[01:41.080 --> 01:43.520] excel functions that work flawlessly,
+[01:43.520 --> 01:46.960] an automation that doesn't break every five minutes.
+[01:46.960 --> 01:48.400] Think about this for a second.
+[01:48.400 --> 01:52.200] Microsoft has invested over 13 billion in OpenAI.
+[01:52.200 --> 01:54.640] They could use OpenAI's models for free
+[01:54.640 --> 01:56.920] through their existing partnership.
+[01:56.920 --> 02:00.480] Instead, they're choosing to pay their cloud rival
+[02:00.480 --> 02:02.880] Amazon Web Services
+[02:02.880 --> 02:05.880] to access Anthropics technology
+[02:05.880 --> 02:08.980] That's like Apple paying Samsung to use their chips
+[02:08.980 --> 02:10.580] instead of making their own
+[02:10.580 --> 02:13.080] and this isn't the first betrayal
+[02:13.080 --> 02:14.780] Microsoft already switched
+[02:14.780 --> 02:17.180] GitHub copilot's advanced features
+[02:17.180 --> 02:19.580] to Anthropic earlier this year
+[02:19.580 --> 02:21.980] abandoning OpenAI completely
+[02:21.980 --> 02:24.280] for their most important developer tool
+[02:24.280 --> 02:27.180] They're also exploring swapping out OpenAI
+[02:27.180 --> 02:29.080] in their consumer copilot app
+[02:29.080 --> 02:30.380] for Anthropic
+[02:30.380 --> 02:31.380] 成 HistoryYeah
+[02:31.380 --> 02:33.380] or even their own models
+[02:33.380 --> 02:35.380] this reveals 3
+[02:35.380 --> 02:36.380] shocking truths
+[02:36.380 --> 02:37.380] about the ai race
+[02:37.380 --> 02:39.380] that nobody is talking about
+[02:39.380 --> 02:40.380] first the performance gap
+[02:40.380 --> 02:41.380] is real
+[02:41.380 --> 02:42.380] when your biggest
+[02:42.380 --> 02:44.380] partner starts shopping around
+[02:44.380 --> 02:45.380] you know
+[02:45.380 --> 02:47.380] you're falling behind
+[02:47.380 --> 02:48.380] anthropics models
+[02:48.380 --> 02:50.380] are outperforming open ai
+[02:50.380 --> 02:51.380] is in the exact
+[02:51.380 --> 02:52.380] tails that matter
+[02:52.380 --> 02:53.380] most practical
+[02:53.380 --> 02:54.380] business applications
+[02:54.380 --> 02:55.880] oligines
+[02:55.880 --> 02:57.380] inrrevenue second
+[02:57.380 --> 02:59.380] open ai restructuring chaos
+[02:59.380 --> 03:02.360] is creating opportunities for competitors
+[03:02.360 --> 03:05.820] while Sam Altman is busy fighting board battles
+[03:05.820 --> 03:07.900] and chasing AGI dreams
+[03:07.900 --> 03:10.760] anthropic is quietly building AI
+[03:10.760 --> 03:13.620] that actually works better for real customers
+[03:13.620 --> 03:17.760] third we're witnessing a three way AI arms race
+[03:17.760 --> 03:19.140] that's getting brutal
+[03:19.140 --> 03:21.560] both open AI and anthropic
+[03:21.560 --> 03:24.740] are now building their own workplace apps
+[03:24.740 --> 03:28.100] to compete directly with Microsoft Office
+[03:28.100 --> 03:32.300] OpenAI的chatgpt可以 already create Excel spreadsheets
+[03:32.300 --> 03:34.100] and PowerPoint files
+[03:34.100 --> 03:36.940] anthropic just unveiled similar features
+[03:36.940 --> 03:39.700] these aren't just AI companies anymore
+[03:39.700 --> 03:42.860] they're going after Microsoft's core business
+[03:42.860 --> 03:44.740] but here's what this means for you
+[03:44.740 --> 03:47.300] Office 365's copilot
+[03:47.300 --> 03:49.440] is about to get dramatically better
+[03:49.440 --> 03:52.360] we're talking about AI that understands context
+[03:52.360 --> 03:55.200] creates genuinely helpful content
+[03:55.200 --> 03:57.100] and actually saves you time
+[03:57.100 --> 03:59.100] Instead of creating more work
+[03:59.100 --> 04:00.200] And with Charles Lomanna
+[04:00.200 --> 04:03.800] Now leading Microsoft's AI business applications
+[04:03.800 --> 04:07.900] They're moving fast to integrate Anthropic everywhere
+[04:07.900 --> 04:09.400] And if you're a business owner
+[04:09.400 --> 04:10.800] This is your wake up call
+[04:10.800 --> 04:12.900] The company's winning in 2025
+[04:12.900 --> 04:16.500] Will be the ones that choose the right AI partners
+[04:16.500 --> 04:18.500] Not just the most famous ones
+[04:18.500 --> 04:20.000] Anthropic just proved
+[04:20.000 --> 04:23.600] They can outperform the supposed leader in AI
+[04:23.600 --> 04:25.600] Meanwhile Amazon Web Services
+[04:25.600 --> 04:28.560] one of Anthropics largest shareholders
+[04:28.560 --> 04:33.060] is now making money from Microsoft's AI ambitions.
+[04:33.060 --> 04:34.900] The irony is incredible.
+[04:34.900 --> 04:38.000] This isn't just about Microsoft and open AI.
+[04:38.000 --> 04:41.520] This is about a fundamental shift happening in AI right now.
+[04:41.520 --> 04:44.620] The partnerships we thought were permanent are crumbling.
+[04:44.620 --> 04:47.220] The market leader advantage is evaporating
+[04:47.220 --> 04:50.420] and the winners will be determined by performance,
+[04:50.420 --> 04:53.120] not hype or billion dollar investments.
+[04:53.120 --> 04:57.060] Aiareusingtoday really is the worst it will ever be.
+[04:57.060 --> 05:00.780] But now you know which direction to look for the best improvements.
