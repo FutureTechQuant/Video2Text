@@ -1,0 +1,737 @@
+Thank you so much for being here
+We talked last year about a year ago on the circuit
+So it's really good to catch up
+Good to see you again
+Starting with the most important question
+Did you come in a Weimow?
+I would've loved to
+We are still working on making sure they are safe
+And can get through freeways
+We are making great progress
+But hopefully same time next year
+I can do it all the way from Mountain View
+Alright, I'm gonna hold you to it
+So I just want to start with a vibe check post-Io
+我 feel like we saw a slightly more confident and cohesive Google
+How would you describe it?
+Like Are you getting better at choosing your own dance music?
+Look I think when you undertake a set of things,
+It takes time but internally we have known all of this was in progress.
+We've been training Gemini,
+releasing versions every few months.
+I think 2.5 was a real breakthrough in terms of capabilities and
+在那裡的前面,是在那裡的那些問題
+我們在那裡的產品中
+我們很適合的產品
+我覺得這就是這故事
+所以Candid Lee
+我用了Chap Bot more
+我用了Google less
+你也可能是
+What is the fate of search
+in a world of AI agents and personalized answers
+Is it evolution or extinction?
+現在我們在問這個問題
+我們已經有幾個年了
+我們已經有幾個年了
+我們已經有幾個年了
+我們已經有幾個年了
+我們已經有幾個年了
+我們已經有幾個年了
+所以我覺得
+我覺得很遠
+從我當過0-Sum的遊戲
+用其他領域和配合
+像TikTok來的
+大家都開始用TikTok
+YouTube也成功了
+也做得很好在那些時候
+所以我覺得搜集很好的在於它們的做法
+搜集的方式是人們的價值
+他們在用它們的做法
+所以投資者們都要知道
+但你沒有分享其他
+你賣多少錢在社交平台上
+你賣多少錢在社交平台上
+我 mean in 2025
+我們的CAPEX是75 億
+所以我們絕對會在長期中投資
+但是它是同樣的投資
+它能夠把業務從搜尋到YouTube
+到 cloud 到工作室 到 Android 到 Play 到 Waymo
+我們在 Google AI Pro 和 Altra 發展的訂閱項目
+它絕對會做得好
+我已經很高興看到它的收入
+所以我覺得這是非常深刻的技術
+我感覺到有機會前往
+比我們前往的機會更大
+如果我可以再按一按
+有什麼新的平均環境
+能夠看出大幅度
+還有什麼平均環境
+能夠看出大幅度
+我看
+我們整體的
+The growth in cloud like vertex AI is up 40x in usage on a token basis just in the last 12 months.
+So obviously you know we have billions of dollars in providing AI based solutions in AI as an infrastructure.
+AI subscriptions so there are many many new businesses.
+YouTube and the web more broadly is being overrun with AI generated content.
+您在调查购物和购买的效果
+您需要更多的购买购买的购买
+为了达到低购买的购买
+您看 任何这些技术的影响
+它是一种购买的资源
+新技术 新机会 更多人可以发展购买
+但您也有高购买的购买
+我认为这些许多人在地区找到的
+在地区找到的 找到的 找到的 找到的
+在地区找到的 找到的 找到的
+我们在GEM和I上
+用了Ai来帮助我们的推荐
+我们用Ai来帮助我们的推荐
+我们用了Ai来帮助我们的推荐
+我们用了Ai来帮助我们的推荐
+所以我们正在推荐高级的推荐
+有很多的情緒在外面
+關於開放網站的健康
+AI是…
+它是關於好東西的
+它是關於高質素的
+你再進入AI-generated content
+那它能否拆開整個系統
+會變成網站的
+獨自的水平嗎
+這就是另一個領域
+人們現在已經有
+現在的 web 問題
+10 20 年了
+我說了這件事在 IO
+如果你看到
+我們會減少 web
+數量的 web pages
+我們減少了
+45% 了
+在過去兩年
+什麼是過去兩年
+就是
+人們在創造更多的 content
+我認為
+創造是變得更容易
+而不是在 web 上
+YouTube etc.
+The amount of content is exploding.
+Right?
+So I do think as content creator
+you have to think about many many modalities,
+platforms etc.
+But the opportunity space gets bigger.
+You said AI overviews are good for publishers.
+The publishers we talk to say it's tragic.
+Studies show dropping click through rates.
+I'm not always...
+I don't always click through when I see an AI overview.
+You're answering the question for me right there on Google.
+公司说他们不能通过通过
+或者他们可能会被使用在 Google 上
+所以 这些证明是否好
+这些证明是否好 而且不只是好
+在 Google 上
+有几个问题
+我觉得比伙伴在世界上
+我们要在企业的技术体验
+所展示的技术体验
+我们在过一段时间
+在用 AI 技术体验
+和企业的技术体验
+企業的進行方式
+會影響到高級的資料
+我相信
+很多年來
+那是我們在Google的目標
+我們認為
+在Google的價值
+是人們來的
+對 他們有時候
+會有回應
+那是真實的
+我們發了
+新的資料
+很多年來
+但人們回來了
+人們很興奮
+人們在用戶上
+在網上發出
+用戶上的資料
+我們會
+Prioritize approaches.
+Obviously with AI overviews
+the quality improves,
+the context we are giving users improve.
+What we are seeing is people are clicking
+and going to a more diverse set of websites
+and they are spending more time
+on average per click.
+You announced new spectacles at IO.
+Maybe Google Glass was ahead of its time.
+But I'm curious what evidence you have
+that we really want to put computers on my faces.
+現在 我們的面子現在
+和給我們更多的資料公司
+最後
+你可能問問題
+像這件事 關於駕駛車
+最終是
+是人們選擇他們想做的
+所以
+你會只能在這些事情
+如果你建立了一件美好的東西
+我現在正在穿著眼鏡
+所以
+我…
+他們沒有鏡頭
+他們嗎
+但他們沒有
+他們沒有放音樂
+但如果他能做到什麼
+沒有更新的負擔
+但我願意做
+會給我更重要的資料
+更好使我生活
+我已經在玩AR 手機
+我跟朋友說過
+他有一個手機
+他有一個手機
+他就說了,那是個壞 air ball
+所以,你看
+他還想要穿那件
+他發現了自己的經驗
+很開心,這個自然的態度
+就是,我應該要做得更好
+所以,你會有這些東西
+成為一個同事,成為一個教練
+所以,我覺得
+我們必須要做得很美味
+但如果做得對,我覺得
+人們會回應得正常
+《Johnny I of Sam Altman Alliance》
+Mountman Alliance
+It seemed perfectly time to crash your I.O party
+Did that rain on your parade a little
+And are you at all worried?
+I expect in this moment
+There will be a lot of innovation
+A enormous respect for what Johnny has done
+I'm looking forward to seeing what new computing devices
+are on the horizon
+石油berg has said that almost all of Lama's code
+will be AI generated very soon.
+Satchin Adela has said it's as much as 35%
+for Microsoft right now.
+You've said 25% last year,
+I believe you said that of Google's code
+is AI generated.
+You have over 180,000 employees right now.
+Is it half that in the future?
+Look, I expect we will grow
+從我們的現實研究基礎
+甚至到明年
+因為這讓我們做更多
+我覺得這個機會的空間也在增加
+我只是看這個
+讓研究者更加努力
+把很多的 Monday 項目
+做出他們的工作
+讓他們花費的高價值
+但是這也就是
+一個大型的行動
+人們會做更多
+也就是說,我們可能會創造新產品
+而我們會需要更多人
+至少在未來的情況下
+我們會將速度增加
+我們會增加工程速度
+這並不代表我們會有限定
+我們會做的事
+我們會做的事更多
+還有什麼長期之下
+長期之下,有所作用
+技術的方式
+很難預計
+所有的長期之下
+就是今天60%的工作不在1940年代
+至少是在大陸學院的經濟學家
+所以很難坐在任何時間
+我在印度看YouTube
+有100萬頻道在印度
+有15000頻道
+Channels with 1 million subscribers
+Just imagine describing this world
+Someone in India 15 years ago
+Would make no sense
+So, you know, I don't want to
+You know, I think it's a bit pointless to think that far ahead
+But I think we underestimate
+How expansionary this moment is
+So this isn't too far ahead
+So I hope you'll humor me
+But Anthropics CEO says AI could eliminate
+50% of white collar jobs
+在接下來的五年
+在10%至20%的工作上升
+你批准了嗎
+我想我們要非常關注這些問題
+對於這個技術
+我之前提到的新工作
+你會有新的機會
+我看見像V03的影片
+我認為
+會讓人們在世界
+成為一個做工的創作人
+I can't sit in linearly like, you know, imagine what the impact of that will be, right?
+So you're creating all these new opportunities.
+You have tremendous positive externalities.
+You know, we will tackle tough vexing problems, make progress on areas like cancer.
+Right? You know, all that.
+Educate a lot more people.
+As part of that, you know, there could be job display.
+那些是嚴重的意義
+所以在社會上
+你要想起
+如何去殺人
+還有新的社會
+安全網站
+那些需要
+這些是非常重要的
+與社會的談判
+但我認為
+太特別了
+而在那些工作上
+我只看不見
+我們在過去的20年
+做了一些計劃
+技術和自動
+不太放鬆那種
+但我
+我尊重
+我覺得
+這些問題很重要
+去討論
+我覺得這些
+有重要的談判
+現在兩條
+刑事局已經說
+Google是一個研究
+搜尋
+與搜尋的研究
+在網上
+你如何去提供
+你的社會
+是在網上
+有關的
+搜尋的
+網上的
+這是
+原來的研究
+首先
+我們不合理 和規則
+我們在這裏的製造中
+在這裏的製造中
+如果任何東西 這一刻
+我看不懂 誰在用
+任何東西他們不想用
+你看成了《Chad GPD》
+或任何其他產品
+人們有更多的選擇
+從前的選擇
+原因是 Google 使用
+因為他們想要使用
+所以我認為
+我們繼續進行新的
+我認為選擇是好用的 比賽是好世界的
+所以我認為這就是我所說的
+你說的褚色褚色褚色褚色褚色褚色褚色
+你會否隨意把自己的自己的精神抄起來
+控制自己的精神?
+我看 他們看起來
+比起原始的規則
+有些是褚色褚色褚色褚色褚色褚色
+我們會看它們的情況
+我們花了50億美元的R&D
+我們是最高的R&D投資人
+我們沒有建議
+我們投資了幾個年
+我們已經建議了一年
+我們已經在用
+數量的資料來建議
+這個R&D和這個新的
+我覺得也有所做
+我們有很長時間的觀察
+所以那就是我認為的
+我聽你說了幾句話
+你認為AI是一個 expansionary moment
+但至今似乎是
+推搭了科技大眾
+和 well-funded startups
+有 access to GPUs
+和 data centers
+和 enormous amounts of capital
+像
+這真的沒有能量
+和 fewer hands
+但就是AI
+就是 另一個 win or take all game
+look i think there are you know well i'm confident there is a company that's going to be created with ai just like when the internet happened many years after the internet happened google didn't exist so you know there's no doubt to me that three years from now there will be a company which will be dominant in this ai age which we don't even know the name of today yeah that's the only way things work in the future right so
+你和我们的所有信息,你和我们的深深障碁
+已经很难相信
+不是我,你也有信息
+不是我,你也有信息
+其实你也有信息,但你的企业也有信息
+已经很难相信大贴
+现在你会使用更多的信息
+进入AI和更多的职业
+为什么我们应该相信你现在
+更多 than ever before
+我們賺取了信任
+我們已經在採取了很多年
+人們的信任
+但是我們負責負責任
+我希望
+我們保護了壞人
+我們對壞人的責任
+所以我覺得
+更多 than any other company
+我們認為
+這是責任
+人們相信我們這些時刻
+我們只在說
+在人们身上的质量
+人们在告诉我们
+他们的质量
+最大的问题
+人们问的在Gemina和Gmail
+为什么不写更多的
+这是一个问法
+我们在回答的
+Gemina和孩子在Gmail
+我已经有足够
+在我的家里
+跟微信和社交
+我们的朋友
+Chapbox
+OK
+There's always going to be a sense of discomfort with new technology
+I don't know like when online dating first came
+People who ask questions like
+Are you really going to meet someone online
+So people adapt to these things
+Will people comfortably naturally interact with AI
+In their lives in the future
+Yes
+Like we are seeing it empirically in terms of
+How people are using them
+我看到人們來問問的問題
+我們看問的問題
+我怎麼準備這份 interview
+他們都在說
+說 說他們是朋友
+所以我們看到了明顯的
+那是什麼意思呢
+像是 像是 像是 像是 像是
+像是 像是 像是 像是 像是 像是
+今天我們設計了YouTube 設計了
+我們設計了 設計了 設計了 設計了
+我們設計了 設計了 設計了
+像是 像是 像是 像是
+我們設計了 設計了 設計了
+我們設計了 設計了 設計了
+obviously
+You just unveiled VO3
+which you were talking
+I mean it is mind blowing
+seeing these super super
+life like videos
+but it is also really scary
+is this the end of truth
+as we know it
+I think this is part of the role
+when you ask
+I think this is part of the value proposition
+this is why people will come to places like Google
+because they are trying to ascertain
+what's reality
+right and this is not
+我們會有新的通過
+例如我們在VO的網路中
+有網路影片
+他們建立了SynthID
+所以大家可以看得到
+他們建立了VO
+你可以用影片去搜集
+Google去問這個照片
+Google去問這個照片
+它會告訴你
+如果它建立了VO3
+我們建立了SynthID
+而是一個新的研究研究研究的研究
+所以這些事情都會在 parallel 上升
+我們會需要一些規定的規定
+說明了一個真正的深刻的作用
+像是你的金融法律
+你會需要新的規定
+所以我們要向新的技術進行
+我只是在擔心
+我們會否有一個共同的感情
+像是…
+這是…這跟AI是一模一樣
+我覺得這樣,我覺得人類,我們會 value the shared sense of reality
+所以你會 value human experiences even more in the future
+那是我認為的
+YouTube is arguably the most influential media platform in the world now
+I mean it is a political force, it is a cultural force
+Our kids are learning there
+All kids think they want to be creators
+75% of teenagers I believe say they are watching it every single day
+我'm a mom, you're a dad.
+Like, I know you're in charge of the thing.
+But does it ever terrify you to have that much power?
+OK, I mean, I.
+I think that sense of power is an illusion.
+I think like when you're working in the tech industry,
+you know, you've simultaneously started with the conversation
+with like are you about to go extinct?
+And then you're ending the conversation with aren't you the most powerful thing?
+Ferena
+所以你得選擇
+在這個行動上
+只有一個可以作出的
+Ferena
+我興趣的是
+你的接近川普的行動
+你正在前面的
+在這個行動中
+Google有重新重新重新
+一些是DEI的政策
+你對你相信的
+是否有一點點
+首先,我們是一個美國的領導公司
+在這一個刻意的時刻
+我們在AI的角度
+我們認為接下來的幾年
+我們是從很多的角度來的
+我們是從第一川普的領導公司
+我們是從第一川普的領導公司
+我們是從第一川普的領導公司
+我們在世界上
+我們是在承諾和規定
+In all the country's we operated in
+It doesn't mean we agree with every aspect of every
+Something right but as a company
+We do have our set of values and like
+So we have committed to them as well
+So I think for example
+As a company I think we are committed
+To making sure we develop AI
+In a way that protects the planet
+That's an important value for us
+And you've seen us prioritize
+我們會繼續做這些事
+但是我覺得重要的是
+我們要讓政府
+很多人在政府的行動
+特別是在要求
+股份的股份需要
+股份的資料
+這些都是重要的領導
+我們要一起工作
+你上次在這個場面
+我們說過
+股份的股份
+你自己在Google
+已經太晚了
+太晚了
+太晚了
+股份的股份
+And I wonder how has your own leadership style evolved over the last couple
+of years specifically like have you changed at all to meet
+this moment of radical disruption.
+Look I I feel like.
+The main thing I did as a CEO setting up the company's to
+really be at the forefront of AI.
+When I look at the depth and breadth of what we are doing.
+as a company .
+我們對各方面的創始
+日積都在State 體育中
+我們在各方面的各位對面
+我們在各地的支持者
+各地的支持者
+我們在每一面
+我們對各方面的支持者
+我們對各地的支持者
+我們是一種
+我們在立場的
+我們在
+我們做的
+我們仍然是一種
+我們認為我們有所做的
+我們就在於
+我們在計劃
+我們在計劃
+我們在研究
+我們在研究
+我們要保留
+我們要求
+我們這場
+我們要求
+We are scaling up our AI infrastructure
+Our CAPEX is 75 billion
+That was $20 billion a few years ago
+So dramatically scaling up our infrastructure
+So you're undertaking these big bets
+Weimo, people are talking about it now
+But three years ago people were very pessimistic on it
+I increased our investment in Weimo at that time
+So you are making decisions
+Not based on what people are currently saying
+At any given moment, but with the long term view
+you still getting involved in nitty-gritty product decisions or is that leaving that to Sergui
+I mean fortunate to have Sergui who is deeply working on the Gemini models
+but I'm very very involved in various aspects of a product decisions
+I think you have to do that in the tech space
+you've been CEO for ten years now
+however many years out it is
+What kind of person do you think Google's future CEO should be?
+Look, I think it's important to understand the products we build,
+tremendously impact society,
+and the journey of technology is doing the hard work to make sure
+you're harnessing it in a way that benefits people.
+And that takes a lot of work,
+and I think that'll be an important quality to have.
+你ading this massive technological change
+that's also bound to create like major societal disruption
+how do youpersonally wrestle with that
+like is there some philosopher or religion
+or deeper code
+that you turned to to help you answer
+some of these questions
+ok first ofall there are many of us doing this
+I think ultimately it comes down to
+你不需要更多的潛力
+為你的朋友們在這段旅程中
+我覺得我做的是我做的
+我看到很多人在工業中
+因為你得到機會
+能夠影響別人的工作
+這就是最實力的一天
+這些天學生應該怎麼學習
+應該還要學習
+還要學習學校學生
+還要學習學校學生
+我學了四個學生
+所以我真的可以說
+他們可能會說話
+問這個問題
+所以我的答案不大可能
+我認為
+我認為一件事
+最好是
+我認為AI將會讓我們
+更多的潛力和 passion
+我覺得這件事是
+真的解釋了很多的因素
+每個人都很強烈的
+他們要表現自己的想法
+所以我不會改變
+你所在學習的東西
+我認為我仍然會
+向大家保持著
+他們的愛情
+找到一些有關的東西
+我覺得
+我們現在的所有的
+能夠有很多的資料
+將會有一個更重要的
+能夠有的資料
+什麼是AGI的限度
+如果我們不達到AGI的話
+是否可能
+我們沒有達到AGI
+如果我們有
+能夠達到AGI的話
+我們會在
+我們所有的東西
+我們可以看到
+我們感覺到很正常的進步
+有很多前進的進步
+我們在進步的路上
+我們今天在做的一些新的
+新的構思
+我們在做的一些新的構思
+我們在進步的路上
+我們很自然
+但是我們經常有這些技術的
+技術的角度
+我們可以把平均的平均的平均
+So are we currently on an absolute path to AGI?
+I don't think anyone can say for sure.
+The pace of progress is staggering.
+And looking ahead, I sense you will have that pace of progress.
+But there could be limitations in the technology.
+The technology currently feels like you're seeing dramatic progress.
+But then there are areas where this thing can do this obvious thing.
+像Waymo在做得很好
+但記得,你可以教導一個人
+去駕駛20小時
+對,所以技術很棒
+但我們還很遠離開
+一種技術
+我們談到你的肥皂
+你喜歡分享,你怎麼肥皂
+你做什麼?
+我希望可以做更多
+but I've just been messing around
+be it either with cursor
+or I've coded with replete
+trying to build a custom webpage
+with all the sources of information
+I wanted in one place
+so I could type a location
+and get it all partially complete
+so but it's exciting to see
+how casually you can do it now
+competed to the early days of coding
+很多東西都會出現
+很久的一段時間
+我覺得很高興
+在這段時間中
+有一個小說
+你還需要
+所有的技術生物
+你肯定嗎
+我相信
+是的
+最後一條問題
+我們有新的一部電視
+這個節目
+我們會在
+Microsoft 50th年
+Google 27歲
+What is Google at 50
+What is Google at 50
+Look, I hope we are nimble and innovating.
+And in the technology industry,
+you have to earn your success every year.
+And so for me, it's more about building a culture
+that's really innovative at its core.
+Takes a long-term view and does deep technology work
+and translates that into products
+that impact billions of people.
+Is a human going to be running Google?
+or an AI?
+Well, I do think whoever is running it will have an extraordinary AI companion to help.
+All right.
+All right.
+Send our Pachai everyone.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
