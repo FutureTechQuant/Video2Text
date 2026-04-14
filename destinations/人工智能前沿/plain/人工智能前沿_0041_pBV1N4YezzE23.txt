@@ -1,0 +1,1037 @@
+Hello, I'm Andrew Maine
+and this is the OpenAI Podcast
+Today our guests are OpenAI's chief scientist
+Yakub Pahatski and Simon Sidor
+We're going to talk about measuring AI progress
+how you determine AGI
+and where the next breakthrough might come from
+The model was able to correctly identify
+that it didn't make progress on the problem
+We started asking very very seriously the question
+like are we ready as an organization
+for incredibly fast-paced progress
+When we think about how we shape our research program
+我們需要學會
+學會的精神
+是非常大部分的
+我們要開始
+以理解你的規定
+所以
+Yakub 你是
+副研究生
+副研究生
+副研究生
+對
+副研究生是什麼意思
+所以我最主要的
+是設定
+學會的研究程序
+在副研究生
+所以
+決定
+什麼是技術
+我們要去拜訪
+然後
+我們要去
+學習
+我們要去的
+所以你怎麼樣
+Simon你做什麼
+有些事情
+謝謝你
+我工作在IC
+我試過
+可能是領導的領導
+我試過做最有趣的
+你倆都知道
+我們在開放的工作
+對嗎
+我們去同一高校
+同一高校
+你們是朋友嗎
+我們變成了 best friends
+我們之後離開了
+我們覺得來到美國
+是一個很感動的體驗
+那種發揮的感覺
+我覺得在高校
+我們比較像是同學
+我們比較像是同學
+我們是高校的創作人
+像你
+我們去到高校
+在德加尼亞在南京
+我們都被這位
+學生學院學生
+hastaRashabardowski,who's had a great track record, before we went there to bring up computer scientist programmers with this big focus on programming competitions and pursuing excellence in this one field.
+對,我覺得這是我們很好的學生,
+非常有學生的學生,
+對,絕對的,
+我認為KIDR是非常深入的,
+我認為它是在學校的學校,
+像是Graphy,
+Mitrix,等等,
+我希望這類學生的學生
+會更容易進行這些學生的學生,
+因為沒有學生的學生,
+without a lot of work
+it's kind of hard to replicate that experience
+I've been using it to explain things
+like there's the money hall problem
+where you have to choose which door
+and you go into chat gpt
+and you say make a graphic interactive version of this
+and all of a sudden you can see it
+you can show you the different solutions
+if you do one thing or the other
+I think that's it's one of these things
+where I'm excited about the ability
+not just to explain in text
+but to build multimedia to do things
+and it does get into the area of
+如果沒有一個真正的意義
+就是這個案例
+這個沒有以前存在
+我們說到AGI
+但是我們有很大的
+低定義之類
+我喜歡聽你介紹
+它們的技術
+和理解人類的理解
+可能你會提供
+教育的意義
+這個比較
+呃
+explanation of some concept or like or or you know teaching
+cruise democratic matters like definitely
+呃
+yeah powerful use of child gpt and I think works well with like
+呃
+呃
+呃
+呃
+teacher like like like our Mr. Shoratowski
+by the same time
+呃
+I think like the thing that like
+he was able to provide was more like kind of emotional support and space
+which I think it's a it will be it will be hard for AI
+是有一個很大的成績
+對 它是很大的成績
+因為我對於大家說
+喔 社會會改變 教育
+我對於學生
+他們的想法是很正確
+但他們的心裡
+他們會在那裡
+回答問題
+所以我覺得那是很好的
+這些是我們的同學
+我認為學生用這些技術
+可以更能夠的學生
+所以在AGI的問題
+我想先在這裡
+給我你的技術定義
+還是其實不是技術定義
+給我你會如何描述
+如果你是說
+一個年輕的弟弟
+對, 幾年前
+我們會說話的AGI
+它感覺到
+技術、學習
+有很大一句話
+但同時
+它們的概念還被迫得有點迷路
+然後還在遠處
+所以,我們會談論,人類的智慧,能力能改善自然,能力能解決麻煩問題,或是掩蓋資訊,都能感受到同一空間
+我認為,在經濟上,我們現在看到這些實際上有很不同的能量,
+我們比較清楚地能夠將大量的大量產業投資在大量的大量產業上,
+我們可以解決麻煩的問題
+我們可以解決
+金銅鑼塔的MRO是一個
+我們在AGI上的一條路線
+這個案件
+我們可以解決
+我們可以解決
+所有的問題
+因為我們在AGI上的路線
+我們可以解決
+但是我們可以看到
+我們可以看到
+ず至到何時還是減少
+我們常常是在想
+好 究竟這個世界會有影響
+是如何的影響
+horrific
+來自剛才的想法
+分析梅德赫也戰攻
+覺得糖芒
+我們成為
+這個東�
+我們也會點擊新的概念和技術等進展
+我們會採訪這件大型的進展
+我們會採訪這件大型的進展
+我們會採訪這件大型的進展
+我們會採訪這件大型的進展
+它是可能的能夠改變的
+很多這個程式
+它是可能的能夠有
+大型的 computer 進行
+建議能夠改變
+世界的意識
+我認為它並不太遠
+所以在想
+我們是否有所分辨
+還有什麼是因素
+這種技術
+這是我的第一步
+我只是點了
+Mac Studio
+因為我想要
+開放的 Open Source Model
+GPD OSS
+讓它開放 nonstop
+因為這個想法就是讓人生產247的東西
+很快就變成了
+但是你提到的一個計劃
+就是在大量的學生的大量的學生
+所以我們覺得
+我們可以從這個看法看到
+什麼樣的發現
+我們想到
+我們如何創造
+我們學生的研究程式
+我們想要
+創造了一種很大力量的知識
+我們
+我們要進行
+這類的學生的進行
+我們想不想 Like Let's take this specific domains
+and let's kind of like deploy this technology there.
+I think that is a way to like make faster
+point-wise progress but I think that the potential
+for like the really big discoveries
+and the most meaningful technology advancement
+comes from this generality.
+Although still, I think we see kind of like
+技術比較容易使用
+一些 domain 和其他 domain 和其他 domain
+我覺得特別是在地方
+那邊有很多的大量的
+基礎和意識
+有很多的大量的
+基礎和意識
+很...
+非常可怕
+對這些系統來說
+我們看到
+而且是非常強烈的結果
+在醫生上,這很厲害
+我對這有很高的希望
+我認為自然是一家社會研究的
+我們認為很多
+在自行的工作中
+我們認為
+如果是自行的能夠
+能夠自行自行的
+那是很重要的
+想法
+嗯, and you know, and similarly thinking about like, how it can help with automating research on.
+Ii alignment and safety.
+I'm obviously impressed with it like, I am a lot results.
+I mean.
+I was actually about to add that like in the past, when we were talking about IMO vehicle like, that was like, you know, few years ago.
+And we are still kind of trying to even figure out what our definition of engine might be like, like what, what, what kind of concept is going through.
+我們在思考中,我們在解決所有的問題
+在MUFFO Olympiad上
+為什麼這感覺很適合
+如果我們有一個模式
+像是超級的學生
+我們應該能夠拆開
+不同的 domain
+那種,可以是學生的模式
+對吧
+我我度我
+I mean I'm in general just
+I think maybe this podcast is just a good opportunity to to kind of like share a little bit more of an insight perspective.
+I was astounded by the progress.
+I think
+So sometimes I see those headlines where people say that like oh
+the economic
+kind of impact of AI is only like 3% or 5%
+Right.
+Compute by comments like
+So AI is slowing down
+or people are overhyping AI so much
+and it's only like 3%, what's up with that, right?
+And when I see headlines like this
+I remember maybe 10 years ago
+I was working on natural language processing
+在後來的學習中,他就沒有做好工作
+我記得,Yakob once came to test one of the technologies we were working on
+他在試著評論的評論中,他在試著說,這部電影是不好的
+正確地說是不好的,這部電影是好的
+正確地說是正確的,然後他會說,這部電影是不好的
+然後模式變成了不一樣的
+對
+所以那是十年前
+然後我們開始慢慢地開始解決
+解決這個問題
+叫做是這個詞的詞
+那是一種感覺
+然後我們有GPT-1、GPT-2
+開始創作
+一句話題
+那是有意義的
+那是一個真正的 breakthrough
+現在感覺很簡單
+但後來我們有了一個 breakthrough
+我們有了GPD3、GPD4
+GPD4 was to me kind of
+像我的個人AGI moment
+因為它會說一些事情會驚訝我
+我還想說
+這個模式可以驚訝我嗎
+後來我個人的GPD
+我還用了一些新的模式
+kind of like maybe slightly but Google but like that like was the
+big deal.
+And then like suddenly we get to deep research and and this can
+actually like answer questions truly like really make things
+out that felt useful.
+And then finally now we have like models that can like
+compete in programming competitions which was like a,
+you know like very hard earned for me personally and even
+more so for Reaku obviously.
+And yeah,
+the pace of progress just like from the perspective of
+因為有人在這技術工作
+是非常厲害的
+所以當你看到3%
+我給你提升了10年
+如果我們要量度
+它可能會達到0.0001%
+或什麼的
+所以我覺得
+這些數目需要提升
+對嗎
+還有沒有理由不相信
+在一年會達到10%
+兩年會達到20%
+所以
+我聽說你看了
+kind of the economy from let's say like you know
+worldwide web early nineties forward
+and it said point to the internet happening to the economy
+You can't find the point
+there's no point you go oh okay
+Tim Berners-Lee announced this whatever
+and I think AI is a lot like that
+where we were oh we've only measured this one
+our measures are hard
+It's hard to know that one who's using it
+how they're using it
+And you brought up a very good point too
+about if you've been following it for a while
+I remember training like a very simple next character predictor
+on mycomputer
+我用了一小型的手機
+但是你還用了
+你用了一張信息
+你用了一張電話
+你還用了一張電話
+但那時候GPT-2出現了
+我寫了每個通訊電話
+每個通訊電話
+GPT-2出現了
+因為我發現
+有些東西在這方面
+我才開始在開玩笑
+因為我當了一個
+很不公平的人
+然後我用了GPT-3
+我一直說
+這就是這個方式
+它在前往
+但是現在是很瘋狂
+因為如果六星會出現
+而在某些地方,有些人會說
+我們把桌子打倒了
+我會說,某些地方
+某些地方,有些人會覺得
+你會看到他們的偏偏的改變
+我聽過某些地方的問題
+某些人會有錯的回答
+而且是不可能的
+如果他回答了,他會答對
+但我們也會說
+我聽過很多人說
+這是一個癌癌
+你想說什麼?
+我想有幾個問題
+如果你可以在最高層面表現下生產,
+如果你可以在最高層面表現下生產,
+在這很難的大學比賽上,我們有最好的比賽者在世界上
+就很難得到很負面的計劃
+我們在GPT-1、GPT-2、GPT-3、GPT-4的前面
+前面的計劃
+就是GPT-1、GPT-2、GPT-3、GPT-4的計劃
+跟企業的計劃
+都很相似
+他們在計劃
+上升的時間
+我想現在
+FILT has developed a lot of more data efficient ways to train for specific abilities.
+Doesn't mean train on these benchmarks, but you can train models that are disproportionately good at math compared to their ability to write, for example.
+So they will do better on math benchmarks, but it's no longer as a representative of their overall intelligence in other topics.
+我認為這些兩項問題的結構
+我們應該要想起
+利用這些模式的優點
+尤其是它的能量
+去找新的介紹
+我想這是一件
+很難看的事情
+你能夠建立一個模式
+是一個很好的測試者
+但這個模式
+不應該是很用的
+正好你的模式
+應該會有好處的測試
+但是因為模式有這些測試
+也不肯定你會找到
+個人的方式
+我相信這就是現在的挑戰
+當人們說是好好的還是壞
+就像說
+你正在作出一個承諾
+當有100個不同的利用
+例如是好好的還是壞
+可能是好好的作品
+可能是壞的文化
+可能是壞的文化
+可能是壞的文化
+或者壞的文化
+那就是一個很大的挑戰
+我們說到這個
+像是一種國際文化
+和這些類型的運動
+為什麼他們很重要
+為什麼要把這類人的比賽的比賽
+都要放在這些人類的比賽中
+我認為最有興趣的原因
+是這個比賽的
+像是在亞利亞特朗普特的
+是他們
+他們是
+一個很有趣的個案
+一個試驗
+不需要太多的
+知識
+但也要嘗試他們的能量
+想起一個問題的心
+一個小時或兩小時
+嗯
+and you know and we have like a very kind of good
+啊
+we have very good evidence that like these problems are hard
+啊
+you know there's a lot of people that try to solve them and compete at solving them
+and it matters to them
+啊
+so yes I think this is
+then you know like for for models that like
+you know exceled at like kind of
+knowing a lot of things but not necessarily
+啊
+you know thinking very hard in the past that that really seemed like the kind of the
+它们会用到对方的脑袋
+对
+所以我明白
+模式的高级金融在那里
+不利用
+像一个调研器
+不利用其他技术
+不利用其他手机
+所以在做到它
+完全通过理念
+对
+在国际数据
+模式不利用其他技术
+对
+而且
+两年前
+你问它
+要变成四个字的数字
+它会失去
+對,但絕對,這個類型的意見,
+當然是在於一個限定的地步,
+但真的只是一個非常有創意的想法,
+並不是一個用語言的方式
+我猜這就是我的挑戰,
+當你開始在學習,
+就變得更難了,
+你能開始來學習,
+像《人類的最後一項》,
+我覺得是一個很大的測試,
+但是你會發現,
+在學習某種模式後,
+你會找到一些方式,
+去解決這些問題的問題,
+我會問,我們要什麼樣的檔案?
+你還在想,這是怎樣可以達到
+能夠達到一個能量的目的?
+一件事,我驚訝過了
+我曾經跟一位工作人員,安娜牧漢主
+我告訴她,我也是很期待
+有什麼進步,她說,我是誰
+那是一個很重要的意義
+因為我發現
+有些這類的研究
+我們在那裡生活在一塊空間
+對我來說
+這類大部分的研究
+非常重要
+尤其是這類大部分的
+科技學業的大部分
+因為這是我的生命
+所以這類大部分的
+是真的有很多的工作人員
+但其實
+一般人
+在其他地方工作
+或是學校的學生
+或者是 computer science
+或者是 可能有興趣的
+或者是
+很多人說五個語言
+也有不同的語言
+根據那種方式
+對
+所以我想
+一件事
+不是很完美的
+但最少能夠
+保持我們
+能夠保持我們
+把關卡
+用的就是 charge gpt 使用
+因為大家都用 charge gpt
+使用它
+用它在所有的用家
+當然,有很多的證據,
+但至少,它會保留那些問題,
+例如,我比較有興趣的東西,
+其他人也會很喜歡其他東西,
+這就給你很大的資料。
+對,而且,你也有很多的利用,
+人們在建設GPTs,
+在做更多的事情,
+你也有提及過,
+這個模式會更長期,
+那是一個很有趣的方式,
+也許能力會達到
+對,我想這個可能是
+一個大挑戰,我們就在用
+GPT的用法和相關的選擇
+作為一套策略的進步
+我覺得
+這沒有真正的發生過
+很重要的事
+但我覺得
+會開始發生比較早的
+我們應該能夠做得更加
+更加努力的
+比
+一個平常的利用者
+能夠
+買來自自行
+製造
+技術
+藝術
+很多人都很高興
+我覺得
+這對我來說
+會是很重要的
+哪一種
+你最驚訝的勝利
+我认为我们肯定会比较接近这点
+当我们看到计算模式开始工作
+同时我觉得这种计算模式很厉害
+我认为可能是因为那些
+我觉得IMO 会更加快
+比我预期的
+IMO 还好
+我认为IMO 计算模式6 仍然会
+IMO 需要所有的计算模式
+values Cレative thought and some new insights.
+I think, but typically there's this problem of problem six that requires very out of the box thinking.
+And it's really usually outside the typical domains of the other problems.
+So in the past we were actually drawing a boundary between getting a goal,
+solving these other problems,
+and actually considering solving all the problems,
+and in particular problem six.
+所以這很奇怪,我們看到了雙方在同合チーム後
+在同一期間 GoogleBug融合中
+我們交出問題,發現得不太好
+而且我們並沒有解做過任何問題
+這很有不可能的挑戰
+對,我想這件事是很有趣的
+其實 OpenAi 模式
+我說我未必能夠解決
+但它還說了,我會一路過
+那是對嗎?
+對,你確定模式是可以對應
+並沒有進入發展的問題
+那是非常有趣的
+想想看
+能夠把那些模式解決
+因為
+有很多談論
+人們說的是
+俄羅斯的情緒
+我覺得是一個
+非常明白的問題
+而且有不同的
+與細胞的思考
+一個是有多少知識的模式
+還有其他是
+有問題解決的能力
+如果能夠到達
+那些
+能夠說
+但是我想
+我不會能夠回答這個
+那是一個
+很有趣的點
+Lambista 啊?
+I think in the in the past few weeks, actually, like models have performed incredibly well in the three competitions.
+So we talked about two of them, which is IOI and IMO.
+There is also this competition that is open to everyone, not just high schoolers called Ascotter, It's a very prestigious, very
+在日本大部分的大級級劇場上,
+但也會開放在世界大學
+這次的大學,
+是有一個更長的,
+更長的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+更多的,
+就像是很難解決的問題
+所以有點不同
+因為沒有一個對準的方式
+沒有一個模式
+這個方式很有趣
+你可以在這個方式
+參考10小時
+所以我們進入了
+這個模式
+這個方式
+對我來說
+這個方式有個人意義
+我曾經是一個
+在這個比較短短的
+短短的項目的構成
+像IoI
+還有
+我的朋友
+Saiho
+也曾經在這個長期的項目上
+進行過了
+我們一起工作的時候
+他會讓我看見
+我的項目會被改變
+久前的
+因為他們的長期項目
+需要更多的專注
+然後在這場比賽
+彩虹是一個最高的比賽
+所以我看過這次的直播
+看彩虹和彩虹的比賽
+最後彩虹其實是第二場比賽
+彩虹贏了
+所以他也一直在他的想法中
+還是兩天的敗魂
+我覺得一件事也有在我身上
+是Sahar在結束的結束
+他真的很疲累
+他跟我說了一些話
+他的經驗
+在結束中
+我不會說他在這個 podcast 直接
+但他說你的模特兒很壞
+我想去睡覺
+我很疲累
+對
+我們聽過話題
+我們說過之前
+我覺得很有趣
+因為
+原因就出現了
+有些東西
+一些紙紙
+但人們真的沒有
+把線紙寫下來
+然後一旦01模式出現
+整個想法
+你不可以只用
+給答案
+你只能讓模式
+有一個模式
+說話
+解決
+我們認為
+足夠的
+給AGI
+有任何 break through 需要的
+或有任何 break through 需要的
+你認為會發生的
+我只需要提醒一下
+這隊伍在這部分很難做
+我覺得這件事
+很簡單
+需要一個更長的時間
+但做這個工作
+真的很難做
+我認為
+剛才的問題
+是什麼是最驚喜的結果
+我們第一天
+我們第一天
+發現它正在工作
+我們第一天
+我們可以訓練這些模式,給他們更多資料,更好得到更好的資料
+這是我認為最誇張的一刻
+我們開始問了非常非常嚴重的問題
+我們是否準備了一個非常快速的進步
+我記得有一天晚上11點
+我覺得我們在線上和Mira在一起
+就在嘗試
+我覺得我們被一些結果的結果
+也有時候會有這種情況
+對
+這個時刻很快
+我覺得很快
+像我剛才說的
+這個時刻
+沒有人在家裡住了6個月
+他們覺得很慢
+但如果看你
+你會覺得很快
+我覺得這是一個很大的問題
+因為對
+你會有事
+你會知道的
+一旦你工作了一段時間,
+你在學習做這件事,
+我想說這次遊客朋友已經有很多工作了
+但是這次世界還不算他太驚訝
+因為這次正式兩者合作的角度
+令這個模式更多
+讓它有更多的サッケー性
+所以那次正式兩者合作的.\
+不然的話,
+其次會有更多的能力嗎?
+我想我們不會被分析
+這是最重要的是將來的
+嗯
+i think you know, even as we look at this, we think models, you know, like it's not like
+you know, the previous scaling paradigm of pre-training
+has vanished, right? Like I think we will see this things compound
+and i think there's also like new
+uh
+new directions that that we can move in. In particular, um,
+we were talking about you know extending the horizon that these models
+You know plan for and and and and I think if you look at it from the perspective of just like compute spend
+You know we say OK yeah we went from
+GPD far between some other compute for for every answer to like you know gPD five pro which maybe uses
+I don't know like
+X啊X 20X啊I don't know like some some
+You know
+不難,Model was, but in some ways not that impressive amount compute more, right, can produce much better answers.
+I think on the scale of what amount of compute would you would you be willing to spend on a problem that actually matters a lot of people, right, on progress on a medical research question,
+made sure to start balancing the next generation of models.
+These are incomparably larger amounts.
+And I think that question of model persistence
+and ability to work for a very long time on focus problem
+is a pretty clear next step.
+How would you put the practical implications of AGI
+to sort of like if you were talking to a typical chatGBT user
+或者就是 What would be the
+What would their experience be like
+in a few years from now
+or five years from now
+which sounds far away
+but it's really not
+cause which is five years ago
+GPD3 came out
+That feels like a blur
+What would an AGI model
+be capable of
+So I was talking about
+automating research
+My picture of how that
+would actually look like
+is imagine a company
+a very capable researchers
+and engineers
+that is largely automated
+然後,我認為這就是一個
+我們會跟世界面對的一切
+我們不會像一個黑箱一樣
+我們會跟別人說話
+我們會用進步來做測試
+但是,我認為
+我們有這個
+能力在發展新的技術
+還有其他技術
+阻塞了烈通的理念
+也许
+我也许
+我也许
+我许
+我许
+我许
+我许
+我许
+我许
+我许
+我许
+我许
+我许
+在我們進行的實際上,我們看到的GPT可以感覺到很人類的感覺
+我們可以跟它有關的關係
+我覺得,當它變得更加堅持,當它變得更能夠表達自己的不同的形式和性
+我覺得這會更加強烈,這會變成一個很大的,很重要的形式
+跟我們聊聊
+我只能有 access in chat 和 chp t
+其實可以有的
+其實我刷了我的 calender
+和 gmail
+然後我發現
+我們這麼久
+我們跟Comp is 很好
+現在我現在不太怕
+那我會開始寫
+你走的 fanfiction 跟別人
+你知道嗎
+我覺得那是
+這個很好的
+需要的 需要的 需要的
+我认为我们在一个地方是一个非常厉害的责任
+就是有一个非常丰富的经济
+你能够把财富的责任取得到很多财富责任
+在同一时间 我觉得
+我们不像是一个很丰富的财富
+我们可以完全相信这些财富
+不像是一个人在使用他们的财富
+嗯,嗯,
+is that is that like a big problem?
+I think, you know,
+with a filter have to write on.
+What would you tell
+two versions of you guys today in high school?
+What would you do if you're visiting your old classroom?
+What would you say right now?
+Tell them about the future?
+What advice would you give?
+Invest in Bitcoin.
+No, I mean today,
+today, even today in 2025
+What would you tell a high school student?
+High school students today.
+Oh, yeah,
+that one is also I think a great question, right?
+Because I hear a lot of
+所以你必須學到一個技術
+那是在獲得獲得獎金
+然後再繼續獲得獎金
+就是要有一個很大的劇情
+可以把問題解釋成成品
+那些不可能會在未來的程度上
+但程度是一個好方法
+要有這個技術
+所以我們需要很多的 domain
+我們需要很多的技術
+所以我們需要很多的技術
+我們需要很多的技術
+我們需要很多的技術
+所以別讓人們告訴你
+你不應該學習 Code
+我學習 Code 太晚了
+我其實就做了
+開眼睛作業
+我試著告訴別人
+因為這個系統
+不想知道
+如何做到的
+你明白
+我做了開眼睛作業
+我的解釋和理解
+幫我明白
+用雙語來解釋
+I think that people bridge those gaps are really in advantage and so whenever I hear people say like
+don't learn to code. It's like do I want an airplane pilot who doesn't understand aerodynamics.
+Like this doesn't make much sense to me.
+Well, you know, thinking about how I thought about things in high school, I think it's like pretty
+incredible like how many kind of percieved constraints are not actually there when you really think about it.
+You know, maybe maybe like the first revelation to me was like, Hey, you know, if I really kind of like
+我都很不愉快地在學校學習
+因為我可以花更多時間
+在學校的高層上
+可能花了更多時間
+在學校上學習12個 subject
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+但...
+我可以...
+我可以...
+我可以...
+那不是很重要的事情
+那是對於對方的對象
+而是對於在這裡的對象
+在看見大家的心情和意見
+他們願意去攻擊這些大問題
+和他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+他們的信任
+在世界上有大多数的改变
+我认为这种感觉是非常有印象的
+我相信这种感觉是非常有印象的
+我认为这种感觉是非常有印象的
+这是什么 或者是什么
+什么感觉你
+我觉得这是一堆词
+我记得
+其实是非常有意见的
+现在想起来
+我没有真的能跟他一起
+但是我父母给我了这本词
+我 pretty
+I think I was like 15 i was like pretty unsure what I want to do
+yeah it was um
+polish polish version of a book by like some other I didn't know
+called a harkerson painters
+yeah, so
+yeah, it was actually a poldram so I guess like a
+yeah again like this community
+嗯
+I found out pretty pretty pretty inspiring
+the other something helpful
+I think that hearing the message of like
+no it's okay to dream big and go do stuff
+that you can just make things happen in the world
+and I think that the more people realize that
+kind of the better the world gets to be
+is there any book that influence to you
+or movie gb show or movie
+I have a stupid answer to that question
+I love stupid answers
+but after the profound one
+but but like okay
+我看過《Iron Man》
+對
+我開始《P.H.D.》的《Robotics》
+那是一個很好的答案
+《The Martian》的Andy Weir
+我認識了一位研究生
+是一個寫的寫的寫作
+我跟他說
+他們有什麼不合理的心理
+他就說
+這是我為什麼要在這裡
+我問
+我猜我從沒有進入《The Stupid Part》
+《The Stupid Part》
+我開始在《Robotics》工作的時候
+我非常不滿意
+我把這些《Robots》寫作的寫作
+但總之沒有發生過
+可能這部電影是一部電影
+所以這段過程是真的不好
+如果不是
+是真的不好
+如果不是因為
+我遇到一個朋友
+進入了深學
+我一段時間
+我都覺得
+這部電影的學習
+是很高的
+但也有一個
+很有趣的系統
+然後到外面
+我確實是
+我會想起深深的心情
+說 AlphaGo 出現了
+我確定是不太確定
+我確定是一年在做
+這很讓我們感到
+其實是對我們來說
+而且從此就不想工作
+對 讓我變得
+更加確實
+更加快樂
+因為我們不太明白
+那種有關音樂的內容
+我覺得這已經是
+我們有步行試 do a lot of research here
+也在軍事學習
+Antonio gave me that
+I'm gonna go get ready
+because it's so great
+You know what, I'm gonna go get ready
+the star of a research here
+making trying to make progress on on on these questions
+like about how it really works
+but it really is exciting
+a physical phenomenon in some way
+and you know to a Classically trained computer scientists
+that was that was a weird thing to accept
+I do remember when Jacob was telling me about like
+scaling up principle
+你自己自己在想
+OK 遊戲機構
+這裡有一個過程
+我認為這是繼續的
+但如果看不見
+可能是鐵路
+可能會變得更好
+誰知道
+我比較喜歡學習
+學習什麼
+學習
+學習
+學習
+我始終是一個魔鬼,沒有人知道
+所以我其實也有自己的實際節目
+所以你會找到很奇怪的路,他們會結束
+Yakub,Simon,這已經是一個很好的話
+我們會再次談談你們的大壞 break through
+你們的工作,會發生在哪裡
+我們會想說,這是個超級的事情
+謝謝
