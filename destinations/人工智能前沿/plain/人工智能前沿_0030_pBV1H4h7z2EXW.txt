@@ -1,0 +1,745 @@
+我認為你會看到這表現得很清楚
+我認為Alex也有說過
+在幾年前這些模式都在努力學校的學校
+我記得在2024年
+GSMAK用來推出的模式
+然後它變成了Math
+然後變成了Amy
+然後變成了USA Mo
+然後它就被所有的學校
+blow into all of these math benchmarks
+is really astonishing.
+Today, we're joined by Alex Wei,
+Sharold Sue and Noam Brown.
+The trio behind the open AI model
+that just achieves gold medal performance
+at the international math Olympiad.
+The I'm All Gold is one of the most important milestones
+in the race to artificial super intelligence,
+and what makes this breakthrough particularly fascinating
+isn't just the mathematical chops,
+but the underlying architecture.
+General purpose techniques for scaling test time compute
+and handling hard to verify tests
+that extend far beyond competition math.
+We've now gone from models,
+that can reason about math
+for a tenth of a minute just a year ago
+to systems that can reason and concentrate
+on the order of a hundred minutes.
+The hope for superintelligence
+is that as we scale reasoning
+to thousands or hundreds of thousands of hours
+we can begin to solve humanity's
+greatest unsolved problems
+in math, the sciences, and more.
+Alex, Cheryl, and Noam
+joined us on training data
+to talk about their approach
+and share some of the behind the scenes
+behind this historic result
+Enjoy the show
+Alex, Cheryl noam
+Thank you so much for joining us today
+We have with us the team behind
+OpenAI's first gold medal at the iMO
+Congratulations to you
+all, it's a momentous achievement
+Thanks, thank you
+I'd love to get a little bit
+of the origin story behind this
+I know that the iMO gold has just been this
+Elusive thing that everyone in AI
+has been chasing for a long time
+我記得當SAM的片段在2021年
+它在載著,我記得想
+哇,那好像很遠 away
+我愛了解更多的原始故事
+這個特別的努力
+為何大家開始想起這個
+然後怎麼想起
+我覺得是一種
+我們想起的一段時間
+我記得在我第一天在開箱
+Noa問我
+你覺得Model會有什麼想法嗎?
+我以為是個金牌
+我以為是真的不可能的
+在2025年
+但是我認為這是一件
+常常在我們心裡的事情
+像你剛才說的
+SAM 很多年以前
+但是這個專業
+我們想到
+我想是只有
+幾個月
+因為
+就是幾個月
+最後的一年
+準備好所有的東西
+這個年代的XIMO
+當然我們正在努力調整我們的圖文
+我們開始的理想是
+6個月前的我們開始的
+但是我們真的想要做一點點
+我們要做一點點
+在這幾個月的imO
+只有幾個月
+太好了
+還有多少隊員進步了
+我們絕對會在開放AI工作的部分中
+建立了很多人的工作
+這是不可能的
+很多人的幫助
+人們的資料
+人們在學習
+學習的資料
+做了 pre-training 和RL training
+但在於我們團隊
+我們只有一三個
+是一種非常小的努力
+這真是瘋狂
+我就是主要是雷克
+雷克在這技術工作了一段時間
+Sharl和我都很開心幫助
+我們進行的IMO
+讓我們做出現實
+真酷
+你覺得這個技術
+你自己選擇嗎
+我會在IMO工作
+我會在這裡
+你怎麼會
+用這個技術
+我覺得這個技術
+可能是可能的
+如果我們
+我們可以在這裡做一些活動
+一件好事是
+我認為研究員們都很強烈地
+做這些研究
+他們覺得很厲害
+所以Alex有這個演出
+他們覺得有這個技術
+可以幫助很多
+他們有很多的 skepticism
+我認為有些人都很支持
+但是大家覺得
+我們應該給他們
+自由去探索這件事
+然後開始展示了一些強烈的證據
+我認為人們仍然有點不太清楚
+但更多人都會感到興奮
+然後變成了更有趣的事情
+現在的人們都很興奮
+可以說說一點點 more 強烈的證據嗎
+你覺得你們的年輕表現如何?
+我覺得是
+進行過程中的
+很難去確認的工作
+我認為前面
+A lot of oil was more focused around just like if you have these verifiable rewards.
+Like you know what can you do?
+You were just seeing more improvement on these harder to verify tasks is I think what made us excited?
+Maybe on that front how did you even verify that the results you had were right.
+And I saw that you published the proofs on GitHub.
+But can you just say a little bit more about how you even know
+你也有發現對方的答案
+因為我的理解是
+他們做了不少不同的事情
+從如何一個人答應他們
+對 我覺得
+模式的風格
+是有點兇的
+兇的不是我所說的
+是用作創造的
+像是一個 alien language
+對 這是
+我覺得
+我們可以
+是一個很小的 小的 固定的努力
+所以我們沒有想到
+I'm as hard for human readability
+but that's something that we know how to do
+We can do the same stuff
+To do the same thing without chat.
+公体ج wichtig
+Is very readable.
+We feels the same thing here.
+Do vneda optimization for human readability?
+Is that even important?
+I think if you're showing this to
+Humans, they prefer readability.
+We were actually discussing that
+We have the proof and we got the proof
+It keeps the proof
+L racist can run them through chat.
+But we just write them
+We write them in a more readable way
+And it's like the proofs were still correct
+They're just like a little bit more readable
+And we were like, oh, should we we post these online
+Should we like post the more readable version
+That's like run through chat to betee
+Or should we just post the raw version
+And we decided, you know, I think for full transparency
+We'll just like post the originals
+And people will figure it out
+You guys have a bunch of IMO
+metalists and participants in the staff
+at opening eye, right?
+Do you guys like moonlight in your spare time
+grading the answers that the model produces?
+我們有討論過很多的研究
+但我們還要討論過這些
+我們買了外國的衛生物體
+所以每一項研究都會討論
+每一項研究都會討論
+每一項研究都會討論
+我應該說
+我跟Sheryl說
+但我對這項研究
+是 beyond my ability to comprehend
+我當時是大學的
+我沒有做過大學的大學
+我已經知道這個模式是在寫的
+是在我的能力上
+對,我認為這就是更有趣的
+就是像這個模式
+完全
+什麼是問題6
+這年IMO的模式是怎樣的
+你的模式並沒有試過問題6
+可以說 more about what makes that problem
+而且 平常問題6是最難的
+對嗎
+對,問題3是問題6
+為什麼?
+你對於你所學習的問題
+還有什麼問題
+你對於你新的模式
+你覺得它不能解決問題
+是一個讓你希望的問題
+所以你再說一點
+這個問題
+對於問題
+這是一個很困難的問題
+我認為
+如果你想想一個月
+如果你給我一個大意
+想想主題的問題
+我不會想得到
+就像是一個很難的問題
+有很多東西可以做
+就像是一個很難的方式
+去找證據
+我覺得這是一件事
+就是因為學習很難
+對,我們通過了很多學習
+在問題六
+但是我覺得是好看
+模特兒不想要解決
+或是想要做出一個解決
+但不想說不回答
+我認為這就是當你覺得
+你做了這麼多工作
+就像說沒有答案
+但我覺得
+這很棒
+其實這樣承認
+對 這是很棒的
+自身身體的一種
+自己的身體
+因為我記得
+幾年前
+這些模式
+他們會常常
+幫忙做一個答案
+所以
+這就是
+很棒的
+自身身體的一種
+這些模式
+當我們發出
+我跟教授和學生
+研究研究研究研究
+我問他們
+你們是否有興趣在這些模式
+答案是
+平常是
+但他們會說
+如果他們問
+模式的問題
+他們不會知道答案
+他們會說
+很明確的答案
+他們會要
+很小心地去查
+是否正確
+或是否有
+一個不明確的問題
+或者是一個模式的問題
+而且是很高興看到這個模式
+如果它不知道
+它會這樣承認它不知道
+至少更常見
+我猜是在內地
+你們有一個浪費
+一個保養品
+或者什麼的
+你們到底會不會
+贏IMO Gold這年
+什麼是內地的反應
+我覺得我們覺得
+我們有一個強大的打擊
+但我們也覺得
+不是一個走路
+那裡絕對有
+基本上我們叫我們學級學化
+我們會找到最多的學級
+這就是我們從小的學級
+去學居民的學業
+這就是我們從小學的學業
+我們至少會在學系中
+在學系中
+我們會找到很多什麼
+我們會找到一些
+我們在學中
+而是有些比較難的問題
+而是比較難的問題
+那是一個問題我們都會在難的程度上
+為什麼是蠻難的問題
+而是比較難的問題
+例如說像你做的大部分
+像你做的大部分
+我覺得蠻難的問題
+是因為它比較像
+比較高級的
+我認為
+蠻難的問題
+在這個問題上是需要一種信息 信念
+這樣的事情
+這種狀況 根本不 Patricia 才是
+比較好作用
+一個小連動的內容
+到你的大家的觀點
+有沒有覺得 內容和解決的
+我感覺好像不是非常解決的
+我相信它絕對是有可能的
+但我依然覺得
+我一月兩天前,我肯定覺得
+我們應該要改變得不錯
+我記得我跟另一個研究員說
+兩天前的比賽,我們說
+如果我們要去拔,我會拔
+我會拔
+對,你會拔
+我告訴你,我會拔
+因為我們要拔,我們會拔得到
+我們真的沒有機會
+他说他会拿2-1奥地奖赛的奖赛
+所以他没有想到赛场
+但是他没有想到赛场
+所以他想要赛场的奖赛
+所以他没有想到赛场
+所以你也有想到赛场的奖赛
+我希望我能赛场
+你也有想到
+因為你 guys were I think you tweeted 12% on Amy like 15 months ago, right?
+So it's even though you never want to bet against scale and open AI, it's just this is astounding slope of what y'all have accomplished here.
+The pace of progress is really, I think you see it so clearly in math and I think Alex tweeted about this where, you know, even a few years ago, these models were struggling with like grade school math and you know, and then we, you know, I remember even in 2024 that like
+GSMA-K was used as the standard eval when everybody would release a model
+and then it was like math for a short period of time
+and then it became Amy and then it became USA Mo
+and the pace that it's just gone
+blown through all of these math benchmarks is really astonishing
+Yeah, I remember training a model on GSMA-K two years ago
+Yeah, we're past those days, huh?
+Saturday the evals, what's next?
+Do you think, I mean, at this point next year
+you think we'll be solving Millennium prizes?
+我覺得那些東西還很遠 away
+我覺得在一方面
+你會想到
+如何學習的學歷
+從GSM 8K
+就是兩年前的標準
+那些人在推動
+那是一個非常有進步的程度
+但你會想到
+如何學習的學歷
+像GSM 8K的問題
+他們學校的學歷
+學歷會有幾個秒鐘
+現在我們已經從幾秒到一小時的問題
+我們會把這幾個學生的一小時半的問題
+我們會把這三個學生的一小時半的問題
+然後 學生的科學技術
+會把這些學生的一年半的問題
+他們的學生 他們的學生
+他們會把他們的1500個學生
+那裡有1,000x的更多的想法
+那裡有1,000萬的獎金
+人們的生活時代都在想
+我們仍然沒有很多的進步
+所以我們在一方面
+非常期待我們做了這麼多的進步
+另一方面,我們也很想看
+我們要如何進行更多的進步
+從一個小時半到幾十個小時
+是人們在想的
+完全
+Noam 我覺得你必須要有很多信心
+在看著未來的未來
+我記得你前面
+你也參加了開放智能
+說話的
+遊戲的結果
+你也知道如果讓模型
+在未來的時間和時間
+你也有信心
+在看著未來的未來
+謝謝
+我覺得
+很開心看到你其實在看
+What are the hard things that happen as you scale compute time, inference time from the order of 0.1 minutes to the order of 100 minutes.
+I guess at a high level because not everyone… Most of our listeners are not AI researchers, but what are the hard things that happen to keep the model on the rails, so to speak?
+我認為我們可以表達到一個很明顯的挑戰
+如果我們有模式在想1500小時
+我們就要考慮1500小時
+所以後來的評價
+變成了很大一段的速度
+我們沒有在那裡
+如果我們有模式在想一小時半
+我們可以去做這些測試
+但是我們在研究的模式中想要一個月
+我們需要一個月去完成這個研究
+所以進行的進步可以很快
+如果你想要等待這些結果
+我想你們兩位在研究團體中
+幫我明白什麼是
+研究團體的主動性
+對,所以在研究團體中
+想要很長時間
+做很多進步
+做很多難度的進步
+這也會進行計算和計算
+所以這就是一個多數的公司
+我們可能不會能夠進入太多細節
+關於正確技術
+但這就是我們能夠計算
+測試時間的公司
+順便說一下
+我會加上多數的
+計算和計算
+是我們真的試過
+在我們技術上的發展
+我,例如,我工作在A.I. for poker
+Alex and I both worked on A.I. for diplomacy
+Alex was on the team that worked on Cicero
+Cicero, yeah, nice
+And those were projects that I'm really proud of
+But they were also projects that we spent years working on to achieve that result
+And with the pace of AI progress being so fast
+It felt like that wasn't the best use of time to develop a very bespoke system
+That could only do that one task
+所以我們都很想要求
+整個基礎的專業技術
+我們用的技術
+是每一項技術
+計算時間、
+作用難度測試的技術
+以及用的 parallel compute
+是全的基礎技術
+我們都會計算
+或用的其他技術
+那是你選擇的原因
+而你選擇的理由是
+就是iMO AI Track was a lean interpretation this year
+Is that why you guys chose not to go with lean?
+Yeah, that's right.
+There is certainly, I think there is a lot of value in lean as a tool.
+Mathematicians find it useful for example.
+But the priority for us is really general purpose reasoning capabilities.
+And lean has its limitations.
+And so that's why we wanted to prioritize natural language.
+我的理解是,Lain是一個正式確認的圖案
+你的結果是,在正式確認的圖案中
+可以同一等級的表現
+或是正式確認的圖案中,是否正確
+我想…你…
+我不想說是正式確認的圖案
+我看你對你的想法
+我看你對這兩種
+正式確認的圖案中
+我們…
+我們找到正式確認的圖案
+是一個有趣的問題
+因為它是一個像是一個
+一個困難的角色
+在計算上 測試時間 和測試時間
+很難去確認的目標
+它是一個像是
+一個很大的招式
+我們都很興奮到的
+從一個大部分的目標
+我認為Lean是比較困難的
+我認為很多世界的目標
+可以與不明的原因相似
+而是比較平常的
+我认为没有任何错误的
+与与绝对的公式
+与绝对的公式可以很丰富
+与绝对的公式
+与绝对的公式
+与绝对的公式
+我认为
+同样
+人们 人们的学生
+找很多价值和利用
+与绝对的公式
+可以比较丰富
+与更加丰富的系统
+比较丰富的系统
+比较丰富的系统
+我覺得這兩種組合可以更好
+因為它
+我看在Twitter
+很多人在開放AI
+你們也有提及過
+這個系統
+是有很相似的
+進行進行
+和進行進行
+很多新的發展
+從開放AI
+我們有ISA
+從ChadGPC的
+發展在 last week
+你能否說 more
+什麼比較相似的
+進行進行
+我覺得我們都用同一個資料來做
+但是我認為在這個問題的關係
+像我們說的,我們沒有說過
+我們要用IMO來做這個問題
+我們希望可以利用
+雙方的技術,雙方的技術
+我們要用不可否定的技術
+我們要用不可否定的技術
+我們要用測試時間來做
+我們要用這個技術
+其他部分是理由的
+或其他部分是模特兒的能量
+然後再建立更強的模特兒
+繼續提升經濟
+繼續提升GPT 和其他
+告訴我其實的經驗
+IMO Day 什麼樣的
+對
+我們正在等待
+他們的問題來過
+因為
+當參加完畢後
+他們就被迫發表了
+所以我們
+把問題放進模特兒
+那天晚上 pretty late at night
+1am or something
+Honestly, I went to sleep
+because it's like
+1am, I'm not going to stay up for 4.5 hours
+so I'll just wake up in the morning and see
+but I think these two actually stayed up
+and got to watch the model
+and see it come in in real time
+It was a lot of fun
+Did anyone call no?
+I'm like, wake up, wake up
+we got this
+There were a couple moments where Alex
+was so exhausted
+他決定要拿個手機
+但我們告訴他
+好,先把手機關在 silence
+我們需要幫他打電話給你
+我們一開始也有電話
+但你不覺得你醒來
+太棒了,這應該是很高的
+特別是要來到thruet
+你開始在1am
+你應該知道9am吧
+已經4.5時間了
+對,我看過了
+我們可以看到問題來了
+我會把系統的資料都做好
+然後在看他們的讀書和看他們的模式
+你做了一段生命的證據
+看看是否有什麼實際的
+我當然很關心結果
+所以我只想看
+他們的進步
+讓我們能夠看待那一段
+然後我還會去查看這些東西
+我們會把這些資料傳給學生
+但我還會去查看他們
+因為我非常興奮
+好,請問我下次
+我會來找你
+我還沒睡覺,這太好
+我明白這些模式的東西
+我不能理解證據
+但當你看模式的想法
+會表達自己的懸吊
+或者是信念的自然語言
+通過程序
+然後會說一些說話
+如果我真的有信念
+我就會說好很多
+如果不確定
+會問很多問題
+所以是很棒
+我可以跟著
+看模特兒的感覺
+和進度
+雖然我不能說
+如果有錯
+看起來很難
+你還好嗎?
+我還好
+沒過
+對不起,我太壞了
+很好
+我看起來
+你做過的結果
+在比賽中
+你可能會去普特諾
+但你基本上在最高
+所以
+接下來呢?
+其實
+gambitam the problems I think since the exam is like, you know, less time per problem than the IMO.
+And it's a little more knowledge heavy.
+We actually found in our e-vials that the, Ball.
+What's like, really, really good at putting them problems, better than it was that IMO problems.
+And so, I think the frontiers here are really not about these very Stampboxed competition problems anymore.
+但還有一些問題
+比較長時間和更深刻的想法
+很酷
+你會開始證明新的理念嗎
+我覺得有一個很深刻的深刻
+是這類很小的
+時間碼、比賽的問題
+還有一個很實際的學習
+這 takes a year's worth of work
+and a year's that's on the order of 1500 hours instead of 1.5
+Yeah, totally
+I guess relatedly I was listening to the demos podcast last night
+and he mentions that the hardest thing is actually coming up with the interesting problems to solve
+and I'm curious if you all agree with that
+I think there's some truth to that that these models are really good now at solving
+但是我覺得這幾個問題, 還會有一個挑戰
+但我覺得也很值得記錄
+我們看到的最大的一段時間
+還有, 最終是下一個任務
+原來LM們都說, 他們怎麼做呢
+他們怎麼做呢, 但他們怎麼做呢
+他們怎麼做呢, 他們怎麼做呢
+他們現在可以做的, 他們怎麼做呢
+我覺得 next hurdle is going to be like
+OK well how do we get them to come up with these novel questions
+you know like even creating an imo question
+is is a challenge and it takes a lot of extra mathematicians a lot of work to do that
+but I don't see any fundamental barriers that block us from getting there
+I love that
+Do your results in math they just fully generalized to
+you know you're just gonna be better at scientific reasoning
+你會更加有經濟的原因
+你覺得學校的學業能力會更高嗎?
+我們應該是學校的學業能力
+我們是專注於學校的專業技術
+讓學校的學習能力更高
+我們都很期待在地區上進行更多的模式
+還有其他地區的領域
+希望能夠讓模式更有用
+讓我們更加有天天的使用
+這就是一個很短的結果
+其實這也很驚訝
+因為我們在開放AI
+所以我們要將這項模式
+我們要把這東西更加大量的進入
+我們要把這東西進入我們的模式
+進入我們能夠改善的方式
+但是我們要花時間
+去做這個程式
+去把這個程式展開到世界上
+所以我覺得這東西會有機會
+但是我們要花一點時間
+這些模式是否比較難做
+IMO 還是 聖餐牌
+我覺得聖餐牌的
+因為聖餐牌的
+所以奥林 conductor,Colombian, has, I think, an experimental section.
+Oh.
+Or you have to...
+Oh, okay.
+So we need some robotics groups.
+I didn't realize that.
+Ok, I thought it was just another piece of paper.
+Yeah, so...
+I think it's...
+Model will probably be good at the on the paper part,
+but yeah, I think the will be a little bit...
+A bit of time before.
+It can do the experiments.
+Not with like a world model.
+Okay, cool.
+Are you gonna release this model for customers to play with?
+Rilof Sun is a math Olympiad kid
+and he's like, I want access to the math Olympiad model.
+Like will people be able to play with this?
+So we want to make this accessible to mathematicians to use.
+We're still trying to figure out the exact details of how we make that happen.
+But I think it's really cool that we've developed this system that is incredibly good at math.
+And it makes sense that we want to see what mathematicians can do with it.
+I've actually already been emailing with like the Stanford professor,
+mathematics professor.
+他其實 emailed me about a year ago
+前我們公開的一天
+他問我想要做一個合作
+在解決大腦問題
+我告訴他
+我們應該要有進一步
+大腦的理由
+然後他們會幫你解決大腦問題
+我認為這是最有趣的方式
+他有點害怕
+但每個模式的發展
+每個理由模式的發展
+他 emailed me with a follow up
+問我能否解決這問題
+我再回應他
+我不知道他的出現
+but I emailed back to him.
+and he says like, yeah, that's wrong.
+Say he emailed me like follow up this time with like,
+you know, the same problem.
+like asking like,
+hey, can't it solve it now?
+It still can't solve it.
+but at least this time,
+I like recognize this dat I can't solve it,
+so I think that's like a big step.
+but we're curious to see if there's like a lot of other.
+Problem that there that that mathematicians.
+want to challenge role with and see if it
+can take them on amazing.
+Congratulations to yall.
+I think this is a momentus result that the entire
+Field has been waiting for for a very long time.
+The fact that it was accomplished by a team of three people in a span of two months.
+It's extraordinary.
+Congratulations and thanks for joining us on training data.
+Thank you.
+Thanks for having us.
