@@ -1,0 +1,355 @@
+今天我們在A.I. 上的第五個研究
+breakthroughs changing medicine, physics, space research
+and the world we live in today
+let's dive in
+Number 15
+protein structure prediction breakthrough
+for half a century
+predicting how proteins fold
+was one of biology's biggest unsolved challenges
+proteins form the machinery of life
+and their shape determines how they function
+misfolding is tied to diseases like
+Allzheimer & Parkinson's
+but solving these 3D structures
+used to take years of experiments
+deep minds alpha fold changed everything in 2020
+accurately predicting structures in ours
+by 2022 it had mapped over
+200 million proteins
+covering nearly every known protein on earth
+researchers are now using these predictions
+to advance treatments, design enzymes
+and even explore ways to tackle antibiotic resistance
+14. AI for Brain-Computer Interfaces
+Brain-Computer Interfaces are no longer just theoretical.
+I've been taught to you with my thoughts.
+In 2023, Stanford researchers used AI to decode brain activity into text
+at nearly 80 words per minute,
+restoring communication for paralyzed patients.
+At UC San Francisco, another team trained deep learning models
+to translate brain signals into entire sentences.
+開閉門口 給人家 who lost the ability to speak
+Beyond communication
+Patients are already using BCIs to control robotic arms
+or digital keyboards and clinical trials
+AI is making these systems more accurate and less invasive
+with wireless setups beginning to replace bulky implants
+Number 13
+AI in mathematical reasoning
+AI is now competing with the world's best young mathematicians
+DeepMinds Alpha Geometry 介紹於2024年
+便解決83%的
+國際科學學學院的
+《奧林匹義》的
+《奧林匹義》的
+《奧林匹義》的
+《奧林匹義》的
+《奧林匹義》的
+這與金銅鑼勒斯
+的表現相同
+這令它有一個特徵
+是負面的
+不只是在解釋的答案
+這個系統
+將會向人類
+向人類的
+這個意義
+將會向上返於
+《奧林匹義》的
+《奧林匹義》
+將會向上返於
+《奧林匹義》的
+《奧林匹義》
+在這層層層的學者們
+學者們對新的考慮
+在學者們的學者們的學者們
+和更多的學者們的方式
+進行研究
+12. 天氣預測過程
+確實預測過程
+save lives
+但傳統模式
+take hours of supercomputing processing
+在2023
+DeepMinds GraphCast
+upended the field
+by producing forecasts in seconds
+在90%的基金的模式
+组织了组织了组织的组织
+组织了组织的组织
+组织了组织的组织
+在2023年2月
+美国美国研发了
+组织了组织的组织
+这些时间
+是要求远方的
+和计划的
+公司现在正在
+组织了组织的
+组织的组织
+和组织的组织
+在生产的
+运动的
+更快和更加明确的想法
+是最重要的
+在社会世界上
+11. 发展新的材料
+材料的 science 已经离开了
+一段时间
+在2023年
+Google DeepMind 发布了
+Nome 一个AI 技术
+它发布了
+百分之百的
+细菌的材料
+这些材料
+它发布了
+380,000 前世的
+材料
+约800年
+在普通的学校发布
+早前 lab tests have already confirmed several of these predictions,
+包括材料, 适合 电源, 电源 和 超车的 预备
+这种 AI-driven roadmap 将是 将许多 设计 生产 项目的 需要 建议 项目的 功能 等 技术 等 方式
+而是在讀取的许多数研究者
+现在知道哪个方法
+10. AI 以则则则则则则
+Alpha Dev 和 Alpha Evolve
+AI 只能解决问题
+它是在则则则则则则则则则则则
+在2023 深入的 Alpha Dev
+DESCOVEIRD a faster sorting algorithm
+LATER adopted into the official C++ Standard Library
+It's the first time an AI created algorithm
+has entered such a core computing system
+In 2025 Alpha Evolved took it further
+by designing state-of-the-art algorithms
+across 50 open-math and optimization problems
+Beating human-devised methods in many cases
+these breakthroughs save computing power
+and time on global scale
+For the first time, AI is directly contributing to the foundation of computer science itself.
+Number 9
+Automated robotic scientific discovery
+Science often moves slowly, but AI-powered robots are changing that pace.
+In 2023, researchers at the University of Liverpool demonstrated
+An autonomous robot scientist that ran experiments around a clock.
+Testing hypotheses,analyzing results,
+並決定 next steps
+使用 human input
+44. Unlike traditional labs
+44. That shut down overnight
+這系統的合作能繼續使用
+針對了這期的新活動
+4. Similar platforms
+6. Are being tested
+7. For chemistry
+8. And biology
+8. Where trial
+8. An error
+8. Dominate
+9. By integrating robotics
+8. With AI
+9. Researchers can
+10. Cover far more ground
+11. In weeks
+11. Then human teams
+12. Could manage in years
+8. number 8
+10. AI for radiation
+11. Analysis
+medical imaging has exploded in volume
+Lead, partly because AI is driven by data
+Radiology has a lot of digital data already ready to be used by AI
+Millions of CT scans, MRIs, and X-rays are performed daily
+Radiologists often face overwhelming workloads
+and this is where AI foundation models are stepping in
+In 2023, Google's MedPalm M was tested for analyzing chest X-rays
+带互联络体的联络体系统
+在联络体系统上兑出了
+联络体系统的联络体系统
+同时
+NHS在美国
+由AI制作制度
+换取了
+换取了
+换取了
+换取了
+而不再是医生
+这些技术
+是会使用的
+帮助
+早期的症状
+或者
+伤害
+会被其他
+贴重的
+7.
+在不曾经的练习中
+练习中的练习
+练习中有87亿美国美国
+但是我们只开始练习
+它的产生产生
+AI-powered connectomics
+有让研究者
+练习中的练习
+在纽纳细细的解决
+在2023年
+Google和Harvard
+练习中的最丰富
+练习中的3D重建
+练习中的练习
+练习中的练习
+有57000股份和百分之百的关系
+这些数据发生从
+养产的微照的相片
+一起发现的AI
+没有曾经有发生过的图案
+包括新的圣诞
+和新的圣诞
+这些码是由
+医生和科学研究研究研究研究研究
+和科学研究研究的
+6.AI 为
+发动的冠状化
+发动的冠状化
+需要更好的计划
+A.I. is stepping up.
+NVIDIA's Earth II Initiative
+aims to build digital twins of the planet
+simulating weather and climate patterns
+at ultra high resolution.
+Traditional climate models can take weeks
+on super computers,
+but A.I. can generate projections,
+much faster.
+In 2023,
+researchers demonstrated A.I. systems
+that predicted localized drought risks
+and extreme heat waves
+months in advance.
+These models can help policymakers
+and scientists
+浪費的數據
+像是如何有關的
+數據的數據會改變
+更快的更加精準的
+測試的方式
+將會更加準備好
+5. 智慧的
+加速器和
+溫度的發展
+加速器和空間
+第一次被拆除
+在2015年
+被拆除的
+需要用來查查
+像是雷尼和维俄
+AI现在在拆解这种程序
+在2023年
+科研体系统深调研究
+使用了真实的资源
+发现更加快速的
+能力的方式
+这些技术也会帮助
+科研发展成为
+黑洋线车
+和獨特星星的核心
+在進行更快的檢查
+和更加明確的核心
+AI是給新的方式
+新的方式進行
+研究極大的 Cosmic Phenomenon
+並解釋我們的理解
+如何使用這類的核心
+4. AI 助於
+藥物和 protein 設計
+新的藥物
+經常被 slow 和 貴
+經常在一年
+從 找到 免費
+AI 將這條時間線回歸
+在2023年, 學者們用了創意中心的AI
+來創造百多個腦部的肌肉體肌群
+有很多的有腦部的肺炎
+有些已經被用於癌疑的癌癌和肌肉體肌
+在Cilicomedicine, 譬如說
+以藥物製作藥物製作藥物製作藥物
+以藥物製作藥物製作藥物製作藥物
+在2023年, 進入了醫生檢查
+在創意中心的科學者
+以以藥物製作藥物
+AI 让科学人们在学校中 调整一年
+将在研究的新的体系上 更加努力
+3. 关于 科学生涉及的 学生
+在2023年 科学生涉及的 学生
+用AI 调整 科学生涉及的 学生
+在2023年 科学生涉及的 学生
+用AI 调整 科学生涉及的 学生
+用AI 调整 科学生涉及的 科学生
+在未曾做過的計劃
+有什麼用處
+這些進步
+特別重要的是
+設計清潔的能量
+像是
+溫度減少
+或是 better battery materials
+Google 、IBM 和 startup 等
+或 pushing the frontier
+使用 AI 幫助
+對準錯誤的
+優質的 能量系統
+而結果
+更加明顯的
+零化的 能量
+能夠把所有的
+從醫學到靈體技術
+2. 智能智能在AI
+AI並沒有只有智能智能或智能
+它是在三個世界中理解釋的
+大量智能智能模式和
+智能智能模式的
+現在有1cm的智能智能
+在2024年
+公司像Niantic & Google
+展示了 how AI can anchor digital content precisely in physical space
+while robotic slabs applied similar models to improve navigation for autonomous machines.
+This shift matters for self-driving cars, augmented reality, and even supply chain logistics.
+By giving AI a better grasp of physical environments,
+researchers are bridging the digital and physical worlds in ways that directly affect daily life.
+1.
+Qantum AI Chip Willow
+在2024年Google 運用了
+Willow 105 Qubit Qantum Chip
+設計了特別的AI工作
+在測試中
+Willow 解決了5分鐘的
+應用程序
+會用超級電腦
+幾百億年
+在較早期的
+實際應用程序
+這次的證明
+顯示了Qantum AI 能力
+使用AI的性能和技術能力
+使用AI的性能和技術能力
+可以阻止壁壁的進行
+採用科技、技術、技術和其他
+這就是一件事
+AI並不只是在自己的進行上
+它在其他技術上
+正在發展到的發展
+從揮霍的肌肉
+從暴力的肌肉
+從暴力的肌肉
+從暴力的肌肉
+AI並沒有再只是在研究
+it's becoming a discovery engine of its own
+These 15 breakthroughs show how AI is quietly transforming science at every level
+from molecules to galaxies, the pace is accelerating
+and what once took decades can now happen in days
+the real question is
+how will these discoveries ripple out into our lives in the years ahead
+because the story of AI and Science is only just beginning
