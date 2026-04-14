@@ -1,0 +1,1365 @@
+我是C.S.231N
+我是徐佩琳
+從學校的學校
+我會在這部門教學
+跟學生
+依桑雅德利
+和學生
+所以你會遇到他們
+以及我們的天使
+你們會遇到的
+所以我想開始
+對,這就是
+我所感受的
+AI 成為了一個非常有智慧的學校
+那你會學到的
+當然是很技巧的
+是關於 computer vision and deep learning
+但是我真的希望你能拿到
+任何智慧的學校
+你會在這裏工作
+和用來應付
+所以我們聽到很多
+智慧的AI
+所以我們要如何擔心
+computer vision
+以及這個學校的理由
+如果你認為AI 像這個大小的
+bubble computer vision is very much a integral part of AI.
+Some of you have heard me saying that not only vision is part of intelligence,
+it's a cornerstone to intelligence.
+Unlocking the mystery of visual intelligence is unlocking the mystery of intelligence.
+But one of the most important tools, mathematical tools to solving AI
+是一些人叫做 研究機構
+這就是我們會談的
+在研究機構的中心
+近10年多後
+我們看到了大多數的研究機構
+我會介紹一下研究機構
+研究機構是一種
+有限定的技術
+建造了一家學業的網絡
+So if you ask me to pinpoint the scope of this class
+we will not be able to cover the entirety of computer vision
+we will not be able to cover the entirety of machine learning
+or deep-learning
+but we're gonna cover the core intersections of these two fields
+And, of course
+Just like the entirety of AI
+computer vision is becoming more and more
+a interdisciplinary field
+很多技術和問題會合作
+跟很多不同的其他領域
+例如自然語言 語言定義 技術
+還有AI的一種
+是一個領域跟科學 學術 心理 科學 醫學
+很多的應用領域
+從醫學到學習 生育等等
+所以你會獲得的
+在這第一步驗
+我會給大家一個很短的歷史
+《溝通學》和《深入學》
+然後 Professor Delhi
+會再次進行
+這個過程的 overview
+讓我們知道
+這個過程的設定
+以及我們的期待
+所以
+歷史的歷史
+從你或人類的歷史開始
+從你或人類的歷史開始
+history vision began 540 million years ago
+you might ask
+What happened a 140 million years ago
+Why are we pinpointing a relatively specific date or year
+in evolution?
+It's because a lot of fossil studies have shown us
+there is a mystery period called Cambrian explosion
+it is the fossil studies shown
+about 10 million years in evolution
+duringthat time
+是一段很短的時間
+我們看到雲霧的液體
+在掃描中
+這也就是說
+在雲霧前的液體
+生活在地上是很冷的
+其實是水
+沒有水
+沒有雲霧的液體
+雲霧就流出了
+所以這液體的液體
+在雲霧的液體上
+There were many theories from climate to chemical composition of the ocean water
+But the most compelling one of the most compelling theories was the onset of ice
+The first animal, a trilobite they gained photosensitive cells
+So the ice we were talking about were not sophisticated lenses and retinas and nerve cells
+It was literally a very simple pinghold
+And that ping-pong collect light
+当你把光光集合成一样,
+生活是完全不同的。
+无论如何,
+生活是审讯。
+它很轻松,
+它只是审讯,
+你来来去,
+在审讯中,
+你变成了整个世界的一种
+你可能想改变,
+你可能想实现,
+一些野物,
+或者是有些人,
+你变成了饭店,然后你变成了别人的饭店
+所以,广告性的力量
+使广告性变得更加明显
+因为上色的线索
+因为上色的线索
+在同样的
+蚝蚝或是蚝蚝的线索
+这些是两个最古的线索
+对于生物
+所以,整个困境的540亿年
+广告性的线索
+是脾氣的發展
+脾氣是一種最主要的感情
+動物的發展
+脾氣的發展
+脾氣的發展
+我們知道
+所有的生物在地上
+有脾氣
+或是用脾氣
+作為一種最主要的感情
+人們尤其是
+體育物體
+更多的半個
+肌肉體育的肌肉
+都在體育的過程中
+我們有一個非常難以統計的視角系統
+這就是我期待的意思
+要進入視角的範圍
+我希望你會期待
+我們來從
+從雙方向向向
+從雙方向向向
+人們能夠進入
+我們不僅是我們
+我們想建造機器
+So here is a drawing by a couple of joys by of course Leonardo da Vinci, who was just forever curious about everything.
+He studies camera obscura for how to make scene machines.
+In fact, even way before him in ancient Greece and ancient China, we have seen documents about
+在 thinks
+中心的灵观
+而在想如何
+可以专门
+造成一个
+做出的照片
+当然
+在我们的现实生活中
+我真的把相片雕实起屋了
+但我的相片
+不够看不开
+就像我看不开
+这些就是结构
+我们需要明白
+看著怎麼看著這場運動
+這就是我們在這段過程中的大力量
+我們來談談歷史
+帶給我們這個關於深入學習和 computer vision
+我們回到1950年
+1950年
+一些很重要的探討
+在你的學習中有發生過
+那是學習
+視覺的方式
+尤其是學習
+修正的學習
+他們用電腦
+用直播的活動
+然後他們學習
+修正的學習
+在主題的視覺項目中
+他們學會的驚喜
+是兩件非常重要的事
+一是
+在主題中
+他們的主題
+在主題中
+他們的自己的
+受益的領域
+受益的領域
+就是每個領域
+有一個空間
+它其實是在看的
+它不是所有的空間
+它不太大 它 tend to be a very confined patch of the space
+and within that space, it sees specialized patterns
+simple patterns when you're measuring from the early part of the visual pathway
+and by and large in the primary visual cortex
+which is around here in the back of the head
+not near your eyes
+是指向的位置
+或是指向的位置
+所以每個 neuron
+某 neuron 會看到
+一個這樣的位置
+某些會看到
+一個這樣的位置
+或者這個
+那就是
+看法
+在腦袋裡的 computation 開始
+第二點
+他們學習的是
+視覺的路線是
+虛擬的
+當你走出
+視覺的路線
+neuron 會
+進行別的 neuron
+这些纽约在高层的或高层的
+视觉的高层的
+有更加的确确确确的
+所以如果你开始
+有点减弱的
+你会把整个的确确确确
+把整个的确确确确确
+我非常简单
+但这就是计划
+纽约在一起的确确确确
+然后它会建立这个大纽约
+of computation
+of course most of you sitting here
+are already thinking the way I've been describing this
+will have a profound impact on the modeling
+the neural network modeling of visual algorithms.
+Let's keep going.
+That's year 1959.
+It's very early studies of seeing.
+By the way, about 30 years later
+可能不足20年後,
+Huber-Wiesel won the Nobel Prize in Medicine
+在研究中研究這次的規律
+和視頻的基礎學習
+另一個,
+Mail Sturm in the Early History of Computer Vision
+是第一名宣傳電腦的
+Mail Sturm in 1963
+寫了第一名宣傳電腦的
+我們要學習的形式
+這是一個非常非常有趣的
+代表世界的代表
+我們要學習的形式
+是我們可以這樣形式
+理解到
+這個形式的領導和
+領導和特殊的領導
+是非常有趣的
+所以整個
+整個的生產體系
+是有關這個
+這是最初的
+從事的
+將來
+在1966年,MIT教授建立了一項預算項目
+並為MIT學生提供了幾個技術的項目
+去學習美術
+這項目標是解決了美術
+或解決了美術
+一項預算項目
+當然
+像整個歷史的AI
+A.I. we tend to be over-optimistic of what we can do in a short period of time.
+So vision did not get solved in the summer.
+In fact, it has blossomed into an incredible computer science field.
+If you go to our annual conferences every year now,
+it has more than 10,000 people attending.
+But 1960s is where between Robert's PhD thesis
+我們在我們的場地
+認為這是最初的畫面
+1970年代的《 Seminole Book 》
+他太早了
+他想要學習觀術
+開始考慮觀術的情況
+雖然這不只是說實話
+但是有很多印象
+從學術學術和組織學術
+他在想
+如果我們看
+如果我們拿著畫面
+我們如何看待
+和看待畫面
+可能第一層是比較像圖片
+像我們看到的
+他叫做Primal Sketch
+然後還有兩半D Sketch
+Which separates different depths of the objects in the image
+So the ball is the foreground object
+Then the grass here
+Oh no, not grass
+The floor ground here is the background
+So he does these two and a half dispatch
+And then finally he believes
+David Marr believes the grand holy grail victory
+解决的目的是知道整個3D的代表性
+那是其實
+最難的一種目的
+讓我20秒來講
+因為
+如果你想想到目的
+所有的動物
+都是一種非常大的問題
+從早期的典型
+從水中的光光
+光光的世界
+在照片中
+是在地上
+有些東西
+在地上的2D
+那時候我只是
+我不知道
+有些雜物的雜物
+但現在我們是
+是一種藍色
+但實際世界是3D
+所以
+在3D的資料中
+整個3D世界
+從2D的畫面
+是否有基礎問題
+NATUR要解決
+而是否有 computer vision 要解決
+而是 math 上的問題
+所以 NATUR 做的
+誰有一個聰明的猜測
+2
+NATUR 做的技術
+是用多數眼睛
+2 一些動物有更多
+2 而那是
+你試圖的資料
+但 2 眼不足
+你必須理解
+我們會在這幾個題目中
+提供一些問題
+但還有其他社會主義的
+教育中有幾個提供
+也要提供3D的觀點
+但這個問題
+是一個很困難的問題
+我們必須解決
+自然解決了
+人們解決了
+但並非很極限的
+實際上
+人們並非如此精彩
+我只能夠知道
+3D的形狀
+但我並沒有
+就有了整個形式的標準
+所以這是一個想要
+考慮和欣賞
+這個問題的誘惑
+另一個問題是
+非常不同的
+從事《Vision》和《Language》
+其實是一個
+非常清晰的事
+《Language》是一個
+沒有存在的自然
+你不能指出
+有什麼東西
+就是《Language》
+《Language》是一個
+Purely generated thing
+I don't even know what word to use, right?
+It comes through our brain.
+It's generated.
+It's 1D.
+It's sequential.
+So this actually has profound implication
+in the latest wave of GenAI algorithms
+is this is why these LLMs
+which is outside of the scope of this class
+is so powerful
+因為我們可以模特的語言
+但 vision is not generated
+there is actually a physical world out there
+respecting the laws of physics and materials and all that
+Vision has very different tasks
+I just want you to appreciate the difference between language and vision
+and actually appreciate nature how it solved this problem
+ok let's keep going
+1970s
+新興建築物體的新興建築物體
+無論是資料還是真的
+無論是大量的新興建築物體
+無論是科學的新興建築物體
+我們看到的
+已經開始解決
+一些比較困難的問題
+例如
+取得了建築物體的建築物體
+在施福德
+有一份建築物體的工作
+叫做
+《總結數字》
+Rodney Brook 和 Tom Binfurt 和 Rodney Brooks 今天在 campus
+其實在那裡在討論 和他在 一個 最棒的 人物
+時間 和 很多 人物的 發言人 還有 很多人物的
+然后不太远离我们,在另一部分的宝兰尔特
+研究者们也在这些
+也有在做一些
+一些一些
+一些
+模特的
+人体和物件
+然后在1980年
+一些
+一些
+许多的照片开始变成了
+至少
+照片开始变成了
+然后人们开始变成了
+然後有些很棒的工作在地址上
+你看到這些東西
+可能會感到一種不明的感覺
+我覺得這個很難看
+有些圖片和地址
+不一定會去到哪裡
+如果那是怎麼看
+那是怎麼看
+其實我們也不是太錯
+那是在那段時間
+之前很多人都已經出生
+我們進入了AI Winter
+進入了AI Winter
+因為
+能夠用到的興趣
+而在於資料
+AI Research has really dwindled
+很多東西沒有發展
+Comparison didn't deliver
+Experts Systems didn't deliver
+Robotics didn't deliver
+但是
+在這份夏
+很多東西
+很多資料開始發展
+從不同的場地
+例如
+Comparison, NLP Robotics
+所以我們也要看看另一個學徑
+有很深的意義在 computer vision
+是那些異性和異性繼續被打擊
+而非常重要的
+尤其是在 computer vision
+異性和異性開始
+讓我們看出
+我們該做的最大問題
+例如 學生們告訴我們
+有什麼特別的事情
+在看 nature
+在現實世界
+這是一篇學章
+by Irvidinman
+who shows that the detection of bicycles
+on two images differ
+depending on if the images are scrambled or not
+Think about it from a photon point of view
+these two bicycles lands in the same
+location on your retina
+But somehow the rest of the image impacts
+看見目標的目標,
+看見目標的目標,
+所以我們看到整個世界的整個世界
+都會看到目標,
+也會告訴我們
+視頻的進步很快,
+我們會看到目標的進步很快,
+我們會看到目標的進步很快,
+這是我們在1970年代的 experiment
+在影片上展示了一些人
+而目標是
+在一張照片中
+能夠控制人物
+我相信每個人
+都看到那張照片
+在一張照片中
+但想想看
+你的眼睛或你的腦袋
+因為你從沒看到這張照片
+我從未告訴你
+哪張照片的目標會出現
+我從未告訴你
+目標會看起來像哪裡
+You have no problem.
+You have no problem detecting humans.
+So that is that.
+On top of that these frames are played at 10 Hertz.
+Which means you are seeing every frame for only 100 milliseconds.
+This is how remarkable our vigil system is.
+In fact,
+Simonthorpe, another cognitive neuroscientist.
+Have measured the speed.
+视觉美人 have measured the speed
+if you hook people up in EEG taps
+and show them complex natural fins
+and ask human subjects to categorize
+sints from animals
+without..versus
+sins without animals
+hundreds of them
+and then you measure the brain wave
+it turned out after 150 milliseconds
+of seeing a photo
+your brain already has a signal
+有不同的信息
+它們會被分析
+你不可能這麼驚訝
+因為比今天GPUs
+和新的GPUs
+150秒的速度
+是比慢的速度
+但你得要
+要注意
+我們的血管
+我們的腦袋
+不僅僅僅的速度
+150秒的速度
+是很快的
+只有幾個速度
+在紐約的程序上
+所以, 再次, 這就告訴我們
+人們真的好看
+看見物體和分析他們
+其實, 我們真的好看
+看見物體和分析他們
+我們也發展了特別的
+大量的體驗
+能夠用來認識
+面積或是位置
+或是身體的部分
+這些是在1990年代
+mit neurophysiologist
+in the nineteen nineties and early twenty first century
+so all the studies tell us
+well we should not just be studying
+these kinds of character shapes
+or the sketches of images
+we really should go after
+important fundamental problems
+that drives visual intelligence
+and one of those problem
+that everything has been telling us
+是 object recognition
+是 object recognition in natural setting
+很多物件在世界上
+在研究這件事
+會去解釋
+會成為一部分
+解釋的 visual intelligence
+這就是我們做的
+我們開始了
+看看我們能否分開
+foreground objects
+from background objects
+我认为1990年纪录中的团结
+我一直都在做AI的游泳
+但实际上有些学习在发展
+然后有些学习的技术
+这些我还记得的技术
+和合作技术
+然后我进入了学校
+最有趣的东西是面试
+我记得在学校的第一年
+這篇文章是發佈的
+五年前後,第一張電視機
+使用這篇文章的方式
+並發佈了一種充滿面對
+因為面對感染
+所以,事情開始
+開始與生產生產生
+然後,在一年二十一年
+很重要的事開始發生
+是當網路開始發生
+當網路開始發生
+資料開始發生
+與網路開始發生
+給予 computer vision
+一些資料去做
+在那些日前
+我們在工作
+有千多個照片
+或是十多個照片
+去研究
+視覺和物體的問題
+所以你得到資料證像是Pascal Visual Object Challenge
+或者Caltech 101
+所以那就是
+我會停止這裡
+然後
+這是第一條路
+從 computer vision 開始進行
+你會問為什麼她開始進行
+因為我不會再說深入學習
+所以
+Yow, this field of vision was progress in your physiology to computer vision
+to cognitive neuroscience, to computer vision again.
+A separate effort is going on in parallel and that eventually became deep learning.
+It started from these early studies of neural network,
+things like perception, and people like R lower heart
+じ先 、 his early days start to work with this small number of artificial neurons
+and look at how that can process information and learn
+and you've heard people like the Great minds like Marvin Minsky
+and his colleagues working on different aspects of this perception
+但是也许毛泳铭说
+这些X或Logic的功能不能学习
+这也会引起了一些转捩
+在你的网上
+这些东西继续进行进行
+虽然转捩
+而最重要的工作
+在最后的 inflection point
+第一 inflection point是
+是Fukushima in Japan的新的工程
+Fukushima hand designed in your network
+它看起來像這個
+它有六、七、五、六個層面
+它 kind of design the different functions across the layers
+讓你會學到更多
+它 more or less was inspired by the visual pathway
+I was describing, remember the CAD experiment?
+from simple receptive field, to more complicated
+recept field.
+And he was doing that here.
+The early layers have simple functions.
+The later layers have more complex functions.
+And the simple ones he called at convolution
+or he uses the convolution function.
+And the more complex one, he was pulling the information
+from the convolution layers.
+So NeoCognitron was really an engineering
+因为每个计划都被手工装备
+他有很多计划
+他要特别把他们一起放在一起
+所以这些小新的计划
+可以承认字或字幕
+所以《真实》的运动
+在1986年当中
+是一个计划
+计划是叫做迫迫
+是我们第一次的计划
+And to show you that Romarhar, Jeff Hinton and they
+They took neural network architecture
+And introduced an error correcting objective function
+So that if you put in some input and know what the correct output is
+How do you take the difference between what the neural network outputs
+反正是正確的答案
+然後再返回資訊
+這樣可以
+進行
+圖案
+在網路上
+那些返回
+從資訊返回到
+整個網路上
+是返回的
+它跟著一些
+基本的數字
+這就是
+and water shot moment for a neural network algorithm.
+So one of the most, and of course,
+we're still back in the middle of AI winter.
+All these work was happening without public firmware.
+But of course in the world of research,
+these are very important milestones.
+One of the most earliest applications of this neural network
+with back propagation,
+isYoumakun's convolutional neural network,
+made in the 1990s when he was working in Bell Labs.
+他做的就是,他就建立了一個大量的網路,有七層的網路,
+他做得好,用大量的研究能力,去認識網路,
+其實是由美國的社會辦公室和辦公室,
+去查詢網路的資料,
+那就是網路的新的應用,
+然後,Jeff Hinton,Yanlong Kun,繼續工作在你的網絡上,
+並沒有離開很遠,
+因為,雖然這些改變,
+這些新的網絡的改變,
+更多的少數,
+他們把大量資料和文字的資料和文字的資料,
+也有些微軟的,
+但如果你把這些手機放在那些
+數據圖像中,你和你的兒子
+在使用來認識貓、狗、
+小狗、牠們和花,就沒有用了
+這問題的大部分是
+不足資訊
+不足資訊的資訊
+並非只是一個不便宜的問題
+這其實是個學科問題
+因為這些規則是高能量的規則
+需要實際上使用
+很多資料來學習和整理
+還有一些深入的學習
+在這裏的規則
+整理和模特兒的規定
+資料在下面看起來
+是看不出來的
+因為很多人在看這些建築物
+他们没有发现
+这些数字是第一名学生
+是设计学生和深学学生
+这些数字是我的工作
+我的学生和我在2000年以前做的
+我们认识这些数字的重要性
+我们拒绝了
+整个图案
+在调查这些数字的重要性
+所以我們會把大量的資料搜集的大量的數據
+將有15億畫面的畫面
+再把1億畫面的畫面
+這15億畫面
+將在22,000個畫面中
+將在22,000個畫面中
+將在22,000個畫面中
+我們其實有學習了
+很多科技和心理研究
+在22,000個畫面上
+22000 個數目的數目數
+在明年的生活中
+人們所認識的數目數
+在明年的生活中
+人們所認識的數目數
+在明年的生活中
+我們開放了這個資料
+我們創造了一張
+影像鏡頭
+叫做大規模的影像鏡頭
+我們把一百萬個
+影像鏡頭
+我們提供了一種畫面的大量的畫面
+一百萬畫面 百萬畫面
+一千個物質的學生
+然後我們在很多年來
+進行了一個
+國際物質的學生
+進行了一個
+很多年來
+而我們要求
+學生們參與
+他們的目標是
+作為圖案
+不論是哪種圖案
+我們會測試你們的圖案
+能夠認識照片
+看能否拘捕这一千个物件的学生
+在这一切都能够做得到
+这就是我们的误会
+我们在第一年
+我们在这一场比赛
+我们的误会
+我们的最佳表演的误会
+是差不多30%
+而且很明显
+因为人们可以表现
+比如说3%的误会
+2011年沒有那麼有趣
+但有些事在2012年
+那是最有趣的一年
+那一年
+Jeff Hinton跟他的學生
+參加了這個挑戰
+使用《復習與新年》的網路
+並減少了一半
+並實際上
+展示了
+《學習和新年》的力量
+所以
+參加的努力
+2012年代的挑戰
+叫做AlexNet
+而
+這個問題是
+如果你看AlexNet
+不太不同
+從福克西馬紐康里特朗
+32年前
+但兩大事情
+在這兩邊
+一是
+背後的發展
+是一個
+基本的
+學習法律
+所以你不必用手去調整
+這就是一個大 breakthrough 基本上
+另一個 breakthrough
+是資料
+資料的認識
+和資料的理解
+在這幾個高能量的模式
+將會有千萬的計劃
+但那時候有幾百萬的計劃
+是很重要的
+設定深邏輯
+這個運用
+很多人認為在2012年
+和AlexNet的規定
+他們想要的一種挑戰
+是他們的歷史
+或者是他們的生命
+或者是他們的深邏輯
+當然, 最多的原因是, 現在我們在大學的暴露中
+如果您看著 《新年研究宣傳》的主題, 叫做CVPR
+數字的數字都被暴露了, 還有, 數字的數字被暴露了
+很多新的圖案從未有參與未來的照片
+我們在這幾年中學會
+但有些圖案
+包括雙方的雙方的雙方
+包括雙方的雙方的雙方
+包括雙方的雙方的雙方
+所以很多事情都會發生
+我們會去封鎖一些這些
+並非只有 computer vision
+做了大規模的進步
+在創造的方式
+去認識每天的物件
+像是貓、狗和蟹
+我們也很快就在
+2012年初的挑戰
+我們有個方式
+可以承認更多的
+更多的複製的畫面
+可以取得畫面
+或可以做多個物體的檢查
+可以做畫面的檢查
+這些都是各種不同的行為
+在視頻認識
+你會找到自己是否 familiar with
+在這個過程中
+因為視頻並不是只呼籲
+Cats and Dogs, there is so much in the nuanced ability of visual recognition.
+And of course vision is not just static images, so there are work in video classification,
+human activity recognition.
+I'm showing you this overview, you will learn some of these.
+These are all, you don't have to understand exactly what's going on here.
+但我想要你欣賞
+不同的
+不同的視覺目標
+醫生的影像
+那些人來自
+醫生的
+體驗
+是
+即使是
+醫療或是
+其他各種的
+能力
+是深刻的
+這有
+深刻的影響
+你知道
+學術
+甚至
+在7-0的圖片中,你可能會記得
+第一張照片的黑色圖片
+用了很多電腦視像和電腦
+的照片技術
+當然,應用的能量和環境
+也有很多電腦視像
+我們也有做過很多進步
+ijah captioning
+right after the image that 20 12 moment
+this is actually work by Andre Capathian
+when he was my student his thesis work
+then we also worked on
+you know relationship understanding
+so not only
+not only visual intelligence is about
+see what's on the pixel
+you can also see what's beyond pixels
+including relationships of objects
+還有Style Transfer
+很多這個工作
+你會…其實 Justin Joseph
+會來介紹這個課程
+會告訴你所有的他的
+7-0工作在Style Transfer
+當然,在Generative AI era
+我們會獲得這些很厲害的結果
+像是…Face Generation
+這是很早的年代
+但是我們在最有趣的現代化的A.I. explosion
+我們在這三個交流之中
+有關於交流的方式
+有關於交流的方式
+有關於交流的方式
+有關於交流的方式
+conflictation algorithms and data
+have taken this field just to a whole different level
+where we're now totally out of AI winter
+I would say we're in AI global warming period
+I don't see any of this slowing down
+so for both good and bad reasons
+and also just a word
+因为我们已经在新加坡
+我们在很大的建议中
+黄建议和NVIDIA的学校
+所以我们不能不离开
+也许是我们的进步
+和那些其他的
+所以这里是
+每个美元的挣扎
+NVIDIA GPUs
+在2020年
+我们的进步是很丰富
+但是等到最多深入學習已經開始去駕駛這些GPUs和GTIPS
+你可以看到GFLOPs完全了解
+而且我們在這個幫助中的應用程序
+在AI上,都在通過,並且其他人都在通過
+並且其他人都在通過
+並且其他人都在通過
+並且其他人都在通過
+所以,最後,但最終,
+這已經很令人感到驚喜
+這已經有很多的成績
+但,這仍然有很多的成績
+所以,這問題仍然沒有
+完全解決
+而且,有很多的技術
+有很多的成績
+所以,
+Combinavision can do a lot of good, but it also can do harm.
+For example, human bias.
+Every single AI algorithm today, the large ones are driven by data.
+A data is an artifact of human activities on earth in history.
+And a lot of the data carry our bias.
+And this gets carried into the history of human life.
+A.I. 系統上,我們看到很多 face recognition algorithms
+有同一種異性的改變,人們有的
+我們必須要認識這一點
+我們可以使用 AI 去影響人的生活
+有些是好,想想醫療的
+但有些是問題的
+如果 AI 是獨自決定工作
+或決定你的金錢
+所以 再次
+是否完全不好?是否完全好?
+这些问题非常困难
+这也是为什么我一直很开心
+当学生从中学校、中学校、中学校
+我会达到我的学校
+因为不是所有的事业问题
+而是研究问题
+我们有很多人的
+因素和社会问题
+来解决
+我也是特别开心
+用了一些科学和健康的
+這也是我心中的一件事
+教授德利和Zay
+也有教授的教授
+我們三個在社會上工作
+有社會人員的活動
+以及有心理人員
+也要用電腦的方式
+來給人家的 care
+這是一個好用的方式
+還有 甚至於技術
+人的 vision 非常之彩
+我希望你們可以來到
+不僅是今天的學校
+但也有這個整個學程
+要感謝
+雖然有這麼多的 computer vision can do
+但是有更多的
+紐約 肆意
+能夠有更多的
+能夠有更多的
+還有感情
+還有人類的 vision
+你看這些孩子
+學習
+什麼的 他們的 curiosity lead them
+或是他們的 humor in this image
+還有更多的
+computer vision cannot do
+所以我希望
+继续努力研究
+计访机构
+现在
+我将给教授与
+与其他学校的学生
+谢谢
+太棒了
+谢谢菲菲
+非常棒的开始
+希望我的手机在工作
+现在
+好 很好
+我看到一些
+脑袋的
+好
+所以非常感激我們來這裡
+我們都希望你會有好玩的
+和難度的學習
+還有很棒的學生
+還有很棒的學生
+所以這段時間
+我們將會遇到
+大量的題目
+在空間中使用
+在空間中使用
+在空間中使用
+在空間中使用
+4種不同的題目
+我們開始
+用基本學習
+我們開始
+其實是一個簡單的問題
+是什麼是
+在空間中使用
+所以在它的領導中
+它是關於
+使用機器
+看和理解
+并且理解相片
+这就是最基本的目标
+在这个空间的图像中
+是一种图像
+你给模特儿一个照片
+例如一个猫
+而模特儿应该把猫的图像放在外面
+这就是它
+但这个简单的目标
+是最多更加的複雜的項目
+從自行自行駕駛
+到醫療科等
+我們如何教導一部機器
+做這個
+一個簡單的方式
+就是利用
+線納格的方式
+你可以看到
+在這個項目上
+所以
+我們將每個畫面
+在我們的資料中
+會有一個點在那邊
+每个按钮都会有些特点
+所创造的画面
+这里我们是在展示2D空间
+为了简单
+但是联系的目标是
+找到高架枪
+或是线性的方式
+来分开这两个
+说是猫的
+但是我们都知道
+我們周邊的規定都只會到現在
+天氣變平時,資料不充分
+在正面線上
+所以第二個問題是
+我們會知道
+如何模特兒更多的規定
+如果這樣做
+我們經常會面喚
+便利性更多的接觸
+我們會在前課中提到的題目
+並且對準的平衡
+我們用技術如是
+regularization
+控制模式的規模
+and optimization
+去找最好的指標
+這些是NATS and Bolts
+深学术学习的学務
+that not only fits the data
+but also generalizes to unseen and new data as well
+And now comes the fun part
+neural networks
+you've been talking about them
+quiet a lot
+And what neural networks
+do unlike the linear classifiers
+that stack multiple layers of operations
+而是用相同的模式的方式
+去解释相同的問題
+像是影像的方式
+等等
+這些模式在使用
+所有的東西
+像是 Google Photos
+現在大家也知道
+CHAT GPT
+CHAT GPT的模式
+等等
+所以在這段課程中,我們會深入調查
+他們的資料,他們的訓練
+我們會在於如何調查他們的資料
+在看他們的資料中,我們會 cover
+他們的主題, 和理解他們的
+Visual world, which is a complex process that involves interpreting a vast area of visual information.
+And to do so, we often first define tasks that refer to specific challenges or problems.
+We aim to solve some of the examples of object detection,
+seeing understanding motion detection and so on.
+而在這項目的解決中
+我們利用不同的模式
+包括研究和理論的
+項目和解決
+並且解釋如何我們的視頻系統
+進行這些項目
+一個例子是
+這些模式的方式
+是指紐約網路
+所以
+以合理的模式和領導的領導領導
+我們可以創造領導的系統
+讓我們看到和進行世界的進行
+說到領導領導領導領導
+我們回到領導領導的領導領導
+預計一個領導領導領導的領導
+但我們知道我們在現實世界
+它的oisation bigger vision is much richer than this
+And let's walk through some of the tasks that go beyond classification
+first semantic segmentation
+where we are not just label the object
+or the entire image as cat or tree or whatever
+here we are looking for labels for every single pixel in damage
+所以每一張照片都是 grass, cat, tree, sky
+但我們不分辨其他物體的物體
+接著我們有物體檢查
+我們現在想不僅要說
+在畫面上,但也要視乎地位
+這就是我們為了建造
+基礎的盒子,在其中的物體
+與其他類別的物體相關
+最後我們會有分析器
+我們會進入分析器
+這就是最高的大廈
+它與各種分析器和各樣的物品
+合作的理由
+分析器和各樣的物品
+分析器和各樣的物品
+所以這些項目需要
+更深入的理解
+特別的理解
+在畫面上推動模式
+做更多的認識
+數量
+這份規模不停地停止
+立刻的畫面
+我們看看
+一些時代的
+所以
+這項目是
+影片的
+題目
+我們想要
+明白
+在影片中
+發生什麼
+是否有人在跳舞
+或跳舞
+這項目是
+multi-modal
+影片的理解
+它是混合觀音和音量的其他動畫
+例如這一個例子
+人們在玩瘋狂瘋
+為了解釋它們的發展
+我們必須建立一種
+視角的特性和音量
+讓我們能夠解釋它們的發展
+最後還有一個主題
+是視角
+我們會以這個學習
+我們想要表達
+我們學會的模式
+以及看見
+關於模式的關鍵
+等於對方的確診
+等等
+然後我們有模式
+我們在領導模式
+我們會在第一個部分
+我們會用這部分來介紹
+關於關於關於紐約網路或CNN
+有幾個行動
+我們會在學校開始
+開始從畫面
+有幾個行動
+測試和完全接觸行動
+然後再次發展出
+還有關於紐約網路
+我們會學習
+關於紐約網路和關於關於紐約網路
+以及新的建設家
+比如
+傳統者和關注基礎
+的領域
+接下來我們會蓋一些大致上
+提供訓練的題目
+這是一個
+新的
+階段
+我確定你們都聽到
+大型語言模式、大型 vision 模式等等
+我們會
+我們會 briefly discussing how these models are actually trained.
+我們知道 data and data sets are expanding.
+大型的模式和大型的模式
+are becoming larger and larger.
+而在為了訓練這些模式
+there are some strategies.
+例如 data parallelization,
+模式 parallelization that we will cover in this class.
+但在此之下,有很多挑战
+例如,在这些模式和工作者之间的
+和其他各种各样的各种各样的
+项目中,我们会在这一堆课中
+与其他设计中
+和其他设计中
+继续继续设计这些大模式
+接着我们将预备了
+绝对于自然和自然的自然能力
+我们将开始自动自动自动自动自动自然
+自动自动自动自然是一个
+设计技术的研究
+每个模式都要明白
+並且會為資料代表
+訓練的資料
+我們會將這題目
+改善
+這就是
+我們用大量的
+訓練的
+方式
+用大量的資料
+用大量的資料
+用大量的資料
+不需要
+用不需要
+用不需要
+用不需要
+用不需要
+他們
+在新的
+BREKTRUZIN
+在《電腦視頻》
+進行
+我們會談論一下
+創作模式
+他們會在創作中
+他們會創作
+這是一個例子
+在電腦上的
+相片
+這是我們想像的
+Vangox 開始夜
+這是一種
+創作模式
+創作模式
+Generative models can now translate language into images
+given prompt a model like Dolly, Dolly 2
+generates an entirely novel image
+this showcases how generative vision models
+blend understanding, creativity and control in their generations
+您可能聽過最近的題目
+在整個整體的模式上
+這是另一件事
+我們會在這部份的
+他們基本上
+學會翻譯
+一種偽造的模式
+兩種形式
+而關於設計
+三種模式
+他們會在整體的模式
+所以,It generates emojis from text input from prompts for example
+a face with a cowboy hat,which is denoised from pure noise.
+Visual language models are the next topic of interest we will be covering.
+They connect text and images in a shared representation space
+而以一種採用或畫面的採用
+模型或形容的採用
+是合作的
+作用
+所以這部分有很多的項目
+我們會在這部分
+提供一些重要的例子
+這也是一個重要的目標
+在採用模型採用
+或採用的採用
+或採用的採用
+我們會進入這部分
+Models can now reconstruct and generate 3D representations from images and here you can see some walk-salt-based reconstructions, shape completion, and even 3D object detection from single-view images.
+3D vision enables more especially grounded understanding
+which is crucial for robotics and ARVR applications
+and finally vision empowers embodied agents that act in the physical world
+so these models often must perceive, plan and execute
+Whether it's cleaning up a messy room
+or generalizing from human demonstrations.
+So with all of these we will be covering different topics
+around generative and interactive visual intelligence
+and finally we will cover some human-centered applications
+and implications as Peifei very nicely explained.
+So there is a computer vision and generally AI have been having a lot of impact in the in the past years and it's very important to understand the human centered aspects and applications.
+And some of these impacts are reflected by these awards that are going to researchers in this space.
+朱茹雅  AP 2018 台中集團
+給了最猛烈的技能系統獲得
+有關第一次類似的
+專利獲得
+即將開場獲得
+指 申請
+這些獲得
+標示板上的
+ient Med 平板
+還有
+首次的
+NEURAL Networks
+The Critical Component of Computing
+Beyond that, last year in 2024
+Jeffrey Интерн was jointly awarded
+The Noble Prize in Physics
+Alongside John Hopfield
+For the foundational contributions to
+NEURAL Networks
+And finally, I want to very briefly mention
+The learning objectives for this class
+will be
+在设计的设计方式里
+进入设计的设计
+您可以看到一些设计的部分
+您想要发展设计模式
+模式在设计画面和视频
+视频和其他
+设计的设计方式
+和设计的设计方式
+这就是为什么我们有新的设计
+在今年特別的
+這四個題目
+我們會分析
+我們在這幾個
+幾個月前
+我們會先把
+細節的資料
+分析在這幾個
+幾個月前
+我們會先分析
+我們需要先理解
+細節的細節
+然後我們會
+再次進行
+的day computer vision and finally
+will have one big lecture on human
+centered AIand computer vision.
+I want to just leave you with what
+you'll be covering next session,
+that's going to be image classification
+and linear classifiers,
+which will get us started with the
+world of CS231N.
+Thank you.
