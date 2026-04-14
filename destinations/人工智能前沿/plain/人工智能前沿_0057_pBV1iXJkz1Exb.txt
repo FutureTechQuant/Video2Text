@@ -1,0 +1,295 @@
+AI main hit a bit of a detour this week
+all over the three or four days
+AI stocks were down across the board
+because of this MIT study that went viral
+as well as Sam Altman's comments about a bubble
+and Zuck instituting a hiring freeze in AI
+after going on a complete blitzkrieg
+so let's get into it
+AC one Monday
+fortune dug up a generative AI study
+that MIT published last week
+or last month I should say
+in that study
+MIT 找到 95% 以 GenIA Pilots
+在工作中失敗 因為工作的抗議
+低質素 最重要的問題是
+資料的失誤 根據研究 70% 以 GenIA 資料
+將向建設 銷售 和 市場 等 等
+有售貨 售貨
+最高的ROI是在背後的辦公室
+優惠
+像是自動工作的工作
+那些工作
+在各個部份
+各個部份
+基本上
+這些機構不在沙漠上工作
+是這個研究的
+他們分析了300項AI的資料
+和150項領導
+50項領導
+你現在在你的
+自己的軟件上
+叫8090領導
+這是在於你所見的
+我認為第一次發展是很多人在社會中寫了一篇文章
+然後去到社會上寫了一篇文章
+然後社會上寫了一篇文章
+然後就被CTO打倒了
+我認為第一次發展是人們只要花錢
+因為他們有很多的資金
+他們說我們去試試不同的東西
+現在我們在想
+能夠實現
+大部分是
+可能性的 software 和決定性的 software
+那是可能最大的原因
+為什麼我們看到
+很多失敗的模式
+和經營的優惠
+很難去維持經營
+和經營的優惠
+和經營的優惠
+並沒有改變
+但 辦公室的規模
+為什麼他們那麼好
+而且
+一個很好的目標
+A.I. is ultimately you have so many people that have been hired to deal with edge cases right
+I think like that's what people do in most companies is they're in charge of a process and they're they're dealing with edge cases and
+I think that you can get extremely high rates of accuracy if you implement a correctly in back office tasks
+I think the real question is like what happens to all of this revenue that has been generated
+you're seeing companies generating fifty hundred million dollars of ARR in a matter of months
+and then raising huge rounds
+I think what we haven't seen is whether there'll be any sort of
+Either logo churn or dollar churn
+Has new company's coming with even cheaper solutions
+to foundational models move up the stack
+and just absorb capability
+or things just don't work and they get abandoned
+All of that churn
+Happened in social
+I remember when I was
+in the middle of helping built Facebook
+we went through that whole cycle
+there was seven or eight thousand social companies
+對
+Within six years, there was five of us left.
+SAS when I was investing in SAS,
+there were a couple of very early and important successes like Yammer,
+which SAK started, which I was very lucky to be an investor of,
+but then it took many years for the handful of winners to get really sorted out.
+And I suspect we're about to go through that same cycle in AI.
+So I think that article basically paints a very accurate picture.
+There's been a lot of trialing and experimentation
+我們現在需要去鎖定和清洗
+然後我們會重建
+第一步的基礎
+對 還不驚訝
+對 還不驚訝
+還不驚訝
+我們是SAS 丹利SACs
+因為
+市場市場市場
+他們很不公平
+當他們進入新的資料
+有很好的領導
+可以直接接受鎖定
+所以我們常常看到他們
+試鎖
+不驚訝我們會看到
+市場市場市場
+先進入
+但是你覺得
+Britle-Nist of this revenue, the churn, sacks.
+Are we going to see a lot of these companies
+rock it up to 100 and come back down to 50?
+Is this something you're seeing or your firm,
+which I don't know your status at the firm,
+you could tell us how that's working out
+in terms of your intelligence there,
+but what is craft seeing on the field there?
+I think we're seeing a lot of interesting
+AI applications being developed,
+but it's still very early days.
+And I think that over the past week or so,
+So there was a correction in sentiment towards AI
+But I think it was a healthy correction
+I don't think this was the beginning of a bus cycle or something like that
+I still think that we're in a boom
+I still think we're in an investment super cycle
+But I think there was a healthy dose of skepticism
+And applied to some of the more fantastical claims
+That have been made about AI
+And I think this is why you saw there was like roughly
+Like a 10% correction in public AI stocks
+And there was that MIT report
+That said that
+95%的公司的項目
+還沒有做到製作
+等等
+所以我感覺我們在這裡
+有些東西在這裡
+我們應該說的是
+我們在這個AI的超級
+你認為我們在什麼地方
+我們在 experiment  phase
+我們在 pilot phase
+但是這個問題
+在於 probabilistic 和 deterministic
+會令它難以相信這個 software
+那是你認為最重要的問題嗎
+讓我告訴你
+我認為這個改革
+其實是健康的
+是那
+after chatGPT launch at the end of 2022
+and then throughout 2023
+the dominant narrative in AI
+is that AGI was just 2 to 3 years away
+and everyone kinda had their own definition of AGI was
+but it was kinda this idea of
+smarter than human superintelligence
+and kinda magic AI
+AI would be able to do everything
+and as a result of that
+you kinda had both utopian and dystopian narratives
+really proliferated
+所以你開始獲得這個
+工作失業的歷史
+在幾年內
+50%的知識人士
+會出現工作
+你獲得這個
+快速的取消歷史
+基本上
+主題的A.I. 模式
+會能夠把他們的
+知識人士
+進行進行
+進行自己的進行
+因此
+在幾年內
+主題模式
+會獲得超超的知識人士
+然後把別人的 dust 和
+人類的資料
+和人類的資料
+然後根據那種歷史
+它是同一本內容的歷史
+促進了歐洲和歐洲的歐洲
+對於AI的利益
+它有一個很大的背景
+已經在發展中
+有1,000項國際政府的資金
+還有這個
+AI的安全項目
+它有資金像在加拿大
+SB 1047
+這會有很大的利益
+新的國際政府的資金
+所以你看到這件事的政策也有發生
+這件事是由於這些很美麗的
+主要的觀點
+就是在下一兩三年來
+我認為這原因
+這次的經濟是因為
+我認為這次的經濟是很嚴重的
+而這次的經濟是很嚴重的
+我認為這次的經濟是很嚴重的
+而這次的經濟是很嚴重的
+但是這次的經濟是會讓我們
+你不能說A.I. 要做商業技術
+要做商業技術 要把桌子放在上面
+然後想要把人家的工資放在上面
+這會讓人有很多的
+提供和充分的進化
+讓A.I. 能夠發展生生業的價值
+如果我們在一條路上
+進行進行進行
+你會看到A.I. 模式
+會增加距離
+像最高的一或二模式
+會增加距離
+其他模式的部分
+而我們看起來
+是一種修改
+模式表現
+同樣的表現
+是一種修改
+對 他們是一種修改
+進步會變得更修改
+更修改
+更修改
+我覺得這真的
+會被人家說出來
+在《GPT-5》發展中
+很多人期待
+《GPT-5》
+作為這個大 breakthrough
+Sam Altman 所提出的
+在寫照片的電視劇
+對
+那是這個模式
+會把大家遺漏掉的
+對
+然後我們的評論
+變得很混合
+然後我們看到
+在表現的評價
+並不是
+模式並沒有代表進行
+只是受到
+這些
+大多數的期望
+所做的
+所以 Freeburg
+讓我把你進去吧
+對不起
+我已經在這裡
+讓我來 sum 它
+我認為
+大家可以看到
+我們不在
+我們看到
+有很多大型的公司
+但
+這個技術的發展
+會是更普通的
+技術
+不像
+職業的主要玩家
+突然間
+會達到AGI
+很快
+而我認為
+因為這個技術
+更普通的
+技術
+我們可以
+用更普通的
+技術來
+從 both an investment
+有什麼他的解釋
+還是為什麼
+這樣做
+這個事情
+我常獨居的話
+它是旁邊的
+這個政策
+它是有一個
+這個政策
+它是我們
+這次這個政策
+我們是來自我們
+這個政策
+我們已經有了
+這次的政策
+我們已經有了
+這次的政策
+我們已經有了
+我們現在
+我們現在
+負責任了
+我們現在
