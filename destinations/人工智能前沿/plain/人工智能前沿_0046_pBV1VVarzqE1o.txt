@@ -1,0 +1,1590 @@
+我覺得學生們很快就學習了
+但是
+在法律上的建議
+只要時間進行學習
+學生們不需要太多時間
+因為你只會用
+蝴蝶蝶蝴蝶蝴蝶
+所以其實在說什麼
+我覺得
+會是一個很高價的技能
+不只是學生
+但也有其他學生
+我們也看到
+你能夠
+做這個技能
+你做的
+並不喜歡做的
+這是
+最有魔力的經驗
+我們在週末
+在週末
+交易額外,和分享他們的 vision for a robinhood like future
+where anybody has access to high quality legal services
+thanks to AI. Enjoy the show.
+John and Ryan, welcome to the show. Thank you so much.
+Thank you guys.
+All right, first question maybe.
+Kick us off, what is Crosby, tell us a little bit about the company you've built.
+Great, so Crosby is an AI first law firm.
+We focus entirely on contracts.
+So the theory is that we can automate human negotiations,
+so getting people to agree on terms.
+最好是用公司,公司的公司都會在每個地方發出
+他們會在公司的公司,在公司的公司的文件
+在公司的公司的文件
+最好是用公司的文件,在公司的公司的文件
+是在公司的公司的公司,在公司的公司的文件
+明白公司的工作,然後再去改變公司的文件
+去改變公司的文件
+你能否談論公司和公司的公司的決定?
+因為很多公司的公司
+不是在公司的空間
+但選擇了一個方式
+去建立公司
+為何要建立公司
+所以我可能會講一下
+為何我們選擇了這個
+然後你會講
+在更多的應用程度
+如何建立公司
+確實
+所以我認為
+在公司的方式
+經常有很大的
+賣點
+在人類的公司
+有很大的
+負責人類
+在一些方式
+像VC
+我認為
+你真的要投入
+人們的工作
+然後再變得更好
+和保持那些經驗
+或是你的朋友
+在這裏等於是最長時間
+這也有意義
+很多工作都很特別
+並沒有發展到技術
+還有一種發展
+在過去30年
+但最後3年
+已經有改變
+現在你正在想
+一個新的模式
+讓你能夠
+進入
+技術的行為
+讓你能夠發展
+從人類到技術
+並沒有發展到
+從事了
+但是所有的 raw materials are there
+職業的資料人士都知道要建設這些東西
+但是一些公司的合作方式
+不讓你去投資
+在其他建設技術的領域
+因為你不能賣水
+而公司的合作方式
+可以賣錢
+所以這就不合作
+但是我們有這個理想
+從一個建設的 standpoint
+如果我們能夠得到
+建設的合作方式
+可以在5年前的Atre improve
+你會開始看到
+很快的
+所以才是一個理想
+對,然後再放在實習中
+我覺得,你的職業經驗
+在一邊一邊的經驗中
+會有這麼一個新的信息
+因為它是更多的Evalve
+其實是用它的產品
+經驗它
+做用者的資料
+明白它是最重要的工作
+它是最大的資料
+其實可以認識和解釋
+從開始到結束
+它是更多的經驗
+是一個環境的方式
+讓我們有機會
+在這方面新鮮的新的
+公司和工程中
+也有一個方式
+讓我們知道
+這條線是否正確
+還是是我們需要的
+正確的選擇
+我想歷史上
+人們已經試過
+他們有組裝
+一些軟件
+以及其他領域
+告訴我們
+為什麼
+這些前面的領域
+未必有做過
+但也要
+今天
+正常
+A.I. engineer sitting next to lawyers
+how actually does that work?
+How do you make that successful?
+So maybe on that first part of the question
+why hasn't this exactly worked before?
+And what might be different now other than the obvious
+which is the state of the art for AI?
+I think it actually hasn't been tried that much
+and it's an extremely daring thing to do.
+And we've seen great innovation in accounting actually
+and management consulting.
+我們在網絡上看,我們有兩、三個公司,Atreem,
+前面的ClearSpire,我們其實也在這一個方式,
+有很多東西並沒有很難看得出來。
+一是,我們有一個強制的組織,
+我覺得Johnny應該說的,
+是與國際專業和工程師,
+我們在我們的辦公室裡,
+有個專業的專業,
+在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+我們在獲得這些資訊,
+lawyer engineer lawyer engineer
+in order to get those feedback cycles
+and to incent them to really collaborate
+in the other piece
+I think is
+and this is what is like truly unique
+is that huge chunks of the qualitative
+thoughtful work that lawyers are doing each day
+can actually now be delegated to machines
+and this is like it's hard to overstate
+how complex that is and how new it is
+Yeah and then putting that into practice
+you know I think that means two things
+it means product velocity
+它是說, instrumentation, how do you think about metrics?
+我們是在做的是, operationally heavy business, right?
+我們可以用 instrument and think about,
+我們會有一個 contract,
+它進入,我們發行它 really quickly,
+我們需要確認我們在訪問的事件,
+像 SLA,
+我們是用 turn around time,
+我們有多少人的 touch points,
+我們都會有每個 contract,
+從 start to finish,
+如果你可以理解,
+我們會說,
+我們有多少個 touch points,
+我們有多久,
+而这里是最高的高级规定
+我们可以启动的
+然后开始
+把这些东西都换成一样
+我想其他东西
+如果你认为
+货货速度是
+它是比较
+你认为货货的货货货货的
+这些理解的进步
+其实是依照客人的目标
+因为
+尽管这是一个
+非常丰富的工作
+你必须要想想
+这是什么结构
+我们正在解决的目标
+最后我们的客人
+来到我们的目标
+因为他们相信我们
+我們做高質量的商業項目
+因為他們的商業是很快的
+這些商業是更快的
+我們真的需要能夠遇見他們的標準
+跟他們的標準
+什麼樣的優勢
+什麼樣的速度
+其實在這些商業的速度
+這些進步的數據
+其實在這些數據的數據
+我們會遇見他們的SLA
+我們會在時間上在發展
+我們會減少數據的數據
+然後那就是你能夠把影響運到
+可能我再加上
+我們只開始
+把我們手機拿起來
+我記得一年 ago
+我跟John and I
+開始在想這個想法裡
+我們有了一個強硬體驗
+這個建議
+像一個法律學院
+就只是一個公司
+想買一些
+AI-enabled的服務
+因為有很多興趣
+所以人們想試試
+但有一個很困難的
+是
+我認為
+經濟經濟
+經濟經濟
+就叫做 維持好
+這也就是說你只要知道
+你已經體驗了它
+和吃了它
+你也需要一個 expert
+來告訴你 確實是高級的
+一個人類
+或是不只是一個人類
+一個經濟經濟的 CEO 常常不知道
+根據理念 如何好他們的 legal work is
+所以你要知道
+那些 lawyer 正在看著它
+因此 以法律的 作為建議
+我們認為我們在做
+是紋身最迷迭的因素
+而 still putting all of the
+right safety parameters
+around that and structures
+and having an expert
+to tell you this is good quality
+and it's safe.
+How do you think about innovating
+on the pricing and packaging layer?
+I think of law as one of the most
+interesting for the AI Wave
+because it's one of the most
+technology disruptive
+but also in terms of the pricing model
+if you're billing by the hour
+making it more efficient
+所以說一句話
+如何在做價值新興
+對,這是我們很早的決定
+我們做過
+不想太辛苦
+然後就變成了
+不需要花時間
+我們覺得很可憐
+但很明顯
+會有趣的
+為人們注意
+而且會有很多的貢獻
+我們不會想 twice about it
+所以今天我們要去買
+我认为这些东西是有少数的东西
+第一是,在70年代,
+人们在认为
+认为的一时,
+它只变成50年代,
+它是一种剧本,
+但它只是很丰富的
+而且它有很多意义
+为了做到很简单的工作
+我们是很难让优秀
+认为它是多少工作
+所以,我认为
+我们在认为的一部分
+我们真的不可能
+认为的一年
+是在认为的一时
+從 time zero how long this piece of work is going to take
+那 we can price it and still make sure that
+We're doing the work properly
+That we align with the value that we're giving the clients
+And that's like
+Whethings get really interesting
+Because you have to predict
+How many times will this contract go back and forth
+We have to look at it five times, three times, two times
+In order to price
+The amount of price document properly
+So interesting
+And you've been a lawyer before
+如果你說你們是在維持合作的公交工作
+就給我們看看
+今天有什麼人做的事
+在商量公交
+還有什麼類型的公交
+我們在談論
+我們在談MDAs
+我們在談論交易
+交易合作
+什麼之類的
+對 所以
+有很多點可以去
+所以他們會把我剪掉
+所以現在我們在談MDAs
+MSAs
+DPAs
+我想每個社會人員
+會很 familiar with this
+因為你賣了BWB產品
+這是你跟著的
+我會說NDAs是
+從一個複雜的 standpoint
+一個不太複雜的商量
+比MSAs and DPAs less complex
+是一個步驟
+去獲得MSA DPAs
+NDAs 2 pages, MSA is 15
+但是他們可能會有80x more complex
+有很多詞
+去商量
+然後你能到達到MSA的商量
+就是大概1000x more complex
+今天
+我們想要讓你決定這個 contract
+所以我們跟客人在一起
+有幾個 contract 每天都會有幾個 day
+例如是 cursor 和 clay 和 unified
+那些在發生的事
+但是你也要把生意從太多的危險
+所以那是 律師的做法
+還有很多的 呆滯
+和 經常的 承諾
+和 負責的 負責的
+但是你也要把生意從太多的危險
+所以那是 律師的做法
+還有很多的 呆滯
+和 經常的 呆滯
+B скотting on like what is a sort of market here.
+But it's really like a theory all that exists in the minds of lawyers,
+and two rysemal lawyers will disagree to what those things are.
+And this is the subtle last point that I'll just touch on which is
+you know lawyers are essentially these private actors that are building a public good
+which is the legal infrastructure,
+which is all of the contracts that ever get negotiated
+go into this public domain,
+sort of like what is a reasonable allocation of risk.
+And so by automating this,
+and this is where you know I think John gets really interested in the
+我們可以開始說
+優惠,這就是這個情況
+這裡不是我的最好的猜測
+這是一個很重要的 contract
+但我們可以給你一個標準
+或一個具體的猜測
+這裡就是一個很危險的投票
+對,我想是在民族人頭
+進行一些優惠的推測
+你應該如何接受德拉威爾或是加拿大或是紐約政府的法律
+當你進入了這個行動
+我覺得有些人是很聰明的
+在那些行動中
+但同時,有很多市場資料
+你會開始解釋
+你需要的資料是怎樣去鎖定你的生意
+回到
+當地的資料是怎樣去鎖定
+哪個國內的經濟數據是50多個
+謝謝你
+現在的
+將這件事的長時間內容
+和工作的工作
+我覺得這件事很容易被證明
+PMF的客人問你
+你會做這個事
+我們會付你去做這個事
+和做一個實際的服務
+你需要理解
+什麼是自動的
+什麼是復活的
+我們 what are the specific signals and levers you have to push that automation forward?
+Maybe let's dig into that.
+What parts of even the product today,
+what parts of it are the LM or AI model,
+what parts of it are the lawyer,
+what parts of it are more workflow software,
+and how does that change over time too?
+Yeah, I think it's been so interesting in the past,
+you know, five, ten years, the amount of investment.
+I'm sure you guys have seen this firsthand.
+So I'd love your take on this too.
+我們在NLP上學
+我們在五年前的藝術世界上
+有幾個問題
+我們現在在申請
+學校的學生
+學校的學生
+我覺得這就是
+我們現在的技術
+我們現在的技術
+我們現在的技術
+我們現在的技術
+我們現在的技術
+我們現在的技術
+我們現在的技術
+你开始做影像的图像
+你会有一个照片
+然后你会尝试
+你需要的就是照片
+现在你开始想
+你正在看MRI
+正在尝试
+你正在看MRI
+但你也会有更多的
+层次
+从可能 patient's history
+和其他人的 metadata
+about the patient
+我觉得
+许多的语言模式
+正在接触到
+许多的语言模式
+基本上说
+给我一切的层次
+就像是需要
+理解这个问题
+和创造一些许多的决定
+&  wash your question around the workflows versus the language models
+today starts with how can you contact engineer for a human lawyer.
+Right, how do you give all the right tools
+and these building blocks
+to expand what's available to the lawyer
+and actually automate their manual workflows that they were doing.
+Once you have building blocks,then it becomes a question.
+Okay, what are the parts that a lawyer is doing
+that you can now align the language model with
+and say, hey,how accurately can you replicate
+what behavior this human is doing
+我認為,我對這項熱帶來說,我認為每個人都要在於這些大部分的重點,
+例如,大部分的重點,例如,RLHF,這些大部分的重點,
+例如,將它們調到最多的資料,
+這真的要在於一些這些特殊的狀況,
+將它們調到一個特殊的人,
+因為,像 Ryan 說,
+即使有兩名公司要求,
+在一個特殊的項目中,
+他們也會需要很多重點,
+即使他們也會用同一個公司,
+如果你可以更加地提供一個人
+你可以開始說
+這個對的,這個錯的
+因為那個人是永遠是一致的
+即使兩人都會不合理
+所以你會有一個人的模式
+對於不同的律師
+是那種的模式嗎
+對,所以我覺得兩種的體系
+我覺得也會是
+人們不在意
+每個客人的E-Vals
+或每個客人的Find Tuning 足夠
+我覺得每個客人的Find Tuning
+而E-Vowels 都是一個非常高的ROI 方式
+尤其是大型的ACV
+讓你的產品達到各種9的確診
+今天我們有一個很危險的語言模式
+是他們達到90% 基本上是自由的
+他們的基礎模式做得很厲害
+我們很愛我們的伴手人
+在OpenAI、anthropic 和Google
+給我們這麼多技巧的功能
+但是一個很危險的
+是他們達到90% 達到99%
+99.99% 其實是非常難得的
+那你能把整個領導的資料
+都提供到
+什麼是能夠調整這些問題
+至於客人
+什麼是能夠找到
+這款模式至於客人
+然後你能夠
+並非只是4星的體驗
+而是5星的體驗
+因為這就是
+你正在做的
+最後一天
+但我會感興趣
+你們的評論
+在於
+他們的資料
+以及他們的
+體驗
+至於客人
+這些更多的
+商業式的
+資料
+我認為它們的資料是在於
+他們的資料的分別
+因為我認為他們會繼續
+在等級上改變
+他們會在那裡
+很遠的
+而我認為
+如果你的意思是
+在一些公司的資料
+最多的資料
+最有趣的資料
+在他們的交易中
+你不會有空
+作為一個
+基金模式的公司
+我們可以有空
+特別是個人的
+我可以更
+是我們最愛的一種
+是你懂得的AiP
+是你能夠轉換的
+很快的交易
+是你能夠轉換的
+更便宜的交易
+然後你能夠
+轉換的
+更便宜的交易
+然後你能夠
+轉換的
+更便宜的交易
+然後你能夠
+轉換的
+更便宜 than somebody who's not using AI
+What is the customer facing value problem?
+For these companies,
+we've really crystallized over several months,
+it's deal velocity.
+And what we think a lot about is
+just the acceleration of startups today
+and everything is going faster.
+The sales motions are going faster.
+I mean you look at clay,
+like they're enabling sales teams to move that much faster.
+跟整個商業的方式
+和商業商業
+是一種很重要的一項
+它是一種你利用的方式
+公司的領導方式
+是一種不改變的
+40年代
+基本上是由於文字的程序
+所以我們可以
+將商業商業的方式
+從時間他們發出的
+到時間他們回到
+這就是經常的
+商業人士
+我們可以將他們的
+商業商業的方式
+或者在更多想法的方式上
+做五或六次的回合
+我們可以預計
+如果我們只會這個方式
+然後再推翻這三個
+我們會把一臉 save one turn
+所以這會變得一整個星期快
+這些是主要的東西
+然後
+什麼是比較有趣的
+就是
+像John was saying
+質量和味道
+這些比較難看的東西
+是有關關於這些的問題
+你必須把
+一些不便的方式
+你必须辞职一些
+有多的责任
+但是我相信
+我相信最高级的 Lawyer
+就是我真的喜欢的GC
+和我花了很多时间
+理解他们的工作是
+专业家
+他们在他们的公司
+和他们的责任
+都在那里
+所以那就是最重要的
+而在一个很棒的程度
+建立的 Lawyer
+在一个很棒的程度
+让我们
+有了所有的 Lawyer
+和所有的安全和责任
+就是我刚才提到的
+但是看我們能否把限制
+對我們現在做的
+媒體和時間在一小時內
+我們能否得到分析
+我們還要確保
+正確的定義
+對我們正確的定義
+正確的定義
+這些是非常有趣的問題
+對
+你覺得什麼是要做的
+什麼需要發展
+讓這事發展
+我覺得很棒
+我認為最有趣的
+我們在一起做這個 interview
+和我們在一起
+是因為我們有這個很特別的結婚
+技術經驗 理解他們的理解
+我愛赤補T
+什麼是很好的事
+我跟John一起工作
+John一直問我
+我跟他說 沒事了
+我可以在10秒看
+我手上放了
+而 lawyer have a very visceral sense
+因為是 taste based
+based on their training
+based on their risk profiles
+which is a little unique to each client
+just immediately what looks good
+所以我們能夠獲得
+鋪上的技術
+和實際的進入和進出
+在Crosby的 Lawyers
+我們很驚訝
+我們只是復興
+我們其實有更多的
+研究員在最初
+我們...
+我們有點忽視
+我們不按鍵
+然後 Lawyers 來了
+我們進入了行業
+他們只給他們進入
+所以那是一個很大一個的 structural thing
+在於 如何是可以得到的
+我認為
+因為 Lawyers 給予了一種 財務
+讓經驗 說明了 什麼東西看起來好
+他們會一直在做 做很多類似的 理由
+我可以看到 什麼類似的 理由
+會被全程改變
+但我認為 最重要的
+是 知道 什麼時候 去向 一個 Lawyer 提出
+去給他們的 給他們的 給他們的 給他們的 給他們的 給他們的 給他們的
+我們要知道那是藝術的
+現在我們有貿易資金
+我們要用藝術做所有的工作
+我們不認為我們是藝術的
+我們要知道那是藝術的
+我們要知道那是藝術的
+我們要知道那是藝術的
+好酷
+你能給我們一句話
+在技術上
+你提到的
+你三個愛心的
+基礎系的團隊
+你用了什麼不同的模式
+以及什麼研究
+你建議在上面
+對
+我覺得我們找到的
+但是這個資料的資料
+是不太基於商業的
+因為資料不足夠
+對
+在銅鑼伴們的內容
+對 資料的大部分
+比如比如
+即使是
+正常的資料
+你還要
+在他們的銅鑼伴們的手機內
+這些資料的資料
+是非常暴躁的
+最好的資料是
+Edgar
+当你接触SEC设计时
+这些数据已经被
+非常 overutilized
+并没有使用小数据
+所以这已经是一个问题
+我觉得其他部分是
+在于进行进行
+总比像 Ryan 说的
+在所有的程序里
+我们的经济人员
+明白他们的好处
+他们的不好的
+再把这些
+高级的数据
+我刚刚说的
+这就是为什么
+每个团队都需要
+每个人的经济人员
+和设计人
+我認為這是為什麼我們看到更多這些股份的股份
+因為當那個人在家
+給你一個很大股份的股份
+而不是買資料
+從一個大公司
+那裡出售很多資料
+去交易資料
+然後在於
+今天股份的股份
+我們有股份
+很多人有股份的股份
+而且很充足這些股份
+他們在駕駛
+所以這很有趣,像John的說法
+就是,在商業的方式中,你會改變語言
+或是,A.I.會比較難以想象
+所以,John和我喜歡玩笑
+不同的語言,例如,
+賣相的,和負面的,
+其實是不同的東西
+在商業的,很像是安排的
+這些是新的問題,你必須選擇
+A.I.是很棒的
+所以有 Lawyers driving them
+and really measuring
+and kind of intervening
+for the quality on actual edits
+to a contract
+but AI is great at summarizing, right?
+so being able to predict the right comment
+to make, to explain a change.
+Interesting thing we learned about May.
+If you can give a really thoughtful explanation
+as to why we can't accept this language
+or we really are pushing
+for that language,
+the counterparty will get
+will sort of understand what you're getting at
+and accept it.
+It reduces turns, right?
+So it's worth investing in AI
+to explain what you're doing.
+另外一件事是
+這其實是非常具有利的
+這不是正確的問題
+這是像
+我們 client 們不太清楚
+但是我們必須明白
+咖啡的基礎的意大利
+或者咖啡的基礎的基礎資料
+如果你是一個賣相
+要知道你買的
+這就能變成 contract
+所以
+我們可以把很多資料
+給市民的速度
+把所有資料
+在對方的位置
+和對方的 contract
+這些是很大的資料
+而我们的客户的经验是非常自然的
+我认为非常自然的
+在串通上是很轻松的
+我们串通上是很大一种
+我认为更多的项目是很容易使用的
+串通上是很轻松的
+串通上是很容易使用的
+串通上是很容易使用的
+但我们没有想到的
+我们只是想要感觉
+有一个人在你身上
+在你身上的
+你只想要
+有一个人在你身上
+你只想要
+有一个人在你身上
+你只想要
+有一个人在你身上
+你只想要
+是你做的
+然後
+然後
+回到這個項目的
+資料
+你知道
+成為一個
+很好的
+NDA
+MSA
+DPA
+然後
+像我剛說的
+回到這個項目的
+你真的想
+給NDA
+一個很好的功能
+然後
+兩個很好的
+能夠
+確保他們
+成為一個
+特別的項目
+當你想起
+這個特別的項目
+即使是
+NDA
+4Cursor
+and making sure they're set up for success
+and actually able to review those contracts really really quickly
+Today, we've basically built a paralegal agent
+which is like in charge of routing all the work from like, you know,
+that comes in from our customers in the same way that a paralegal would
+add a law firm and then routes it to a human lawyer
+and make sure the work is assigned effectively
+The next step is like how do you think about a junior associate,
+a senior associate,and a junior partner at a law firm
+想想像是在那種方式的改變
+還有其實特別的工作
+他們在尋找的
+合理
+你喜歡哪些工作的模式
+我真的很喜歡
+chatGBT5
+我不知道
+那是熱帶
+對
+我也是
+我的團隊都會做名字
+對 說多一點
+我覺得
+其實已經很好
+在想法和計劃模式
+有些項目的
+GEM and I 2.5 Pro has been really good at legal tasks as well.
+Super interesting.
+Do you think that the path to the promise land for you will be kind of RL tuning to each individual law firm and lawyer?
+Or do you think it's gonna be prompting like any religion or any gut instinct on what the kind of what's going to take you to the promise land for automating these contracts fully?
+Well, I think like Ryan said, the thesis is how do you still keep that human touch for like psychological reasons?
+我認為這個領導者的心理安全
+這領導者的心理安全
+是從很好的聯繫研究來的
+因為什麼很好的產品研究
+和什麼很好的商務研究
+就是保持了很多的資料
+在他們的工作記憶中
+知道他們的工作
+還有這個專案
+還有這個NDA
+我們去年去
+在他們的工作記憶中
+在他們的工作記憶中
+我認為他們的學習
+我們已經在學習的技術上
+有很多技術的訓練
+所以我們在學習的訓練中
+找到一些技術
+我們在前一陣子
+我們也在學習
+像剛才的Grein
+我們也在學習
+還有很多其他技術的
+所以我們在學習
+很正常
+我認為
+讓學生煮飯
+讓他們煮飯
+他們很...
+讓學生煮飯
+說多一點
+對
+他們煮飯嗎
+我們有這麼多學生
+他們都很...
+我聽到他們的AI
+我想要學習更多
+我興趣 我想要成為一位
+對
+然後你會說
+你以前都用了嗎
+我們說OK 家庭要玩
+然後他們就說
+他們的樣子
+我們有一個特別的隊伍
+他們的樣子
+是因為他們看到了
+一些技術的技術
+然後他們就把電子打開
+很棒
+然後他們的能力
+其實是對於鑰匹
+給他們的教訓
+教他們所有這些技術
+在你頭上
+但你不懂得如何解释
+這其實是蠻難的
+用這些東西來解釋
+我覺得族群是很好的學習
+但在法律上
+有很多時間進行學習
+在學校
+你不一定找到很多時間
+在學習
+因為你只會用蝴蝶
+蝴蝶
+所以我其實在解釋
+是一個很高的技能
+不只是族群
+但也有其他族群
+但也有其他族群
+我們看到
+當你能夠做這個事
+你做的事,並不喜歡做的事
+這是我最有魔性的經驗
+我們在週末看了
+什麼是最酷的事
+Laurie有創造
+然後,你也要
+介紹一下你創造的文化
+Laurie
+他們在做這個
+他們在玩這個
+所以,我
+我會給你一個大讚
+我們要給Kidus to Harvey
+建立一個
+他們在做這個工作項目
+叫做《Apply Legal Research》
+這項是美麗的
+這就是政府在做的
+你建立這個國家
+真的誇張了
+你不只是誇張
+你來看政府的公司
+他們真的在做一個
+是我們建立的
+我們給了很多誇張
+為了 being
+就像是你做的工作
+在做什麼的
+所以我們有一位網友
+他提及過
+我們可以做更多的事
+我問他
+告訴我一點
+一周後他建立這個
+我找了他Miro
+是一個很大的
+一刻的一刻
+他做了這件很大的過程
+我們必須要
+做得很專業的
+很大
+這就是我最好的一刻
+在各地的研究中
+但是我們也很期待
+所以我們成為這個 culture
+我们真的祈祝
+我们做了很多的批评
+同样的工作
+但是我们可以
+走出那里
+想起更大的
+所以我们
+所以我们真的
+对于发展的发言人
+因为你的发言人
+是要得到
+整个视频的低
+而低
+所以我们的一切
+是在发言人
+所以我们很棒
+还有很多其他东西
+我们刚开始
+发言人的
+有一个计划
+的计划
+建议你的团队
+所以有两个发言人
+和计划
+都在同一方面
+所以他们都要
+合作 together
+但这些是最重要的
+这些是非常大的事情
+我们在新加坡
+我们在新加坡的AI公司建立了
+那是虽然的
+告诉我们更多
+虽然不是虽然的
+我觉得
+新加坡的新加坡
+有很多不同的艺术
+第一艺术是
+2000年代的
+很多这些加坡公司
+在新加坡的经济上
+在新加坡的经济上
+比如App Nexus,還有其他其他公司
+然後還有第二種是
+這些深入技術的工具
+出現了這些藍色公司
+創造了這些更多的工具
+像是MongoDB的世界
+還有很多的訓練商
+在紐約,你可以想像
+Jane Street,HRTs,Citadel
+紐約的技術團隊
+作為了一個基礎的鏡頭
+what happened in the last 5 to 10 years is
+a lot of you know more and more senior engineers
+we're coming out of those places
+to the point where a lot of what building a startup
+is about is actually knowing what a great growth trajectory
+looks like and understanding how do you not just go
+from like 1 to 10, but 0 to 1
+and so these were great breeding grounds
+and now we've seen a ton of companies
+start swanning out of like these
+whether it's in dev tools and dev x
+or thinking more you know I think a really great example
+我記得一位人
+Kareem告訴我這件事
+他們有一個叫做YC 公司
+叫做Paribus
+他們說他們應該是
+YC 公司的唯一公司
+在2013年或其他地方
+他們的原因是因為
+他們有一個很 talented 領導人
+一個很 talented 領導人
+一個很厲害的領導人
+他們問他們
+為什麼要來這裡工作
+他們說了一個很簡單的原因
+我用新加坡的新加坡市场
+你就是新加坡最好的公司
+所以我们已经在这一段时间
+我觉得RAMP
+是一个很大的地方
+还有很多新加坡公司
+也有很多的公司
+我们可以用很多的年轻技术
+教他们
+从这些人的地方
+例如App Nexus
+还有其他地方
+其他计算机器
+调整这些学术
+然後又可以建立一個
+真正的建設公司
+像RAMPIS
+還有一個很有趣的 survey
+我認為PAT 也說過了
+或者你也有提及過
+還有一個 survey 從
+NEO 或其他人的
+那裡
+最多的新年生物
+在2021 、2022 年
+想要成為新年
+還有
+這很有趣的
+如果你只要
+追蹤那一種
+成為一個領導人
+那裡有哪個
+非常聰明的
+愚蠢的
+高低的
+年輕的領導人
+我想這就是
+新年
+也讓他
+既然能让你 break out of the AI echo chamber a little bit
+and do things a little bit differently
+and just hearing how you guys speak it
+as you know, it's refreshingly first principles
+I do think like we
+we're probably here three months for various reasons
+and I feel like we come here to dream
+and then we go back to New York to build
+and like in the subject matter expertise
+there is so dense in finance
+in the creative fields
+and health care
+and healthcare and law
+當然是在法律
+你還要把這些很瘋狂的想法
+你來這裡,你不只是AGI,而是ASI
+你學習了這些,然後你回到家裡
+然後你真的要把它放進去
+然後你把水倒進去
+然後它就變成了一種東西
+這已經是很特別的
+對,我覺得我們
+這些職業的經驗人士
+真的用了很深的學習
+跟這些高階的學生
+也许是这些人
+也许是要有许多的许多
+或是要有许多的许多
+整个许多的许多的许多
+都是许多的许多
+或者要有许多的许多
+我觉得这些许多的许多
+是非常重要的
+因为像 Ryan 说的
+你建议这些棺材
+你跟一位许多的许多
+你的客人在你旁边
+有这样的新的机会
+像是许多的许多的许多
+和许多的许多的许多
+我觉得这些许多是非常特别的
+我觉得你的名字
+跟紐約的謎座好像有關
+你能不能告訴我們
+一段故事的名字
+Well, there's a lot of myth
+and a lot of war over the name of Crosby
+一個名字是
+John and I were going these long searching
+existential walks back last summer
+through Soho
+and we kept finding ourselves on Crosby
+and it's a beautiful old street
+in a very modern neighborhood
+and it kind of to us
+spoke about being essentially New York company
+他有最好的藝術品和新的藝術品
+他很合理
+但這就是他想要的
+他也想要的
+他也想要的
+他也想要的
+他也想要的
+他也想要的
+我們的辦公室的女兒
+她叫Brosby
+真的嗎
+是的
+她的女兒
+可能告訴我們一點
+在紐約的情況下
+什麼是不同的
+從公司的文化來說
+你覺得它是否有分別
+從公司的公司
+在SF裡
+我 nonap
+reader
+biusa starting things to be founders and the way that we've been able to convince people to join us is by saying this will be your stepping stone for 4 or 5 years.
+We have to live up to that by the way like it's actually not.
+It's not trivial.
+We have to make sure that when we get invited to a founder dinner we send someone else on our step which I think a noise people but it's pretty awesome for them.
+但有些東西在這個類似的公司
+就是在結業的應用頁面
+像John說的
+你需要那種程度的獨立
+和發展的成績和成績
+這個就是我的想法
+我會想辦法去建立
+我的頁面的律師
+然後我會解決這個
+然後我會回到家
+我不知道為什麼
+但我們繼續看這個
+我認為RAMP是個大部分的故事
+我認為RAMP是個
+發展的頁面
+而是一個文化的
+在紐約和新 York 都在發展
+所以我其實很期待
+我好奇要看下一四五年
+所有的這些
+像是接下來的獨立獨立
+大家來開始
+對
+我覺得一件另一個獨立的
+在紐約的東西
+就是這個說法
+好像是在設計
+就是一個產品
+是最好的設計
+和品味
+我覺得很多的
+可以用來
+調整
+還有一些
+在這些設計的領導
+和其他很好的商業
+最後一件
+人們在紐約喜歡芝士
+我覺得很難
+要有新的新的新的新的
+新的新的新的
+那是我們 celebrate
+那是我們 celebrate
+所以我們有兩隻新的新的新的新的
+新的新的
+好,我們需要熱帶
+什麼樣的 legal work
+是完全的 automated
+所以, legal work
+有11,000 law firms
+要 account for 8% of all law firms in the US
+要 account for about 75% of revenue
+還有很多 law firms
+但是有一个很大的调查
+这些92%的人
+那些92%的人
+在帮助你
+帮助你帮助
+小孩的费用
+和一些人的
+这些人
+他们很严重
+被警察拒绝
+他们很严重
+我们在大学中
+经历了一段时间
+大家的梦想
+是做了什么
+这些事情
+不太有关
+我認為這個工作會被整體地改變成無法改變
+我相信任何人現在可以利用網路的方式
+跟今天聊的聊天
+我認為很多人會
+我認為國際公司會在這裡待會
+這些工作會很安全
+所以是一個新的類型的立場
+那是完全地改變的
+但我們沒有拿到很多的立場工作
+然後改變
+就是沒有人做的
+是新的立場
+完全
+為什麼不只是帳戶
+那還沒有
+我已經改變了
+立場的建議
+可能是壞的
+但是我...
+我覺得很多這個工作
+我覺得
+改變的不就是
+改變的沒有人看著
+我的希望是
+如果你可以加那麼多
+立場的立場
+那如說
+如果他們在兩項項目的時間
+他們可以在500項目的時間
+不然我們可以有更多人
+可以有更多人
+我們談論的
+Crosby的目標是很浪費
+建立了更多的資料
+和技術
+這就是我們所談的
+這就是我們所謂的
+最大的一項項目
+這就是最大的一項項目
+我覺得是最大的一項項目
+是在下一5、10年
+將會被解鎖
+對
+你 run 北京的Metrics
+你 run 公司
+我們在整個轉換時間, 也就是說時間到時間到, 要多久才能領取, 通過所有的背後方式
+像 Ryan 說, 背後方式的交易可能有五個, 或是兩個
+如果你把所有的時間加起來, 也就是在北部的經濟, 也就是北部的經濟
+i mean, that's very counterintuitive, right.
+most law firms are not trying to maximize that number,
+but like that's how they earn their billable hour.
+For us, it's about aligning incentives.
+We want to not only do a faster job
+on each individual term,
+It's also about how do we do a better job?
+How do we like understand the right negotiations levers
+for the business?
+I'm sure you all have negotiated your fair share of term.
+She's a really high velocity coming back and forth.
+我們都想想如何減少背後的資金
+還有更快的每次
+你如何做到的優勢
+如果回到詳細的例子
+我最快的方法是
+增加貨幣的價值
+所以你如何確保
+你沒有給貨幣
+利用和增加貨幣
+對
+這也回到保護貨幣
+我們也很期待
+我認為最主要的一件事是
+這些股份的AEI資料
+是他們應該有某種股份
+在於AEI的經濟或股份的股份
+或股份的股份的股份的股份
+而因為這件事很容易
+因為很容易受到
+不合理的資料
+像是在做短短的工作
+那樣的工作
+我們有股份的股份
+雙股份和股份
+只有在於
+我們要確保股份
+是在於
+遇到我們的客人需要
+這意味著
+不只是在一個正常的工作做好
+但也要在一個目標的理念中
+這是否與我們客人的危險狀態合作
+是否在客人的商量中
+最好興趣的
+和把所有的資料都放在一張保險櫃
+我們叫做TAT
+我們也有學會到
+如果你有五十字字的討論
+可以在旁邊說話
+其實是可以的
+因為我們開始了
+我們剛才來到一間公司
+現在我們在整個公司
+叫做TAT
+我們也叫做
+HIRT
+它叫做HumanHU Review Time
+所以我們也在想要減少傷害
+因為傷害
+我喜歡這類的財產
+我覺得…
+很酷,因為我覺得財產
+可以說到他們從產品的觀點
+但有些東西很不孝敬的
+你希望他們會感到不可思議
+減少傷害會感到更加的價值
+跟我們財產應該感受
+同時也一樣
+所以有所理解的高級
+跟我們貴人所期待的
+我想可能會再加一件事
+但是,你會有更多的方式,
+在商量上,
+在資金上,
+例如,設定單位,
+增加壓力,
+很多方式,
+我覺得,
+商量是很有趣的,
+因為他們很人,
+基本上,
+他們只是一個人對人的
+談論,
+他們想要什麼,
+所以,
+去年,
+我們在研究,
+我們在印度,
+and there're a lot of offshore legal services that do sort of back office very routine contract negotiations for
+40500g global companies and they just take five rules and apply those to a contract and just kind of
+go back and forth and like negotiate against them, it's like negotiation against the wall, they just, you know,
+they kind of don't get creative, but it was one guy. And I said so like what do you do if you get stuck?
+He's like, I have this really creative thing I do, I just call them and tell them that they're not going
+to want to say no to, you know this company. And we have a really long life and
+我們是要和我們一起表達的
+你能做到什麼
+我不知道
+我只是開始做到
+它們的工作
+它們是很人類的
+讓我非常喜歡
+人類的部分
+這些背後的方式
+所以我認為
+我們很不太會
+想想如何我們可以減少時間
+如何能夠更能夠
+做出傳承
+與其他體制的
+合作
+但也有一個
+重要的角色
+要有的能力
+和我們一起表達
+我們叫做
+《意識之心》
+完全是
+同時,我也有想過
+如果我們有一個A.I. agent
+對那種學習的方式
+如果我們只會用手機
+然後發現那些手機
+會有100%的反應
+如果我給它一個通知
+或是手機的通知
+但誰知道
+這怎麼回事呢
+我猜你的Agent
+從沒有互相
+對另一個Agent
+之前在 field
+但
+我猜
+人們會有
+他們的Agent
+在兩邊互相
+在兩邊互相
+對嗎
+我覺得這就是
+這是我們希望能夠達到的最美的優點
+是能夠把每個派對的各種方式
+跟自己的各種方式的組織
+和他們的優點
+對
+然後能夠展現一個奧特德的紀錄
+在這裡的第一次 四次
+然後五次 六次
+然後這裡是我們列入的
+你認為是否很方便
+這就是你的 starting point
+這些是最重要的
+合作的優點
+他們不合作
+所以這目標是
+ially the collaboration platform to get people to agreement
+faster so interesting so
+each agent will kind of have a sense of everyone's risk
+preference their bottom line tolerance for waiting out the
+negotiation and i want the agent that's gonna like bang
+it's hand on the table yeah and like
+that's the one that you're only spent more compute on
+the high inference agent yeah
+and yeah i think fundamentally you know partitioning
+the data making sure like this agent doesn't have access to the other
+agents data and making sure like
+就是在法律公司已經解決了
+你設立了一個圈子
+在不同的團隊中
+說是在對方的對方
+你可以用這個方式
+甚至在一個系統的方式上
+因為你不需要
+跟其他團隊說話
+雖然他們有自己的保護
+我會想問你
+你會問到的未來
+你會看Crosby
+你會看到的
+你覺得這個公司
+在10年內看起來
+我覺得
+回到這個點
+在公司的公司和困境上,我自己会招待一些生意的伙伴
+但是我只能想到,他们的生意的伴侣和生意的伴侣
+也有可能是她的生意
+或者是她的生意
+我可以想象是他们生意的伴侣和生意的伴侣
+可以帮助他生意的伴侣
+或者是他的生意
+将来是一个生意的伴侣
+然后他会作出一个生意的伴侣
+然后在公司预规
+主要的工作是在國內表明
+所有的東西都被用來保護
+淨化系統
+但我還在興趣你的 take
+好 我想把這件事做得快
+在2007年年年代
+2017年
+公司的公司的公司是200%
+而公司的公司是30%
+然後從2014年到2024年
+他們從2020,000到40,000
+公司的公司真的非常延伸
+而公司的工作是更加難的
+而且公司的工作是更大
+公司的工作有更多的財富
+他們可以有
+不只是公司的
+他們可以有公司的
+他們可以有公司的工作
+他們可以有
+不同的工作
+特別的
+他們變得非常創立
+是一種很大的改變
+在發生的事
+我的希望是
+因為這些不只是公司
+在公司的特徵和公司的特徵
+這些就是公司的特徵
+你會看到更多特徵的公司
+是公司的AI
+因為它是很明顯的
+它們的特徵和公司的特徵
+是在公司的特徵
+我們是一個小部分
+我再回到
+這個年輕人
+我覺得這是
+我們從來沒有看到
+真正的新興建設
+在公司的市場
+我們只是在開始
+我覺得這些東西會很不同
+可能因為那一年
+誰會在大學上做的
+他們會出發 會做什麼
+我想這會回到
+我們公司的股份
+我想你問一問
+完全所有的
+問一問
+你的教授說要寫腳步
+是否真的必須
+問一問
+有很多的大學
+然後再分辨
+是很清晰
+understanding the brilliance of legal academia
+This is what makes society run
+Professors my professors at Stanford truly are some of the best mentors I've ever found
+and some of the smartest people
+and so don't be arrogant but question everything
+and come take time and do an apprenticeship with Crosby
+we'll teach you how to prompt
+but like it's important like these are the skills that I think are really going to matter
+is how to harness all the power of AI
+and there's so much room to change things and there's so many
+但是我去到一個公司,是全全的總統公司
+想像是Fortune 500
+我不會叫公司,因為我想要回家
+但是我坐在這位總統公司的旁邊
+他就是總統公司的大公司
+他可能是一位我們手機的公司
+他在這個公司上
+他問我,你喜歡我嗎
+我問他,你喜歡我嗎
+我問他,你喜歡我嗎
+我問他,我喜歡我
+我問他,我喜歡我
+我問他,我喜歡我
+嘿 你 ever tried any of this chatGPT or AI stuff
+and he said no of course not
+my CEO keeps telling me to
+I refuse I do not want to try it
+and he's just you know
+I think the Ryan's point like
+there's arrogance on both sides of like you know
+questioning everything but also like
+you know being stuck in the old ways as well
+is dangerous
+excellent
+I think question everything and try everything
+seems to be a good thing for all of us
+so thank you guys again for coming on
+I appreciate it
+Thank you guys for having us
+This is really fun
