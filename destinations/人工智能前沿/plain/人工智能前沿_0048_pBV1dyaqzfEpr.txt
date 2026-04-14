@@ -1,0 +1,377 @@
+Can AI help us learn?
+Some of you might be thinking of course
+it's so powerful it can do so many things, customize them for us.
+But I want to say that the biggest revolution AI is bringing to education
+is not that it's going to make math more fun for you
+or it's going to explain Shakespeare like you're five years old.
+The biggest revolution AI is bringing to education
+is that it's highlighting the system's failed incentives.
+因為為什麼大家要學習
+我們說了一段時間
+那這 all that matters at the end
+不是 the process, it's the A plus
+為什麼他們要把 all the hard work
+to write draft after draft for an essay
+when the feedback is just B
+沒有 extra notes
+沒有想要更難學習
+這些公司 are much faster than our institutions
+最近,OpenAI,Google,Anthropic
+都在給予他們最強大的模式
+直到最後的5月
+這就是你們想想的
+正在他們的時間中
+我們在他們的時間中
+完全不准用這些技術
+在他們最有趣的時間中
+都在用他們的技術
+但這些公司會說
+AI將會改變教育
+特別是個人化
+經常在創新的創新的創新
+會說到
+通過個人化的訓練
+AI會 revolutionize education
+讓大家更好
+為什麼不?
+創新的創新的創新
+是很強烈的
+討論一個人
+感受到這個連結
+獲得我的學習
+才是很適合我
+這很厲害
+今天
+學習看起來
+學生
+在前面的學生
+如果技術人們認為
+這個 ideal looks like this
+一學生、一學生
+為什麼不只把學生翻出來
+做 AI
+然後 下一步
+是一艘 AI 生產
+一艘學生
+聽起來像是一個完美的學生
+但完美的不是我們應該想要的
+我們不想學生的
+我們不想學生的
+學生在完美的情況下
+因為 全世界都是完美的
+是一種充滿的註意
+我失去所有的聲音
+我看不見其他公司的問題
+是什麼意思讓學生學習
+因為我的想法是
+讓得到A++更簡單
+我並不興趣
+我們只會花12至15年
+不過現在更加能夠
+在進行進行的驗證
+我們不會記得一天後的聚會
+現在,如果你們外面的學生
+像我这样,你可能会有看到一个瞬间
+在我的解释和追求的证据中
+我问,能否使用AI帮助我们学习
+我跟着它,它是最大的AI
+最大的 revolution AI 带来教育
+但是你可能会感觉到
+教育是没有学习
+教育是一个建议
+我们是一个社会
+我们承诺我们的孩子
+是一个系统
+但是学习是一个技术
+一个非常人的技术
+而當我們做得對 真正的事可以發生
+我們可以令人們變成自己最好的
+我們可以令人們一起工作
+和在我們需要的最大的社會進行
+現在 我在一位學生
+我喜歡跟學生們坐在一起
+和工作在最好的方式
+我是一名學生
+但很難找到二十歲的學生
+一起工作
+所以我拿了這個圖片 給了很多孩子
+我發現 學生們有一個
+她的工程品
+因为我们在买小的工程品
+卖了她的工程品
+她卖了她的工程品
+50美元 per month
+所以我问她
+为什么你卖了她的工程品
+她的答案是
+这就是GPT说的
+現在
+有些人可能会说
+当然这不是好
+但不是很像
+他们之前做的事情
+孩子们只是说
+这就是我看到在Google
+但是我说
+它是存在的
+It depends because on Google when used correctly, we have all these sources to go through multiple perspectives that we can look at and compare.
+But what happens is the magical allure of that first result.
+Everyone only clicks on that without looking at anything else.
+In this particular question, I asked how can I price my business and that first result is from the BDC, an extremely reputable source.
+但它在告訴我如何採取自己的業務
+並不是我的業務的工作
+它並沒有理解規律
+在chatGPT 如果你寄入我該怎麼採取我的業務
+它其實理解規律的效果更好
+我不知道你能否在那裡看
+但它基本上說
+有很多方法採取你的業務
+但在那裡有很多不可思議的資訊
+沒有資訊
+這是一個問題
+因為 即使chatGPT有一個功能
+如果你提供了一句話
+Cottage Marks appear
+Some of you might not know this
+Then you can click on those quotation marks
+and query that specific thing
+But if people weren't clicking on the second result on Google
+They're not going to use the power user features
+In chat GPT or any of these other AIs
+What's likely going to happen
+is they're going to scroll to the bottom of the query
+And they're going to type
+Okay
+I get it
+My business is like TurboTax
+I help accountants calculate people's taxes
+Tell me what number I should put there
+And of course nobody is reading the
+chatGPT might make mistakes sub titles right?
+Everyone clicks on the terms of service before you agree
+So then chatGPT is going to spit out an essay
+personalized to the language of the person
+It's extremely compelling
+And despite all the information on there
+People are only going to look at that centerpiece
+which if I zoom in
+is the actual random answer
+of how much this person should charge for their business
+The prompt, and this is a real prompt, had nothing but what I had on the screen.
+A small description of what the business does.
+No context for who the user is, nothing.
+And so, the student is participating in what's called cognitive offloading.
+They're effectively relinquishing their cognitive powers to a machine.
+And you can do this with people too.
+We do it with Google when we click on the first result without looking at anything else.
+The problem is how this is being understood.
+In NYU, a professor changed their assessment so it could be harder for kids to use chatGPT.
+And the student replied that he is interfering with the student's learning style.
+ChatGPT is not a learning style.
+Now when you combine that with something that we see in technology,
+so I'm a UX designer in addition to being a university professor.
+而我們作為使用者和設計師
+是簡單的方式使用技術
+但有一個產品是用來買的
+叫做黑色的
+這意味著
+我們可以簡單的使用
+使用者的意義可以使用
+我給你一個例子
+拿出租金
+當你買出租金後
+他們想買一張
+我們都愛租金
+這是一個優惠的組織
+現在,我們在右邊的Aro pointe to the right
+因為我們是英文或 French speakers
+我們從左到右
+Aro pointe to the right
+是最多人都會選擇的
+是黑色,是濃色
+但如果不想要描述
+你必須按下它
+看起來像是往後面
+沒有描述的小小的描述
+這就是一個使用的黑色模式
+然後,在GPT和大型語言模式上
+它是一個很合理的音量
+和很合理的音量
+在這個圖案中
+它是一個很合理的音量
+據這個寫法
+當一個大語言模式
+經常給你自信
+讓你花更多時間
+那是一個很合理的模式
+我們已經看到了
+一件新的GPT
+幸好它被重新重新重新重新
+用了一個信念
+以為是一個信念的理念
+他才讓他停止 take all his medications
+when he had heart palpitations
+and told him he is a brave individual
+for taking control of his own life
+for isolation and for stopping his meds
+and it doesn't just stop at students
+professionals have been tested
+and they are at risk as well
+a researcher ran a study on over 300
+professionals working in a large corporation
+a tech company like Google, Microsoft
+他們發現了
+在很多東西上測試時
+結果都很難看
+前面我給大家看
+我們來看看鍵盤
+兩種藍色的藍色
+是較少的努力
+而較少努力
+從黑色的藍色到藍色的努力
+現在
+319人
+在他們的研究中
+他們用了CHAGPT
+他們的知識
+他們感到
+70%的他們的努力
+他們覺得他們用了
+較少努力
+在他們的扣押
+當他們的解釋到
+他們的説話
+同樣的
+我們有了
+知識的測試
+我們有了
+測試和測試
+這些
+至少60%的人說
+他們覺得
+他們沒有了
+這很嚴重
+因為這些AI
+只會更好
+這位學者
+寫了一篇美麗的書
+叫
+Core Pilot becomes Autopilot
+and he says, the risk of moving to Autopilot
+is an even greater challenge
+than the more commonly discussed issue
+of AI hallucinations or factual errors
+because, the more pernicious outcome
+is that Generative AI becomes complicit
+in intellectual de-skilling
+and the atrophy of human critical thinking
+faculties
+So today when you ask Cab GPD weather
+it gives you an instant result
+但是在我UX Studio
+我和我的 co-founder 找了一些游戏
+看看能否改变这些
+例如
+如果它首先被确认
+前回答了
+请问一些确认的问题
+或者
+另外一个例子是
+如果它给你一些家庭
+前回答了你
+这些选择
+有不同的级别
+在AI上
+但同样的
+一旦变成自动公司
+它是一个叫做
+做工具的护士
+我们还没有发现它是什么
+它是基本上的护士
+和工具应该给你
+之前你 either leave it
+或者去做一个简单的工具
+所以你能做到
+做那种护士的护士
+是非常努力的
+但我们怎么能够
+做出
+做工具的护士
+当
+做工具和所有的公司
+发现了它的数据
+我们不一定知道
+他们在这天的工具
+但是, when companies themselves don't know how these AI's work,
+anthropic in this example is building an MRI to analyze how the machine they themselves built worked.
+This is unprecedented in the history of human technology.
+We cannot reverse engineer these things.
+The solution is likely going to lie between both individuals and the system.
+It can't be one or the other.
+For individuals, we might have to learn what we learned from fitness and nutrition.
+例如說 可能我們應該明白
+為什麼LLMs 很好
+而他們不好
+就像在健身上
+有些 exercise 比較好
+有些東西 還有一些東西
+我們應該
+用LLMs 去幫助我們的思考
+而不再去回應我們的思考
+再次
+你不會拿著一個承諾
+去健身上 沒錯
+這個意思是 要做進行
+或者
+你可能想要做進行
+去確認
+The information that LLMs get gives us
+Just like we look at the back of a food product
+When we pick up the nutrition label
+On a systemic level
+We need to look at both governments and education
+To make changes
+On the schooling level
+At least here in North America
+I don't think that we treat our kids
+With the amount of intelligence that they have
+In Finland
+Kids as young as six years old
+Study, miss and disinformation
+Six years old
+We do not talk to these kids about things
+是這個項目的
+他們是可以的
+政府來說我們需要更多的規律
+並不是少於
+在紐約的事情中
+再一次
+這些AIs不能像我剛說的
+像我剛說的
+在學生的AI上
+即使他們在中等比賽中
+最受歡迎的
+這需要是一種
+與系統的責任和責任
+和責任的責任
+現在學生
+我愛5Ws and H
+有些文章文章
+問題是
+為什麼 為什麼 誰 誰 怎麼
+我打開問題
+能否 AI 幫我們學習
+但問題是
+為什麼 AI 幫我們學習
+或者
+為什麼 AI 幫我們學習
+可能是
+為什麼 AI 幫我們學習
+或者
+為什麼 AI 幫我們學習
+但問題是
+我最怕的
+and I want to leave you with to reflect on
+is who does AI really help
+when we end up depending on learning with it
+Thank you very much
