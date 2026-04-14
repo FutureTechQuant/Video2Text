@@ -1,0 +1,849 @@
+我真的很期待到下個部分
+我們會在電視上聊聊
+with Andrew Ng
+Andrew 應該不會需要任何介紹
+至於很多人在這裡
+我猜很多人在Coursera 或 Deep Learning
+有參與過的一些學生
+但是 Andrew 也有在
+在一個大部分的
+LingChain 工作中
+我遇過 Andrew
+兩年前的一個 conference
+我們開始談論LingChain
+他誇張地邀請我們
+進行一個課程
+LingChain 進行 Deep Learning
+深学的学习
+我觉得这就应该是第二或第三个
+他们曾经做过的
+我认为很多人在这里
+可能会看过这个课
+或开始在LangChain
+因为这个课
+所以 Andrew 已经是
+一个很大的部分
+LangChain的旅程
+我非常感激
+为了欢迎他在节目中
+做一个调节
+所以我们欢迎 Andrew 来
+我们在这里
+对了
+Harrison 真的很像
+我觉得Harrison 和这个团队
+已经拒绝了六个短续
+在深学的AI
+And our metrics by net promoters school and so on are that Harrison's courses are among our most highly rated so
+So says he go take all of Harrison's courses I think the visit Langrath one had the clearest explanation I have seen myself of a bunch of agent.
+So they've they've definitely helped make our courses and explanations better.
+So thank you guys for that as well.
+You've obviously touched and thought about so many things in this industry but one of one of your takes that I cite a lot.
+可能大家也聽過我講的
+你的想法是
+說明了
+一個人的淵性
+以至於要求某些東西是個人
+所以我們現在在
+一個人的公司
+我們可能要再次重新重新重新
+但你會否想
+把這事解釋
+我認為是
+一年半、兩年前
+你提到的
+所以我感興趣
+如果有什麼改變在你的 mind
+從那裡
+我記得
+我對Harrison and I
+我和一年之間的共同議員
+在這段時間中
+我想我們倆都想在其他人中
+與其他人的事業相關
+我們要注意到
+那時前
+我記得在下午或年底
+有幾個市長
+找到一位大學的專業者
+就开始把那个固定固定在每个地方
+到最后的意思
+但是在这个问题上
+我想大概一年半前
+我看到很多人在说
+这个是一个人
+这个是一个不同的
+这个是一个人
+这个是一个人的实际性
+我发现
+这个是好在说的
+但是我们会更加成为
+一个社会的社会
+我们只会说
+这个是一个人的实际性
+所以
+我们只会说
+如果你想建立一个人的实际性
+如果有些人的实际性
+或者有些人的实际性
+就好了
+你不用花時間預計這是一個真正的事
+我們叫這些類型的
+優惠系統
+有不同的優惠度
+我認為這事
+希望能夠減少
+人們的時間
+花時間預計
+有些東西是優惠
+我們叫這些優惠
+然後再繼續
+我認為這事是有效的
+在那邊的層面
+有什麼優惠
+有很多的優惠
+你會看到人們在建設這些事嗎
+所以我的团队用这个团队
+用了一些团队的团队的团队
+我还看到很多的专业机会
+是说 正如我们的专业机会
+有些专业机会
+有些专业机会
+有很多的专业机会
+是我们现在有很多人
+在网站上看网站
+在网站上看网站的一些网站
+看网站的一些责任
+或者是有些人
+我们应该也要帮帮帮
+或者是用咖啡沸騰
+或者用網站沸騰
+用不同的形式
+所以在商業的程度上
+有很多相當的
+較少的工作
+或較少的工作
+或是較少的工作
+或是較少的工作
+或是較少的工作
+所以我看到很多的
+有很多的機會
+但是我看到的
+有些商業的挑戰
+還是很難看得到
+一些東西
+在你的商業上
+做的東西
+然後想想
+如何轉換 into an agentic workflow
+所以,你需要把這件事剩下的障礙
+進入 micro task
+然後,你會知道,在一百萬人的動作
+如果不夠好,哪些步驟你會做
+去提升表現
+所以,我認為那整個技術
+要看一堆東西,人們在做
+把某些步驟,穿著小型的衣服
+如何放置Eval
+那些技術,我覺得還算不夠
+當然,有更多的公司
+我認為你也聽過
+有很多的公司
+也非常值得的
+但是我看到更多
+有幾個機會
+更多的價值
+有很多簡單的公司
+我認為仍然被建成
+我們來談談這些技術
+你已經做了深入學習
+我認為很多的學習
+在要求幫助人們
+建設公司
+所以,你認為
+有些技術
+你認為整個建築者都在這項目中
+應該要學習和開始
+好 這是一個好問題
+我希望你能回答這問題
+我最近經常想到這問題
+我想很多的挑戰是
+如果你有一個工程的工作
+你會經常有負責人、法律、法律
+這些步驟
+你怎麼放置在地板上
+either through a land graph type integration
+or we'll see MCP holds or some of that too
+to ingest the data
+and then how do you prompt or process
+and do the multiple steps
+in order to build this end-to-end system
+and one thing I see a lot is
+putting in place the right eval framework
+to not only understand the performance
+of the overall system
+but to trace the individual steps
+you can hone in on what's the one step
+是否有一个评论
+是否有一个评论
+我发现很多团队
+应该会更长时间
+用人的评论
+每次你改变了一些
+你再看着
+有很多的评论
+我看到很多团队
+应该会比较慢
+在这个预防程度
+在这个预防程度
+但我发现
+在做什么的
+做什么的
+在订队的订队
+还是很难做的
+对吧
+团队的学校
+团队的学校
+这些学校会经常走下软路
+在过几个月的时间里
+想要改变一个部分
+更多的经验会说
+你知道吗
+这些学校不会一直做到
+所以就不要找不同方式
+在这些问题中
+我希望我能有更多的方式
+能够得到这些
+企业的知识
+你经常在那里
+看出出出的方式
+看出出的方式
+看出出的方式
+你只要做一個決定
+在一分鐘或一小時上要做什麼
+那是很難的
+這種技巧和知識
+在LLM和他們的限制上
+或在產品的制定上
+那種技巧在剪裁
+那是我們仍然要的
+我相信是所有的
+我感覺在過去幾年
+Ai2 公司
+有造成了
+很棒的設計
+這包括
+工具
+像
+Langrath
+但還有
+構思
+像
+Rag
+Billing Chatbots
+很多不同的方式
+來源
+例如
+Eviles
+Gaudraels
+但是
+還有
+一個很大的
+轉型
+很有趣的工具
+一張照片
+我现在的目标是
+如果所有的东西都像是
+红色的铃铛
+你不可以建议那些有趣的东西
+但是我认为这些东西
+是跟铃铛的关系
+更多的东西
+是你不只是红色的铃铛
+但也有红色的
+白色的 红色的 和红色的
+而且你能够更多的不同的
+铃铛形式
+可以很快地整合它
+成为很好的东西
+所以我认为很多这些东西
+sort of LEGO breaks
+and when you're trying to build something
+sometimes you need that right
+squiggly weird shaped LEGO break
+and some people know it
+and can plug it in and just get the job done
+but if you've never built evals of a certain type
+then you could actually end up spending
+whatever three extra months doing something
+that someone else has done that before
+could say oh well
+we should just build evals this way
+use the element to judge
+and just go through that process
+and get it done much faster
+所以,一件不太清楚的事,就是AI,它不是只有一個
+而在我用的程序,我只用了一整整整不同的東西
+我沒有用過自己的東西,而我只用了一些
+技術來測試它,所以,對,我認為
+用不同的技術來練習,也會增加
+更多的快速的決定
+其中一件事,它也會改變
+例如,因為LOMs已經有了
+有更多的和更多的存在
+很多的最好的学习是
+从一年半的时间之后
+比今天更不重要
+在这些年代
+Harrison是很早的
+所以我之前
+在早上的篮球
+Framerx,Rechristosomerization,
+and all that,
+as LM context memories got longer,
+now we just dump a lot more stuff into LM context.
+It's not that RAC has gone away,
+but the hyperparameter tuning has gone away easier,
+there is a huge range of hyperparameters that work just fine.
+So as LMs keep progressing,
+the instincts we hold two years ago may or may not be relevant anymore today.
+You mentioned a lot of things that I want to talk about.
+So, okay,
+你會推薦一些人說話
+Eval 說話
+我們有三個人說話
+Eval 說話
+我認為這就是人們的想法
+但有些東西
+很多人未必想過
+或未必聽過
+你會推薦他們看
+好 問題好
+我不知道
+我還以為
+所以 人們說話
+Eval 為什麼
+人們不做
+為什麼你不認為他們做
+我覺得是因為
+因為人們不做
+我认为是因为我看到很多人在计划的计划上
+在计划上的计划上的计划上
+大家认为计划上的计划
+是一件很大的事
+你必须做得好
+我认为计划上的计划
+是一件很大的事
+我将将很快地计划进去
+20分钟
+而且并不是太好
+但它开始达成
+我的人生计划
+所以我经常发生
+计划系统
+有一个问题
+我一直在受到拒绝
+我以为我做得好
+然后它就会被迫离开
+然后它就会被迫离开
+然后它就会被迫离开
+这就很难了
+然后我写了一个很简单的词
+可能有五个字的例子
+一些很简单的词
+就要查一下这一个重新
+这一个东西
+然后我不再写出人的词
+或者是组织词
+我仍在看下自己的词
+但我如果写出什么
+就要写出词
+然后就要写出这个词
+所以我没有想起它
+然后就像我们写的英文
+当你有一些稍微的强确
+但非常强确的
+不完美的Eval
+然后你开始说
+你知道吗
+我可以改变我的Eval
+让它更好
+我可以改变它
+所以就像我们建议的很多项目
+我们建议一些很快的
+和强确的东西
+让它更好
+我建议了很多的Eval
+我建议了很多的Eval
+让它更加的强确
+然后当你看它做的
+你知道吗
+这个Eval是强确的
+我可以改变它
+你仍然會更好
+所以這是一個問題
+我會說一個問題
+大家說了很多話
+但我認為還是很不明顯
+是聲音階
+這是一個問題
+我其實很開心
+有聲音階的
+很多朋友很開心
+有聲音階的
+我看到了很多
+大量的商業
+很開心
+有聲音階的
+很大的聲音階
+很大的使用場面
+有些人
+在這個社會中
+在聲音階的
+有聲音階的
+在声音室的设置上
+有些设置
+不像大家有设置过
+但那是一个比较小的东西
+比大传媒的重要性
+我看到的
+就是声音室在下降的
+而且不像所有的
+是声音室的实际声音
+不是所有的
+声音室的音乐模式
+我认为那些模式
+很难控制
+但我们会使用
+更多的声音室的工作
+我們應該會找到更多的
+AiFind的團隊
+有很多團隊的聲音
+希望有些團隊
+會在未來的發展中
+我看到很多很興奮的東西
+然後
+其他東西我已經更加的
+可能是不更加的
+但更多的商業應該做得到
+我想很多人都看到
+用AI的應用器和應用器
+更加快的
+更多的商業不一樣
+我已经很高興看
+有多少公司的CIOs和CTOs
+仍然有公司
+不让计较用AI计较
+可能有些是不错的原因
+但是我们必须要通过
+因为我和我的团队
+我只希望
+有时能够通过AI计较
+但是我相信
+有些人必须要通过
+我认为
+大家应该学会计较
+一種有趣的事件是 AI 款
+每個人在 AI 款
+包括
+人家在前面的接種者
+我的 CFO
+我的
+和 General Counsel
+每個人在 AI 款
+都知道如何寄信息
+並不是我
+想他們做的 software 技術
+他們沒有
+但在他們的
+上任工作的行程中
+很多人
+在學習他們的方式
+都知道如何寄信息
+他們是更能夠
+告訴他們
+他們想做的事
+所以它是在提升了
+意味著作用的方式
+通過這些工作的功能
+並非是資料研究
+所以這也很有趣
+談論AI的構思
+你用什麼技術呢?
+我們在訪問一些東西
+未曾提出的東西
+有趣
+所以我用Cursor、Windsurf
+也有其他東西
+好 我們會回到這後
+如果大家聽到聲音
+他們也很 familiar with building agents with LLMs
+有多像呢?
+有很多的想法是能夠傳遞的
+或是有什麼新的?
+對 很多的程序
+我認為聲音很重要
+它會有些交流
+那,那,那 much more, it turns out that, it turns out from application perspective,
+input text prompt is kind of intimidating, right?
+For a lot of applications, we can go to the user and say,
+tell me what you think, here's a block of text prompt,
+write a bunch of text for me.
+That's actually very intimidating for users,
+and one of the problems with that is people can use backspace,
+and so, you know, people are just slower to respond via text,
+whereas for voice time rolls forward
+you just have to keep talking
+you could change your mind
+you can actually say
+oh I changed my mind
+forget that earlier thing
+and I'm also pretty good at dealing with it
+but I find that the lot of applications
+where the user friction
+to just getting them to use it
+is lower
+which is say
+tell me what you think
+and then they respond in voice
+so in terms of voice
+one biggest difference is
+in terms of engine requirements
+is latency
+because if you can
+如果有人说了一件事情
+你真的想回答
+比如说一秒钟
+五十秒钟是不错的
+但一秒钟就很棒
+我们有很多的
+发行程序
+很多的时间都会发行
+所以
+当DVNWI
+用了维吾尔达尔
+为我建立一个维吾尔达尔
+在网站里说的
+你能说到维吾尔达尔
+如果您想
+我们的第一个维吾尔
+有五到九秒的级别
+是一个很大的经验
+如果您说了一件事情
+9秒的閃耀
+那是我的責任回答
+所以我們想要建設一些
+我們稱為的 pre-response
+所以就像你問我的問題
+我會說
+那是很有趣的
+讓我來想想
+我們準備了一個
+我們要做這個
+去把數據提高
+其實這其實很棒
+還有這些其他類型的
+如果我們在建設
+Custom Service Chatbot
+它會顯示
+如果我們在Custom Contact Center
+而是死亡的原因
+人們是更加受到那種懲罰的
+所以我發現很多這些東西
+都不同於平坦的文字
+但在貨品上
+我們的聲音和音量
+讓使用者更舒適
+然後開始說話
+我覺得它們有時候
+會把用者的權利減少
+把他們的資料都給了
+但是我覺得當我們說話
+我們沒有感覺
+我們需要把完美的
+我們只要寫了一句話
+所以我們就要把想法改變
+然後再回到第四個
+讓我們把他們的資料
+給他們使用
+使用者更好
+好,那是很有趣的
+對
+一件新的事
+你剛才提到的
+就是MCP
+你怎麼看那些
+如何建立 App 呢
+什麼樣的 App 呢
+在經濟上發生的
+對,我覺得很興奮
+這天早上我們在MCP的
+安斯拉帕克的網路上發生的
+我其實有看到很多東西
+在MCP的網路上發生的
+我認為是挺有趣的
+所以我們在MCP的網路上發生的
+我們說,我們要以很好的
+安斯拉帕克的網路上發生的
+那是很清楚的
+我認為MCP是很棒的
+我覺得是很清楚的市場
+然後那一刻我已經接受了
+也有關關於這個的重要性
+我認為MCP的標準會繼續發展
+例如
+很多人都知道MCP是怎樣的
+會更容易發展
+因為是優先的
+但我認為其他類型的軟體
+會更加有分別的資料
+當我用OMS或當我建設項
+我們很多人都花了很多時間在研究
+所以我認為
+還有一些大型的領域
+A.I. especially reasoning models
+are pretty darn intelligent.
+They could do a lot of stuff
+when given the right context.
+But so I find that my team
+spend a lot of time working on the plumbing
+on the data integration
+so get the context of the OM
+to make it do something
+that often is pretty sensible
+when it has a very input context.
+So MCP I think is a fantastic way
+to try to standardize the interface
+to a lot of tools or API calls
+as well as data sources.
+它好像是一些像 Wild West
+很多MCP的服務
+你找到的網絡不合作
+然後的正常性系統
+也許是非常大的公司
+MCP的服務有點困難
+不清楚如果是正常性系統
+完全合作
+然後會有很多的事發生
+我覺得MCP的項目
+是很早的
+現在MCP的資料
+有很多的資料
+後來我會需要一些
+更多的新的搜索
+你會想想 你想想建置
+一些 我不知道的東西
+我看過了
+MCP發展到Langgrave
+但Langgrave有這麼多電話應用程式
+可以用得住
+所有內容的空間
+給人們搜索
+所以我覺得
+有些新的搜索 搜索物理
+所以我認為MCP
+是一個很棒的第一步
+我絕對會勸你學習
+會讓你的生命更簡單
+如果你找到
+好MCP的搜索器
+整合一些的資料的進化
+我覺得會很重要
+這個想法是
+N模式或N程式
+N數目的資料
+不應該是N xM
+做所有的進化
+應該是N plusM
+而我想MCP是
+一個很好的第一步
+需要進化
+這是一個很好的第一步
+去進化那種進化
+另一個類型的 protocol
+就像我們以前看過的 less buzz
+MCP 是一些由人到人的東西
+我記得我們在一個會議前
+我們在談論有多種人性的系統
+這個會令我們有多種人性的東西
+所以你怎麼看見
+多種人到人的東西發生的
+對 所以我認為
+人性AI 仍然這麼早
+我們 包括我
+我們也會努力做我們的合作
+所以我和別人的工作是一樣的
+感覺是一個太難以解釋的環境
+所以我看到當一個團隊建立了一個多個團隊
+這也很容易成功
+因為我們建立了一個團隊
+他們可以跟自己做事
+我們可以理解他們的事
+但這也很容易成功
+但現在至少在這段時間
+可能我會離開
+我看到有幾個團隊的團隊
+成功地進行的團隊
+是一個完全不同的團隊
+我相信會有一點點遲到
+我確實會有一點點遲到
+但我並沒有看到
+很大的成本的故事
+我並沒有確實在看
+你
+我明白
+我認為很早
+如果 MCP 早就
+我認為AgentAgent 早就
+有一點
+另一個東西
+我現在的想法是
+是微信
+和這些的
+你提到的
+有點早
+是如何使用
+這些 AI 微信
+但是你認為如何維修
+是否有更多的技能
+什麼樣的目標
+在世界上是這樣
+我想很多人
+都在維修
+看著維修
+我覺得這是很好的事
+我認為很不幸
+那叫維修
+因為很多人在想
+去維修
+就不如去拒絕
+坦白說
+我維修了一天
+維修了一天
+Five coding or whatever with AI coding systems
+I'm frankly exhausted by the end of the day
+this is a deeply intellectual exercise
+and so I think the name is unfortunate
+but the phenomenon is real, and it's been taking off and is great
+so over the last year
+a few people have been advising others to not learn to code
+on the basis that AI will automate coding
+I think we'll look back at some of the worst career advice ever given
+因为 over the last many decades as coding became easier
+more people started to code
+所以 it turns out when we went from punch cards to keyboards and terminals
+it turns out I actually found some very old articles
+when programming went from assembly language to literally code ball
+there were people arguing back then
+we have code ball, it's so easy, we don't need programmers anymore
+and obviously when it became easier more people learned to code
+所以AiCoding Assistance
+有很多人應該用這個詞
+但我想
+最重要的一種是
+在未來的學生和 non-developers
+是能夠告訴你
+對於你所想的
+對你所想的
+我認為
+在某些程度上
+我相信你
+但在某些程度上
+學生的學生
+讓你更加努力
+或更強烈的學生
+更加精彩
+這就是為什麼
+我仍然要向大家提供
+學習一種文化的語言
+學習 Python 或其他東西
+然後我想 可能你也知道
+我比較強烈的 Python  developer
+說了 JavaScript
+對吧
+但是用 AS 進行的 coding
+我現在寫了很多 JavaScript
+和 TypeScript code
+我從來都用過
+但甚至當我預約了
+JavaScript code
+那些東西我寫了
+我自己的手上寫了
+understanding whether the error cases
+whether this means that's been really important
+for me to debug my JavaScript code
+如果不喜歡這個名字的註意
+你會有更好的名字嗎
+這是一個好問題
+我應該要想起
+我們會回到那裡
+這是一個好問題
+你最近發表的一件新的資料
+是AI資料
+祝你成功
+在觀眾的看法中
+在想起的開始
+或在想什麼建議
+你會有什麼想法?
+AiFunds Adventure Studio
+我們建立了公司
+我們也有淘汰
+我們利用的公司
+我們也有找到的
+我想在看AiFunds
+學習的學習
+第一
+我會說
+第一名的成績
+是速度
+我看過在 Silicon Valley
+但我看到很多人
+從未見過
+速度中的技術團隊
+能夠成功
+如果你從來沒有見過它
+我認識很多人
+它是更快的
+比任何事業的更快
+都要知道
+我認為第二名的
+也很重要的
+是技術
+我們看著學生需要
+進行建築
+有些東西
+如何賣 如何賣
+如何賣
+這些東西很重要
+但是那些技術
+已經變成了
+比較為大
+但是技術
+很少見到的
+biz how does this technology actually work
+biz this technology has evolved so quickly
+so I have deep respect for the
+go the market people pricing is hard
+marketing is hard
+positioning is hard
+but that knowledge is more diffuse
+and the most rare reason is someone
+that really understands how the technology works
+so AI Fun we really like working
+with deeply technical people
+that have good instincts
+or understands do this don't do that
+just let's it go twice as fast
+and then I think a
+他 out of a lot of the business stuff
+你 out that knowledge
+it's very important
+but it's usually easier to figure out
+alright that's great advice
+for starting something
+we are gonna wrap this up
+we're gonna go to a break now
+but before we do
+please join me in giving industrial
+big hand
+and thank you
