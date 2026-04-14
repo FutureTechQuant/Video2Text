@@ -1,0 +1,402 @@
+will reaching AGI lock you into a permanent underclass
+more and more I'm hearing that from people in Silicon Valley
+people who work with artificial intelligence
+and I had to dig into it
+I had to better understand it
+because if this is true
+it has major societal implications
+let me break this all down for you
+so first AGI artificial general intelligence
+is when AI reaches the point
+that it is better than humans at knowledge work
+发展,客户,给货,给货,
+基本上 anybody sitting in front of a computer
+and when this happens, the only limitation to knowledge work becomes how much compute you have
+and what does that take?
+capital,money,you have to buy compute
+and all of a sudden the major piece of leverage that humans have had for history
+which is our labor suddenly becomes valueless
+and at that point,the only thing that matters
+你能買到的幾個筆記
+可以運用你的AGI
+所以 wherever you are socioeconomically
+那時候
+那是你會留在的
+至少那是
+更多人
+在AI的前面
+都在想
+如果你看到
+大多數AI的公司
+他們都在大多數
+在建設這些
+大多數的服務商
+因為他們明白
+在最後的一天
+筆記是將會
+成為未來的資金
+所以他們都在
+建設這家
+因為他們不想讓他們離開
+然後,當AGI發生了
+市民們會能夠
+把技能逐漸地反映
+AI技能不需要關注自己的社會主義
+不需要關注自己的工作
+不需要關注貨品
+唯一的技能工作者是
+經濟經濟經濟
+而誰能夠付出那份
+就會能夠買出這些技能工作者
+但這個世界是怎樣
+當人類的財富失去價值
+沒有資金給公司去投入人類的資金
+社會的危險會變成了財富
+你 wherever you are is where you stay
+這是一個大恐懼的內容
+所以這個概念是內容
+不只是關於財富
+而是關於財富的缺點
+如果你看這個頻道
+你也知道我常常會很優秀
+但是在這個影片
+我真的想要向你展示另一面的意義
+最後我會給你我的優點
+但你已經開始看到現在的一些事情
+階級工作變得更難去地步
+像是一個新的學校
+所以這套文化的文化
+我聽說過很多人
+在人人中遇上
+我必須要向我增加
+在下一個12月
+2、3、5年之前
+AGI happens because once AGI happens
+whatever I have is what I'm always going to have
+and these aren't just fears with no data to back them up
+let me show you a few things
+first is Stanford's paper called Canaries in the coal mine
+which is a study of ADP payroll data
+through mid 2025
+and it finds about 13%
+relative employment declines
+for 22 to 25 year olds
+in the most AI exposed occupations
+那也就是說,如果你的工作可以做到
+從事智慧智慧的智慧智慧
+而是在找智慧智慧的工作
+才能做得更難
+但這就是,年輕人在同一個角度
+是長的或長的
+並且大部分的資金不大
+所以有些不便的資料
+接下來,企業網站的
+《Hanshey》網站提出了一篇 study
+表示,智慧智慧的責任
+是下降的
+15% 少於智慧智慧的
+寫信息
+30% 更多的 項目
+per job year over year for the class of 2025
+ok so all of that looks bad
+but also all of this infrastructure investment
+is going to mean tokens and inference and compute
+get a lot cheaper right
+well yeah it definitely will
+the cost of running AI
+is essentially going to approach the cost of the chips
+plus electricity to run through them
+and once that happens
+AI is going to be incredibly inexpensive
+so that's good right
+now everybody gets AI and there's no more permanent underclass
+Well, pause for a second.
+There's this thing called Javons Paradox
+and if you've watched this channel, you've definitely heard it before
+but it basically means, as some resource gets more efficient and less expensive
+we actually tend to use more of it overall
+So although the cost per unit of some resource
+let's say electricity or compute decreases
+使用期間的價值
+現在的價值高得更高
+所以整個整體的價值更高
+所以我們在同一個地方
+有機會有更多的價值
+但是有些人最 smart 人在世界
+他們告訴我們三個字
+要把所有的價值都支付
+UBI
+Universal Basic Income
+還有一些 instances
+Universal High Income
+人們像Sam Altman
+還有Elon Musk
+估计在UBI和UHI
+如果您不 familiar with Universal Basic Income
+它是社会和经济的政策
+政府给予市民
+普通的不可负责
+为生命基金付款
+费金 食物 健康 等等
+当然 伊朗 Musk 相信
+在宗会上的高利息
+不仅仅要付款
+但基本上 只要有足够的钱
+可以选择自己的时间
+但是当然有一个相当的证明
+很多人觉得这是社会
+而且可能会引起了财富
+我们说过了与业务员 Scott Santens
+他其实已经证明了
+业务员是一个很好的 motivator
+当你手上有更多的自由时间
+你会更加职业
+这也就是说你会走出
+你会看出问题
+你会开始一个业务
+可能会越来越多人
+这些都是很好的事情
+但是这不太回答问题
+why isn't AGI still just gonna do those jobs?
+I again am optimistic my optimism comes from something
+Bologi said pre recently AI is likely going to be only
+capable.
+of completing tasks middle to middle.
+not end to end for the foreseeable future.
+I do believe for a wide range of tasks,
+humans are going to be required in the loop.
+A human is going to be required to prompt AI and then maybe in the future
+orchestrate swarms of agents
+and then of course when the output comes
+we need to review and verify it
+and so although the middle
+is going to be pushed outwords
+and AI and AGI is going to be able to
+accomplish more and more tasks
+there is still a place for humans
+on the ends of these tasks
+and the total number of tasks
+that can be completed
+and require a human on the ends
+is going to increase dramatically
+and so, what we're gonna see
+is pretty fundamental shifts
+在人們的工作中
+但人們仍然會要求
+這叫做
+職業增加
+並不是自動增加
+而說到增加
+今天的主題影片的增加程序
+是一個很完美的例子
+你應該用來學習的東西
+現在
+你一個專業的科技工具
+甚至在微信上
+就不會再剪輯了
+增加程序是一個
+A.I.A.助手
+建立了
+真正的工具團
+It ingests your entire code base
+I'm talking millions of lines
+Mature code bases
+Tens of thousands of files
+So every suggestion that it gives you
+Lands in context and keeps you in flow
+And with Augments new remote agent
+You can queue up parallel tasks
+Like bug fixes, features and refactors
+Close your laptop
+Go do something else
+Come back and it's done
+And the only thing you need to do
+Review the pull request
+So if you are reaching the limit
+你的其他AI的计划
+给Augment Code 一个试试
+Augment Code 也不再占卫你的计划
+所以你的团队的智慧质量
+就会是你的
+而且你不必要学习新计划
+或者换到其他东西
+你可以用Augment Code 进入VS Code
+Jetbrains Android Studio 或者Vim
+开始你的14天的免费试试
+在AugmentCode.com
+让他们知道我送你
+所有的网络在下面的描述
+謝謝Augment Code 現在回到影片
+我介紹 Aaron Levy 副副監製
+他也說了一件事
+檢查一下
+一個問題公司會做的是
+用 AI 去使用
+如果你不能用 AI
+我們會加上 head count 去使用
+我認為你會做相反
+你會說
+部分用 AI 會是更多的
+如果可以使用你的組織更好
+你會更加在網上的
+他們會用下一個資金
+或下一個資金
+去解決問題
+還有一個追蹤影片
+我問了他幾個月後
+他還會相信這個問題
+讓我們看看
+這個工程很快
+但不可能不改變
+兩個月後的答案
+我認為A.I. 會大多數
+在工程中
+被利益被限制
+被利益被利益
+會因很多情況
+企業的增長會更快
+更加容易受到購買
+因為現在要求人們
+去處理下的新的
+新的保養品
+如果你想想
+像是一個
+超級增長的
+軟件
+他們可能可以更加優勢
+但突然之間
+他們有更多的客人
+他們要去做
+這也就是說
+更多人在商店
+或是在商店上
+他們的成績
+所以我認為
+這會帶來
+更多的增長
+然後還有
+開業社的CTO
+正正在說
+take a look
+I think they just will become thinner
+I mean we still have hallucinations right
+it's not perfect in everything
+and you can create mistakes etc
+so I think a lot of times
+the answer is going to depend on
+what is the error bar that you have
+for the task you're trying to do
+and can you accommodate that
+There is also going to be tremendous job creation
+jobs that we can't even think of today
+think about my job
+speaking in front of a camera
+to people on the internet
+didn't exist 20 years ago
+let alone 100 years ago
+人們不可能想起它
+還有很多工作
+今天我們不可能想起
+會發生的事情
+因為AI
+還有這個
+大多數的
+大多數的
+新的創新的
+去把這些大多數的
+創新的創新的
+做得更多
+更多的
+因為
+藝術和智慧
+AI會讓更多人
+人們
+做得更多的
+更多的
+也一樣
+這裡有個交通
+我做過的
+在綁架和其他
+會有更多的
+基本上的
+技術
+就是這個目標
+對
+那是最大領域的地方
+例如
+當你想起
+創作技術
+例如創作
+創作CG
+創作電影
+那是非常貴的
+所以只要有一個
+非常高的
+很大的
+預算
+Hollywood 影片可以做到
+現在
+例如
+紀錄
+會有這個能力
+因为有细节
+好 让我们把这个线描起来
+首先 会有很多的转捩
+在我们今天工作的工作上
+会有特别的知识
+而且我们没有得选择
+我们要选择
+为人家提供
+如何使用这些技术
+AI技术
+最丰富的
+而且最值得的
+在工作中
+如果您在这条网看
+您已经是一步前
+而且 它需要时间
+去进行这些技术
+因为这些技术
+没有意味着
+我们其实有一个建议
+去实际上做
+我们需要的目标
+AI和超级智慧
+都在发展
+但是他们来的时候
+也会有时间
+去继续拥挤
+社会
+接下来
+我相信是一个增加
+我觉得有些工作
+会完全被继续拥挤
+但是有些工作
+会直接被转变
+而看起来
+就是不一样
+有机会
+美国的基本利息
+会很合适
+有机会
+美国的高利息
+是不僅是可能的
+但也很容易成功
+這些東西
+是因為我們所有的
+利益
+因為我們產業的利益
+所以會是AI
+像其他大部分的
+技術和歷史
+還是會是不同的
+讓我看看你覺得的
+我相信
+在未來的AI
+會幫助大家
+更有創意
+更有能量
+更有能量
+我們會解決病毒
+我們會有很多利益
+It's going to be amazing.
