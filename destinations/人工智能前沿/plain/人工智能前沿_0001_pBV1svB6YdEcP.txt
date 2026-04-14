@@ -1,0 +1,197 @@
+There was a recent demo at Microsoft's Ignite event
+where they actually showcase a lot more about AI
+but this was a kind of agent that's a little bit different.
+Now before I show you guys this crazy demo
+there was actually a minute where Sacha Nadella
+actually talks about this Azure AI agent service.
+Now this is something that I don't think the average person
+is of course going to use
+but it is worthwhile understanding exactly what this is
+so that you can understand the coming changes
+在AI的經濟系統上
+以及如何影響
+社會的經濟發展
+所以你可能想要建立一個未來
+或是你所在的
+對 新的社會發展
+幫助發展者
+建立 發展 計劃
+AI的應用程式
+發展業務的程式
+我之前也有示範
+可以用Copilot Studio
+建立社會發展
+只是有幾個按鈕
+但作為發展者
+你需要先構思
+建立一個社會發展
+那是 What the agent service really enables
+You can build agents that are grounded in data
+Wherever it lives
+Public data from the web
+Enterprise data in Microsoft 365 SharePoint
+Or you can leverage even fabrics
+One Lake to unify your data across all of your clouds
+And these agents then can take actions
+So you want to be able to give action space
+To these agents
+MAP AF 用 tabs 上你 can take that 1200 plus connectors we have in logic apps that we have been using in our app services
+and you can connect it to the agent runtime.
+Ok so this is where we actually do get to take a look at this demo
+and whatI want to point out with you guys here is that this demo is actually a lot different than the usual ones
+because this is where we get to see the AI agent go around and do different things
+like the guy says, it's just not in that contained box
+是可以 truly engage with you as a person
+by the way
+every thing I'm going to show you is actually live
+ok in this demo
+I will use GPT-40
+our new real time audio model
+GPT-40 audio
+the real time API
+and image processing models
+all seamlessly integrated into the experience
+I'm going to show you in a little bit
+foundry offers over 1800 models for you to choose from
+it's pretty amazing
+once I've chosen my model
+I can use Azure AI agent service
+call API when needed and perform actions
+with function calling.
+In this example, I have a main customer facing agent
+that is then delegating tasks to other agents
+to understand what the customer wants,
+what their purchase history is
+and to recommend products based on
+multimodal conversation with the customer.
+These agents can run microintelligent tasks
+to provide a cohesive personalized experience.
+這些公司可以也被放在
+很多資料的資料中
+包括資料
+這很棒
+非常棒
+讓我給大家看看
+這些所有的能力
+我剛才展示過
+可以創造一種
+超級個人化的
+客人的經驗
+可以解決
+世界問題的問題
+在方式中
+我們沒有想過
+一個年前
+好 我正在去 camping
+我的朋友送我這個照片
+我想做到
+我對冰冰冰的冰冰冰冰
+所以我開始了 chat
+現在 notice this is something
+that is now routine
+AI interacting with me
+with chat and images
+but I want to
+chats great
+and we all love chat
+but what if we can break out of the actual chat box
+and do a more personalized experience
+because it feels like
+you know AI today
+it feels like it is all just like
+inside of your chat box
+it feels like there is a lot of co-pilots and stuff
+但是如果我們可以做一點點 more
+然後可能會更加個人
+希望會有一個電話號碼
+你好,有人在嗎?
+你好,Seth,我是在這裡
+我看你準備了一個冬天的冬天旅程
+我可以傳送Consier page
+到你的網站給你提供更多…
+你肯定可以,傳送給Consier page,請
+好,傳送給Consier page
+你會找到更多的詳細的介紹
+在你的冬天冬天旅程中
+這次很棒,你推薦什麼?
+超級興奮,你為冬天旅程駕駛
+你已經有了兩艘船艇,我們來建造那艘
+這裡有幾個推薦,首先,
+《山上夢》
+這次很棒,你能帶我上去嗎?
+讓我看見,可能在畫面
+絕對的
+So right now what it's doing it's going to take a couple of seconds to write an entire article for me just for me and you're probably wondering well hey it's taking a couple of seconds.
+When's the last time you wrote a personalized article for someone that called you in 10 seconds.
+I'll put together a personalized recommendation article with all these products and their details complete with pictures.
+Give me a moment and it should pop up on your screen shortly.
+You already did it, this is amazing. I love everything here.
+Fantastic to hear Seth, I'm glad you love the recommendations.
+Enjoy your camping trip. If you need any more help, feel free to reach out.
+Have an awesome adventure out there.
+How about them apples?
+And remember, like I'm serious.
+This was running right here, because I wanted to show you something real.
+This isn't a peek into the future.
+Now with that demo, I think that demo was actually really cool because it shows us
+如何这些人将将在未来的情况下
+以及他们将能够做出一些东西
+让我们得到更好的经验
+我没有关与大家的
+但我曾经有几个不同的机会
+在哪里的经验中
+是完全不可行的
+但有一个人在那里
+能做出一些东西
+这将会有几个人的价值
+大家记得
+前几天
+我做了一段视频
+谈到开发项目
+�� they will working on several related agent research projects
+and basically the fact that with these research projects
+apparently there is one nearest completion
+that is going to be a general purpose tool
+that executes tasks in a web browser
+so I think this is going to be something that
+is super, super fascinating
+because as you all know, agent is something that
+everyone is really eager to use
+especially since we've been teased
+by some outman stating that this is the next breakthrough
+那您在前面的AiAgent和AiAgent的前方
+有何关系
+我们知道AiAgent的开发预算
+将在将来推出的
+研究预测
+和公司的Api
+和发展的
+所以我们将将会
+发展更多的AiAgent
+和可能的多的发展
+我们将会看到
+这些计划的能力
+和发展的能力
+看 what these kinds of tools are able to do
+when not restricted to opening eye scope
+The reason that that is really important
+is because developers take products
+and essentially build on them in a way
+that is completely different
+that the initial creator didn't intend to
+There are a variety of different consumer applications
+and consumer products out there
+that the creators of chat GPT
+just couldn't have fathomed themselves
+So it will be really interesting to see
+what developers managed to do in January
+我現在很期待的是OpenAI的電腦發電器
+因為它也很最近
+他們說他們會在電腦發電器的工作
+所以我其實在問
+這個電腦有什麼辦法
+我會在用Claude Computer 測試
+看能否用到我能否用到的電腦
+所以當它發電器發電器發電器
+我會用到它 as much as possible
+所以那 being said if you guys

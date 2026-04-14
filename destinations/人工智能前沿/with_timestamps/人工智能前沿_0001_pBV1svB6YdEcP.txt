@@ -1,0 +1,197 @@
+[00:00.000 --> 00:03.100] There was a recent demo at Microsoft's Ignite event
+[00:03.100 --> 00:05.560] where they actually showcase a lot more about AI
+[00:05.560 --> 00:09.420] but this was a kind of agent that's a little bit different.
+[00:09.420 --> 00:12.200] Now before I show you guys this crazy demo
+[00:12.200 --> 00:14.660] there was actually a minute where Sacha Nadella
+[00:14.660 --> 00:17.960] actually talks about this Azure AI agent service.
+[00:17.960 --> 00:21.000] Now this is something that I don't think the average person
+[00:21.000 --> 00:22.760] is of course going to use
+[00:22.760 --> 00:26.220] but it is worthwhile understanding exactly what this is
+[00:26.220 --> 00:28.420] so that you can understand the coming changes
+[00:28.420 --> 00:30.120] 在AI的經濟系統上
+[00:30.120 --> 00:31.420] 以及如何影響
+[00:31.420 --> 00:31.920] 社會的經濟發展
+[00:31.920 --> 00:33.720] 所以你可能想要建立一個未來
+[00:33.720 --> 00:35.320] 或是你所在的
+[00:35.320 --> 00:38.120] 對 新的社會發展
+[00:38.120 --> 00:39.520] 幫助發展者
+[00:39.520 --> 00:42.120] 建立 發展 計劃
+[00:42.120 --> 00:43.020] AI的應用程式
+[00:43.020 --> 00:45.620] 發展業務的程式
+[00:45.620 --> 00:47.120] 我之前也有示範
+[00:47.120 --> 00:48.920] 可以用Copilot Studio
+[00:48.920 --> 00:49.720] 建立社會發展
+[00:49.720 --> 00:51.120] 只是有幾個按鈕
+[00:51.120 --> 00:52.620] 但作為發展者
+[00:52.620 --> 00:54.420] 你需要先構思
+[00:54.420 --> 00:55.320] 建立一個社會發展
+[00:55.320 --> 00:58.460] 那是 What the agent service really enables
+[00:58.460 --> 01:01.680] You can build agents that are grounded in data
+[01:01.680 --> 01:02.680] Wherever it lives
+[01:02.680 --> 01:04.460] Public data from the web
+[01:04.460 --> 01:08.400] Enterprise data in Microsoft 365 SharePoint
+[01:08.400 --> 01:10.420] Or you can leverage even fabrics
+[01:10.420 --> 01:14.300] One Lake to unify your data across all of your clouds
+[01:14.300 --> 01:17.800] And these agents then can take actions
+[01:17.800 --> 01:20.860] So you want to be able to give action space
+[01:20.860 --> 01:21.920] To these agents
+[01:21.920 --> 01:30.140] MAP AF 用 tabs 上你 can take that 1200 plus connectors we have in logic apps that we have been using in our app services
+[01:30.140 --> 01:32.800] and you can connect it to the agent runtime.
+[01:32.800 --> 01:36.320] Ok so this is where we actually do get to take a look at this demo
+[01:36.320 --> 01:42.360] and whatI want to point out with you guys here is that this demo is actually a lot different than the usual ones
+[01:42.360 --> 01:46.060] because this is where we get to see the AI agent go around and do different things
+[01:46.060 --> 01:48.720] like the guy says, it's just not in that contained box
+[01:48.720 --> 01:51.980] 是可以 truly engage with you as a person
+[01:53.120 --> 01:53.620] by the way
+[01:53.620 --> 01:56.220] every thing I'm going to show you is actually live
+[01:56.480 --> 01:58.160] ok in this demo
+[01:58.160 --> 01:59.860] I will use GPT-40
+[01:59.960 --> 02:01.520] our new real time audio model
+[02:01.520 --> 02:02.860] GPT-40 audio
+[02:02.860 --> 02:04.020] the real time API
+[02:04.020 --> 02:05.720] and image processing models
+[02:05.860 --> 02:08.280] all seamlessly integrated into the experience
+[02:08.280 --> 02:09.780] I'm going to show you in a little bit
+[02:10.160 --> 02:14.260] foundry offers over 1800 models for you to choose from
+[02:14.260 --> 02:15.420] it's pretty amazing
+[02:15.780 --> 02:17.360] once I've chosen my model
+[02:17.360 --> 02:20.020] I can use Azure AI agent service
+[02:20.020 --> 02:22.280] call API when needed and perform actions
+[02:22.280 --> 02:23.680] with function calling.
+[02:23.680 --> 02:26.820] In this example, I have a main customer facing agent
+[02:26.820 --> 02:29.620] that is then delegating tasks to other agents
+[02:29.620 --> 02:31.960] to understand what the customer wants,
+[02:31.960 --> 02:33.460] what their purchase history is
+[02:33.460 --> 02:35.620] and to recommend products based on
+[02:35.620 --> 02:38.280] multimodal conversation with the customer.
+[02:38.280 --> 02:41.320] These agents can run microintelligent tasks
+[02:41.320 --> 02:44.960] to provide a cohesive personalized experience.
+[02:44.960 --> 02:46.760] 這些公司可以也被放在
+[02:46.760 --> 02:49.160] 很多資料的資料中
+[02:49.160 --> 02:50.960] 包括資料
+[02:50.960 --> 02:52.560] 這很棒
+[02:52.560 --> 02:53.560] 非常棒
+[02:53.560 --> 02:54.360] 讓我給大家看看
+[02:54.360 --> 02:55.760] 這些所有的能力
+[02:55.760 --> 02:56.960] 我剛才展示過
+[02:56.960 --> 02:57.760] 可以創造一種
+[02:57.760 --> 02:59.160] 超級個人化的
+[02:59.160 --> 03:00.760] 客人的經驗
+[03:00.760 --> 03:01.560] 可以解決
+[03:01.560 --> 03:02.960] 世界問題的問題
+[03:02.960 --> 03:03.560] 在方式中
+[03:03.560 --> 03:05.560] 我們沒有想過
+[03:05.560 --> 03:06.160] 一個年前
+[03:06.160 --> 03:08.960] 好 我正在去 camping
+[03:08.960 --> 03:11.160] 我的朋友送我這個照片
+[03:11.160 --> 03:11.960] 我想做到
+[03:11.960 --> 03:14.360] 我對冰冰冰的冰冰冰冰
+[03:14.360 --> 03:15.560] 所以我開始了 chat
+[03:15.560 --> 03:16.520] 現在 notice this is something
+[03:16.520 --> 03:17.660] that is now routine
+[03:17.660 --> 03:19.620] AI interacting with me
+[03:19.620 --> 03:21.520] with chat and images
+[03:21.520 --> 03:22.320] but I want to
+[03:23.620 --> 03:24.700] chats great
+[03:24.700 --> 03:26.220] and we all love chat
+[03:26.220 --> 03:31.320] but what if we can break out of the actual chat box
+[03:31.320 --> 03:33.820] and do a more personalized experience
+[03:33.820 --> 03:34.660] because it feels like
+[03:34.660 --> 03:37.100] you know AI today
+[03:37.100 --> 03:38.820] it feels like it is all just like
+[03:38.820 --> 03:40.800] inside of your chat box
+[03:40.800 --> 03:43.760] it feels like there is a lot of co-pilots and stuff
+[03:43.760 --> 03:46.000] 但是如果我們可以做一點點 more
+[03:46.000 --> 03:49.080] 然後可能會更加個人
+[03:49.080 --> 03:51.480] 希望會有一個電話號碼
+[03:53.490 --> 03:55.490] 你好,有人在嗎?
+[03:58.390 --> 03:59.790] 你好,Seth,我是在這裡
+[03:59.790 --> 04:02.110] 我看你準備了一個冬天的冬天旅程
+[04:02.110 --> 04:03.750] 我可以傳送Consier page
+[04:03.750 --> 04:05.550] 到你的網站給你提供更多…
+[04:06.350 --> 04:10.430] 你肯定可以,傳送給Consier page,請
+[04:12.030 --> 04:19.480] 好,傳送給Consier page
+[04:19.480 --> 04:21.480] 你會找到更多的詳細的介紹
+[04:21.480 --> 04:23.480] 在你的冬天冬天旅程中
+[04:23.480 --> 04:30.620] 這次很棒,你推薦什麼?
+[04:30.620 --> 04:33.620] 超級興奮,你為冬天旅程駕駛
+[04:33.620 --> 04:37.620] 你已經有了兩艘船艇,我們來建造那艘
+[04:37.620 --> 04:39.620] 這裡有幾個推薦,首先,
+[04:39.620 --> 04:40.620] 《山上夢》
+[04:40.620 --> 04:44.620] 這次很棒,你能帶我上去嗎?
+[04:44.620 --> 04:46.620] 讓我看見,可能在畫面
+[04:46.620 --> 04:49.900] 絕對的
+[04:49.900 --> 05:01.900] So right now what it's doing it's going to take a couple of seconds to write an entire article for me just for me and you're probably wondering well hey it's taking a couple of seconds.
+[05:01.900 --> 05:07.900] When's the last time you wrote a personalized article for someone that called you in 10 seconds.
+[05:07.900 --> 05:13.900] I'll put together a personalized recommendation article with all these products and their details complete with pictures.
+[05:13.900 --> 05:17.900] Give me a moment and it should pop up on your screen shortly.
+[05:17.900 --> 05:23.180] You already did it, this is amazing. I love everything here.
+[05:23.180 --> 05:27.340] Fantastic to hear Seth, I'm glad you love the recommendations.
+[05:27.340 --> 05:31.940] Enjoy your camping trip. If you need any more help, feel free to reach out.
+[05:31.940 --> 05:34.420] Have an awesome adventure out there.
+[05:34.420 --> 05:40.850] How about them apples?
+[05:40.850 --> 05:43.050] And remember, like I'm serious.
+[05:43.050 --> 05:46.930] This was running right here, because I wanted to show you something real.
+[05:46.930 --> 05:48.810] This isn't a peek into the future.
+[05:48.810 --> 05:53.530] Now with that demo, I think that demo was actually really cool because it shows us
+[05:53.530 --> 05:56.030] 如何这些人将将在未来的情况下
+[05:56.030 --> 05:58.830] 以及他们将能够做出一些东西
+[05:58.830 --> 06:02.230] 让我们得到更好的经验
+[06:02.230 --> 06:03.270] 我没有关与大家的
+[06:03.270 --> 06:05.430] 但我曾经有几个不同的机会
+[06:05.430 --> 06:07.030] 在哪里的经验中
+[06:07.030 --> 06:08.730] 是完全不可行的
+[06:08.730 --> 06:10.430] 但有一个人在那里
+[06:10.430 --> 06:11.830] 能做出一些东西
+[06:11.830 --> 06:14.630] 这将会有几个人的价值
+[06:14.630 --> 06:15.930] 大家记得
+[06:15.930 --> 06:17.830] 前几天
+[06:17.830 --> 06:18.630] 我做了一段视频
+[06:18.630 --> 06:20.330] 谈到开发项目
+[06:20.330 --> 06:24.170] �� they will working on several related agent research projects
+[06:24.210 --> 06:27.770] and basically the fact that with these research projects
+[06:27.770 --> 06:30.690] apparently there is one nearest completion
+[06:30.710 --> 06:33.230] that is going to be a general purpose tool
+[06:33.230 --> 06:35.650] that executes tasks in a web browser
+[06:35.650 --> 06:37.650] so I think this is going to be something that
+[06:37.650 --> 06:39.370] is super, super fascinating
+[06:39.370 --> 06:41.930] because as you all know, agent is something that
+[06:41.930 --> 06:44.350] everyone is really eager to use
+[06:44.370 --> 06:46.970] especially since we've been teased
+[06:46.970 --> 06:49.770] by some outman stating that this is the next breakthrough
+[06:49.770 --> 06:53.290] 那您在前面的AiAgent和AiAgent的前方
+[06:53.290 --> 06:54.530] 有何关系
+[06:54.530 --> 06:56.630] 我们知道AiAgent的开发预算
+[06:56.630 --> 06:58.790] 将在将来推出的
+[06:58.790 --> 07:01.070] 研究预测
+[07:01.070 --> 07:03.070] 和公司的Api
+[07:03.070 --> 07:04.670] 和发展的
+[07:04.670 --> 07:06.670] 所以我们将将会
+[07:06.670 --> 07:08.970] 发展更多的AiAgent
+[07:08.970 --> 07:11.070] 和可能的多的发展
+[07:11.070 --> 07:12.870] 我们将会看到
+[07:12.870 --> 07:15.070] 这些计划的能力
+[07:15.070 --> 07:17.070] 和发展的能力
+[07:17.070 --> 07:19.730] 看 what these kinds of tools are able to do
+[07:19.730 --> 07:22.170] when not restricted to opening eye scope
+[07:22.170 --> 07:24.370] The reason that that is really important
+[07:24.370 --> 07:26.870] is because developers take products
+[07:26.870 --> 07:28.730] and essentially build on them in a way
+[07:28.730 --> 07:30.170] that is completely different
+[07:30.170 --> 07:32.570] that the initial creator didn't intend to
+[07:32.570 --> 07:35.570] There are a variety of different consumer applications
+[07:35.570 --> 07:37.070] and consumer products out there
+[07:37.070 --> 07:39.070] that the creators of chat GPT
+[07:39.070 --> 07:41.370] just couldn't have fathomed themselves
+[07:41.370 --> 07:43.270] So it will be really interesting to see
+[07:43.270 --> 07:46.370] what developers managed to do in January
+[07:46.370 --> 07:50.810] 我現在很期待的是OpenAI的電腦發電器
+[07:50.810 --> 07:53.770] 因為它也很最近
+[07:53.770 --> 07:57.970] 他們說他們會在電腦發電器的工作
+[07:57.970 --> 07:59.970] 所以我其實在問
+[07:59.970 --> 08:02.970] 這個電腦有什麼辦法
+[08:02.970 --> 08:05.970] 我會在用Claude Computer 測試
+[08:05.970 --> 08:10.170] 看能否用到我能否用到的電腦
+[08:10.170 --> 08:12.370] 所以當它發電器發電器發電器
+[08:12.370 --> 08:15.370] 我會用到它 as much as possible
+[08:15.370 --> 08:17.130] 所以那 being said if you guys
