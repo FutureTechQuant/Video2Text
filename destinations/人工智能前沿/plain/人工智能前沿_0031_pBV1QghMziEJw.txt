@@ -1,0 +1,2402 @@
+Hello, I'm Andrew Maine and this is the OpenAI podcast.
+There's a lot of conversation and debate about the future of AI when it comes to labor and work.
+To talk about this, my guests are Brad Lycap,
+who's the chief operating officer of OpenAI,
+and Ronnie Chatterjee,who is the chief economist.
+We're going to find out the kind of research OpenAI is doing,
+the conversations they've been having,
+and hopefully get a glimpse of where they think the future is headed.
+We had a lot of people coming back to us and saying,
+其實這是我認為最好的一件事
+可能會發生在這個生產業中
+AI是一種讓人做事
+他們沒有空做不然
+他們有世界最 smart brain
+在他們的手上去解決難度
+所以 Brad 你是副副辦公室
+你是副經理 解釋你的規則
+我估計會被副辦公室
+丟掉了我們所謂的執行
+所以在執行的執行
+AI是資料和執行
+當我們想起我們的任務
+我们认为,我们不仅在研究
+发展的技术,而是在研究
+研究的技术中,
+但是,你如何把技术
+从世界上发展,使用人们
+使用人们,使用人们
+使用人们,使用人们
+使用人们,使用人们
+使用人们,使用人们
+所以,我花了很多时间
+在想,想出发
+这种技术
+就是,在联系的
+和企业的工作
+在联系的
+企业的工作
+在研究的,在研究的
+kind of how people what people want from open AI in our products
+how people actually use the technology
+and then as the technology changes
+how that pattern of use changes
+It seems like because OpenAI started primarily as a research org
+and wasn't sure if they were going to do product
+or even put things that were sort of public facing
+and so how much has this changed rapidly for you
+It's changed really quickly
+I think chatGPT in November 22
+was kind of the pivotal moment
+and it was the first time that
+We really saw AI used at scale
+And I think what we kind of
+And it's interesting almost
+The story of how we actually learned that
+And how we made the decision to do chat GPT
+Which was we had previously built an API for developers
+And we had a thing
+You'll remember Andrew and our API
+That was the playground
+Where you could basically try prompts out
+And see how the model would complete the prompt
+And this was back in the days of like
+The models just being purely completion based
+他们会拿出进入
+然后继续写一句话
+想起下一句话
+然后下一句话
+然后再次运动
+然后人们正在
+打开手机
+想想想看他们的能力
+他们可以告诉
+他们想要的这个
+谈谈的面子
+所以我们学会了
+我们建立了智能
+作为第一个
+谈谈的面子
+我们教他们
+如何迈接
+更有责任的
+对于他们的想法
+那是
+很 suprice us, became the dominant paradigm of what we call the first era of AI,
+which was these chat bots that were really good enough to be engaging for people and be helpful for people.
+It seems like, because at the time, we kept thinking that,
+GPD4 would be fine when it was really useful.
+ChatGPD was built on top of GPT 3.5,
+and it seemed like certainly changing the interface was helpful,
+但我們想要一個更快的模式
+但其實是一個很大的改變
+我會做Demos的問題
+就是GPT3
+會有一個白色的桌子
+我會說你做了什麼
+然後大家會說
+我不知道該做什麼
+但當你把這個進入 chat interface
+他們會問我一個問題
+我會問你這個問題
+那是一個很大的改變
+但之後的改變
+像你剛才說的
+是很大問題
+因為chat gpt
+比任何期望都更大
+我相信有些人想起
+它會把整個行動調整
+但它沒有
+然後很快就有這個 awareness
+我認為人們想
+AI是將來的未來
+現在它進入了現實
+現在它進入了經濟
+來幫助它們解決
+所以你為何要做這件事
+你對於未來
+更快的進入了
+更多人都可以想像的
+所以我當時
+我們在社會上
+在地位上
+在經濟上的運動
+我的工作是
+是要幫人看清
+什麼影響會在業界上
+和工作上
+和關係上
+政府的政策
+而是在發展
+讓人明白
+如何投資
+他們的時間
+和資本
+所以當成是經濟
+這也是很棒的時間
+因為我們在
+開始的
+真正的發展
+在經濟上
+這就是我認為
+人們需要準備的
+所以我最大的
+在開發的項目
+是在發展
+つ together to kind of tell us
+where the economy is going
+and communicating that to people
+all over the world
+because this is going to be
+bigger than just the United States
+and what we do here
+but something that's actually going to transform
+people's lives around the world.
+OK,So in my experience
+and limited experience of understanding
+like when corporations employ
+economists often to figure out
+let's say the prices of products
+or things like that
+to make kind of predictions
+but here your job isn't just
+internals it's externals
+So how are you sharing this
+what isopening I doing
+to help people understand
+where things are headed
+或者我們認為他們是
+你對,我認為
+有一個傳統的經濟
+加入公司
+還有在社會上
+這次的影響
+有所分散的
+我認為這家公司
+有研究的方式
+我認為人們
+想要做一件事
+但對於價錢
+A-B的測試
+和研究的資料
+從社會上
+但更重要的是
+如何
+將世界改變
+做研究
+只是研究
+但在不同的方式
+我們社會研究者們
+在於什麼會發生
+我們可以告訴大家
+我們要準備好人們嗎
+所以我的工作是外國的
+我開始的時候
+在香港、在香港、在澳洲、在德里
+在華盛頓
+我們會去到Sacramento、在印度
+然後在那邊
+但是很有趣
+在那邊的不同的市場和商店
+和不同的利用場面
+和大家在想這個
+在不同的利用場面
+所以我必須說
+我們做這個工作
+我學習了很多
+這些交流
+我應該學習的
+但是我的工作是外國的
+和大家準備好現在的事情
+因為我認為
+我認為我被淘汰
+因為我被淘汰
+因為我被淘汰
+因為我被淘汰
+我認為
+每個技術
+每個技術的進化
+有些改變的恐慮
+有些改變的恐慮
+但有些改變的恐慮
+是如何改變工作
+如何改變 labor 和工作
+我認為我認為
+我認為我認為
+還有你覺得如何幫助人們改善
+等等
+對 我想說
+我們看得到很多
+我認為Ronnie看得到的
+是一種鏡頭
+我看得到的是
+我們需要建立的東西
+才能令AI能夠影響
+一個經濟的 經濟的 和經濟的 context
+這可以在 micro level
+或是一個人
+比如,在採訪醫學的醫療系統
+可以在貨品系統上
+在商業系統上
+可以在商業系統上
+想想如何進行
+發展技術
+然後再進行
+進行進行的項目
+所以,這些東西
+其實,Rani
+可能會做
+這些東西的
+比較有趣的學習
+而且有更多
+scientific vantage point
+我們有一個
+產品的 vantage point
+是,我們如何
+去建立技術
+那些東西
+人們想的東西
+從系統上來的
+所以
+軟件研究系統
+是我覺得現在
+非常有趣的
+是
+系統我們在建的
+正在進行
+一個很不明的程度
+在他們的能量上
+軟件研究系統
+你也看到了
+軟件研究系統
+比如Cursor
+Windsurf
+還有其他
+我們覺得
+他們有很大的機會
+幫軟件研究系統
+完全改變了
+軟件研究系統的
+讓他們
+不只是10%
+更多的
+但可能5%
+或10%
+更多的
+然後Ronnie就設計成為
+一個經濟程度的影響
+我認為這就是 way
+是一種手段
+從Brat leading on the product side
+現在我們 software engineers
+有這些很棒的技術
+他們的指揮技術
+可以更多的做
+我們可能在世界上
+寫了幾百萬的文件
+現在
+我們可以分配 10x
+我們可以怎樣建造
+如果可以寫更多文件
+或者更多文件
+可能是你自己的優惠
+這對我來說是一個很大的
+經濟機會
+所以我對於那種方式的工作
+是要從那種方式來看
+明白如何一個
+技術的工作
+將會改變
+如何使用這些技術
+做出她之前的工作
+還有如何在她的
+組織上會更有效率
+創造更多的優惠
+以及最後的價值
+我看到這個
+非常有趣的挑戰
+我再說是
+我對於學術的學術
+是一件我非常期待的
+我認為
+在鑑里的考慮
+我們想要
+把職業的學術
+和學術的學術
+為什麼這樣?
+因為 science drives growth
+it drives economic growth
+所以我們可以增加 science
+增加了 discovery
+我們可以增加更多 economic growth
+更多好東西 for everybody
+所以我常常想
+如果我能學習
+如何學習 science is changing
+用於我們的產品
+所以會有更多的
+contribution
+在於 economics
+但也只是世界
+我想再說一句
+在軟體空間
+我認為你已經看到
+我看到很多人
+有個關鍵
+因為一切的
+同學說
+我們現在沒有那麼多的
+發展者
+但是我會說,我們永遠不會做作品的,
+會有更多需要的作品,
+而我認為,大部分的大企業會被內地改變,
+但我們需要想想,
+那些小企業的貨品會進入,
+因為小企業會做更多的作品,
+還有一些人有看過,
+我們有些企業在說,
+我們可以做更多的作品,
+我們看到小企業的新方式
+進行新的解決
+對 確實的
+我覺得這就是
+A.I的專案
+最主要是
+世界限制人物
+人物的技能
+在世界中
+在最多的地方
+都會有實際的
+為什麼
+因為
+大企業的大企業
+大企業
+大企業的大企業
+大企業的大企業
+找人可以提供更好的技術、更好的系統
+和更好的產品給客人
+如果你們去問任何公司
+你去問任何公司在 Silicon Valley
+如果他們需要更多的研究
+答案是永遠是對的
+這是MECA的研究
+現在想想看整個世界的看法
+所以只要拿研究作為例子
+我們看到他們是很有可能的
+而是用了一些大和小的公司的資料
+我們看到它真的不能用開放AI
+能夠建造技術、模型、保護器
+所有的公司、機構
+能夠用這些技術
+在這些地方上
+而且是很有趣的
+我認為
+在一旁有這個技術
+是會令人很難以保留
+有些人沒有實際的實驗
+所以你現在有公司
+建設設計的設計
+能夠讓人建設的設計
+沒有寫過一條文章
+另外你也有這些
+實驗的實驗
+讓10名工人
+50%多的工人
+這也是一個
+能夠達到的效果
+有些人覺得很有趣
+用了一個新的例子
+where they deployed chatGP enterprise
+and one of the things that happened internally
+was we had people developing their own GPTs
+and sometimes people go
+what's happened to GPTs externally
+but I think that's been interesting thing
+is internally somebody who may not have thought
+about how to build an agent
+or something like that
+he may not be technically inclined
+is able to do that
+and has that been common trend
+with other companies that are now
+just building on top of the platform?
+Yeah, I mean I think that is
+fundamentally kind of how this is going to work
+I think AI at its core
+在那裡 is a tool that kind of lets people do things
+that they had no business or ability to do otherwise
+And there's going to be kind of crazy outcomes
+that come from that.
+I think it's kind of somewhat unpredictable
+And if you kind of look in the long arc of history
+of what makes for these kind of disruptive platform shifts
+to me the thing that is kind of demarcating of that
+is when you now have people who actually have the capability
+to go off and do something at either
+a much higher level of productivity
+Or something that's parallel to the core thing they're doing
+他們沒有做過的
+他們有限定的
+或有限定在別人的身上
+做這個事情的
+所以GPTs是一個很好的例子
+你現在有誰能夠
+能夠把一個比較難的
+工作方式
+而我們要繼續
+建立一個產品
+能夠更難的工作
+在時間中
+模式變得很好的
+這就是一個很重要的事
+什麼部份
+會有什麼影響
+我想我們只是
+採取資料資訊
+我會看到很多資料資訊
+這些是因為
+我相信有些資料資訊會有了
+有些資訊資料資訊會有了
+資訊資訊會有了
+這些資訊資訊會有了
+所以這就是其中一個問題
+這是一個很重要的問題
+我們要花時間在最困難的問題上
+我們可以把學業的方式
+提升到那裡
+我們會看到很多的
+學業的學業
+國際學業
+像很多的學業
+在社會上的學業
+所以我預期
+這些學業的項目
+會變成
+接下來的幾個年
+我想我們會看到
+很多不同的學業
+我們想不想更快
+再說
+我想另一個項目
+會是
+企業的
+我們都很常在工作
+我們在這項商業的大家
+不管是 private equity 資金 銀行 商店
+很多的工作在那裡
+人們在做的
+我們可以增加那些工作
+我認為我用的方法
+用我們的技術
+去創造 slide decks
+或準備出現
+我可以現在
+在高價值和高利率的東西
+很重要的
+現在我可以用我們的技術
+去做一些這些事情
+我必須要做的
+所以我看到職業的
+是一個很重要的領館
+很多的經營的銀行公司
+和 private equity executives
+都會用這個方式
+所以這兩個地方
+我看資金和
+science-driven discovery company
+是在分析我們的技術
+而且我會說
+它是在 science side
+至少不是
+任何人的工作的進步
+所以你現在可以
+做這個更多的
+multi-faceted exploration
+任何一切
+但是這就是
+刺身的力量
+這些模式可以出現
+所以要使這些手機
+如果你看看
+有什麼樣的毒品
+有些很特別的
+精神的進步
+都需要手動
+在很多不同的人口中
+他們都需要
+把人和人的情形
+和人的情形
+和人的情形
+進行進行進行
+你可以
+努力地把人的情形
+以及將整個工作
+進行進行進行進行
+並非只能讓
+學生去更深
+但你能讓學生
+和學生在和學生
+才能把結構的產品
+最後進行更好的進行
+更快的進行
+我看到的一種限制
+是一家公司
+他們在做藥物搜集
+他們的模式很棒
+在推薦東西
+但仍然進行
+醫療的檔案
+在學校的桌子裡
+等等
+希望會找到方式
+去增加那些
+但是有什麼其他限制
+或者這些東西
+可以做我們的
+保護性的進行
+是一種的成本
+我認為人類的決定
+做的事情會很重要
+我認為會更重要
+我們在這裏找到很多資料
+我朋友是 David Deming 和 Harvard
+他有這個資料
+讓人們很棒的領導隊
+例如Brad 和Brandt
+他們也有同樣的領導隊
+我認為很多技術
+讓人們做很棒的決定隊
+他們會更重要
+而且有更高的獎勵
+我認為這種情況
+where firms are using drug discovery
+you're still going to need the judgment of experts
+you can do refinements on the experiments
+and you're going to need help in terms of scaling
+I also think there's other institutional changes though
+that might accelerate science
+clinical trials come from an old world
+of how we used to test drugs for safety and advocacy
+those are really important
+but everything from the sample sizes
+to how you enroll people
+I mean our tools could be hugely helpful in those areas
+so I feel like you're going to see it in drug discovery
+but you're also going to see it in every part of the value chain
+for let's say a pharma biotech company
+那 might ultimately not just increase the rate of discovery
+but the rate of commercialization and scale.
+That's my hope.
+You just mentioned agents, and I think it's a word
+that's kind of like the word of the year.
+People hear it and sort of there's all sorts of definitions of it.
+Do you want to take a stab at that and kind of see
+how you guys see that playing out?
+I mean I'll probably get
+you know yell that by someone.
+No, it will not be controversial at all.
+It's everybody's definition of it.
+I mean for me agents I have a very high bar.
+It has to be a system that can be
+可以用復工的復工
+讓它能自行復工
+和在高級的復工中
+成功的
+成績
+從前沒有看到那種復工
+那最後是一個重要的部分
+這些不只是
+被訓練的東西
+他們需要把
+理由的模式
+解決新的問題
+這會很重要
+所以人們使用這個語言
+可能是一個領導體制的領導
+可能是一個學業的領導
+可能是一個學業的領導
+但是我覺得這個領導
+是一個很重要的領導
+你能夠把一些東西
+你都能夠跟著
+一個團隊的團隊
+可以成為一個學業的領導
+可以成為一個領導
+可以做一個很 hypothetical example
+一個領導的領導
+對,我覺得
+學業領導
+是一個很明顯的領導
+perceptions, you could ask it to basically go off
+and actually write code for you.
+and then kind of similarly go do the QA,
+go do all the unit testing,
+go automate kind of meaningful parts
+of this process of the code writing.
+In a different context
+I would say it's working with agents
+that can make your sales teams more efficient,
+So siding into parts of your sales funnel
+你會有一個大問題
+你會想
+我可以給你一百萬個
+領養員
+但我可以給五個人看
+你能否有一個領養員
+能夠領養領養員
+能夠理解領養員
+應徵領養員
+能夠平衡領養員
+能夠移動領養員
+能夠推薦
+誰可以討論誰
+能夠推薦所有的
+追蹤步驟
+最後才能把領養員
+推進去
+所以這是一個
+一種總結的概念
+那種有任何數量的概念
+你能看到
+我會發電郵給一個領養員
+或者說我需要接受
+我會再次接受
+對 我覺得這就是
+很有趣的一部分
+有些時候
+有些資訊技術
+會比較具體
+我認為
+如果你是
+一名科技生產生產生
+你會想要那位生產生產生
+如果你是科技生產生
+你會想要在生產生
+你會用那些
+如果你是在做用户或是客户的支持者
+你可能想要在你的货帳上坐下
+因为那是你的工作的原因
+所以你如何建立一个產品
+有了能量的能量
+但是有了很多的货帳
+而且无论是否可以
+无论是否可以达到
+能量的受力和能力的系统
+这就是一个很困难的问题
+我有朋友
+是否有些人在做一些小業者的工作
+和一些經驗的經驗
+想做更多的工作
+還有一些小業者的想法
+如果他們可以有一個
+充滿充滿的經驗
+或是那種
+你會看到的東西在近期的
+我會有機會
+做一些小事
+但沒有很多工作
+我覺得是一個
+你會想起
+世界的限制在增加
+經濟增加
+最大的一個是小業務
+他們稱為
+在很多國家中的
+大量的經濟增加
+有很多小業務
+有幾個大業務
+但小業務不大增加
+這是大部分的
+美國的經濟增加
+小業務和生產增加
+在世界上
+這不是真的
+為什麼不是真的
+因為他們經常沒有
+教育、支持、提供
+知道他們的工作
+現在你能夠把AI的經驗
+明白自己的基本性
+如何進行餐廳或是餐廳的工作
+這也很容易做到
+在於能夠把那種智慧的智慧
+然後小商店可以把那些貨品
+傳送到自己的手機上
+說 可能我應該要改變
+菜單或是更高的銷售
+或是做一些不同的
+我的技術可以幫他們進行
+我認為小商店的
+世界上 包括美國
+有很多機會
+小部分是提供
+明顯地的提供
+這是我非常興趣的
+我認識很多人
+在世界工作
+我想提供
+明顯地的提供
+告訴我們
+你所見的
+從發展的經濟
+因為我明白
+這是一個大部分的問題
+是有很多
+像是
+比較低級的
+知識工作
+發展的經濟
+和懇求
+AI會拿走
+但你只是提供
+這些限制
+那些生產物會突然被迷路
+我想我們應該也有很多機會
+談論一下
+我知道當我工作在生產物業
+有很多人在計劃問題
+與貿易產業的關鍵
+和蘇利肯德高興的
+一位最大的貿易
+在阿富卡的
+有生產物資源
+這意味著
+幫一個生產物
+去解決
+什麼種類的生產物
+什麼種類的生產物
+什麼種類的生產物
+他應該做到最難的就是
+因為很多人是小數目
+供應者
+如果我們可以增加
+賺錢的賺錢
+10% 20% 30%
+是生活改變的
+我們有人
+可以訓練到做到的
+但是他們沒有夠
+這些增加的
+供應者的資料
+有的人可能有10%
+不可以用這個資料
+每個人都用
+現在我們可以有
+股份的資料
+給那10%
+從沒用過的資料
+開始
+我覺得
+如果我們想想
+股份的資料
+增加了我們的資料
+是一個很大的機會
+來進行進行的進行
+進行進行的進行
+進行進行的進行
+進行進行進行的進行
+進行進行的進行
+特別是在社會
+我對小商的一個例子
+是另一個例子
+我們知道美國的一種方法
+是最好的方法
+進行進行進行
+進行進行的進行
+進行進行的進行
+這也應該是對於其他地方
+但有很多限制的
+而且是
+最適合的人
+或是對的建議
+所以這兩種方法
+我認為
+如果我們可以做這個對的
+會有很大的影響
+對於世界的 positive
+還有其他地方
+我的母親是在印度
+她是一個賣
+她用了很多 chatgbt 用了很多chatchi
+幫她玩主菜和食物
+而這些東西已經變得很有趣
+因為現在看到
+我覺得社會的效果是有很高的
+但現在就將多花時間在其他東西
+所以是很有趣的
+因為像在阿富汗發展的時候
+銷售者沒有改變
+你能拿到一個國家像CANIA
+可能是5%的人
+有手機的手機
+政府的手機都能控制
+然後當手機進來
+人們就可以想想
+如何去市場
+還有一些商業的東西
+現在有什麼變化
+像CAPTURAL的技術
+至於你的點
+如果你是
+MOTHERMALL的印度市場
+我有一三個小企業
+在我的家
+讓我們知道
+如果有工作
+但是
+這是我們對內地的
+是 both exciting and I also understand induces anxiety
+which is exactly right when you look at the Kenyan experiment
+when they leapfrog the generation of technology
+when new innovations came out
+we're now doing something fairly radical
+which is putting intelligence in individual's hands
+when they have a chat GBT account or subscription
+they have the world's smartest brain at their fingertips
+to solve hard problems
+it's not intermediate by a government or a big business
+it's something they can use to solve problems
+and I'm really optimistic about the problems
+人們會選擇解決
+一個最好的事情
+這個領導是
+我們不會告訴你
+什麼問題會解決
+那就是我最興趣的一件事
+我想在這裡
+是你會想到
+怎麼使用CHAXPT
+它是一個很大的
+有多大的用途
+就像他們在建設的API
+和我們的發展者
+所以人們會選擇解決
+最重要的問題
+那會是
+很大力的
+去轉換他們的生活
+但也很大力
+因為他們會有
+那種能力
+他們沒有的
+我認為
+當成經理
+那些是
+我想要的傳統
+我想明白,我想更容易
+為人類、社會和社會的行為
+我覺得,這個程度
+在肯定和世界的其他部分
+這就是我們在的更大的
+傳承,所以這就是
+我小時候的想法
+我們在看資料,並不是
+美國和歐洲,而是看
+世界的其他部分
+你之前提到,在工作的
+經濟,如何
+利用利用利用的技術
+和利用利用的技術,是重要的
+可以在那裡提供嗎?
+也許,其他技術
+可能是重要的
+人們需要想起他們想要的
+而發展
+AI是有趣的
+因為它是一個反應
+你的願望和希望
+我覺得它是一個限制
+在於它能做到的
+如果你醒來一天
+你決定想開一個業務
+這就更容易了
+如果你醒來一天
+你決定想建立一個軟體
+這就更容易了
+所以有一個很大的程度
+我觉得这需要最后的招牌
+我觉得我们认为
+我们的工作是在哪里
+我们的工作是在下载公司
+所以你能够调整
+这种方式
+从意义和脑袋里进行进行
+还有很多方式
+在医院的方式
+这些模式可以帮助
+但是我想
+这可能是
+很重要的事情
+因為公司會很大問題
+你會看到
+參賽者的優點
+是在昨天的旅程中
+有些人的想法
+有些人
+我是想要
+不僅是想要
+什麼東西
+什麼好東西
+但也想要
+想要如何發展
+有些人能夠
+在他們的旅程中
+有些人可以做那件事
+很棒
+我一個人的個人體能
+是如何令我們的工作變得更有效率
+是你會看到的大量的公司
+有1、2、5、10人
+在做的一億美元的資金
+那是最終的公司的利益
+如果你想想
+你會看到一個很小的公司
+能夠控制這個
+非常大的量的公司
+因為他們會想起
+到 things like sales marketing product
+soft engineering and so on
+and I think that's going to be a really cool
+cool thing to see
+Mark Biddinghoff had said something along the lines
+that they weren't going to be hiring any more
+software engineers which maybe they over hired to
+I don't know but then that they're going to be
+increasing the number of sales people
+and I think that often people hear the word sales
+and I think somebody calls you up randomly
+or cold calls but sales is actually
+a big part of it as people who are networked
+to know a lot of other people
+and I think that's what he was talking about
+是我們會很重要的
+我們是人與人之間的關係
+這是你所見的資料
+還是這就是高級的資料
+對 很多資料
+在這方面 譬如EQ
+有很多事要做
+很多人認為
+這個世界是更加
+技術性的
+突然之間
+社會技術
+與人之間的關係
+會比較不重要
+其實是一樣的
+當你做這些技術
+這些技術
+去打開
+去做一些正確的構思
+那些其他東西
+其實就開始要更加重要
+所以我並不是驚訝
+那些人
+有深技能的知識
+我們有很多在這裡
+在柏德斯沃格
+在整個組織中
+會在世界上
+在獲得一些獲得一些獎金
+因為那些人
+會能夠連接購物
+使用 their EQ
+加上技能的適合
+來解決問題
+我感覺
+當你覺得
+我們要什麼技能
+在經濟上
+那會是一個重要的部分
+而是關於 critical thinking
+和 decision making
+我們仍然會要求
+人們要
+認同這些問題
+去追求
+那是BRAD說的
+公司跟
+能夠對付對的問題
+是這麼重要的
+我期待它變成很重要的
+我看在社會上
+我認為有這個超過
+IQ和貨品的進展
+我認為這些系統
+能夠做到
+任何的性能的任務
+我們可以想像到
+但你提供了EQ
+我覺得是一個很重要的
+我不會想
+足夠的注意力
+會被付出的
+因為我知道
+小公司
+他們都很大
+他們建了很好的產品
+我沒有任何人在手裡
+我 can't talk to anybody
+because they're just focusing purely on
+the technical component
+and not where they exist
+in the network of people
+and everything else like that.
+And what are ways that somebody right now
+who wants to be find themselves
+in a very aligned position with the future?
+How do they build these skills?
+How do they work towards that?
+And how do organizations find people
+or foster that?
+I think it starts in schools
+one of the really exciting things
+about the moment where education is going to change
+而且我认为这 also creates a lot of excitement and anxiety
+但是我认为,我们在学校里有很多东西
+我认为,我们在学校里有很多年轻人
+所以,在学校中,他们会更加重要
+你们知道,他们会教什么
+他们会来学习医学和医学
+他们会教他们如何成为人
+而且我认为,他们会有更好的技能
+他们会学习现在,如何成为人
+因为这会是
+你们会成为更好的辅助
+这种美丽的智慧
+你们认为,你们认为两个建筑
+一个辅助,这会造成很多的怀疑
+但是,也许,他们会成为
+如果人們能成為一種含義者
+然後用ACLT去通過
+那將會是一個不可選擇
+而且我感覺很多年輕的學生
+在年輕的一段時間
+他們會變得更好
+我們往往是教導這些軟體技術
+以及如何成為人
+之後,肯定會有肯定的思維
+資金、數字數字
+還要很重要
+我的孩子有數字數字
+但我仍然想教他們
+如何做分析
+抗爭的技術
+還要教他們
+如何寫作
+你需要這些技術
+你需要一些
+更高級的技術
+技術、技術
+技術
+等要去調整這些技術
+所以當 CEO 說
+我們要找
+這個技術
+之類的
+學生將會
+準備好準備
+正式進行
+那些學生的技術
+那就是我認為
+學生會做的
+我認為學生會做的
+我認為工作經驗
+有很多學生可以做的
+那就是兩種
+我已經提供了一些學生
+我不想名字學校
+但是在學校
+是個不錯的學校
+有一個不錯的
+學生學校
+你知道他們花了多少天
+在上一週學習
+如何使用技術
+像敏薩或藝術
+我告訴你
+沒有
+沒有
+沒有其他教授
+把他們用什麼
+如何使用 AI 科技
+和執行程式
+他們都在使用
+他們的背景
+對 他們是
+而且我也是
+他們的一切
+我強烈地
+對他們強烈的
+我覺得那是
+那是我
+一個驚喜的事情
+去找到
+在那一刻
+他們會被放在工作室
+他們沒有
+還要花一天
+我明白
+他們要明白
+他們的資料
+他們要明白
+但是
+他們會在工作上
+幫他們做
+特別的工作
+所以他們可以
+從工作的地方
+但是
+他們的工作
+這次的選擇和政策都由教育和政客來提供
+並為經濟和影響
+這是一個好問題
+我想我們沒有問題
+我們是指一個通過
+我認為是如何教育和政策的作用
+我認為這是一個正常通過
+我們在最低級的位置
+我們在建築中
+我們現在有一個
+一個個人的主導
+每個人在地上
+而當它變得更好
+它會開始明白你更好
+它會明白你的學歷更好
+它會明白你喜歡的好消息
+你比較有視覺
+你比較有興趣
+需要解釋一些方式嗎
+我們會從人人的給點
+例如在學歷中
+trying to learn
+the impediment that that creates
+in the learning process
+and ways that AI can unblock
+you know learning for those
+for that population
+it's consistent
+所以我認為整個的方式
+我們想到的學習
+以及學習在國家中
+我們必須要改善
+我認為會好
+我認為它會強調
+我們的系統
+去想到
+什麼是人們會使用
+這些技術的方式
+我認為
+我們…
+例如你給的
+是有些時候驚訝
+但有些時候沒有
+我認為人們改善
+更快的方式
+但問題會是
+我們如何跟政客
+和教育學者們
+來幫助教育學者們進行
+我覺得這類的學者們
+會有這個很厲害的增加
+我覺得你們會看到
+學者們的出現
+以及他們的方式
+他們的學者們可以做什麼
+會更改變
+更好
+然後會讓學生們
+學生們
+再花時間在學生們
+在未來的學生中
+會有很高的學生技術
+所以
+像是決定
+像是 critical thinking
+比如說
+技術基礎的問題
+如何能夠
+成為公民
+和公民的
+年輕人
+我覺得
+那種東西
+會是非常重要的
+就像是
+今天
+將來的
+會是
+記憶 招待
+等等
+我還說
+我們可以把這些改變成學生的改變
+所以我覺得這會來自學生和學生
+的意見 像是Bratz說的
+像在初六 川普總統說
+我們要把天空放在空間
+如果你看我們其實有的
+國際資料的資料
+和學生的能量
+那是一個很遠的目標
+但是那一年
+我們會大量的增加
+人數在學生 人數在研究
+和人數在研究
+讓人們感到驚訝
+所以我認為
+有一個很強的角度
+在社會中的領導
+然後就想說我們要去哪裡
+然後我再想想開個AI
+我們有最好的資料
+我們有最好的資料
+這就是一個很重要的目標
+讓大家明白我們在建設
+還有別的社會人士
+教育人士 政府人士 業務人士
+還有別的社會人士
+會看到這個從他們的 perspective
+如果我們把這個招呼出來
+我認為你會看到
+很多的大量的改變
+然後我們也有
+兩位主持人
+我以為是
+學生 學生 學生
+Economics to be really different five years from now
+in a lot of positive ways
+And to expect a lot of experimentation
+You know, beyond whether you can use
+ChachiBT to study or how you regulate
+in the classroom as a Professor
+Really important points
+I don't want to downplay that
+But more important is
+How are you gonna use the stuff
+To do stuff topics in your curriculum
+How students who maybe can't learn
+from a graph but can learn
+From a 40% presentation
+Or you know, teach students the same thing
+Though in three different ways
+So every one in class gets it
+There's so much amazing stuff that happened
+I do think it will happen
+我們在美國的歷史上
+也會看到這個世界
+但我都知道美國是最好的
+我們其實都回答了
+這幾個大挑戰
+可以說明一下
+開放的職業
+和政治家人
+特別是你做的
+我可以開始
+例如 Cal State University
+所以
+在 Cal State 香港
+是最大選擇
+就是
+最終的選擇
+就是學生
+第一代的
+他們的父母
+他們可能來自另一個國家
+或他們未接受過的高學生
+那些是教育學生的兒童
+他們特別的
+那些是教育學生的學生
+是在未來的歷史上
+正在下一步的歷史上
+所以我們很高興
+在他們工作上
+這是一件事
+來自
+我跟Brad說的
+學生和執行者
+像我一樣
+說現在我們在這個
+很好的學生
+我們要怎麼減少
+學生的學生
+當他們進入第一次
+能否準備好學生
+需要的技術
+能否做得好
+能够把生命的行动描述到时间
+和说
+你知道吗
+接受这个智能
+有很大的不同
+所以
+这份联系
+让我和习近平和研究者
+当我们把所有的学生
+都谈成一样
+终于
+我们会发生很大的不同
+所以
+这次的联系
+是我们的联系
+和研究者
+这是一个学生的例子
+学生
+是我们的最快的
+学生
+用的CHAGPT和
+有一个新的AI输入
+所以我认为
+我们早知道
+我们发现的生物技术
+是有一个学生的
+是非常有趣
+是人们想学习
+学习的信息
+试试自己的学习技术
+和技术的技术
+还有一个有趣的
+是我们发现的生物技术
+我们发现了在12月
+我们的学生
+在那種年代,我認為有很多的懷孕
+我會說在那種年代
+你可能會記得這件事
+我們一邊看著 each other
+我們覺得,我們不知道
+這會最後會有什麼 lead to for us
+但,這就是最後會有些 band
+在年代的年代,在年代的年代
+學校年代改變了
+我不知道是怎麼回事
+但,當大家回到年代
+我認為,年代的年代
+我覺得 food looking des Family
+of the Of the
+Leadership in kind of the
+Broad and American
+Educational System
+HeadChanged
+And it was
+They
+We had a lot of people
+Coming back to us and saying
+Actually, this is
+I think one of the best things
+That maybe
+dynasty
+This industry
+It's meaningfully
+Changed how my students
+are learning
+We're starting to develop
+Espective
+On how people are really
+Using this
+And not only do we
+Have that perspective
+Actually want to extend
+And develop that perspective
+So that I can
+Figure out how to better
+Ease this in my classroom
+我研究的方式
+挑戰學生和新的方式
+來解決方式
+我們可以在地面
+進行進行的進行方式
+讓學生們可能
+不需要注意的
+所以現在的工作
+現在是在做的
+我們在做的內容
+我們有一個EDU團隊
+在開放AI
+來試試更加的工作
+在這個社區
+Ronnie說的
+Cal State
+一個例子就是
+我們在進行
+很多的進行方式
+所以
+這部分是產業
+這部分是職業
+這部分是政策
+但是
+我們會把整個公司的方式
+帶給它
+我記得
+我以前在學校的系統
+他們名字也有將它拼搏
+他們說我們拼搏
+用這個學校系統
+然後我聽過
+很多學生在那裡
+用了很好的成果
+我從很多的理由
+你提到
+我幫我做了一堆學生
+當我到這裡
+然後我們有一個
+我們學校的一個
+是
+它不理會你
+CHAGP不理會你
+是一個很好的方式
+如果你覺得你會往後
+或是什麼的
+去問問題
+speed and then we saw that some of the teachers were getting really good results
+in the classroom and then went to the school system and said listen,
+no, we need this.
+This is something we've been sorely lacking.
+And there was a kind of a famous reversal on that and that was I think like
+that happened faster than I expected.
+And would you say that you're seeing probably a faster
+option than you'd been expecting or was I just not with it?
+I've been seeing it.
+I mean, I think you're right.
+There was that transformation sometime in 2023 where people realized
+我們可以把學生和學生的價值
+和學生的價值也能分開
+我不知道 可能會有什麼
+最大的改變是
+新的學生 學生的學生
+是在進行新的學習
+所以學生說
+這題目很熱
+為什麼不讓學生進行新的學生
+學生想幫助學生
+想進行新的學生
+但有很大的財富
+在學生 學生的財富
+學生的財富
+我突然可以用
+學生的技術技術
+來進行新的學生
+我現在可以做
+很大的智能智能智能智能智能智能
+比我之前更快,可以幫我
+教我什麼學校,
+我用的學校,
+我寫的學校,
+甚至討論問題
+給學生,
+當你增加
+學生的學生,
+會更加興奮
+嘗試新的東西,
+或是學生在K-12的
+學生,
+現在的學生
+和學生在討論,
+你會看到更多的
+典型,
+我覺得其中,
+在最後一天,
+學生介紹新的
+學生,
+或不然,
+是非常有趣的
+任何教授看到那
+就有一個燈光
+這會讓他們想找方法
+使用這些技術
+我們必須要
+學校的規定和政策
+他們會設定在學校的程度
+是很重要的
+當學生使用這些技術
+這會是很重要的
+我猜那些會被解決
+會有改變
+在不同的學校
+但我沒有擔心
+學校會有很大的學習
+根據它們的價值
+我們談到這件事
+稍微前面
+我們開始錄影
+就是
+有幾年來
+你會有一個
+有什麼事 當你懂得了
+如何能否 disrupt the world whatever
+現在我們在地上
+我們開始看到這事
+我們發現了
+我認為很多人都是大人
+只是這麼多的狀況
+這個狀況很不同
+我覺得你的方式
+已經是很明顯的
+這是你最喜歡的
+學習和體系
+你現在在哪裡
+對政策的影響
+和政策的指導
+對我的工作
+至少在學習方面
+我已經在想幾個問題
+第一是哪個領域會影響到什麼
+我認為我可以幫助
+社會和世界
+如果我能夠認同
+社會、健康、教育
+會更快地變成
+貢獻和資金
+這就是一個很重要的概念
+為世界提供的
+因為如果人們在那些領域
+在想他們的工作
+他們可以做到
+他們會把這個機會
+都放在市場上
+但也會幫助人們
+計劃他們的生意
+做到他們的投資
+所以我最大的目標
+是想找出哪個領域
+會影響到最初的
+和如何
+接下來
+我會想到的
+是哪個國家
+哪個地區
+會最影響到
+我認為這很方便
+在前面的
+技術和轉換
+人們在背後
+有很多影響
+在大陸的大市
+比如在大市
+大陸的大市
+在大陸的大陸
+在美國
+在最後的轉換
+當你看那種
+影響
+和很多年代的
+影響
+我發現
+如果我們可以
+提供好意見
+在哪個地區
+這些影響
+會最影響到
+那是真的會很幫助的
+所以我團隊花了很多時間在那裡
+還有最後一部分在討論
+很多的經濟經濟
+如果我在學校
+那是最後一部分
+就是你把那一部分放在那裡
+說好 誰不如我媽媽
+會在這三三個學生上
+寫我的書
+在這項工作
+尤其是因為我
+要跟學生 close to the researchers
+who are changing the world
+我必須能把那交給真人
+所以那三個項目
+我認為是
+穩定的 計劃的
+哪個業務
+和解釋到世界的情況
+那是我最想要的
+是從哪來的
+好像是一個大開放
+那一刻我發現
+當CHAHTGPT
+從你需要的
+有信用卡
+你需要你的
+網站等等
+到現在你只要去
+OpenAI.com
+你只能用它
+就是有更多的
+能力在世界上
+我覺得
+現在的iPhone
+看到那種風格
+我覺得是一個
+很好的 democratization
+你能夠利用那些,我覺得很棒
+我覺得那是非常好
+你提到,資料資料資料會是會影響的
+你能夠找到那麼多?
+我認為資料資料的資料
+是比較少被調整的
+比如說,紅色的,紅色的
+需要被追蹤的
+那些資料資料會變得最快
+所以,在一些地方
+我們有很好的健康的理由
+我們有一個
+就是,我們有一個
+我們有一個
+我們有一個
+我們有一個
+我們有一個
+我們有保護病人的保護
+我們有保護管理的管理
+這些是美國的重要部分
+保護管理系統
+他們是很像世界的
+這些系統會更難改變
+而且會更快地改變
+新技術的技術
+而且不是只是實際技術
+是實際技術的
+前面的技術
+IT會更快地改變
+生產學生的學生
+然後進入其他系統
+所以我覺得你會有
+高級的規律
+和負責的需要
+你會看到更快的改變
+這些工作會更快地改變
+不 means we can't unlock a lot of productivity in health care delivery in education
+in education we're seeing this on the student side, and teachers
+but overall like implementation i think you'll see it move faster in sectors where
+the regulations are as sort of significant as you are in those two sectors
+that's key.I think the thing you'll see it is where the workforce is going to embrace it
+Brad made a good point earlier it's like
+this happened with enterprise software people brought tools to work
+like new storage solutions and then their CTO was like
+hey what're you doing there right and then eventually like
+wait this thing you're bringing is actually the whole company should adopt it
+在社會上,你會有很高能力的工作人員
+帶來這些技術
+用東西像CHA-CBT
+建立我們的社會
+這些社會會更快地轉變
+這就是我認為
+地方像是資金
+學習、藥物、類似的
+這就是我認為
+你會有這些人帶來工作
+去解決問題
+我希望這些社會可以趕快進行
+你給你的孩子什麼 career advice?
+這是我最難的問題
+我告訴我的孩子
+我當時是生產生的
+我當時是生產生的
+如果你的父親
+是從某個世界的提供
+你 might get would be
+there's only two choices right
+there's like be a doctor or be an engineer
+and if you're really creative
+you can be a biomedical engineer
+okay so there's like a narrow set of choices
+why would parents give those advice to kids
+is because it's like they would predict
+these are gonna be the stable professions
+but during the course of that generation
+health care changed a ton
+we have managed care
+a lot of physicians work for hospitals
+the job is so different than the generation
+that was giving that advice thought it would be
+engineering I mean Brad talked about this earlier
+has changed dramatically
+我們沒有 full precision
+and full predictability to say
+your kids should do this.
+In fact, many of the jobs we have today
+we didn't have names for them in 1940.
+So first I have a dose of humility
+which is like it was never easy to tell our kids
+what to do or guarantee they would listen.
+For my kids though,
+I reflect back on what we talked about
+which is you've got to learn
+how to be a critical thinker
+and identify problems.
+Develop a point of view
+to have the agency brand talking about.
+You have to have the neuroplasticity,
+resilience, flexibility
+to be able to adapt because the world
+is going to change a lot.
+If you think about what's happening in AI
+改善我們的 climate
+改善 Geopolitics
+你會要很快地改善
+最後一段我認為
+EQ和資金的新一切
+會很重要
+在他們的工作中
+在他們的工作中
+想要做的事
+我不會有更多資料
+我父母做的
+我認為他們會做得不錯
+很有趣的
+名字可以改善
+名字可以改善
+但工作可以改善
+我的最愛的領導
+是Dan Bricklin
+他有創造的藝術
+他在1970年
+他 was a high level programmer extremely capable
+than programming was changing a lot then
+and you're moving into object oriented
+programming and libraries and stuff
+and he thought that programming jobs
+were going to come more scarce
+and so he actually left to go get his MBA
+and it was while staring at the back
+the blackboards with all the figures
+he's like why doesn't somebody make like
+an electronic spreadsheet
+and then he invented physical
+and it was just funny though to read
+how he thought that programming job
+was ending in the 1970s
+and I kind of think that it is changing a lot now
+但你提到如果你是一個人
+在做AI的軟件
+你會在領導一個領導的領導
+領導的領導
+而在技術方面
+是非常重要的
+我聽過很多
+為什麼會提供學習的技術
+然後我問
+我想要有一個航空飛機
+不懂的 aerodynamics
+你覺得還有什麼技術
+會在未來的情況下
+會在其他技術上
+我覺得旅行的方式
+是永遠對個人的強勢
+我认为每个经济和经济的改变
+都会有所改变
+它们总是向人们
+和自己的经济
+所以1900年
+你只要40%美国经济
+在组织生物
+今天是2%
+我们也会发生更多的
+组织生物的改变
+在1900年
+你能在1900年開放大森林
+有小部分的人
+會在大森林開放大森林
+現在你會看到那一種
+經濟的情況
+在社會上的經濟
+和我們歷史上
+沒有這種情況
+我認為有很多地方
+會有所得到的
+這不是說
+這是一個為了工作的改變
+例如
+我認為這個意義是
+超高的經濟資源
+每一頁的資源
+那是最重要的
+是經濟增加
+但是人們很值得
+他們找到其他地方去工作
+然後你建立
+那種 local level
+那種 micro level empowerment
+你會建立
+有第二、第三種
+其他工作
+我們沒有想過
+以後的方式
+所以
+會是很奇怪
+在1900年的時候
+例如
+今天很多人
+他們的工作
+是用小型的電腦來做一些資料
+讓人們能夠享有很多時間
+讓人們可以做完美的
+經濟生活
+好像是不太能想像的
+但也有
+所以
+會有那種
+第二種變化
+第二種和第三種的影響
+但我認為
+我總是回到
+個人的力量
+地位旅行
+更多人
+做更多
+少少
+然後
+他們的力量
+他們的想法
+他們的創意
+創造
+創造的
+能夠
+做20年前的
+人
+做的工作
+會有不同的工作
+我用的例子
+是
+在大陸
+在佛天堯
+98%的人
+在建築
+然後
+當時有人說
+是貪財
+如果你是
+我們所有的藝術家都被淘汰
+那可能是一種意義
+但實際上這讓我們
+去勉強學習
+在健康 政府 等等
+所以我覺得
+這就是我們忘記的
+我們有很大的
+很大的支持者
+就像我們在98%的
+藝術家
+去到那裡
+我們回想到
+1800年代
+說
+我們會把
+almost all farm jobs, people will be thinking
+what are we going to do, that?
+There's going to be massive problems
+and we realized like you said,
+be created all these new kinds of roles
+entire sectors, the economy and stuff.
+It's always hard to predict,
+it's always hard to predict
+what that's going to be,
+because we just imagine the future
+is sort of the present,
+what with like shinier clothes
+in robots
+and fine cars.
+And part of I think this is part of the job of research
+and organization that are close to technology
+producing information to help
+people make the best decisions.
+我們已經談到的公司
+公司需要一個個人的特徵
+但也需要資料
+在市場上的資料
+所以我認為這就是我做的大財
+我們的目的是要求全人最好
+而做到的
+我想讓大家知道他們需要資料
+最好的是我的資料
+我們不能以性的體制
+對他們來說是最好的
+我自己的孩子也不能說
+我自己的孩子也不能說
+但如果我能給他們好資料
+根據資料
+那會幫助人們做更好的決定
+我認為他們可以找個地方
+我們也要注意,有很多人不能參與經濟的方式
+因為他們的生命和生命的發展
+在於一些不足的健康、學業的不足
+我們談過了一些小事的影響
+我們會看到的在發展世界中
+有關這些資料的影響
+我們會知道的有什麼影響
+是如何令人更容易
+或是在小事上的小事
+那是很清楚的
+我認為是很 positive
+的一種事情
+那是發生的
+有一個第二和第三種
+的 almost hidden impact
+我們也覺得
+Ronnie has the challenge
+在想如何去做這個
+但是
+你能夠幫助人們
+better manage health care
+對嗎
+或者 better manage the health care
+of someone who is dependent on them
+一個
+一個的子女
+一個的父親
+或是一個這樣的
+你能夠把
+學生的層次
+和學生的層次
+by 2%
+對嗎
+還有什麼是
+第二和第三種的影響
+是一個下跌的影響
+在經濟上
+以及在人們的能量上
+在經濟上參與
+所以
+有一個很直接的方式
+我認為有一個很直接的方式
+就是這樣
+我剛才說過
+在任何他能做的
+我覺得這很好的一點
+我認為很難做的
+但重要的是
+教訓 教訓 教訓
+當他談到
+人們不可以完全參與經濟
+我心裡想到
+有很多人有很多資料
+但是可能他们的课程
+或者他们需要一个教授
+或者有人帮他们进入到
+下一层的等级
+或者是一层的能量
+和健康的健康
+我们没有招牌的
+对我们来说
+这些情况很贵
+如果我们住在
+国家或世界上
+我们不知道
+这些情况是否有利
+在经济上
+利用技术
+你不可以參與
+但如果我們可以幫助人
+比較沒有幫助 現在有些幫助
+我們可以幫助他們參與
+經濟更多的 更能夠把很多的能量
+解釋到的
+我認為任何方式 任何負責的
+或是任何的負責
+都需要考慮
+人們在參與的方式
+可以現在被拒絕
+我認為這是一個很重要的點
+我們會嘗試去採訪
+但現在我認為
+應該會有意見的
+這樣
+那種方式
+我覺得我們
+經濟發展
+有時候有個理想
+忘記我們有的東西
+別人沒有
+如果你要有權利
+你會買一位貴婦
+但如果你是
+在一個
+貴婦的層面
+經濟發展
+那是很難的
+你不能做到
+你懂 貴婦的行動
+大家會
+貴婦的行動
+最多是貴婦的行動
+他們有貴婦的行動
+他們是有貴婦的行動
+那是個很有趣的地方
+我認為
+我們一定會開始
+我們開始看那些效果
+後來我們開始看到
+什麼事情發生
+當你鎖定了
+那麼多人在世界中
+在這些情況下
+他們從哪邊
+有足夠的資訊
+並沒有足夠的資訊
+或是資訊
+我覺得這很不錯
+讓我們看到
+AI變成這樣
+我們看到
+透過CHATCH APD
+使大家使用
+是有學習的
+幫助傳染
+幫助小企業
+幫助人們
+工作和通訊
+等等
+這有成為了
+我們看到
+一些情況
+就是你用一個, 例如說, 譬如說, 人們經常會想說
+那些需要會增加, 但其實會增加
+因為一旦一家公司, 從未做過的事, 現在可以把
+搜集成本, 等等, 現在找到自己
+在一個完全不同的國家和 經濟的世界中
+增加了人工的財富, 會不會這會發生在別的地方?
+會不會這會是一個大部分的機會, 還是會不會是小數目?
+我們其實看到的資料在開放的頁面
+是我們把儲物品的儲物品
+儲物品的儲物品的儲物品
+我們看出有不足的提升
+在那種儲物品的儲物品
+我們也看到那種儲物品
+也會有更好的儲物品
+和更多的儲物品
+人們會用更多的儲物品
+我們沒有看出
+儲物品的儲物品
+和貴重的儲物品
+好像這條頁面
+最多我们能做更多的精神
+更多的质量
+更多的质量
+会在这些东西里面
+如果你想想
+kind of how that plays out
+in an economic context
+什么时候你能够
+如果你可以把质量
+of good legal advice
+for example by a factor of 100
+你能看到一千万的
+increase in the demand for legal services
+一千万的质量
+一千万的教育
+一千万的 software engineering
+一千万的任何其他事情
+and I don't think we've quite come to terms
+那就是什麼意思
+嗯
+如果你想想
+1000元的要求
+增加了
+每個領域的
+那是很多的財富
+那是很多的要求
+在經濟上
+這是好東西
+但是
+我認為
+最後的人
+會要
+去做自己的
+想要
+要做所有的需要
+去做那些
+要求
+需要的
+這也就是說
+需要人
+來做自己的
+想要的
+開始
+去做自己的
+所以,這就是我認為的極端性
+在我們談論中的影響
+我們現在在微軟屏幕屏幕屏幕的影響
+但是,我們應該看待我們做的心理
+你也知道,Sam有句話,我愛,太便宜了
+那是甚麼意思呢?
+是世界的能力,去創造出的影響
+然後,我認為,最終的影響
+我們會找到的是
+它其實有一個很能夠增加的效果
+在工作、在產品等
+那是我們最期待的未來
+我們很興奮
+我再說一下
+這可以令人很興奮
+在這方面的行動中
+當你做了一種
+太高能力的方式
+那種能力在提供
+比如說有權的領導
+或是資金管理的領導
+或是有權的領導在現實的地步
+你會有很多新人
+能夠接觸到那些領導
+那些領導也沒辦法接觸到
+所以它是在開放的市場
+然後當那些人開始做決定
+買了一個公司
+做了一個公司
+進行了一個公司
+他們會有更高的需要
+然後他們的生意
+會有更多的公司
+或是他們有兩種公司
+然後有很多人
+在那些公司中
+從未曾經用過這個公司
+但現在他們會有更多的
+更多的問題
+如果這樣能增加
+那會有更多的
+大部分的機會
+在那些公司中
+會決定哪個公司
+去採取
+那些技術
+但我覺得, 現實的經濟人士
+和資金經濟人士
+和資金經濟經濟經濟經濟
+有可能可以在場
+通過很多人
+從未有關注的工作
+開始
+這就是新興趣
+將會減少
+財富的財富
+這就是發生的
+我會說一個例子
+我覺得
+很接近的
+每次有新的模式
+或新的技術
+從OVNI
+有些人會說
+他們怎麼還在買
+我認為, 我是
+生產股票的人
+我會說 當然他們在買
+因為 我想要給大家一個
+安全檢查
+我認為 人們會說
+更多人會去工作
+開放外國人
+更加工作前面
+不像一般
+我們有新的技術
+不需要人們做這些工作
+工作變化
+但你會想要更多人
+你認為會否認同
+我對開放外國人的招式
+更多人來做開放外國人
+我覺得更多人會來做開放外國人
+我回到我所說的
+怎麼…
+變成大量的大量的
+影響AI
+變成更多的外出
+人人
+所以你現在…
+你現在有這個
+大量的計算
+和大量的企業
+或公司可以運作
+一些人的數量
+所以大量的企業
+可以運作100,000人
+之前
+可能那數量
+可能會達到50,000
+甚至20,000
+5,000
+1,000
+100 等等
+可能是更深刻的,所以我希望 OpenAI 會有更多不同的意義
+尤其是我們做的,所以我認為,再回到我提到的
+我們看到的是,第二和第三種方式的影響
+是,它會有更大和更大的 demand for the service
+所以,這就是我們需要更多人能夠幫助更多的利用
+經常使用的方式
+我們需要更多人
+幫助政客們思考問題
+我們需要一位副經理
+如果問過幾年前
+我們會需要一位副經理
+我會說
+可能2030年
+但我們在這裡
+所以我覺得
+會有更多人
+但我覺得是
+比較貴重的
+兩者的經驗
+我剛才提到的
+我正在幫朋友
+在訓練模式和其他
+有些人在開放前面說
+會不會是幫助你
+討論到健康團隊
+你會說
+你會有健康團隊嗎
+我說對
+我會說
+好
+然後再談談他們
+那就是
+這就是
+一個很好的範疇
+我希望
+其他公司
+會在想
+這些技術的
+能夠增加
+和增加
+和增加
+因為
+如果你有好技術
+你想保持好技術
+而找到更多技術
+找到一個需要技術的技術
+我認為
+不找方法去不需要技能
+那會令他們有一個大問題
+不想再想了
+如果可以用每個人的研究
+10X、100X的研究
+可以從10年前來得到的
+為什麼不想要更多人
+如果Rani的隊伍可以
+現在的10人隊伍
+做經濟研究
+10個不同的項目
+或10個不同的項目
+vs you know to
+嗯
+because every person now is doing
+3 or 4 times more
+um
+that's I mean that's an amazing thing
+right and so
+it just means that we as a
+as a company are capable of doing more
+and the thing that we kind of set out
+will will handle that in 2026
+or 2027
+it's like no no we can do right now
+do you have favorite chat gpt
+tips or advice to get people on using any
+i have a few
+I think the coaching is so valuable
+you know you meet so many people who
+they say hi i'm a religious chat gpt user
+and you find out like
+他們不太熟練
+或者他們不知道 about deep research
+然後你會說
+我的天啊
+有很多更多你能做的
+我認為
+教練已經很重要
+在健身和健康
+我還不知道
+但是我還在訓練
+一個大活動的
+玩Basketball
+在Duke
+在Kcamp的教練上
+我已經要求時間了
+還是他要改變了
+但是我必須要好一點
+因為不然我會
+把ACL的第一個
+第二個給我
+所以Chachapiti
+他在這四個月
+幫我
+真的能夠
+成為中年人的最好的形式
+How is it doing that?
+Well, it's looking at the food I'm eating
+and giving me advice
+and giving me calorie breakdowns.
+It's reducing the decisions
+I need to make by analyzing
+what I've had that day
+and it's helping me track
+weight and other kind of fitness indicators.
+So in doing that,
+I have this map out to four weeks
+which were really, really hard
+with the jobs we have
+and the travel that we're all doing
+to manage.
+And so, I feel like
+that's a pretty simple one
+that you don't need super advanced tools to do.
+But it's really changed my outlook
+and made this possible.
+So that's my favorite one of this month.
+特别现在 with O3
+I think O3 is a model
+kind of broke through the barrier for me
+kind of across the chasm
+and look all of our earlier models were great
+O3 there's something deeply great
+and the thing I use it for
+is to actually like challenge me
+So a lot of my job is
+I'm trying to make assumptions about
+how things work just based on
+kind of empirical observation of
+what companies are using us in certain ways
+what users tell me they like or don't like
+in some ways you know like I said early on our job is to predict the future
+O3 has an incredible ability to actually be a question asker
+so I think people think of chat to BT
+as something that you can only ask questions to
+but a lot of times what I really wanted to do
+is actually ask me questions and challenge my assumptions
+and make an counter argument to me
+of why something works or doesn't work the way I think it might work
+and it's an incredibly effective thought partner in that regard
+and it can be a really big things
+或者是很低級的東西
+我只有一隻貓
+我已經養了我的一輩子
+我們已經有一隻貓
+現在是
+我會說
+不是最容易的
+是當她進入睡覺時
+她的心情變得比較快
+我和我 wife 和我
+沒有辦法解決
+如何讓她做這個
+所以 chatGPT
+是一個
+一個能力
+來挑戰我們想的
+我們想到的
+我們知道的貓
+例如有一個
+很有趣的體驗
+O3是 something special
+and we talked a lot about
+yeah what happens when
+the models can
+push as well to pull in
+when they can kind of
+get you to think about a thing
+and that has been just
+been amazing.O3 has really been a fun experience
+talking to it's the first time I felt like it's not just
+something that's kind of
+telling me a thing that it looked up
+and versus something that thought about
+Brad,Ronny thank you very much
+this has been great and I hope we can speak again in the future about this
+這個 and maybe a check on the progress of all this.
+Go forward to it.
+Thanks for having us.
