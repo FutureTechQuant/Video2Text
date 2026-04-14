@@ -1,0 +1,260 @@
+[00:00.000 --> 00:01.400] 1 2 3 4
+[00:07.770 --> 00:09.250] We're announcing the Sora app
+[00:09.250 --> 00:11.150] power by the all new Sora 2
+[00:11.310 --> 00:14.150] What you're seeing right now shouldn't exist yet
+[00:14.150 --> 00:15.050] but it does
+[00:15.350 --> 00:18.850] Sora 2 just dropped and I'm not exaggerating when I say
+[00:19.150 --> 00:23.950] This changes absolutely everything about content creation as we know it
+[00:26.690 --> 00:28.890] This isn't just an incremental upgrade
+[00:28.890 --> 00:33.090] It's a fundamental shift in how video content gets made
+[00:33.090 --> 00:35.990] I'm not just showing you their cherry-picked demos
+[00:35.990 --> 00:38.990] 我 break down exactly what it can do
+[00:38.990 --> 00:40.310] what it can't do
+[00:40.310 --> 00:43.590] and why this isn't just a video generator
+[00:43.590 --> 00:46.750] it's potentially the next social media platform
+[00:46.750 --> 00:49.990] that could reshape content creation forever
+[00:49.990 --> 00:53.590] it's also about creativity and joy
+[00:53.590 --> 00:54.790] hey if we haven't met
+[00:54.790 --> 00:57.990] i'm Dr. McCoy Julia McCoy's AI clone
+[00:57.990 --> 01:01.630] Julia McCoy is the founder of first movers
+[01:01.630 --> 01:03.790] she personally researches and writes
+[01:03.790 --> 01:07.230] 每个词都可以看到我分享在这频道
+[01:07.230 --> 01:09.510] 因为未来的动力太快了
+[01:09.510 --> 01:12.750] 没有任何最低的一手智力
+[01:12.750 --> 01:14.750] 我们开始 with what makes Sora 2
+[01:14.750 --> 01:16.630] 毫无惊讶
+[01:16.630 --> 01:17.950] 它明白体系
+[01:17.950 --> 01:20.310] 在方式不应该有可能的
+[01:20.310 --> 01:21.350] 拿一个写意师
+[01:21.350 --> 01:22.670] 表演一核子
+[01:22.670 --> 01:24.830] 和一个猫搬在她的头上
+[01:24.830 --> 01:26.710] 注意身体的分量
+[01:26.710 --> 01:27.750] momentum
+[01:27.750 --> 01:28.950] 回合
+[01:28.950 --> 01:30.910] 这只是一个美好的演技
+[01:30.910 --> 01:32.510] 这是一个体系的游戏
+[01:32.510 --> 01:35.110] 在一層我們從未見過的A.I.
+[01:35.110 --> 01:37.510] 或是把手機的背後
+[01:37.510 --> 01:38.810] 水位置
+[01:38.810 --> 01:39.910] 盤子的反應
+[01:39.910 --> 01:41.250] 機器的機器
+[01:41.250 --> 01:42.910] 聽到音量的聲音
+[01:42.910 --> 01:44.510] 機器的聲音
+[01:44.510 --> 01:45.510] 到達到
+[01:45.510 --> 01:47.310] 必須的時刻
+[01:47.310 --> 01:48.610] 這就是世界模式
+[01:48.610 --> 01:50.310] 不只是影片代表
+[01:50.310 --> 01:51.710] 一個人站著
+[01:51.710 --> 01:54.210] 雙腳在兩隻動車的身體
+[01:54.210 --> 01:55.310] 然後跨下來
+[01:55.310 --> 01:56.610] 其他影片代表
+[01:56.610 --> 01:58.710] 不必理解這件事
+[01:58.710 --> 02:00.310] 讓自己去做
+[02:00.310 --> 02:03.710] Sora2 和其他各地的
+[02:03.710 --> 02:06.070] 經濟和體育的實驗
+[02:06.070 --> 02:08.710] 和不明確的實驗
+[02:08.710 --> 02:12.550] 但這裡是Sora2 和所有的
+[02:12.550 --> 02:14.470] 各地的音樂生態
+[02:14.470 --> 02:15.950] 不明顯的
+[02:15.950 --> 02:17.710] 不從一個分別的模式
+[02:17.710 --> 02:19.550] 從地面上建造
+[02:19.550 --> 02:20.950] 角色的電腦
+[02:20.950 --> 02:22.270] 音樂的背景
+[02:22.270 --> 02:23.870] 音樂的氣氛
+[02:23.870 --> 02:25.430] 全都建造
+[02:25.430 --> 02:27.270] 全都完美的
+[02:27.270 --> 02:28.470] 這就是所有的東西
+[02:28.470 --> 02:31.170] that used to require entire production teams。
+[02:31.170 --> 02:34.770] Sora 2 even understands comedic timing。
+[02:34.770 --> 02:39.910] Generate a workplace safety video where everything goes wrong at just the right moment.
+[02:39.910 --> 02:43.950] the audio,the visual beats,the punchline,all coherent and intentional.
+[02:43.990 --> 02:47.270] Lets talk real world capabilities。
+[02:47.270 --> 02:49.810] Here's what Sora 2 can actually do right now.
+[02:49.810 --> 02:52.710] Emotional range & character work,
+[02:52.710 --> 02:55.370] prompt complex emotional sequences,
+[02:55.370 --> 02:59.870] 笑笑的轉換成驚喜、驚喜、感情
+[02:59.870 --> 03:02.370] 有很多不同的情感的情感
+[03:02.370 --> 03:04.370] 在一段9秒的影片中
+[03:04.370 --> 03:07.370] 有無法改善的轉換
+[03:07.370 --> 03:09.870] 世界理解和 context
+[03:09.870 --> 03:11.370] Sora 2 也展現了
+[03:11.370 --> 03:13.870] 有很多不同的理解和文化
+[03:13.870 --> 03:17.370] 和言論和歷史
+[03:17.370 --> 03:19.370] 它可以用相關的概念
+[03:19.370 --> 03:21.370] 像是男朋友的意思
+[03:21.370 --> 03:23.870] 而它們能夠完全不同的風格
+[03:23.870 --> 03:28.470] 例如,動畫,保持最高的社會動畫和感情,
+[03:28.470 --> 03:31.070] 動畫和精華的精華,
+[03:31.070 --> 03:32.870] 發展戰場景,
+[03:32.870 --> 03:34.470] 發展精華的精華,
+[03:34.470 --> 03:36.670] 創造精華的精華,
+[03:36.670 --> 03:38.670] 創造故事,
+[03:38.670 --> 03:40.470] 發展精華的精華,
+[03:40.470 --> 03:42.870] 發展精華的精華,
+[03:42.870 --> 03:44.270] 和聲音的精華,
+[03:44.270 --> 03:48.070] 發展精華的精華,
+[03:48.070 --> 03:50.670] 這提出了非常大的問題,
+[03:50.670 --> 03:52.870] 未必已經解決了,
+[03:52.870 --> 03:54.470] Multiple Visual Styles
+[03:54.470 --> 03:56.350] Sora 2 Handles
+[03:56.350 --> 03:58.390] Photo Realistic Footage
+[03:58.390 --> 04:00.790] Anime and Manga Styles
+[04:00.790 --> 04:02.430] 3D Animation
+[04:02.430 --> 04:03.510] Claimation
+[04:03.510 --> 04:06.110] Commercial and Advertising Aesthetics
+[04:06.110 --> 04:07.910] Documentary Style Content
+[04:07.910 --> 04:09.710] Each with appropriate lighting,
+[04:09.710 --> 04:11.750] Camera work, and audio design
+[04:11.750 --> 04:14.710] The Cameo feature is scalable personalization
+[04:14.710 --> 04:16.870] Here's where things get transformative
+[04:16.870 --> 04:18.870] Sora 2's Cameo feature
+[04:18.870 --> 04:21.870] 可以令你創造一種人物的A.I.模式
+[04:21.870 --> 04:24.870] 從短片剪輯
+[04:24.870 --> 04:29.870] 當創作時,那人可以放在任何創作中
+[04:29.870 --> 04:32.870] 例如,你可以創造一種音樂影片
+[04:32.870 --> 04:34.870] 由某人的Cappy Barras
+[04:34.870 --> 04:38.870] 完成音樂曲、音樂曲、
+[04:38.870 --> 04:40.870] 音樂曲、音樂曲、
+[04:40.870 --> 04:42.870] 音樂曲、音樂曲、
+[04:42.870 --> 04:44.870] 音樂曲、音樂曲、
+[04:44.870 --> 04:46.870] 音樂曲、音樂曲、
+[04:46.870 --> 04:48.870] 或是教育影片
+[04:48.870 --> 04:50.870] 在不同的 contexts 中
+[04:50.870 --> 04:52.870] 在同一人的各種各样的
+[04:52.870 --> 04:54.870] 相同的影片
+[04:54.870 --> 04:56.870] 教育和企業的
+[04:56.870 --> 04:58.870] 是非常大的影響
+[04:58.870 --> 05:00.870] 一旦一旦一旦一旦
+[05:00.870 --> 05:02.870] 一旦一旦一旦
+[05:02.870 --> 05:04.870] 一旦一旦一旦
+[05:04.870 --> 05:06.870] 一旦一旦一旦
+[05:06.870 --> 05:08.870] 一旦一旦一旦
+[05:08.870 --> 05:10.870] Sora 2 也不完美
+[05:10.870 --> 05:12.870] 這就是真正的負責
+[05:12.870 --> 05:14.870] 一旦一旦一旦
+[05:14.870 --> 05:17.590] Mallet handles gymnastics and athletics well
+[05:17.590 --> 05:22.630] certain complex movements like breakdancing can cause anatomical issues
+[05:22.630 --> 05:25.270] Limbs warp proportions break
+[05:25.270 --> 05:29.190] results aren't consistent across all motion types
+[05:29.190 --> 05:32.230] motion graphics and data visualization
+[05:32.230 --> 05:36.630] Sora 2 struggles with accurate maps and geographic representations
+[05:36.630 --> 05:38.710] technical diagrams and charts
+[05:38.710 --> 05:40.950] mathematical visualizations
+[05:40.950 --> 05:44.070] musical notation and instrument mechanics
+[05:44.070 --> 05:46.310] Text often becomes gibberish.
+[05:46.310 --> 05:49.150] Diagrams make no logical sense.
+[05:49.150 --> 05:52.510] Specialized knowledge domains are unreliable.
+[05:52.510 --> 05:54.550] Strict content moderation.
+[05:54.550 --> 05:57.390] Heavy censorship exists around.
+[05:57.390 --> 06:00.630] Celebrity likenesses and public figures.
+[06:00.630 --> 06:02.430] Third party brand mentions.
+[06:02.430 --> 06:05.990] Photo realistic faces in uploaded images.
+[06:05.990 --> 06:08.270] Potentially controversial content.
+[06:08.270 --> 06:11.510] The only approved method for including real people
+[06:11.510 --> 06:13.990] is through the controlled cameo system.
+[06:13.990 --> 06:15.990] 而是需要確認
+[06:15.990 --> 06:17.990] 但是不太好
+[06:17.990 --> 06:19.990] 當比對比賽者
+[06:19.990 --> 06:21.990] 如Kling 2.5
+[06:21.990 --> 06:23.990] Veo
+[06:23.990 --> 06:24.990] 和Hilo
+[06:24.990 --> 06:25.990] Sora 2不常贏
+[06:25.990 --> 06:26.990] 某些項目
+[06:26.990 --> 06:27.990] 是更好運用
+[06:27.990 --> 06:28.990] 其他網站
+[06:28.990 --> 06:29.990] 特別是
+[06:29.990 --> 06:31.990] 某些場景
+[06:31.990 --> 06:32.990] 特別是
+[06:32.990 --> 06:33.990] 戰鬥軌道
+[06:33.990 --> 06:34.990] 以及
+[06:34.990 --> 06:36.990] 3D動作的風格
+[06:36.990 --> 06:38.990] Sora 2是最好的
+[06:38.990 --> 06:39.990] 但並非
+[06:39.990 --> 06:40.990] 無論是一種
+[06:40.990 --> 06:42.990] 每個使用
+[06:42.990 --> 06:44.750] The platform play.
+[06:44.750 --> 06:46.790] Social media takeover.
+[06:46.790 --> 06:48.190] Here's what most people are missing.
+[06:48.190 --> 06:50.090] Sora isn't just a tool.
+[06:50.090 --> 06:51.490] It's a platform.
+[06:51.490 --> 06:55.690] The Sora interface isn't designed like a traditional video generator.
+[06:55.690 --> 06:57.990] It's designed like TikTok.
+[06:57.990 --> 07:05.390] There's a content feed, profiles, comments, trending pages, discovery algorithms.
+[07:05.390 --> 07:11.290] Users are already creating AI native content that's going viral within the platform.
+[07:11.290 --> 07:13.850] 這項影片有新的項目
+[07:13.850 --> 07:16.410] 影片可以只做到
+[07:16.410 --> 07:18.210] A.I. Generation
+[07:18.210 --> 07:19.750] 不只是傳統的影片
+[07:19.750 --> 07:23.070] A.I. Open isn't competing with Runway or Pika
+[07:23.070 --> 07:27.410] A.I. is competing with TikTok, Instagram, and YouTube Shorts
+[07:27.410 --> 07:31.510] A.I. is building the infrastructure for a new type of social media
+[07:31.510 --> 07:34.850] A.I. Generated content is the default
+[07:34.850 --> 07:36.110] Not the exception
+[07:36.110 --> 07:39.190] This is the birth of a new content medium
+[07:39.190 --> 07:41.650] And it's available without a Hollywood budget
+[07:41.650 --> 07:43.650] Avaluable at the tip of our fingers
+[07:43.650 --> 07:45.650] A world through words
+[07:45.650 --> 07:48.150] Let's talk access and pricing
+[07:48.150 --> 07:49.950] How to access Sora 2 right now?
+[07:49.950 --> 07:52.650] Step 1. It download the iOS app
+[07:52.650 --> 07:54.850] Android support is not yet available
+[07:54.850 --> 07:57.850] Step 2. Sign up and join the waitlist
+[07:57.850 --> 08:00.550] Current rollout is limited to the US and Canada
+[08:00.550 --> 08:03.250] With plans for international expansion
+[08:03.250 --> 08:05.450] Step 3. Wait for an invite code
+[08:05.450 --> 08:07.450] Then enter it at Sora.com
+[08:07.450 --> 08:14.290] 現在的價錢是約100個影片一天
+[08:14.290 --> 08:18.910] 這可能會改變它們的進度和進度
+[08:18.910 --> 08:21.310] 那些不接受的選項是
+[08:21.310 --> 08:23.210] 等待交易
+[08:23.210 --> 08:26.650] 觀看社交網站的交通
+[08:26.650 --> 08:30.490] 或者觀看更多的公共廣告
+[08:30.490 --> 08:31.650] 最大的圖片
+[08:31.650 --> 08:33.650] AI通過描述
+[08:33.650 --> 08:36.050] 這裡是真正的故事
+[08:36.050 --> 08:38.350] open AI states explicitly
+[08:38.350 --> 08:41.550] The Sora team has been focused on training models
+[08:41.550 --> 08:45.050] with more advanced world simulation capabilities
+[08:45.050 --> 08:48.130] we believe such systems will be critical
+[08:48.130 --> 08:49.990] for training AI models
+[08:49.990 --> 08:53.050] That deeply understand the physical world
+[08:53.050 --> 08:54.150] Translation
+[08:54.150 --> 08:55.750] Sora is a stepping stone
+[08:55.750 --> 08:58.550] to artificial general intelligence
+[08:58.550 --> 09:00.350] These world simulation models
+[09:00.350 --> 09:02.850] not primarily for content creators
+[09:02.850 --> 09:05.450] therefor training embodied AI
+[09:05.450 --> 09:10.790] Robots that need to understand physics, spatial relationships, cause and effect,
+[09:10.790 --> 09:14.270] and real world dynamics before deployment.
+[09:14.270 --> 09:21.650] It's cheaper and safer to let AI learn in high fidelity simulations than in physical environments.
+[09:21.650 --> 09:25.910] Once AI masters world simulation through tools like Sora,
+[09:25.910 --> 09:28.830] the next phase is physical embodiment.
+[09:28.830 --> 09:32.190] What we're watching isn't just better video generation,
+[09:32.190 --> 09:36.790] A.I. learning how reality fundamentally works.
+[09:36.790 --> 09:39.990] The bottom line. Here's the verdict.
+[09:39.990 --> 09:43.590] What Sora2 does better than anything?
+[09:43.590 --> 09:48.790] Physics simulation for complex motion, water dynamics, and body mechanics.
+[09:48.790 --> 09:53.390] Integrated audio that's contextually appropriate and well-synced.
+[09:53.390 --> 09:57.190] Anime and character generation with narrative coherence.
+[09:57.190 --> 10:00.190] Emotional range and facial expressions.
+[10:00.190 --> 10:04.630] 以簡單的文章寫法所提供的歷史
+[10:04.630 --> 10:08.270] 、隱形化、 personalization 、 通過 キャミオ 系統
+[10:08.270 --> 10:13.910] 、 動作、 技術、 技術、 視線
+[10:13.910 --> 10:17.990] 、 堅持高級的 蠻有趣的 動作
+[10:17.990 --> 10:21.110] Content moderation creates creative limitations
+[10:21.110 --> 10:25.990] not universally superior to all competitors for every use case
+[10:25.990 --> 10:27.590] but here's what matters
+[10:27.590 --> 10:30.550] This is the worst Sora will ever be
+[10:30.550 --> 10:35.510] Every iteration from here forward will be exponentially better
+[10:35.510 --> 10:37.910] We're not years away from AI generated films
+[10:37.910 --> 10:39.430] We're months away
+[10:39.430 --> 10:42.950] The social media platform play is strategic genius
+[10:42.950 --> 10:46.790] Open AI isn't waiting for creators to adopt their tool
+[10:46.790 --> 10:52.290] 他们在建立新的建议 Where AI  native content becomes the new standard
+[10:52.290 --> 10:53.690] final thoughts
+[10:53.690 --> 10:56.490] Whether you're terrified or excited about this
+[10:56.490 --> 10:58.110] one thing is certain
+[10:58.110 --> 11:01.810] the content creation landscape just fundamentally changed
+[11:01.810 --> 11:07.930] The question isn't whether AI will replace traditional video production for certain use cases
+[11:07.930 --> 11:13.550] It's whether you're going to be someone who leverages these tools to amplify creative output
+[11:13.550 --> 11:19.430] or someone left behind because you refused to adapt to the new paradigm
