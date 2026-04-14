@@ -1,0 +1,683 @@
+早安
+今天我們有一個免費的東西
+我們會發展CHAGPPT的Agent
+但之前在進行這個
+我想請大家介紹一下
+開始 with Yash
+嗨,我是Yash
+我是Agent Team
+之前我曾經是工作的創作人
+嗨,我是志卿
+我是Agent Research
+我是Dep Research
+嗨,我是KC
+我是Agent's
+創作人
+嗨,我是Isa
+我是Agent的創作人
+創作人
+我們開始發展創作人
+我們發展了資料、發展手機
+大家很興奮
+大家可以看到
+現在AI已經有足夠的
+作為他們的 complex tasks
+但我們知道
+他們真的想要的
+是為了讓我們
+把這些能量和更多的能量
+他們想要一個 unified agent
+可以通過自己的 computer
+作為他們的 complex tasks
+可以從想法中
+通過什麼東西
+去做動作
+用很多的 tools
+用 電腦 通過網站
+在網站上 甚至在製作東西
+例如傳輸和輸出 更多
+人們想做這個在長時間製作
+而是為了擁有的領導
+所以團隊已經很努力
+把這項合作
+今天我們有CHAGBIT agent
+它是比較容易的
+讓大家繼續跟我們分享
+它是一種讓大家感受
+讓我看著工作的瞬間
+讓我們看看
+謝謝Sam
+大家好
+很期待分享CHAGBIT agent
+跟大家一起
+而像 Sam 說,我們先進入檔案
+我們在 chat.gbd 上,我們都知道和愛
+然後,按選擇的按鍵
+你只要按選擇的選擇,選擇按鍵
+你可以選擇按鍵,按選擇的選擇
+按選擇的選擇,然後按選擇按鍵
+Edward 和我會去結婚,在這年後
+是一位美女的朋友
+我們應該要有個旅行團隊嗎?
+對,我們去做,我需要一個奧運
+不要忘記禮物
+對,我們不會忘記禮物
+它是一個比較長的鑽石
+我已經有它在我的手袋裡
+所以我只會先試試看
+好,我們來看看
+我們朋友們在這裡
+我們跟Sara和Minia一起聊天
+我們想讓我們找到一個方法
+可以合作為衣服
+提供幾個選擇
+好,充滿氣質
+拿到電子櫃子和風
+我們也想找到一些酒店
+還有,像Edward說的
+不要忘記送禮物
+我們來看看
+Send the prompt away
+As Sam said, agent uses a computer
+So in the beginning it sets up its environment
+It will take a minute or two or not really five seconds to set up its environment
+And in this case as you see it understands the prompt
+It's asking for me for a clarification
+I'm just going to let it just continue and work anyway
+I think it got confused by saying
+Oh where is the what exactly is the time of the date of the wedding
+I think it'll figure out using the website.
+Ok cool.
+So now it's kicked off.
+It's starting the process they prompt.
+And it's open up a browser.
+And to walk you through what's happening,
+here's the set.
+Yeah.
+So as mentioned,
+we gave the agent access to its own virtual computer.
+And the computer has many different tools installed.
+And it can choose which to use as it's working through the task.
+So in chat GPT,
+you can see a visualization of the agent's computer screen.
+And you can see Overlay,
+it's chain of thought and text.
+那是它想的, 作為它進行的目標
+可以決定什麼要做接下來
+我們給了Agent Access
+兩種方式去搜尋網絡
+首先, 我們給了它一個文字
+這是像深學的研究 tool
+這是讓它能夠很快地
+搜尋很多網頁的網頁
+我們也給了AXS to a visual browser
+這是像Operator tool
+這是讓它能夠跟UI 跟網頁的交換
+可以用東西, 用 cursor 去按
+它可以開啟UI 和用語言
+它可以把文件寫出來
+和用語言寫進入文件的部分
+它很有力氣
+所以這兩個技術是非常有複雜的
+然後我們也給它有足夠的足夠的電腦
+所以它可以運用電腦
+也能有足夠的測試和調整
+例如 slide decks 和 spread sheets
+然後通過電腦
+它也能夠叫作 API
+所以公開 API 和 API
+能夠有足夠的資料
+例如 Google Drive  Google Calendar
+GitHub 和 SharePoint 和許多別的
+另外只能夠直接能令它能夠連接
+有另一個過程的專頁
+然後也有影像圖平機可以可以
+令它有合約的令它能夠
+以等於標準改善的行動作用
+這一步怎麼解決
+我們要換模式改變成
+可以和這項能量改變
+這是我們改變的第一模式
+由這個建設機的瓦克斯
+由臺博士,與阿倫博士
+or in one virtual machine.
+To guide its learning,
+we created hard tasks
+that require using all these tools.
+This allows the model not only
+to learn how to use these tools
+but also when to use which tools
+depending on the task at hand.
+At the beginning of the training,
+the model might attempt to use all these tools
+to solve a relatively simple problem.
+Over time,
+as we reward the model for solving problems
+correctly and efficiently,
+Model will expect smarter to a choice
+For example, if we ask model to find a restaurant with specific requirements,
+and make a reservation,
+the model may typically just start a deep research in text browser to find some candidates.
+then switch to the GUI Browser to view photos of food,
+check availability,
+and complete the booking
+similarly, for creative task like creating an artifact,
+the model will first search online for public resources,
+then switch to the terminal to do some code editing to compile the artifact,
+and finally verify the final output in the GUI browser.
+With this, we truly feel like we brought together the best of deep research and operator,
+and added some extra sparkle.
+That's right.
+對,所以,如果要將這項目做成一個新的項目,我想給大家一些歷史
+我們幾個月前,我們移動了運動員,在香港
+這是我們的行動員,讓我們用網絡的項目,例如寄信息和發送電郵
+兩星期後,我們移動了深層的資料
+深層的資料是一個項目,讓我們用深層的網路資料
+和高級資料的報告
+We realized that these two approaches are deeply complementary.
+For example, operator has some trouble reading super long articles.
+It has to scroll, it takes a long time.
+But that is something deep research is good at.
+Comparatively, operator isn't as good at interacting with web pages,
+broadcasting elements, highly visual web pages.
+But that is something operator does that.
+所以,我們認為這些方式是複雜的
+我們也在看一些客人的資訊
+例如,我們最高的資訊項目是
+能夠在網上搜尋到更多的資訊
+這是一個可以做的工作
+還等待了很久
+對
+我們在看一些資訊項目的
+我們看到他們是更多的資訊項目
+例如 計劃 寫作
+所以我們覺得我們在這裡 最好是在一起
+我們都在一起 和朋友一起玩
+很開心 和我們一起工作
+所以說到 《Match》是在天上
+怎麼是婚禮計劃呢
+這很棒 這是個例子
+我喜歡做這個 像劇情一樣
+我喜歡做這幾個小時
+就像我一樣 看這個
+大家在聊 看這個
+整個東西都很明顯
+對,完全
+看起來,它開始了
+在採取天空
+一個很好的特點是
+這些項目可以長久一點
+你就可以回到網上看它在做什麼
+我們就這樣做
+看起來,它用網站去使用
+用筆記的網路
+現在,它正在看著
+Suth's Fredward
+我想它會找到一些好東西
+這裡,它可以看到
+它其實是一個視角的網路
+所以我看起來很不錯
+然後現在看起來很像
+在穿著衣服
+在做什麼
+還在穿著衣服
+現在可能在送給禮物
+好,這會 take a while
+像Sam said,這件衣服
+有時候會 take a long time
+所以它會繼續做
+希望會更快的
+我們會做什麼
+做什麼
+我覺得Twin really wanted the stickers
+一些 sticker for the launch
+我們要做什麼
+So we have a Team mascot,which is one of our colleagues Bernie Duel,really,really cute to live.
+Ummm,and we're gonna try and get some laptop stickers for everybody.
+Ummm,one of the favorite features for agent is,
+Given the trajectories can take 15 minutes,30 minutes,30 minutes,
+Depending on the complexity of the task,um,a lot of times you might need to help the agent.
+Agent might need to ask your clarifications,confirmations and things like that.
+Umm,so I love to use it on the go.
+所以我用電話 to send the query this time and see how it goes
+ok so let's see
+ok so we are on chargeability
+ah I have already selected the agent mode
+I have also inputted our
+cute mascot
+and I'm going to quickly paste a query
+so query says make some swag for the team
+one by one laptop stickers and order 500 of them
+I'll also say I like sticker meal
+which we have used in the past
+and send it off
+OK,So just like it was doing on the web
+It's going to take some time
+think about like what's it doing
+and it will kickoff, kickoff the query
+and as it's going, it will take some time to kick it off
+Is it? Oh, there we go
+So, it will start working on it
+Looks like it's starting to create the anime art
+It will probably use Image and the ESA refer earlier on
+to create hopefully an anime art
+We'll see how it comes out
+Well that's going. Anything else we want to do?
+Oh yeah, I also need a pair of shoes
+because my shoes got damaged
+他們怎麼受到傷害
+是在SF
+在SF
+是
+好
+好,我們來看看Edward的衣服
+你也能找到
+Pair of men's dress
+Black shoes in size
+9.5
+9.5
+所以,一個最重要的技術
+是能夠進入
+我覺得,Astrojectives
+會長時間,或者什麼
+所以我們需要用多點時間
+讓使用者能進行進行
+使用者能夠進行進行
+使用者能夠給予更多的介紹
+更多介紹 什麼都要做
+這就是我們在做的
+我們基本上
+馬路在進行 找出所有的問題
+我們問過了
+我們基本上說
+我們可以給我們一堆
+黑色的手機
+現在已經考慮了
+很快就能拿到帳號
+繼續進行進行進行
+所以它說,它說,它說,它說,OK,好,我會學習黑色的,
+然後它會在這方面,但是你可能可以告訴我們
+更多如何做到的
+對,當然
+所以,你能看到,Agent是非常合作的
+這件事是很重要的
+我們在訓練模型和建造產品
+如果你是問了別人,你會有一個任務
+讓你花了很長時間完成
+你可能會給他們一些訓練
+然後他們會問你一些確訊
+然后他们开始计划
+可能会发现
+他们需要更多的证据
+或者需要你的输入
+进入到某些地方
+或在你的身上做一些事情
+然后你会发现
+我忘了要提到这个
+或者是你的目标
+你怎么做
+能否帮助你连续开
+如果你是在连续开的
+或什么的
+所以 similarly
+这些非常长远的计划
+很重要的是
+使用者和经理
+能够开始
+交流 with each other
+所以经理能够
+最好帮助你
+在你的计划
+所以这是我们
+我們也曾經訓練到模特兒
+我們也曾經訓練到
+能夠問清楚問題
+並非每個時間像深學
+我們也曾經訓練到
+能夠讓Yash為我們介紹
+也曾經訓練到
+能夠問清楚問題
+並且訓練到中間的確診
+對
+部分是
+工作的部分
+是
+有時候會做錯的
+所以我們覺得
+很重要訓練模特兒
+來問你確診
+在最後一步的重要步驟
+所以譬如說,之前會發郵件,
+會問你去看電腦,
+看它有什麼意思,
+看它有什麼可靠的類別
+如果有的話,
+你可以問它去接觸,
+或者直接拿到網絡,
+然後直接進入電腦的環境,
+然後再接觸它
+這樣,它會感到有合作的,
+然後你可以跟電腦合作
+我們來看看,
+我們再看一段 demo 看看
+我們用了這傳統的傳統 傳統 傳統
+用了我們的新的模式 去屬於自己的價值
+或做什麼的 什麼的
+我們可以做到
+我們可以做到
+我們應該會愛知道 如何好看的模式
+對
+這是一個註明
+我們之前給了 昨天的 職業
+所以我們要問模式
+由GoogleJab的連結和信用帳戶的量度
+我們想保持一個簡單的不是教訓
+沒有對決的
+只是給大家評價的結果
+你可以看到現在的模式
+正在連結GoogleJab API
+然後再向伸展 API
+現在看起來
+第一個結果很重要
+所以先看了第一個結果
+現在先看了第一個結果
+我们来描述一下这个设计
+所以,然后,模特儿将从设计中重新写出
+然后写下词
+所以,这里,我们可以看到
+模特儿在用画面的形象模特儿
+叫画面的形象模特儿
+来则则写下一些设计
+我们看看第一个设计的模特儿
+所以,这里,模特儿写下词
+这些是最后一条的设计
+这就是第一条设计
+在这条设计里的模式里
+看起来还不错
+但还不够够的
+一个最重要的功能
+在设计中的学习
+是模式里的自己的结构
+和结构的结构
+来达到最后一条设计
+我们看看
+最后的模式给我们的结构
+我们可以点出
+然后模特儿给我们一个好评论
+所以这是一个实用评论
+可以下落
+然后打开在哪个车辑里
+打开它
+在公司里
+我们先介绍一下
+模特儿刚发生的设计
+首先是智能码
+人体的最后一项是
+码是能够拆除
+我們可以解決大量的問題
+我們調整了模式的兩種設計
+使用和無法使用
+我們可以看到
+在電腦模式上
+電腦的能量已經很高
+並且使用了所有的設計
+將會提升到42%
+我們調整模式的性能
+在人類的最後一步
+尤其是使用了螢幕的能量
+我们有两层的重新认识
+让我们确定
+这种模式不在这种模式上
+FrontierMess是一个模式
+在研究的方式
+和计划的方式
+从我们的基础来说
+O4 Mini和O3
+用Python的方式
+用功能的方式
+我们给了Agent模式
+或其他功能的技术
+例如一台网
+一台电话网
+和一台电话网
+Agent却达了新的数据
+27%在这种模式上
+在这些图案里用这些图案的帮助
+接下来,我们将移动到2个安排图案的模式
+Web Arena是一个图案
+它能够帮助到硬带的硬带
+所以,我们将帮助到硬带的硬带
+硬带模式
+达到前面的O3模式,它能够帮助到硬带
+Browse Comp是一个图案
+我们在这一年之前介绍的模式
+它能够帮助到硬带的硬带
+搜尋和找到如何找到資料
+Agent Model 代表外表O3和D-presearch
+在這頁面
+達到69%的頁面
+最後我們要注意
+如何使用使用的方式
+在現實世界
+Spreadsheet Bench
+是頁面
+使用的方式
+使用的方式
+從現實世界的使用頁面上
+由于这种模式的区域和电脑技术已经提供了30%的拘调
+当我们将模式提供到各种设备的基础计算
+即将提升了表现至45%
+接下来我们将计算到电脑的内容
+这些计算有无可解决的技能
+按照相对基础计划的为预测
+铺合三条文件的补充
+将提升到500亿
+在这变形设计中
+设计模式
+将迅速的进行
+调整的设计模式
+和设计模式
+您可以看到
+这个模式
+我们的尚显设计模式是最强大的
+也不仅仅好在变形设计中
+也能够发展,组织,组织,和练习,
+在一段时间中,我们不能想象下,
+三月之后。
+对了。
+像Edward说,
+我们认为我们继续成为一个非常强大的模式,
+而很多的力量,
+可以从它们的能量,
+组织网上网络。
+我们知道,网络可以是一个很可怕的地方,
+有很多的网络,
+在试试,
+网络,
+在试试,
+Agent isn't immune to all these things.
+One particular thing we're worried about is a new attack called prompt injections.
+This is where, let's say you ask agent to buy you a book
+and you give it your credit card information to do that.
+Agent might stumble upon a malicious website that asks it,
+Oh, enter your credit card information here.
+It'll help you with your task.
+Agent,which is trained to be helpful,
+might decide that's a good idea.
+We've done a lot of work to try to ensure that this doesn't happen.
+We've trained our model to ignore suspicious instructions on suspicious websites.
+We also have layers of monitors that kind of peer over the agent's shoulder
+and watch it as it's going,
+and stop the trajectory if anything looks suspicious.
+We can even update these in real time
+如果新的攻擊力在 wild 中
+這說到這,這是一個切割的產品
+這是新的 surface
+我們不能停止所有東西
+所以我覺得很重要
+讓觀眾知道
+有關的問題
+使用 agent
+我們要求使用者
+可以在想
+如何分享他們的資料
+如果是很感情的資料
+也許不分享
+我們可以用
+我們的技術
+例如 takeover mode
+直接把卡里卡里的資料放進去
+進入搜索 並且給它的經驗
+我們感覺到我們有建立了一個很強大的產品
+但 再次 這是很重要的
+使用者們明白問題的因素
+對 我想要說明一下
+這就是新的能量和能量
+這就是新的方式 但會有新的激動
+和社會和技術的分析
+我們必須要學習和學習
+如何去修改 這些東西
+A.S. people start doing one more work this way.
+Before we wrap up should we check in some of the tasks you kicked off.
+Yes let's do it.
+Okay so I'm going to open a new tab
+and make sure that we can see the progress of our stickers as well.
+Okay, let's see.
+So sounds like stickers are ready.
+Let me see what yeah.
+So cool thing.
+这就是结构结构的结果
+七分钟之内
+非常高兴起来
+整个质源都会回到质源
+看看它怎么做
+但结构结构就像
+它是加了卡
+这是质源
+我可以先看看
+然后再看看
+我可以再把质源
+当时KC说
+质源质源进入质源
+然后再把质源放在质源
+很快地
+调查质源
+等等
+就像是做的
+我们就快点去质源
+我們可以看它是否做到
+它好像有些貼紙
+那是我們準備的
+我會把貼紙拿出來
+好,那就是這個問題
+我可以在這時候完成
+或問問它是否做到
+我們可以看看
+婚禮,OK
+好,看起來
+已經完成了
+好,所以
+我們說了
+我們在看酒店
+也有衣服
+所以
+它是一個很完美的報告
+好像是
+婚宴 日子 日子
+還有這個衣服
+衣服 衣服
+它就像我現在的衣服推薦
+那樣可以買
+現在我可以去買自己
+或是我可以問我的
+我可以去買
+也有理解
+腿部 腿部的選項
+它其實是看透
+所有的
+抱歉
+它看透了
+在這個情況下,我們用booking.com,可以做到的
+也有給我提供了,等等,我會問你
+你問我,如果需要助手,買了任何物品
+或有任何更新的,讓我看看
+我們可以做到的
+我想分享一個最後的 demo
+我們沒有實行過,但我覺得很酷
+尤其是因為大家們正在結婚
+我們問了他們,他們說
+他們想要做什麼,他們說
+我們請了一位總事
+去建立一個最好的圖案
+去預約30個MLV的地區
+以至於你認為這是好處
+然後設計最好的圖案
+開設好夜宵
+還有什麼不
+然後發展最後的計劃
+我會很快地進行這個
+我覺得是很開心的
+我們也有展示過
+It is shown throughout the live stream
+It uses a multitude of tools
+It uses container, the terminal
+It's using the browser
+Working through all the details
+It will probably use again back to the browser
+Figuring out how the kitty lights
+And then
+Sport stadium and whatnot
+Oh, let's see
+Oh, there you go
+Map building a map
+Using code to actually build it out
+And then overall we get like a pretty solid result
+I think
+At the end takes 25 minutes to work
+季節開始之後,還有一個遍佈的編號
+你可以儘快地觀看
+在 inside
+just right inside chat GBD
+可以 map the journey
+cool looking map I guess
+and that's it
+So this is chat gbd agent
+we hope you really like it
+and over to Sam
+amazing work,all of you and and to your teams
+this is I think a really something that's gonna help people get work done
+and have more time to do things they want to do
+I think it's really amazing how much you've brought together
+to deliver this experience
+and watching the agent
+使用網絡,做這些傳統,做一些能量
+做這些工作,是很棒的
+我們今天會進行一輪,
+在專頁和團體的使用者
+專頁的使用者會獲得400個區域
+專頁的使用者會獲得40個個區域
+製作者會結束在最後的一天
+在專頁和團體的使用者很快就會獲得
+我們會在這幾個月的結束
+和領導者會獲得
+像你剛才所說,
+這就是一個非常有趣的新技術
+有新的危險
+人們學會用網路,通常都會用到
+當然,他們仍然有驚訝和攻擊
+人們會需要用AI的手機
+社會需要學會建立防禦
+攻擊AI的手機
+所以我們開始了
+有很多的防禦系統
+我們會放鬆一下
+在時間中,人們會更舒適
+但我們需要人們
+作為新技術和新的危險
+使用所有的招式
+像Kasey說的
+但這說法,我們希望你會喜歡
+這還很早前,我們會快速改變它
+我們很期待看到它們的全程
+所以恭喜你!
+謝謝你!希望你享受
