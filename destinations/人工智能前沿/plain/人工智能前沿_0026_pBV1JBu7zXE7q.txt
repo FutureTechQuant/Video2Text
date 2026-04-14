@@ -1,0 +1,1165 @@
+你會更快地進行
+而且它是一個很高的速度
+你只要有速度
+我每次在Twitter的留言中
+Google I.O. last year was AI Overview
+Proplexity is dead
+Sera was AI mode and Proplexity is dead
+我每次都在Twitter的留言中
+我喜歡它
+Aaron,我每天看到你
+兩至三個月
+你給我一個更新的報告
+你為什麼不告訴這些人
+你为什么不说这些话
+你怎么在哪儿
+怎么回事
+大家用了评论吗
+你们用评论吗
+不过相信还是没有
+我每天都用了评论
+所以有很多人用了评论
+这个评论是在维持的
+至于我们没有
+能够跟它相对
+我们要再次重新设计
+to scale the next 10x
+So definitely a lot of people in the world using it
+Thanks to all of you as well
+What is next for us?
+The browser
+That's the big bet we are making
+As far as the future of the company goes
+Everyone here is like
+Why should I use perplexity
+When there's search and other AI apps
+Of course chat gpt has a bigger distribution than us
+Every other AI app is trying to put
+Search as a layer in it
+All of them support citations
+A lot of them support some of the verticals
+我们会继续更好
+than others in that category
+但是我觉得
+我们的主动传统
+是我们想做的
+我们想起来
+是一个主动传统
+比一个完全自然的主动传统
+但是一个主动传统
+你能够购买
+你能够问情的购买
+你能够举行的质疑
+你能够拥有你的AI
+你能够发新的购买
+你能够使用你的传统
+Makes the browser feel more like a cognitive operating system
+rather than just yet another browser.
+And we hope to make it like a cloud
+where you launch several tasks in parallel
+that are running asynchronously
+and pulling all your personal contexts.
+Your email, your calendar, your Amazon.
+You know, all sorts of social media accounts that you have.
+And you go and do research on real estate, the markets.
+这些都是在网上的经济
+这些都没有可能
+优优的经济是很重要的
+每个网上的网上都会有自己的网络
+这就是我们新网络的新闻
+所以我们将把所有的网络都放在网上
+这会是很难的问题
+但是从你把网络修好了
+我会做到的
+如果如果 Sam Altman 还在这一天
+他会说
+我们做的就是这样
+and I think
+Sundar at Google probably would say that's the direction we're headed as well.
+So it feels like there are a bunch of players now many of them very well funded going in generally the same direction.
+How do you see the world like do you think that there's gonna
+It's gonna play out where there's actually like a bunch of different use cases and you can own a very important one that others won't want to own
+Or are we in for like a major competitive battle
+如果有些事情是真的,
+就很自然,
+人們會有很多資料,
+會做到的。
+人們說,
+財經是個很好的產品,
+現在大家都在做一些
+能回答的問題,
+用資料來回答,
+貨品是個很好的產品,
+現在OpenAS在買貨品的
+公司,
+企業,
+企業,
+例如Claude Code,
+Google有自己的財經,
+所以就很自然,
+很多钱要做在一个专业的市场上
+人们会尽力去封闭
+而且有限量的东西可以在世界上
+比如在建议上
+建议上有一个或两个很好的购买
+所以我们一定不会尽力去尽力
+我们只要在解决
+在解决程序上的答案
+在解决程序上的策划
+在固定所有不同的技术
+网络比较快
+然後還有一個訊息
+這就說了
+我完全正在作出
+以為 OpenAI 也會建立自己的網絡
+Anthropic 也會建立自己的網絡
+Google 已經有一個
+所以完全是為了使他們做的
+你只要有速度
+你要更快地進行
+要更快地進行
+而它是像在走一條路
+但在非常高的速度
+我真的同意你的說明
+你只能在世界上
+在世界上
+給大家一個小的
+小的聲音
+我們在前面的討論中
+我們都在討論中
+他在給我看看
+一些新的東西
+他們在工作
+還有一個大小的
+他把所有事情
+他在做的
+去解決
+他在這個大小的
+為什麼不做對的
+如果你想想
+這個大小的
+會不會是
+在這個情況下
+他們會
+把他們的
+對方的隊伍
+這樣
+是一個很好的
+你也會說什麼
+我喜歡在短短的內容中
+試圖發揮
+我還知道這類語言
+是最好的用途
+在 CEO 時期
+有很多人會想
+最近的觀眾
+好像
+我希望這些行動
+會改變
+還有別人
+也有看到
+Sunder 在現在
+在X 上
+我都很高興
+在設置一個好例子
+好 回到最初
+大家在觀眾中
+也就是在這裏的學生
+或是學生的學生
+我認為聽你的故事
+如何開始
+會很有趣
+因為這就是
+現在的世界
+我們開始了
+我們開始了
+不需要有理解
+什麼建設
+這是對於
+YC的建設
+開始從項目
+然後再進行
+我認為
+在這個時候
+伸展得那么快
+你没有必要确定
+想起一个想法
+最重要的东西是
+你不需要每个星期的想法
+这样你不应该做
+所以
+开始一些
+想起一个想法
+然后立刻建立
+然后拿到人手里
+我们的一个技术
+是自然的语言
+我们其实想起一个
+relational databases
+i allowed twitter search
+but it never like like the original version of facebook graph search
+i allowed that when i was much younger
+so i wanted to like rebuild that
+but using language models
+um and i allowed twitter as a platform so
+it was there's no good way to search over twitter
+there still is no good way to search over twitter
+but at least at the time we
+organize the entire twitter's data in the form of like relational tables
+and just converted every user's
+query into a sequel query
+and ran it as against the database
+and it was really really good
+and that's what got us started
+but at some point we figured
+it's better to scale this across the web
+and we cannot make every website
+in the form of tables
+and neither is it actually easy to answer
+all sorts of questions
+so we bet on the fact that language models
+can do all the reasoning and parsing
+and structuring later
+but the more important thing is to start
+就變成了一個更不均衡的情況
+那變成了一個更不均衡的情況
+明白
+可能一步前你還要開始開設公司
+你怎麼找到你的副副副
+你怎麼決定
+那你喜歡的機器學習
+還有那種工具
+你喜歡的地方
+因為那是我最好的東西
+我沒有好東西
+那是什麼意思
+我從事公司
+我從事公司
+或是社交媒體公司
+我並不是對的
+我只知道
+新的技術和技術
+其實我們開始了一間技術公司
+但我們沒有做到
+我們自己的模式
+但我們沒有做到
+我們有很多不同的模式
+但這就是我們必須
+有了這個能力
+知道你對你的好處
+你對你的資料
+有什麼能力
+你對你的資料有什麼能力
+還有我們 co-founders
+我們是新的
+我們已經討論和討論過很多年
+我認為學校是一個很好的方式
+去發展航空機
+你不跟他們談論
+這個可能是航空機的未來公司
+你跟他們談論因為他們很有趣
+這個對航空機的價值是很重要的
+所以即使是你的第一開始
+你會有很多人的信任
+可能他們會成為未來的 co-founder
+這就是我所為的學校
+對,這很棒
+好,你發佈了這個最初的版本
+大致是在推特搜尋
+對
+你從何時開始開始
+你可能內心覺得
+我們應該繼續在這裏工作
+這是要做什麼來探索
+對,所以我們給了很早的資料
+他們都很興奮,用了它重新
+I think there is a phenomenon in
+Products where there is an initial
+WOW factor.
+And then mostly either drops
+Completically that that means
+He never had real retention or
+It definitely drops but there
+Sustained usage.
+So when we saw that for the
+Relational database search is
+Like Twitter, LinkedIn, GitHub.
+We knew that we had like
+There was something magical about
+Combininglarge language models
+In search.
+But then what we did is like
+We dream bigger and said
+What if we just give answers
+我們發展了這個資料
+那是一個非常重要的資料
+不是一個一天的使用
+而是人們開始不斷地在想
+我們決定了
+我們有空發展
+我們發展了7天
+之後的CHAT GPT發展
+尤其是在時間
+CHAT GPT沒有網站
+網站搜尋
+那是個好一刻
+我想很多
+有關的AI產品
+大家說的
+今天的Cursor
+包括
+全都是2022發展
+像2020年23年或2020年22年
+他們都是年輕人
+在AI時間上
+我認為AHA的時刻
+新年年度
+有700,000個櫃子
+我心想
+這叫做一名最糟糕的
+產品叫做Proplexity
+很難
+沒有人知道如何分享
+然後很慢
+7秒鐘的答案
+櫃子中的時間
+它在做很多錯誤和失誤的行為
+還有一個不名的公司、不名的創作人
+一百多萬美元的資金
+雖然那些人還要把視頻和新年活動
+和新年活動
+但你還可以在網上看電腦
+所以我才知道那是真的
+然後我開始在這次的活動
+開始擁有這個信念
+好,那時你對新年活動
+你心裡想著
+我會建立一個東西
+能夠跟Google一起比賽
+然後把市場賣出
+就像Google所說的
+還是只是一個玩具
+我第一次想起
+Google寫了一個博客
+Sunder寫了博客
+關於Bard
+那時候我們在發生
+A-Found
+大家說
+Bard要做什麼
+我問為什麼要建立Bard
+為什麼不做Google
+對,你會有所有的資料在世界上
+所以為什麼你需要建立一個分別的產品
+就讓你建立一個最好的產品
+對,你最好的監獄
+對,我一直以為
+這很明顯
+如果人們可以給我回答
+最好的店舖在 San Francisco
+有個觀看的 Golden Gate Bridge
+或者 Bay Bridge
+或者在新 York
+在中央的中央
+MiniTees
+Or like which flight is the best thing for me to take to fly from SF to London
+If you get direct answers to these questions with booking links right there
+How are you going to mint money from booking and Expedia and Kayak and like
+Or like same thing for shopping
+How are you going to take money from Amazon and like Walmart
+For the same ad where they're all bidding against each other
+It's not in their incentive to give you good answers at all
+那是 when I realized that they have to build a separate product
+but they can never capitalize on their core distribution
+And 2023, especially, and large power of 2024, too
+Google had like maybe the fourth or fifth best models at any moment
+So as a startup outside Google, you had access to AI
+that was better than what Google internally had, which was unprecedent, right
+Until then, if you had to compete with Google
+你需要很多的AI,有很多的運用
+因為你沒有AI在外面,就像 Google 一樣
+讓你更好,但現在是完全的反映
+由於 OpenAI 和 OpenSource 模式
+所以這加上新的Dialyma
+加上我們可以做很多錯誤,但也好
+就好, whereas for Google
+one mistake thanks to stock
+remember the live demo of BARD
+where it failed and the stock went down 6%
+we knew there were a lot of advantages for us
+I heard you talk about this recently
+Google has been trying to build
+perplexity like experiences
+A.I. mode
+it changed the name of it each Google I.O.
+it's true,I'm not saying something wrong
+所以我…
+它可能有點…
+不太確定,但是真正的
+同樣的功能是在年後、年後、年後
+有不同的名字、不同的VP
+有不同的群聚人員
+但同樣的
+除了可能是更好
+但不僅是在每個人發展
+我有一件事我來承認你
+是你真的有了專注
+在遊戲的經驗
+You told me how you learned that from Larry Page
+by reading the book about Google
+Why do you think Google has lost that ability?
+Well, it's much bigger business.
+It's not founder led anymore.
+It's hard to take risks.
+I think they have great people
+No one in this audience would think Google has incompetent people.
+I think they are like really great engineers.
+It's largely the incentive structure.
+It's hard to take a hit on your own.
+费用的费用和费用的费用
+是对的
+所以
+我正在说
+我正在说
+我正在说
+我正在说
+因为
+另外
+这次的始终
+我们就要赢了
+然后如果我们的始终
+能成功
+那么
+我们的模式
+会更大
+这一切
+很棒
+我其实很高兴
+我们能赢
+而且他们也能
+进行新的互动
+这些人
+是第一次进行
+我们的互动
+在前段
+你不可能再跟Google相比
+是嗎
+那是我當時的時間過了
+現在你都說我先去問這個APP
+我會問Google
+我會問ChatGPT
+我會問Plexity
+我會問Gemini
+然後你可能不再問Google了
+你只問AI App
+有很多AI的助手
+然後手機會開始
+給他們所有的方式
+就像是一個關於解決的選擇
+所以我非常高興他們在世界上在進行
+希望他們不會在現場進行
+這也會令大家更加有趣
+對,你也在告訴我
+你對於不同的參賽者
+但如果你看到你的數目
+你並沒有看到其他的影響
+我每次在Twitter的社交平台上
+Google I.O. 同樣的概念
+Google I.O. 最後的概念是AI overview
+Proplexity is dead
+Sera was AI mode and Proplexity is dead
+我會讀取所有的概念
+而且是很有趣的
+我愛它
+因為他們都在想
+我不會想這些東西
+人們在公司都在想
+Google 會不會建設這類型
+但實際上
+但沒有人能夠使用這些功能
+但是比賽是真的
+我們要說明
+開放AI非常好
+沒有所有新的Dial-Mob Problems
+想要在CHAT GPT上
+CHAT GPT是最有效的
+開放AI產品
+所以在對抗這件事
+很難處理
+這就是為什麼
+我真的想要
+把更多的公司
+在網路上,我認為Comet,網路上會有一個關於帳戶的關卡
+你也可以想像,如果你讓Comet使用,
+所有帳戶的GPD帳戶都可以用到那些AI
+你也不會擔心記憶、個人化,這些東西
+會有很多新的東西,帳戶不能做
+例如,關上其他帳戶,關上你的帳戶的歷史
+在歷史上,在完成貨品
+在付款卡,在買東西
+在做資料資料的研究
+這些事,是一種規律的
+我認為這就是魔法
+在你手上的網路
+把網路的網路的版本
+把網路的版本的版本
+做得很難
+在很多月內,我不會擔心
+有人在記錄
+won't it's gonna take time for anybody
+Switching to a different browser
+is like a pretty big decision
+for a user.
+What do you think will be that
+very short-term things
+that your browser will do
+so much better than what I can get today
+in Chrome that will make me wanna switch?
+The perfect blend of AI
+navigation and agents
+is what we're gonna offer.
+And it might sound like a boring answer
+but no one's done that.
+And there are like hundreds of millions
+probably close to a billion people
+在日常使用AI
+所以市場已經很大了
+你會想像一個特別的例子
+如果我能夠有空明天
+你可以在會議中寫下
+可以回答一些你的電郵
+你不想再回答
+例如你在發表
+一個Y Combinator event
+你會說我只想代表
+Standford Dropouts
+可以通過整個網站的人
+去回答
+就是用零件的網絡
+用廣告的資料
+例如他們在 Standford 上
+或者是他們在DropDot 上
+然後接受
+那種 multistep reasoning
+是一個可以做的
+我不是說這是一個好廣告
+我不會再做了
+所以希望你會更開放
+我們也要看深入的研究
+好,好,我們來講一下
+你現在的運動
+對嗎?
+我不知道你要說多少工作人員
+我們有200人
+好,所以公司的資料變大了
+你現在有自由地
+寫文章、寫文章、文章
+你只是在那裡寫文章嗎?
+你在寫文章、寫文章嗎?
+是什麼樣的?
+你不想寫文章全部
+我們經常進行資料問題
+你不想寫文章在那裡
+寫文章和文章
+我希望大家能在平常的研究中
+和平常的技術中
+和平常的資料中
+可以把這些技術改善
+但對 前面的設計
+我們看到了
+很大的改善
+每個人都用了
+我們也用了
+至少一種AI的鍵盤
+而且
+內容的複製
+也會變成
+改善和混合
+和Github Co.Pilot
+但對 絕對是用了
+所以,人們在使用 AI 技術的方式,
+他們會在一段時間,寫一本書,
+然後再發出一個標誌,
+然後再問一位教授,
+然後再去進行新的研究,
+然後再寫一本書,
+然後再進行一個研究,
+那是在三、四天內的時間,
+就像一小時
+或者像有些人不知道設計
+所以我會給他們一些
+我拿了一張iOS的畫面
+我問這個按鈕需要動作
+然後他們會用我的畫面
+去調整
+然後問我可以做一個
+變化到複製的畫面
+所以這個變化是很厲害的
+像速度可以調整
+Bugs and ship to production is crazy.
+The more bugs there are, as long as you can fix them fast.
+Bugs are always ahead of how fast people can write code.
+But just to be clear, I'm a big fan of all these tools.
+But it is also introducing new bugs.
+And many people don't know how to fix them.
+And they don't even know how the bug got introduced.
+And they have to go find it again.
+So it's not perfect.
+And I actually like the more newer tools.
+clawed code seems to be far smarter than what cursor is able to do
+so I'm actually really positive that this is the right future
+but there are issues right now
+Yeah, in talking to a lot of folks here
+one of the major questions that I've heard is
+as these coding tools get better and better and better
+what is the actual enduring value of a company like yours
+如果再次提升,就能夠重新重新解釋
+這些技術的用途
+你怎麼看那種問題?
+企業絕對有很大的價值
+例如,有個性的投資者
+有個性的投資者
+就像 OpenAI 有個性的投資者
+OpenAI 有個性的投資者
+在 chat GPT 上
+沒有殺死任何這些公司
+所以,有個性的投資者
+你购买的数字,你不可能死得太快
+你赚钱,你保持保持
+所以,传统是重要的
+传统是非常重要的
+你需要对人们的信息
+为何需要存在
+我们的信息是在举行的
+我们有100个币
+但是我们最注重的是
+能够得到多少信息
+我们要在速度上
+速度和速度,第一次在 App 和 Web 上
+我們仍然是最快的,雖然在搜尋
+我們在想我們如何推出答案
+所以有些東西你會擔心
+因為你愛它
+而這會成為你的歷史和你的 brand 身份
+如果你能夠獲得
+十多億人的資料
+不只100 億人的利用
+但也有十多億人的利用
+你並沒有權利在遊戲中玩
+不管別人的遊戲
+直到那天,肯定是一種挑戰
+你必須擔心它
+即使現在我們擔心它
+唯有的解決方法是
+要快速地保持
+在企業上
+你認為有任何
+網絡效果的情況
+有什麼影響?
+企業有網絡效果
+對嗎?
+對,有些人都會告訴他們
+但沒有AI產品
+有網絡效果的影響
+不像是WhatsApp
+如果你建立WhatsApp
+Meta 絕對是一個問題點
+人們不必相信Meta 產品
+他們認為這些產品是廣告產品
+雖然沒有人能夠通過網絡
+因為有你的聯絡、群組、所有東西
+AI 還沒有很大機會
+因為你能夠容易地解決
+你的社交平台的歷史
+或者一些貼紙
+等等
+i think the browser will definitely be a one play to le
+you know, figure those out because as you're browsing history and like
+which again you can still export, but not the same
+as just getting a dump a CSV Dump
+oh and your passwords, your wallet, your agent remembers you, there's a lot of tasks that are running on the browser
+that you rely on your day to day life and work
+That's one way to like keep, get the product, a lot more sticky and like
+create more network effects, especially if multiple people rely on the same set of task
+你分享它 with them
+那是一個方法 讓我們把這件事 都分成在下一步
+也有些東西你想要解決的事
+需要一些職業的職業
+或是一些事業的職業
+或是一些其他公司的職業
+如果你可以獲得這些職業
+那有些職業的職業
+會有些職業的職業
+而有些職業的職業
+會需要建立同一職業
+或是同一職業的職業
+那是什麼樣的東西
+What do you think in the future?
+Does perplexity do deals with all the airlines in the world
+and all the hotels and all the e-commerce providers?
+So we already work with self book.
+They empower all the hotel bookings,
+natively done on perplexity.
+We work with a trip advisor to surface all their views of hotels
+and different places.
+We have collaborations for the maps.
+We work with yell.
+我们在购买的行业还有很多商业商业
+我们直接在我们的购买上
+然后我们会在公司上去做购买
+所以我们有很多的公司
+购买是一个我们的公司
+在购买的行业
+我们会在F&B上工作
+我们会在发行资料
+所以我们有很多的购买
+已经在这些级别的行业上
+在这些级别的行业上
+我们就觉得会更加企业
+有些人開始做事情
+有些人可以成為MCP的服務員
+有些人不可以
+有些人想保留他的服務
+網路人員會充滿充足
+他們會尊重什麼 third party 要的
+因為最後一天
+網路人員是一個
+讓用者進行使用
+如果沒有MCP的服務員
+還可以使用這些服務
+如果用户做了
+那是最重要的
+你不必要
+如果你完全合作
+用户的MCP
+如果你完全合作
+你必须要
+用户的MCP
+合作的資料
+用户的MCP
+要很完美
+你的帳號要
+跟所有的問題
+如果你只要
+是一種人用的網站
+你能夠用到一個人的實力
+你不需要依靠別人的工作
+做好工具
+我們來談談業務
+你的主領工
+Google的業務
+你所說的
+是賣雜貨
+你認為這會保護他們
+在做什麼
+你的業務
+如何讓你
+在Google的大量的大量
+賣雜貨
+我不知道
+You know, if you'll ever get order of magnitude profits is Google, just to be clear.
+And I don't think that's needed.
+No one in the history even Google themselves never has had another business that had the margins that Google has.
+So it's completely reasonable to get something far, far better than any public company out there right now.
+And we'll be still way below Google.
+Number two, I think the subscription revenues like really encouraging.
+我們想像我們可以增加
+至少幾億元的資金
+這是一個很好的業務
+利用基金
+人們在付出一個職業的利用
+或是人們的利用基金
+他們付出每個利用的利用
+他們會在這個系統
+通過他們的利用
+他們的利用
+會有什麼效果
+你会知道它会发生什么样的折磨
+它会发生什么样的折磨
+可能会比较好
+在人们的帮助
+这些人会付出的
+但可能会低下折磨
+因为它是用户
+所以你还要在所有的质源上
+有人可能会付出
+一个AIAB
+所以它是用户
+所以我没有一个
+清楚的感觉
+但我都知道
+證券和利用基金的價格
+會是一件事
+證券
+如果人們開始買更多AIs
+拿出證券是好
+CPAs會有歷史的
+低價值
+就是因為Google
+從來沒有成為證券
+所以我告訴你
+你會有很多錢
+你不會做這麼多錢
+Google的商業模式
+可能是最好的商業模式
+所以,可能是好,需要AI去殺人
+好,我們來做一些觀眾的Q&A
+但是,我們之前有想過了
+你給大家的建議,你也想了解
+如果你們在他們的場面,就像我一樣
+你們怎麼做?
+我會說,做得非常努力
+沒有一個能夠改變
+期待
+despite all like what
+big model lab the doing
+you should assume that if you have a big hit
+if your company
+is something that could make revenue at the scale of hundreds of millions of dollars
+or potentially billions of dollars
+you should always assume that a model company will copy it
+mainly because they are really looking for revenue the various like
+tens of billions or close to 50 billion
+他們需要安排所有的資料
+他們需要繼續尋找新的方式
+去做資金
+他們會把任何東西都尋找得好
+我覺得你必須要生活在那裡
+你必須要把這個資料搜集好
+然後發現你的模式
+會快速地進行
+而你會建立自己的身份
+因為人們在最後的行動
+你如果想找一個
+特別的人來幫助你
+你必須要尋找那個特別的人
+你不像是在找一個
+Agency that handles all of it.
+So I think there's like real benefit from embracing that fear
+and like sleeping with that fear
+and waking up every day and like feeling excited about what you're going to build
+because that's the only thing that will keep you going.
+Well, you guys are the perfect example of how it's possible
+to go up against somebody as big as Google.
+That's great.
+Alright, let's do some Q&A.
+We'll start on the left side here.
+Go for it.
+Hi, my name is Sammy
+我只想個人的感謝你
+為了幫我獲得100元
+在我的《知識學》中
+沒有能夠做到的事
+不可怒
+給你一個簡單的問題
+最近的合作與NVIDIA
+有關於智能性的Ai模式
+有關培養性的
+在所有Samsung手機
+或是 pre-installed
+這可以增加
+14億元的價值
+據資料像 Bloomberg
+這就是一個重大貢獻
+being the default search engine for you know the mainstream population.
+What do you think are the most important factors at perplexity to prevent hallucinations or incorrect data from, you know, being given to the masses.
+Thank you so much.
+Thank you.
+Hallucinations is something we really care about.
+We're building benchmarks internally to keep up to date with that.
+The only wave there is the keep building a better search index,
+继续发展更好的图片
+然后这些模式
+可以快速地
+拥有各种方式的理由
+不需要太多费用
+这就是另一个方式
+我想问你
+新闻的达拉玛
+如果你在Sunday的手机里
+或者在Google搜索手机里
+你会如何
+可能會改變業務模式
+即使是一種不合理的模式
+如果你在Google
+參加對自己的運動
+你會做什麼
+我認為我沒有任何工作
+沒有人在世界想做任何工作
+這是很難的工作
+你會用業務模式
+來做一個新的
+下一項產品
+或是你會用它作為一個新產品
+如果你在Google
+你會用一個新產品
+是一個強制的比賽
+以及在短範中
+儲存的方式
+哈哈哈哈
+對我
+我根本不知道
+我可以說我所想的
+但他們有更多的資料
+還有很多人
+在世界上很喜歡AI
+所以我認為
+投放AI
+讓人們在這麼大的
+優勢中投放的地方
+但是我絕對不會想要在這個位置上
+如果AIDs是一種非AID的回答
+你會很快地接受
+所以我們會有更好的方式
+好
+大家好,我是Akshath
+最近,在跟Nikhil Kamath的 interview
+他問你在職業上的訪問
+我只是在問如何這個訪問發生
+他来到公司,他花了几天,他没有发信,所以我让他发信
+但是我们没有时间,不是一个正确的讨论,但是我们还没有说过
+我想开始说,谢谢你,我真的很感谢你的答案
+很多许多的许多,他们会找一些酷强的项目
+然后他们会建立一些东西,但如果它有强盘
+然后访问发言点
+会担护局面对各种资源的许多
+却对 IRS 国家的美容
+也想想问
+什么是你会以什么为用
+能否拒绝
+就能如何做越来越好
+我认为
+选用什么你希望能提供
+是其他人接触
+对
+那个是
+那个是
+在公司的
+在博物州上
+在公司的
+在公司的
+在公司的
+中央
+在公司的
+在公司的
+在公司的
+在公司的
+在公司的
+在公司的
+在公司的
+在公司的
+但是我們仍然想要最快速的
+最明確的
+我當然不能說這一點
+然後再停止
+我們需要發展新的計劃
+再建立新的產品
+但沒有了
+所以我們的 browser 會是那一間店
+我們 browser 和搜尋
+沒有太有分別的產品
+搜尋的搜尋是自然的
+搜尋的階段
+就像 Google 搜尋到 Chrome
+去清理
+清理是主要的原因
+他們有超過百億税聚理
+從近百秒
+但他們找不到手機
+作為Google的IPO
+因為他們有可能
+百萬税聚中
+現在你能也知道
+這十萬多稜
+肯定google是好討論區
+所以做離開
+讓應用不能陷入
+因為あれ很困難
+你要個生平者
+你能夠建立一個應用
+不需要被限制到
+什麼OS的規定
+Apple 或 Google 設計
+不可以叫做第三代 App
+預期每個手機 App
+可以有 MCP 服務
+然後把資料連接到你的東西
+不會是那樣的
+沒有人想要被不允許
+被AI 推動的
+所以 網絡會是一個很好的方式
+謝謝
+謝謝
+所以, 像我們很多人都做過
+我們都試過, 我們失敗了
+我們有些人更成功
+有些人像我都失敗了
+當你現在失敗了
+再過一次
+你會告訴自己
+當職業的 CEO
+或者是生產業務人
+去獲得自己的獲得
+我會告訴自己
+我會失敗嗎?
+對, 或是當你現在失敗的
+你感到一種失敗的情況
+你覺得每個人都在你身上
+這個部分不在工作
+或者這個部分在工作
+你覺得你最有意義的
+是在那種狀況中
+或是在最初
+開始開始開始
+給你希望
+繼續工作
+或者回到開放的社會
+然後做你的工作
+我只看了
+Yoon Musk的影片在YouTube
+我真是
+我可以告訴你
+你不会感觉到三到了那一步
+你觉得他不会始终接受
+不只是不会死亡
+你也不会尽力接受
+我希望他可以保持这个样子
+是不容易的
+我觉得他会穿越久
+你会尊重他
+但是这就是我们的用途
+很多商业人都有做的
+毕竟所有的温度是承受了
+你會失去什麼?
+謝謝
+我的問題是
+能夠提供更多的能力
+並不是在於業務的模式
+而是在於網站的程度
+很多學生最近展示
+A.I. Search engines
+像Purplexity
+使用了更多的能力
+在網站上
+所以我感受到
+網站會變得
+五至十年
+很多網站
+沒有那麼多的能力
+所以他們必須
+把網站看起來
+更有潛力
+我们会在这种情况下
+有很多的关系
+你觉得这种变化有什么变化
+还有什么变化
+我觉得这种变化
+我们已经有很长时间的变化
+而且有很多的权力
+所以我觉得权力
+会更加的削弱
+这很明显
+有些是项目的
+会保持一个很直接的变化
+但是那些
+在游戏的系统
+trying to get traffic
+I think they're definitely gonna have a harder time.
+Ok, yeah.
+Riven, good afternoon.
+Uh, firstly where do you place the line between
+summerization and plagiarism in report generation?
+And how do you avoid IP violations in your product?
+And secondly, how do you deal with political bias
+bias and political
+sorry, political bias and personal interest
+in news articles and other human written sources?
+Yeah, I think there are cases where you actually
+how objective truth, right?
+like what was the score in the NBA game?
+what is the live weather right now in San Francisco?
+where you don't want to be wrong ever on those queries
+and people know what is true.
+but you can even there you're trusting, right?
+like you're trusting some data provider
+who's tracking the live game,
+the TV that's showing you the number
+or Apple or Google's like acu weather,
+all these things.
+so at some point it all relies on trust
+and trust is built over time
+根據正確的資料
+所以在採用正確的資料
+來採取正確的資料
+來採取正確的資料
+來採取正確的資料
+這就是我們認為的意思
+現在有些東西
+沒有一個正確的答案
+我認為最好
+我們可以做的事
+是給予所有的觀點
+並不想要對抗
+對抗的對抗
+但沒有清楚的答案
+你會否去解決
+你對這份工作的確實
+在某種方式上的解釋
+我們今天沒有去解決
+我們應該的
+Eval said 應該去解決
+有些問題
+沒有一個目的去解決
+而這類的問題
+會去解決
+是甚麼是對的答案
+這是一個問題
+如果有問題
+還有很多不同的想法
+在維吉里亞的社會上
+可以說是人類的
+你會說說所有的事情
+維吉里亞說是個好答案
+但是你可能想要
+讓人家不在維吉里亞
+然後再加上
+有更好的人類的評估
+更有更好的人
+要去評估這些東西
+他們不可以
+就是以高級的高級的評價
+OK,我們有時間,最後一個問題
+你能夠解釋
+太好了
+嗨,我是Angela
+謝謝大家的提醒
+我有一件問題
+你去市場的計劃
+你曾經有個很好的聯絡
+是我和很多學生
+學會了很多學生
+但是你也曾經有一個合作
+是Cauchy
+是一個不同的觀眾
+所以我只是想明白
+你決定哪個觀眾
+你還在想
+我想有一個意見是,在通常市場的市場,
+你不常有通知,在傳統市場上,
+很多人不利用Twitter,或者Lington,
+他們都存在,我們只是在這裡生活,
+還有一些其他市場,有好處的,
+例如傳統市場,
+你可能想想 the kind of people who use Costco regularly
+May not even be using AI on a regular basis
+And so if that's the kind of people you're going for
+Then it makes sense to change your strategy to reach them
+But also remember that it's good to grow with adjacencies
+You do want to have some overlapping sets of people
+Who would be the word of mouth carriers
+As they help you expand to more non-overlapping circles
+所以我覺得這應該是有一點重複
+但是你的分別應該繼續在同時發展
+謝謝
+謝謝Arvin 謝謝你
+謝謝
