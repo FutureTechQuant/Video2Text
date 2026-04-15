@@ -1,0 +1,6 @@
+item_id: 0114_BV1xYr5BHEEr_p01
+bvid: BV1xYr5BHEEr
+title: BV1xYr5BHEEr
+url: https://www.bilibili.com/video/BV1xYr5BHEEr?p=1
+time: 2026-04-15 22:50:53
+error: CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/人工智能前沿/0114_BV1xYr5BHEEr_p01.%(ext)s', 'https://www.bilibili.com/video/BV1xYr5BHEEr?p=1'])
