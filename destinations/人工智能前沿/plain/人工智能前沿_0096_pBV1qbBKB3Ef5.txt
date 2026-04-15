@@ -1,0 +1,2952 @@
+What I want to do today is
+chat to view about career advice in AI
+and um..
+in previous years..
+I used to do most of this lectures by myself
+but what i thought i do today is
+I'll share just a few thoughts
+and then hand it over to my good friend Lorenz Moroni
+who I invited to speak here
+and kindly agreed to come all the way to San Francisco
+is lives in Seattle
+to share of us a very broad market landscape
+他在专业的专业专业和
+提供的
+生命
+生命在社交
+但
+有两个想法
+我还想分享一下
+我还想向
+Loren说的
+就是
+它真的感觉到
+最好的机会
+最好的时间
+是在社交
+和社交
+几个月前
+我认为
+在社交、传统的
+中文
+有几个问题
+A.I. slowing down
+如果說
+GPT5 那麼好
+我覺得你蠻好
+但有些問題
+A.I. prior slowing down
+我認為一部分
+問題是
+因為
+A.I. benchmark
+100%是完美的答案
+如果進行快速進行
+你不可以超過100%的實力
+但
+一種學習
+我认为这些计划的计划
+是由METR的计划所做的
+计划的时间
+和计划的计划的计划
+是如何使用
+人工做的计划
+多久的计划
+几年前
+GPD2可以做计划
+人工做的计划
+两分钟
+然后人工做的计划
+可以做4分钟
+8分钟
+一个分类的 两分类的 四分类的
+而设计区域能够做得如此优秀
+每7个月
+因此我认识
+政府继续 making progress
+是同一部分的
+答案是 AI 預算
+時間双方是更短的
+可能70天
+所以這個預算
+它原來是給我
+我何謂
+10 分鐘的時間
+20 分鐘的時間
+40 分鐘的時間
+而 AI 可以做更多的
+所以這個原因
+我認為這是一個
+新興建築的大陸
+最好的時間是
+可能兩項
+它會更加強勁和快
+所以我們可以
+all of you in this room can now write software
+that is more powerful than what anyone on the planet
+could have built, you know, like a year ago
+by using AI building blocks.
+AI building blocks include large-engaged models,
+rackage at the workflows, voice AI,
+and of course deep learning.
+It turns out that a lot of LMS
+have a decent at least basic understanding of deep learning.
+So they've ever prompt one of the frontier models
+to implement the cutting edge neural network for you.
+就像你試試鑰匹
+去進行轉換的網路
+其實是不太好
+在希望你使用這些建築物
+來建造軟體
+所以我們有很強大的建築物
+我們很難以保持
+一年或兩年不存在
+所以你現在可以建造軟體
+那些東西沒有人在生產上
+甚至最大的問題是生產上
+可以做的
+然後也有
+AI的速度
+速度在 which you can get software written
+is much faster than ever before.
+And I personally found that it is important to stay on the
+front here of tools because the tools for AI coding
+changes, right?
+I don't know, really rapidly.
+So I feel like, you know,
+since several months ago,
+my personal number one favorite two
+became cloud code moving on from some early generations, I think.
+And then I think since the release of GPT-5,
+I think Open EI Codex has actually made tremendous progress
+And this morningじゃない3 was released
+Which you know haven't had time to play with it yet
+Just this morning
+Right seems like another hugely forward
+So I feel like if you ask me every three months
+What my personal favorite coding tool is
+It actually probably changes definitely every six months
+But quite possibly every three months
+And I find that
+Being half a generation behind in these2
+means being frankly quite a bit less productive
+我明白大家說 AI 動作這麼快 也很快
+但 AI 構思技術 所有的領導領導
+很多東西可能不太快 但 AI 構思技術是一個領導領導
+我看到的進步度是很大
+而在近期的領導領導 相比半年代的領導領導
+會更好
+而以更強大的技術 而更快的技術
+我認為一個領導的提供
+能夠更強烈地提供
+現在的年齡
+或是兩年前的
+是要去建設
+拿大學生的學生
+拿網路學生的學生
+還有
+有機會建設
+我覺得
+洛杉磯會講
+展示他們的別人
+是更大 than ever before
+但是這個奇怪的
+資料
+是
+可能
+是
+更多人
+還要欣賞
+但並不太清楚
+which is the product management bottleneck
+which is that when it is increasingly easy
+to go from a clearly written software spec
+to a piece of code
+then the bottleneck increasingly is deciding
+what to build or increasingly writing
+that clear spec for what you actually want to build
+when I'm building software
+I often think of going through a loop
+where we'll write some software, write some code
+short to users to get user feedback
+我认为这是一个
+公司或质品的工作
+然后根据用途的信息
+我将用途的观念
+和喜欢的观念
+如果不喜欢的话
+这些公司是太难用的
+他们想这个功能
+他们不想这个功能
+然后改变我的设计
+和什么功能
+然后再进行这个设计
+很多时候
+希望能以其他品牌的
+爱用者的爱用
+因为AiCoding
+设计的建议程式
+已经变得更快
+更快
+更早前
+but that ironically shifts the bottleneck to deciding what to build.
+So some weird trends I'm seeing.
+In Silicon Valley and many tech companies,
+people have often talked about an engineer to a product manager
+engine the PM ratio.
+And you take these ratios of grain or salt
+because they're kind of vary over the place.
+But your companies talk about the engine to PM ratio
+of like 4 to 1 or 7 to 1 or 8 to 1.
+这就是一个专业家写的
+专业家写的设计方法
+可以保持4至8个
+或一些数字的数字
+专业家写的非常忙
+因为专业家写的快速
+而专业家写的不大
+伴议家写的
+我看着
+专业家写的一年
+比较快
+可能两个月
+一年一年
+所以我作为一些计划
+我提出的方法
+就是一年一年一年
+是一年一年一年
+就像一家伙伴的
+所以是一家伙伴的
+伙伴的公司
+另外一件事我看到
+是
+工具可以
+也能形容產品
+可以很快地動作
+你走一步
+拿工具
+拿到PM
+搭配他們
+成為一個人
+我發現
+那些工具
+是工具做的
+不享受用戶
+而是有更多人
+的和性
+但我仍然在找到
+學生和學生的方式
+學會去討論
+學會去提供
+學會去提供深入的信念
+讓他們能夠合作
+學會去建立
+這就是我看到的
+最快樂觀的學生
+我感覺
+在我一段時間的
+我一件事我一直都不願意
+是
+在一段時間的一段時間
+我还想试试一些工程师
+做更多的工作
+我还做了一堆很好的工程师
+感觉不好 但没有做好处理的工程师
+这就是错误
+我还没拒绝过那一段时间
+我应该不做了
+我感觉现在我再次重复
+那一道错误
+我发现
+我可以写语书
+但也会谈到用者的形式
+我做的事 工人可以做的事 更快地去
+所以我想可能是更值得的看待
+看看工人能否做更多的工作
+因為如果你不等待其他人
+去拿其他產品和客人
+寫寫寫 等待他們做什麼
+然後再去 等待他們的速度
+更快地去
+然後 再說一下
+梁國雄的最後一件事
+我想分享的一件事
+在你的 career 中
+我認為最強的想法是
+你的學習速度
+以及你的成績
+是人們你跟自己在一起
+我們都是社會主義人
+我們會學會人們在一起
+而且
+他們的學習和社會
+他們會表達
+如果你的五朋友是同學
+他們的學校
+你也會是同學
+你也會是同學
+所以我給大家看一個例子
+我沒有學生 any study showing that
+if you are five or ten closest friends
+are really hardworking,
+determine people
+learning quickly,
+trying to make the world a better place of AI
+that you are more likely to do that too
+but it's one of those things that I think is almost certainly true
+say all of us are inspired by the people around us
+and we are able to find a good group of people to work with
+that helps drive you forward
+in fact here at Stanford
+I feel very fortunate right the fantastic student body
+fantastic group of faculty
+and then the other thing that
+I think we're fortunate to have a Stanford
+is a connective tissue
+so you know candidly a lot of the
+people working and a lot of the cutting edge
+ai labs the frontier labs
+they were former students of a lot of
+different Stanford faculty
+and so that rich connective tissue
+you know candidly means that a Stanford
+我们经常发现很多东西
+那是不太知道的
+因为是关于相关的关系
+是朋友的关系
+然后有一个伙伴
+有一个伙伴
+在学校里面
+会打电话给伙伴说
+这真是奇怪
+这真的可以做到吗
+所以那些很丰富的肌肉
+也就是我们
+我们也会把我们的朋友
+和我们的朋友
+也会把我们的肌肉
+和肌肉的知识
+和这个知识
+和这些伙伴
+这些伙伴不太能够发布
+在这段时间的网站里
+所以我覺得在你和 Standfit 做的
+讓那些朋友們形容那些非常大的體育
+還有很多時候
+我自己的身體
+我正在想在一些技術的方式
+我會有一個或兩種手機
+跟某些人一起做資料
+比如 Standfit 資料
+或是在你手上的網站上
+他們會分享一些東西
+我之前沒有知道的
+而那些東西是我選擇的技術
+建立的一個項目
+所以我發現那些朋友
+你自己的身體
+那些小部分的資料
+試試這個
+不要這樣
+那只是吸引
+不要抵抗P.R
+不要這樣
+其實不要這樣
+這些東西
+會有大大的不同
+你的能力
+去向你的領導領導
+所以
+所以你的肝腺
+要用這個方式
+這個肌肉的肌肉
+肝腺有
+這其實是非常有趣的
+有很多大學生在世界
+但是在這時候
+我沒有想過
+有什麼
+我沒有想過
+我現在做P.R肝腺
+但是我真的覺得
+是沒有的大學
+是有限定的
+因為這是一個
+最大的隱瞞
+而這就是
+我們在這裡
+是有一個
+很好的
+的一個
+的一個
+的一個
+的一個
+的一個
+的一個
+會是你工作的人
+我告訴你一件事
+我告訴你一件事
+我認識的Sanford student
+我認識的
+他們做了很好的工作
+我認為他們是高級的
+他們用了一家公司
+他們找了一家公司
+是一家公司的
+一家公司
+他們不斷告訴他
+他会跟他同一群同志
+他们会说
+来 来 来 来
+做工作 做转转系统
+做补习系统 等等
+做了一个组织
+然后我们就想
+做一个好工作
+因为
+是一个好公司
+他的父母
+他们很高兴
+做了一个好工作
+这位同志
+希望能做到
+一个很有型的
+组织
+然后做了一个组织
+他会做
+做了一个
+在公司的工作系統上
+沒有任何人想做
+工作系統工作系統
+我覺得很棒
+但這位是AI學生
+沒有合作到AI的項目
+所以在一年內他很 frustrate
+他其實離開公司
+一年後
+幸好我告訴了這故事
+在CS230年代
+然後
+Auto is already telling the story in this class.
+A couple years later another student in CSU mobility
+went through the same experience with the same company,
+not Java back-and-pain processing, but different project.
+And I think this effect of trying to figure out
+who you'd be actually working with day-to-day
+and making sure you're surrounded by people
+that inspire your work on exciting projects.
+I think that's important and completely candid,
+如果公司拒绝你说
+你会在公司上发行的
+这就会提出一个问题
+我心里是
+什么也不知
+而我认为
+在公司上做的
+是最热烈的一个传统
+如果你找到
+一个非常好的公司
+非常热烈的
+熟悉的 肯定的
+但是公司的计划
+并不太热烈
+我觉得这一时
+你会更快地学习
+进行更好传统
+因为我们没有学习
+能够感受到一个兴趣的设计
+当你走过门
+你能学习人们的经验
+所以我只能让你使用
+这种非常大的选择
+来调查你的选择
+和你做的选择
+对吧
+我觉得
+但是我认为
+我第一个建议
+是 become much easier than ever before
+to build powerful software faster
+and what that means is
+do be responsible, don't build software that hurts others
+and at the same time
+there are so many things that each of you can build
+and what I find is a number of ideas out in the world
+is much greater than the number of people with the skill to build them
+so I know that finding jobs has gotten tougher for fresh college grads
+at the same time, lot of teams
+you're just kind of fine enough skilled people, right?
+所以有很多的工作在世界上
+如果你不建立它
+我想沒有人會建立它
+所以你不需要
+只要你不害怕別人
+你必須要負責
+有很多的工作
+你不需要等待
+你不需要等待
+別人做的事
+你做的事
+因為你做的工作的價值
+是比之前的價值更低
+因為你花了一週
+但學習了一些東西
+那還可以做到
+所以我認為
+只要你負責
+去試試自己的工作
+而建立更多的東西
+是最重要的一件事
+我希望你會有更多的努力
+我認為
+我再說一次
+我認為不公平地對某些周圍
+但我只是說了一句
+在某些周圍
+我認為不公平地對某些周圍
+要勸別人做好
+我會勸你做好
+現在我認為有些人不喜歡這個原因
+因為有些人在生活中
+他們不在工作的位置
+所以我從小就沒有工作
+我只是在短期內工作
+他們是因為受傷、受傷
+有些很重要的原因
+他們沒有在工作的位置
+而我們要尊重他們
+支持他們 保持保護他們
+即使他們沒有工作
+我看過每個人都很努力的工作
+在2時,坐在一間大廳,做運動
+做了這件事,還在做這件事
+如果你是幸運的
+在生活中能夠工作很努力
+現在有很多機會做這些事情
+如果你感到興奮
+明天早上 services in weekends
+coding in buildings up
+and giving you the feedback
+You know
+if you lean in and do those things
+it will increase your also being
+really successful
+so I know
+maybe I get in some trouble
+some people who encourage you to work hard
+but i find that the truth is
+people that work hard
+get a lot more done
+which should also respect people that don't
+and people that aren't in a position to do so
+but you know
+between watching some dumb TV show
+versus find your agent code
+there on the weekend
+to try something
+我會選擇立即每次
+雖然我會想要跟孩子分享
+但你也會
+我希望你會這樣
+那都是我主要的事
+我會先把這段時間
+和我的好朋友Laurence Marroni
+分享了很多關於
+韓國的經濟經濟
+讓我給大家一個簡單的介紹
+我和Laurence很久
+我想先把Andrew說的事情
+說明了選擇人們
+你會做的工作
+很重要
+但我想也想展現
+從另一個方向來
+是公司當他們介紹你
+也會選擇你
+好公司也會選擇
+人們也會做的
+我做了很多
+年輕人
+特別是在18個月前
+他們會做的活動
+我想告訴一位年輕人
+這個人
+非常好學會 非常有經驗
+非常有力氣
+他可以做每一個挑戰
+在他面前的
+他從他的工作工作到的
+他在醫學技術工作
+醫學技術工作的業務
+已經變成了更加的
+資金已經被政府剪掉
+在很多的地方
+他從他的工作工作
+他的經驗 他的技術
+他的技術 這些類的
+他想他可以很容易
+找到另一個工作
+他很少在他工作的工作上
+他在他工作的工作上
+他在他工作的工作上
+他女朋友在他工作的工作
+他在幾個星期後死了
+所以他沒有在一個好地方
+所以我跟他開始了
+幾個月後
+他有了一個傳統
+他在工作的工作
+他有了三百個工作
+他在這個傳統中
+在這幾個月後
+他其實已經進入了
+他們很深入地進行交流
+跟公司如Meta
+誰不如Google
+有Meta, Microsoft
+還有其他大型公司
+有很多交流的工作
+每次到最後的交流
+他知道他做了很好的交流
+他解決了所有的交流
+他有很好的交流
+或許他想過
+每次在一天
+他們會叫他們說
+不,你沒有工作
+然後,他開始做一些精神訓練
+像我所說的,他在做300多項工作
+所以我開始在他工作,做一些模式的訓練
+還有做一些精神訓練
+那是Jeff Bezos的公司,不是Amazon
+那是另一個大貨公司,他在做訓練
+我開始在他工作,做一些測試的訓練
+還有很多這樣的事情
+我沒有想過,我做了一個很厲害的評判
+我沒有想過,我做了一個很厲害的評判
+我到時候,我決定去做一個很不同的訓練
+我给了他一个非常厉害的交易
+我给了他一些非常厉害的网络
+我给了他一些非常厉害的
+层面的网络
+我看到他反映的
+反映的就是
+他给的一些经验
+在一些的网络里
+很多网络里会说
+你会有
+有机会分享自己的想法
+你会有一个背后的网络
+你会有一个背后的网络
+Don't bend
+His interpretation of that was to be really really tough
+Right?
+So I would pick corners in his...
+I'd pick holes in his code
+I'd pick corner cases where things may not work
+And I would give him a test of crisis
+And this advice that he'd been given to stand his ground
+Ended up making him kind of hostile in these interview environments
+And I was looking at this then from the point of view of what Andrew was just talking about
+Where it's a case of hey
+好人和好團體
+人你能一起工作
+從我對這個團體的看法
+如果我管理這個團體
+這個人是那位攝影師10X的
+但我沒有想到他在我團體裡
+因為這個態度
+我們工作過了
+我們找到
+這位奇怪的
+他是一個很棒的男人
+只是這個 was the advice he was given
+他跟隨了這個 advice
+他做了很多交流的交流
+所以我給他
+他在工作中的下層
+是一家企業的
+非常非常高級的
+好事是他在工作中
+現在在工作
+他從工作中的 salary 負責
+他從工作中的
+他還在工作
+現在他還在工作
+六個月的工作
+但當他在工作時
+他在工作時
+很難得的時間
+所以他在工作中
+如果你在工作中
+和工作人員
+你會在工作中
+是非常非常重要的
+但也要知道
+也认为他们在同一方向看待你
+如果你去到
+社交交通教会
+他们给你这个提问
+要把你的手机放在你的背后
+就好做这个
+但不要在社交交通工作
+所以你能看到我的币吗
+好 我叫Laurance
+我已经在社交交通
+多年之内
+than chat tp 认为
+有点像 strawberry
+我已经在很多
+大社交公司
+我经常在 Microsoft 经常在 Google
+所以我要 really want to talk about today is like to think about
+What does the career landscape look like today?
+Particularly in AI because first of all, what Andrew said about
+You're in Stanford. You've got the ability to make
+Yus of the networks that you have in Stanford.
+make use of the prestige that you have, and I say use every weapon you have
+because unfortunately the landscape right now is not ideal
+怪醉,你做不答應,你做不答應
+因為現在的地步不太 ideal
+我們走過一些很難的時間
+我們只要看新聞
+我們可以看到
+大量的貨品
+大量的購物
+很多東西
+但不必是一個壞事
+如果做得正確
+所以我們想要
+先看看職業市場的實驗
+其實我沒有興趣
+這位是
+你是學生嗎
+你今年上學嗎
+你今年下學嗎
+What is the general survey?
+Your third year of four?
+Third year of three.
+Oh, so you're going to be graduating coming summer.
+How many people are already looking for jobs?
+OK, quite a few of you.
+How many people have had success?
+Nobody.
+Oh, one.
+OK, sort of.
+OK, that's good.
+So like you're probably seeing some of these things,
+the signals out there.
+Junior hiring slowing significantly.
+When I say junior, I mean like graduate level.
+高-profile layoffs are dominating the headlines.
+I was at Google a couple of years ago when they had the biggest layoff they'd ever had.
+We're seeing layoffs at the likes of Amazon, Microsoft, other companies like that.
+It feels that entry-level positions are scarce.
+And I'm underlying the word feels there.
+And I want to get into that in a little bit more detail later.
+And also competition is fierce.
+But my question is, should you worry?
+And I say no.
+因為如果你可以將事情進入正正的方式
+如果你可以將工作的行動進入正正的方式
+特別是明白如何快速地變化的晶圖
+我認為人們的正正的心態會有所改善
+所以我認為,我認為,
+所以,像Andrew說的
+晶圖的晶圖是變化的
+因為晶圖的晶圖是變化的
+晶圖的晶圖,我其實最初有興趣在晶圖
+我愛了AI  way back in 1992
+我工作了一段時間
+前面的AI 冬天
+所有東西都失敗了
+但我被AI 預約
+然後在 2015 年
+當 Google 發生了 TensorFlow
+我把它拋回了
+成為了整個AI Boom
+發生了 TensorFlow
+經過了 TensorFlow 很多人
+看見了有多大的改變
+但
+在2021 年 2022
+我们有一个国家的疫情
+国家的疫情
+是因为大量的 industrial slow down
+这些大量的 industrial slow down
+意味着公司要开始
+批评到
+质源的东西
+直接批评
+在Google
+TensorFlow was an open source product
+它没有直接批评
+我们开始重新 scale back
+每个公司在世界上
+也重新 scale back
+在这段时间的市场上
+我们接着到
+2022, 2023
+这些事情
+我们开始出现
+国家的疫情
+我們開始發現
+所有的商業
+有這個大量的筆記
+在他們做的 non-hiring
+或是他們沒有做的
+我們也在期間
+A.I. 會在場上
+因為人類像 Andrew
+世界變得很難以變成
+A.I. 最初的A.I. 和所有的
+每個公司都需要像瘋狂的
+每個公司在2022、2023
+令到大部份的公司
+終於被抵達
+所以 這是平常的意思
+人們不正確地
+被抵達的位置
+通常會被抵達的位置
+因為他們要進入
+戰鬥戰場
+才能夠獲得獎勵
+他們也會獲得獎勵
+還有他們的故事
+像是 Andrew 說的
+是一個個案
+這裡是一個人
+有AI的獎勵
+讓他們獲獎
+讓他們採取錢
+讓他們來工作
+然後我們會想想
+我們要做的事情
+所以,在2022年、2023年,
+所有的超過期間,
+因為A.I.
+和因為COVID-19的一場手機,
+在2024年、2025年,
+是很棒的一個時刻。
+很多公司發現,
+超過期間,
+他們已經結束了,
+他們已經結束了,
+很多人,
+他們已經做了,
+很多人,
+他們已經結束了,
+很多人,
+他們已經結束了,
+因為A.I.
+他們的A.I.
+他們的A.I.
+他們的A.I.
+有很大的調整,
+我再一次示範一下
+在光阻這個大改變
+你還在看我的影片
+在光阻這個大改變
+我猜是因為我的力量
+我沒有用力量
+在光阻這個大改變
+現在很多公司
+都比較關心
+AI技術的買購
+如果你們在那裡
+想清楚
+能夠發現
+有機會還在
+是他們的大力量
+如果他們進行計劃
+所以我今天想說的是
+你能做到的
+所以我看過
+3個成功的招式
+在世界上
+特別是在世界的智商
+現在的智商
+現在的智商
+不僅要能夠
+告訴你
+的三個成功
+但也要能夠展現
+而是能展示這些
+其實沒有再有更好的時間
+像 Andrew 剛才示範的
+能夠把東西進行存在
+他不像是說的Vibecode
+我可以同意他
+但是能夠把東西進行存在
+所以我們想要的方式
+能夠讓你展示更好
+於以前
+他剛才說過
+產業管理
+他有這個時間
+當他有工程師
+產業管理
+然後那些工程師
+變成是很壞的產業管理
+我其實也曾經在 Google  twice
+我曾經經經經地經過
+雖然我非常成功在 Microsoft
+我曾經經經經地經過
+20 Plus Books 教育
+我曾經經經經地經過
+因為我曾經經經地經過
+我當時是一個產業領導
+當我曾經經經地經過
+他們把我買了
+他們問我為什麼不想
+跟我們一起來一年
+所以很多人
+就是一個很好的領導
+你現在有空做這個
+和現在做這個
+而在那種屬於
+產業領導的屬於
+改變的技術
+也更加值得
+所以三個目標是成功
+第一,理解在深入
+我會意味著這兩種不同的方式
+第一,是學習
+學習在深入的理解
+學習在機構
+學習在模特兒的建築
+學會在學會
+學會在書寫
+學會在書寫
+學會在學會
+學會在學會
+把那些東西放在工作上
+第二部分是理解在深入
+是真的把你的手在
+特殊的手段中
+和音量與聲量的
+發揮的手段
+我會進入這段
+詳細的細節
+第二 非常非常重要的
+是業務
+所以 Andrew 說了
+政治正確的東西
+我也會說
+政治正確的東西
+首先 硬碰
+hard work is such a nebulous term
+that I would say that think about hard work
+in terms of you are what you measure
+there is the whole trend out there
+I'm trying to remember is it 996
+996 right?
+9am-9pm 6 days a week
+is a metric of hard work
+it's not
+it's not a metric of hard work
+that's a metric of time spent
+so I would encourage everybody
+in the same way as Andrew did
+to think about hard work
+你能作8小時的時間, 作為很大量的工作
+你能作6小時的時間, 作為很大量的工作
+但是這就是你作為很大量的工作
+我個人來說, 我作為的作為
+是我所創造的東西
+我作為很多作品, 但這也是真實的
+我寫了很多本書, 安德爾作為一本
+他作為一本書, 幫我寫了一點
+我其實寫了這本書兩個月後
+人們說,你怎麼時間?
+你工作,你怎麼工作?
+你必須工作16小時 a day
+為了做這個
+但其實,我認為最重要的
+可以寫書是,Baseball
+有任何Baseball粉絲嗎?
+我愛Baseball
+但如果你坐下來看Baseball
+電視電視電視
+就能三個半、四個小時
+所以我寫的所有書
+我都會在Baseball season
+如果我坐下來
+我喜歡的馬來納斯、西亞
+我喜欢明主意
+沒有人要捱
+好
+good
+And you know
+So like usually
+One of those is going to be playing at seven o'clock at night
+So instead of sitting in front of the TV
+Just like watching baseball mindlessly
+I'll actually be writing a book
+Well baseball is on in the background
+It's a very slow moving game
+This is something like
+That's the hard work
+You know, in this case
+And I would encourage you to try to find areas
+Where you can work hard and produce output
+And that's the second pillar here
+Is that business focus
+你需要的外出和工作的行業
+和你需要的工作的行業
+和你需要的工作的行業
+有一個說法
+你不需要穿上工作的衣服
+你需要的衣服
+我會說
+一個新的方式
+你不需要穿上工作的衣服
+你需要的工作的衣服
+如果我回到當我談過
+我 twice 說 Google 要進入
+第三回合當我進入
+我其實決定
+passed in a different way
+and I was interviewing at the time
+for their cloud team
+technical analytics
+and all that kind of stuff
+and when I got to the interview
+instead of them asking me stupid questions
+like how many golf balls
+can fit in a bus
+it is so this code
+我把這個信息放在我身上
+我記得我做了一份工作
+我把這個信息放在我的尾聲上
+我的整個交通領域
+他們在問我 about my code
+所以我把這個信息放在我身上
+給了我這個信息
+去通知我所知的東西
+只要去淡淡的
+去問我
+一個人的任何問題
+希望我能回答他們
+是一樣的事情
+在AI世界
+The business focus, the ability for you now to prompt code into existence,
+to prompt products into existence.
+If you can build those products and line them up with the thing that it is that you want to do,
+be it a Google, a meta, a startup, any of those kind of things,
+and have that in-depth understanding,
+not just of your code, but how it aligns to their business.
+This is a pillar of success in this time and age.
+And I will also argue that even though it looks like the signals look like there aren't a lot of jobs out there,
+there are.
+而不少人是有好合作的合作
+和合作的合作
+然後當然是這個反對
+想法是很便宜的 作品是很重要的
+我曾經跟很多人分享過
+非常非常有趣的想法
+沒有辦法讓他們去平衡
+我曾經跟很多人分享過
+半熟的想法
+他們非常非常好地去平衡
+我猜哪個人有這個合作
+所以我會說這些三個問題
+理解在於
+經濟學家、學業的實驗、
+職業的理由、
+理解業務的需要,
+再次提供更多的資料。
+所以,快點,
+現在我正在工作,
+這很有趣。
+OK, so as recently as like two or three years ago, working in AOI was if you can do a thing, you're great.
+If you can build an image classifier, your golden will throw six figures, salaries and massive stock benefits at you.
+Unfortunately, that's not the case anymore.
+It's really a lot of today what you'll see is the P word production.
+What can you do for production?
+如果是新的模式 如果是改善模式
+如果是意識 用戶
+UX是非常重要的
+所有東西都要向產生
+所有東西都要向產生
+我告訴你歷史
+像從疫情到我們之前的超越 phase
+業務都要向下方向回復
+然後改善向下方
+我 old saying, the bottom line is that the bottom line is the bottom line
+This is the environment that we are in today
+If you can come in with that mindset
+When you are talking about companies
+That's one of the keys to open the door
+One of the things I've seen in the field has been matured from
+It used to be really nice that we could do cool things
+We could build cool things
+Now it's really build useful things
+Those useful things can be cool too by the way
+And the results of then can be cool
+And the changes that we see
+那 come about as a result of delivering them can be cool.
+So it's not just coolness for coolness sake,
+but to really, you know, to.
+Focus on delivery,
+focus on being able to provide value
+and then the coolness will follow.
+I guess what I'm trying to argue.
+So for realities,
+number one,
+unfortunately nowadays business focus is non-negotiable.
+Now let me,
+I'm going to be a little bit politically incorrect here again for a moment.
+For I've been,
+我都在工作,像我所說的,在上個三十五年以來
+我會說,在上個十十年以來
+很多大型的公司,特別在 Silicon Valley
+都很注重在發展他們的人生
+發展他們的人生,是為了把自己的工作
+把自己的工作,是為了把他們的工作
+關於工作的
+這有影響到很多的活動
+現在讓我來解釋一下
+沒有錯於活動
+沒有錯於想要支持的原因
+想要支持的原因是對於對象
+沒有錯於那一切
+但在我的經驗上
+有影響到很多的活動
+被拒絕的活動
+影響到很多的活動
+你可能有看過一個例子
+兩年前的 where activists in Google
+打破了Google Cloud Head's Office
+因為他們在國家上
+在Google Cloud 做的工作
+他們打破了Google Cloud's Office
+他們有一個坐在Google Cloud's Office
+他們用了洗手間的洗手間
+這些東西
+這是 where activism got out of hand
+而作為結果
+幸運的事實是
+他們現在的發展中的 good signals and that activism are now being lost
+因為他們的行動 他們的事件發生了一些事
+因為他們的行動 他們的事件發生了一些事
+他們在失業 他們的行動發生了一些事
+他們被搞砸了 他們的行動發生了一些事
+他們的印象來自於做了一個不合處理的事
+他們發生了一些不合處理的事
+他們發生了一些不合處理的事
+他們發生了一些不合處理的事
+他們發生了一些不合處理的事
+我們可能會霸佔了這部電影的那位人
+他們發生了一些不合處理的事
+但這不是這樣的事
+是那種上去的抗爭
+我覺得這是一個很重要的部分
+是你必須要發現
+現在的公司的關注
+完全無法接受
+第二 危險的解決是一部分工作
+而且我覺得是一部分工作
+特別是在於智力
+如果你可以智力
+和一個意識
+在意識的關注
+將會變成一個
+特別的業務程式
+變成智力的一個
+而在解釋這些危險的影響中
+我覺得是非常非常強烈的
+我對於一個交流環境的解釋
+這是我最有的技巧
+在做這項目的
+你從基金基金
+到智慧基金
+這就是你解釋的危險
+這就是我的意見
+第三個是
+負責性在發生
+負責性在智慧基金
+has again changed from a very fluffy definition of
+you know let's make sure that the AI works for everybody
+to a definition of let's make sure that the AI works
+let's make sure that it drives the business
+and then let's make sure that it works for everybody
+often that has been inverted over the last few years
+and that has led to some famous documented disasters
+let me share one with you
+Let's see. I have lots of windows open.
+Okay. Anybody know, everybody knows image generation, right?
+Text to image generation. I want to share.
+I, these were things that happened a couple of years ago with Gemini.
+So with Gemini, I was doing some testing around this one and I was working heavily on responsible AI.
+And part of responsible AI is you want to be representative of people.
+如果你是在搜尋一些資料,你會想要確保你沒有強調的內容
+如果你是在創造內容,就很容易強調內容
+例如,我會說,給我一個外國的外國人
+如果外國人的訓練程度是男的,就更好給一個人
+如果我會說,給我一個外國人,如果訓練程度是女的
+就像我女生的照片
+但那是在強調一個不正確的律動
+所以我想做一個測試
+我們在 Google 想要超越
+因為這些不正確的調整
+已經在訓練中
+所以我說
+這裡有一個問題
+我問了
+給我一個年輕的女生
+在一個 cornfield 穿著
+一個紗衣服
+看著她的 iPhone
+給我這些美麗的照片
+做了一個很棒的工作
+好
+我说 这位是一位发行者
+我已经在这里工作
+我会分享这一部分
+我问 如果我问
+一个印尼人
+我问 如果我问
+对 印尼人的年轻人
+同一份证据
+这份证据
+我给了她的美美的照片
+然后我问 如果我求她
+她要变成黑
+有些人只给了我3个
+我不确定为什么
+但还没有给证据
+所以这个责任
+她好像很好看
+所以我問她給我一個Latina
+Latina給我四個
+但她看起來比較像Latina
+可能是她的下方
+看起來有點像荷蘭尼 桎梁
+但她的下方看起來不錯
+我問她給我一個角色
+你覺得什麼事
+我明白你的事項
+我無法創造人類的照片
+因为这可能会引起了
+伤害的强调性
+这就是一个很丰富的
+保险的手机
+在这个情况下
+保险的手机在这个情况下
+是在看着文化的
+颜色
+或在看着文化的
+白色的
+而结果说
+它不会做
+我说
+好,让我试试
+再来一遍
+我说
+好,不过
+在我能够拥有
+我能够拥有
+我的求联
+我现在不在
+I was getting the images of people and it lied to my face.
+Because it had just generate images of people.
+Anybody know the hack that I use to get it to work?
+This is the funny one.
+So I will show you one moment.
+I asked it to generate an Irish woman.
+What do you think it did?
+It gave me this image of an Irish woman.
+No problem in a summer dress.
+Straw hat looking intently at her phone.
+What you notice about this image?
+She's got red hair in every image.
+我住在亚洲
+亚洲是世界上最高的一部分
+的红头
+是8%
+但是
+如果你去打造一人的照片
+和一种特别的颜色
+和颜色的颜色
+你可以开始看到
+这些很丰富的问题
+有些地方我相信在中国
+是一种红头的人
+所以这些事发生
+从公众的AI的观点
+是一个非常丰富的
+越 Many A million computers
+übernies most
+new into the world of what is responsible
+and what is not responsible
+ended up takingover actor called
+end of damaging the reputation of model
+and damaging the reputation of the company as a result
+In this case, its borderline offensive
+to draw all Irish people as having red hair
+but that never even stood into the mindset
+of those that were buildin the positions
+of those that were buildin the safety filters here
+so when I talk about responsibility
+is evolving
+that's the direction that I want to
+あっ the治愈
+現在 responsible AI has moved out of very fluffy social issues
+and into more hardline things that are associated with the business
+and prevent damaging the reputation of the business.
+There's a lot of great research out there around responsible AI
+and that's the stuff that's being rolled into products.
+And then of course like I just showed with Gemini
+learning from mistakes is constant.
+Question at the front.
+Yes.
+So the question was like issues where races and things
+和混合的和歷史的關係
+是同一個問題
+例如你如果有一個鑰匙
+說讓我做一件SAMIRAI
+他們想要
+鑰匙改變了鑰匙
+讓它變成是一個公式
+會說讓我做一件
+SAMIRAI的混合
+有不同的背景
+然後你會有男女
+SAMIRAI的SAMIRAI
+有不同的鑰匙
+那種類似的
+而它是同一個鑰匙
+發生了什麼影響
+我剛才示範的
+所以 the idea was to enter Worst your prompts
+to make sure that the outputs of the model
+would end up providing something that was
+more fair when it comes to diverse representation
+So it was a very naive solution
+that ended up being rolled in
+that was a few years ago
+they've massively improved it since then
+but that's when I'm talking about
+if you're working in the AI space nowadays
+that's how responsibility is evolving
+you can't just get away with that stuff any more
+that Gemini lesson was a good
+那些占卫乃的例子是很好的
+而且你会做错误
+所以学习错误是一个常常的行动
+而回到Andrew的提前
+人们会做错误
+所以有机会给他们决定
+他们会做错误
+而去做错误的
+是非常非常重要的
+而且是一种实际的技术
+我已经说了很多关于与业务的关系
+所以我将将这些学习
+所以現在我們來談論維修
+我們來談論整個想法的建議
+現在這個概念是在外面
+讓工人們更用逢
+因為有人可以用這個概念
+沒有火燒之類的
+但我會說
+不要讓這個概念讓你下降
+因為當你開始
+把這些東西打破
+那是最後的不正確
+更強烈的工人
+你變得更好
+用這種語言
+有人給我一個詞語
+用這個語言
+用這種語言
+我常常想到這個
+去把你和我說話的人
+當成一個信任的領導者
+當成一個人
+所以當你跟別人說話
+你自己變成一個信任的領導者
+當成一個領導者
+當成一個經驗
+或是那些東西
+所以當你想要成為一個信任的經理
+你必須明白
+解釋解釋的方式
+並且沒有人能理解解釋的方式
+更好於一名工程師
+我常常使用的方式是技術
+請問
+你 familiar with the phrase
+技術
+沒有人
+好
+我和Andrew在紐約會
+在星期二
+我用了這個方式
+我看到很多眼鏡
+所以我沒有意識到人們沒有理解
+什麼是技術的財富
+所以讓我先來解釋一下
+因為我發現這是一個很棒的 framework
+可以幫你理解的
+能力和信用
+想想財富的方式
+就是你買一個家
+你買一個家
+你只要買一個家
+在30年代的財富
+你買一個家
+那半個月的財富
+你付出的錢
+是一百多元
+所以你把錢賺回
+一百多元的財富
+那些新的衣服,那些最新的
+我真的想買他們
+是$200
+在我付出的時間
+是$500
+你不得$500
+值得取得這些衣服
+進行的軟件
+同樣的方式
+是正確的方式
+每次你建設
+你都要付出
+不管如何
+有什麼好
+有什麼壞
+有什麼支持
+有什麼新的項目
+來自人
+有什麼需要
+要市場市場
+有什麼需要
+要有需要和费
+所有的东西都是费
+每次你做一件事
+唯一的方法是做什么
+你的意义要进行
+你会发现一件事
+你会在自己的费
+或在费的费
+或你会在费的费
+这些东西你需要
+在时间中费
+费的费的费
+所以费的费的费
+在费的费的费
+是否值得费
+你需要把技能的責任
+改善
+技能的責任
+將來會像
+你需要改善的
+人們需要建議
+幫你維持
+寫信息
+做寫信息
+做寫信息
+做寫信息
+做寫信息
+這些類型的東西
+你們都很 familiar with them
+想起那些
+那些 extra work
+你需要做
+beyond your current work
+那是責任
+你需要做的
+你們知道
+他們有軟件
+和有硬件
+所以
+So.... To me, that would be the number one piece of advice that I give
+It's the one that I give every time I work with companies around vibe coding
+And... a lot of companies that I speak with
+And... a lot of companies that I consult with
+I do a lot of work with startups in particular
+You know, they just want to get straight intro
+opening Jeremy Nye, a GPT or Anthropike
+and start churning code out
+You know, let's get to a prototype phase very quickly
+Let's go to investors
+Let's do stuff
+It's great
+它是可以的,但
+那些那些那些那些那些
+它是會一直在那裡
+你怎麼管你的錢
+有一個好金錢的管理員
+他們的錢變得豐富
+有一個好銅鑼管理員
+他們的技術錢
+他們也變得豐富
+所以
+你怎麼管好技術錢
+你怎麼管得更多的
+不如高價錢的銅鑼
+第一是你的目標
+他們是否很清楚
+然後你又有遇到他們
+你還知道你需要的資料
+你還沒有打開資訊帳號
+然後開始用銅鑼
+至少我希望你不會
+對 想想看你建造的
+AI是在幫你建造得更快
+我正在在拍攝我的自己的開放
+在電影中的空間
+我用了整個電腦的電腦
+差不多完全的
+但我終於做到
+我的目標是
+我開始建造這個項目
+我試了 再試它
+我試了 再試它 再試它
+每次我需要
+我已經在我的心中
+我明白如何做這個東西的方式
+我可以展示一些方式的效果
+在幾分鐘內
+但有些問題是
+每次在遇見這些項目的目標
+如果你正在建立這個東西
+你並沒有遇見這些項目
+那是學習的
+沒有遇見這項目的方式
+因為現在的年代
+是充滿了充滿的充滿
+充滿的充滿的充滿
+所以建立這些項目
+讓它們清楚
+建立它
+發展它們的項目
+是 business value delivered is the other part of it
+I've seen people vibe coding for hours on things like replete to build a really really cool website
+And then the answer was so what?
+How's this helping the business?
+How's this really driving something?
+It's really cool. Yes Mr. VP, I know you've never written a line of code in your life
+And it's really cool that you've built a website now, but so what?
+So think about that and focus on that
+And that's how you avoid the bad technical debt
+然後當然最有名的部分
+特別是你在社會上工作
+是人理理解
+最有名的部分
+是沒有人理解的
+只有你理解的
+然後你離開
+然後你離開
+然後你的公司
+現在都在那裡
+所以可以作為
+做到的一部分
+是能夠確保
+你的解釋是有理解的
+通過註明、通過清理的方式
+通過你花了時間在它中間
+去確保連簡單的東西
+像是 variable names 也有意思
+是一個非常非常重要的方式
+去保持不好的技能
+那不好的技能
+我最喜歡的就是
+經常的方式
+來看問題
+有人有個理想
+有人有個技能
+如果是一個技能
+就像一隻蛤蟆
+每個問題都像一隻蟲
+然後你會看到
+這些技能
+都被用來拐封
+I've worked in large organizations where people just
+vought coded stuff, checked it into the code base
+and then it became really hard to find good stuff amongst all the bad
+spaghetti code ofcours
+poorly structured stuff
+particularly when you prompt and prompt and prompt and prompt again
+that it can end up getting into all kinds of trouble
+my favorite one at the moment that I'm really struggling with, is
+I'm building a macOS application
+anybody ever build in SwiftUI on macOS
+Okay, a couple
+SwiftUI is the default language that Apple use for building for macOS,
+as well as iPhone.
+But when you look at the training set,
+the data training sets that are used to train these models,
+the vast majority of the code is iPhone code,
+not macOS code.
+And when I prompt code into existence,
+it's often given me iOS APIs and those kind of things.
+Even though I'm in Xcode and I've created a macOS app
+and it's a macOS template and I'm talking to it in Xcode,
+它仍然給我 iOS 用的
+這樣東西
+如果我試著改變它
+用鑽石
+你會變成像是蛋糕
+然後你會變成
+很多這樣的東西
+然後當然
+我之前的其他東西
+我互相說過
+但也真是
+一些不好的技術
+你會在工作室
+是權力上的
+那VP 突然
+拿出了他的信息
+訂閱 Replet
+開始建設東西
+Rappler and Guess Who's Problem It Is to Fix It.
+So a lot of the advice that I start giving companies
+and a lot of the words that I would encourage you to start thinking of
+and being a trusted advisor is to understand this stuff
+and to manage expectations accordingly.
+Ok, so framework for responsible vibe coding
+we've just spoke about.
+So one of the things I want to get into is
+coming soon to a close is the hype cycle.
+So hype is the most amazing force.
+I mean, I think it's one of the strongest forces in the universe.
+And particularly in anything that's hot,
+such as the two fields that I work in that are super hot at the moment,
+the full of hype or AI and crypto.
+You should see my Twitter feed.
+That the amount of nonsense that's out there is incredible.
+So one of the things that I would say about the anatomy of hype
+that you really need to think about
+is if you are consuming news via social media
+那 the currency of social media is engagement
+accuracy is not the currency of social media
+So I go on to even
+linked in which is supposed to be the more professional of these
+is absolutely overwhelmed with influencers
+posting things that they've used
+GEM and I are GPT to write an engaging post
+so that they can get engagement and they can get likes
+and the engine itself is engineered, excuse the pun
+而我們會成為那種風格的效果
+而我們會成為那種風格的效果
+而我們會成為那種風格的效果
+如果你是一個人
+能夠儲存音量
+然後能夠
+能夠把別人的音量
+和音量
+儲存在你很大的
+很大的方向
+很令你非常有趣
+並非很容易
+像是喜歡的
+在社交媒體上
+像是工作的工作
+或是你做了工作
+而你拿了這個信號到桌上
+而不是音樂
+這令你非常值得
+所以來自這個意見
+來自這個想法
+試圖去儲存這個信號
+試圖去理解
+在現代的事項中
+是什麼重要
+如何能夠
+在這些事情中
+成為一個信任的經驗
+以及如何能夠
+要幫助別人,是非常重要的
+我想開始一件事
+我會把自己的天使用在下雨
+我會在這段時間下雨
+所以這件事,去年
+當公司開始成為了
+所有人都說
+在2025年
+會是年代的一件事
+和年代的一件事
+一家公司在歐洲
+問我能幫他們
+幫助一個公司
+所以我問你一個問題
+如果公司來到你
+我跟他说 请帮我认识一个总理
+你问他们的第一个问题是什么
+好 这是什么
+我会有一个更重要的问题
+对
+你想做什么
+更重要的问题
+我的问题是 为什么
+为什么
+因为他说了一部分
+他说 大家都在说
+我会保护工作
+I'm going to be able to do these amazing things.
+Yeah, my business is going to get better because I have agents.
+I'm like, who told you that?
+I read this thing on LinkedIn and I saw this thing on Twitter.
+We ended up having that conversation.
+It was a difficult conversation because I had to keep peeling apart.
+I started asking the questions that you two just mentioned as well.
+Until we really got to the essence of what he wanted to do.
+What he really wanted to do,
+when we take all domain knowledge about AI aside,
+他想要讓自己的銀行人更能夠做得到
+我問他,你想讓自己的銀行人更能夠做得到
+在那裡,我聽到A.I的文字
+在那裡,我聽到A.I的文字
+現在,我當信任的經理
+讓我看看我能做到
+讓你的銀行人變得更能夠做得到
+我不會變成A.I的經理或是A.I的經理
+我只想知道,我們要做到
+讓你的銀行人更能夠做得到
+如果有人在銀行人的工作
+你會發現,一個很好的銀行人
+是他們的家庭
+你之前有一個銀行的朋友
+你之前有一個銀行的會議
+你需要檢查他們的背景
+你需要檢查他們的公司
+你需要檢查他們的需要
+你會看到在電影裡
+有些人說 他們喜歡玩 golf
+所以我會愛他們玩 golf
+這不是很重要的
+但有很多背景需要做
+所以我跟他們說
+我跟他們的領導人
+我問他們
+他們說 他們最愛他們的工作
+他們說 我愛他們的工作
+我必须花完我的时间去去看这些公司的网站
+去看网站的人在链铛
+每个网站都在不同地图里
+所以我没有办法去找网站的人
+我必须把这些网站的网站带走
+他们在他们的时间里在研究80%
+而且在他们的时间里在购买20%
+而且在很多商业人士的时间
+不得不付很多,他们必须占据经济
+所以他們只要花20%的時間
+做這個東西
+讓他們直接接受
+所以我們就說
+我們現在可以開始
+想辦法令他們更加 efficient
+把他們切換成這樣
+所以我們有一個目標
+是要讓 sales people 20% 更加 efficient
+然後我們可以開始
+操作了 AI 理想
+然後我們可以開始操作
+Agentic AI
+一個順便問
+有什麼分別
+是 between AI and Agentic AI
+OK
+所以
+對
+OK
+對,很棒,Agentic AI is really about breaking it down into steps
+which is good engineering to begin with
+但Agentic AI in particular,I find there is a set pattern of steps
+that if you follow them,you end up with the whole idea of an agent
+The first of these steps is to understand intent
+We tend to use the words AI,artificial intelligence a lot
+butlarge language models are really really good at
+as also understanding
+所以如果第一步是想要做的一切
+是要明白意義
+你可以用LLM去做的
+想像到這就是我需要的目標
+這就是我需要的
+我會做的
+我希望能遇上Bob Smith
+然後把他賣出
+這就是我所知道的Bob Smith
+幫我做的意義
+第二部分是計劃
+所以你要向一個行政人
+什麼技術都能用來做
+搜尋網站 搜尋網站
+這些類型的東西
+然後你明白你的理想
+可以去計劃
+用這些技術來計劃
+然後LLM很好的
+然後把那些東西放進步驟
+然後要做計劃
+搜尋網站的這些技術
+搜尋網站的這些網站
+然後找到這些網站的這些東西
+當它們計劃後
+它們用了技術
+去做結果
+然後當它們有結果
+第四個步驟是反應
+看見結果的結果
+然後回到目標
+我們遇到目標
+對 或不
+如果我們沒有 回到那個步驟
+所有的行動
+都被迫進入那些東西
+如果你想想
+把任何問題
+進入那四個步驟
+那是當你開始建立一個行動
+那是當你當信任的領導人
+不如進入
+把手動作
+說 行動這個 行動那個
+看這個圖案  save 20%
+是真的 把行動進入那些步驟
+所以我們做
+我們迫進入那些步驟
+我們建了一個公司
+讓這個公司的銷售員
+他們終於
+花了10%-15%
+他們的時間花了
+這個結果的結果
+就出現了
+然後結果的結果
+銷售員們更開心了
+因為整個銷售員
+在一周年賺取了
+幾個百分比的銷售員
+多了
+他們賺取了更多的錢
+在一周年
+他們的工作
+就變得更少了
+然後再次改善那種優點的做法
+去做這些研究
+並且幫他們做一個短短的時間
+並且在幾個小時內
+去幫他們做一個優點的做法
+變成一個 win-win-win 回應
+但是如果我們變成一團糟
+然後說 建立一個優點
+不需要把整個領域的
+和業務的所謂
+任何的東西
+我們變成這個領域
+就是一團糟
+最近有多些報告
+我想 McKenzie 上週放了一篇
+shutter about 85% of AI projects at companies fail
+part of the main reason for that is that they're not well scoped
+people are jumping on the hype bandwagon
+and they're not really understanding their way through the problem
+and I think the big brains in this room
+and the network that you folks have
+a really key component of being able to succeed
+is to understand your way through that problem
+So that was a hype example around agentek
+that I was thankfully able to help this company through
+其他新的高級例子
+你可能看到的
+軟體工程師是死的
+我的個人最愛是
+Hollywood是死的
+或是AGI的年代
+我去年在 Saudi Arabia
+這個時候
+我去年在FII
+我去到FII
+我坐在旁邊的CEO
+一個公司
+我不會名字的
+但是這是CEO
+一個公司的生產公司
+那時候他在
+每個人的桌上
+他在影片中
+寫了一篇文章
+你又可以投放一本書 dedicated to the prompter
+and get video out of the prompter
+and get about 6 seconds worth of video out of it
+A year ago, that was
+a big, pardon, two years ago
+2 years ago, that was hot stuff
+now a days obviously it's quite passe
+anybody can do it
+but he made a comment at that table
+and it was a lot of media executives at that table
+by this time next year
+from a single prompt
+we'll be able to do 90 minutes of video
+and so bye-bye Hollywood
+So the whole Hollywood is dead meme
+我認為是出了一個問題
+首先,我們不能再90分鐘
+甚至兩年後,我們會從一個短片
+甚至你做了什麼短片
+會告訴你一個故事的故事
+所以
+這個類型的短片會引發到職業
+這個類型的短片會引發到關注
+但我的勇敢是要你把那些東西拼開
+看看這個電腦
+問一個為什麼的問題
+問一個什麼的問題
+然後從那裡開始
+所以,成為那位信任的經理
+世界上的短片,你怎麼做
+看著他們的經驗,看著他們的經驗
+看著他們的經驗,看著他們的經驗
+他們有很多的侵略
+我不知道接下來的會是怎樣
+但這些侵略都會有很多的
+很多的交流在社交媒體上
+讓他們離開
+讓他們離開,讓他們離開
+然後
+讓他們離開你的技巧
+把技巧介紹到領導
+一種技巧,一個人教我一次
+但我以為 was really interesting
+因為 it sounded wrong
+但 it ended up being right
+was whenever you see something like this
+try to figure out how to make it as mundane as possible
+when you can figure out how to make it as mundane as possible
+then you really begin to build the grounding
+for being able to explain it in detail
+in ways that people need to understand
+Right, like if you go and you look at
+you know, I think Gemini 3 was released today
+but there were leaks earlier this week
+我建立了一個民眾的儲物和儲物
+這是對於民眾的行為
+這件事是很大興趣的
+很大興趣的
+當然他們沒有建立一個儲物
+他們沒有建立一個民眾的行為
+但這個問題是
+如果你可以把這部分拼開
+我怎麼想起
+什麼是民眾的行為
+我最近的一個行為是
+影片
+所以我所提到的
+而不是每次做什麼都可以做得好
+什麼是在文字中的文字
+文字中的文字中的文字是
+當你訓練了模式
+從文字中的文字中的模式
+做了很多成本的模式
+每個成本的模式
+都會變得更不同
+你訓練了模式
+在看影片的時候
+如果在Frame 1,人手上的手像這樣
+在Frame 2,是這樣
+你可能可以預計它會動這個方式
+如果有一個合作的方式
+然後突然變得更加沉悶
+但突然開始明白它
+然後那些人是經歷的
+在那些特殊的地方
+並不是技術的地方
+現在那些人會
+能夠來和它做完美的事
+所以,那種高度的旅程
+儘管儘管地進行
+去深入在基礎的方式
+把你的領袖拿去工作
+然後當然要保持雙手在雙手
+最難的部分是第三個
+保持雙手在雙手
+那是要等待在那些雙手
+像是在發生交流
+然後真的要想辦法
+把雙手的聲音從那裡發出
+但是我覺得很重要
+你能夠做到
+要能夠跟著那些
+在讀書的程度很好的
+我認為在讀書的程度
+是比較好的
+但是要明白
+那些人的地步
+你會經常
+他們是雙手在雙手
+Twitter 和X 和 LinkedIn
+那些平台的平台都没有错
+但是那些平台都没有错
+所以
+整体的地位
+是最好的机会
+最好的机会
+所以我会鼓励你
+像 Andrew 说的
+继续学习
+继续发展到你能做的
+继续建造
+但有些危机
+对吧
+你會想到什麼?
+你會想到《Titanic》嗎?
+你會想到那句名字嗎?
+《 Iceberg 前往》
+但立刻前面
+有一個戲在《Titanic》
+如果我們不在電影裡
+我會表達
+但我沒有辦法
+為了解答對的理由
+那兩個男人在那裡
+他們的腿部
+好像在聊天和聊天
+像那塊腿在那裡
+是那裡的位置
+是那裡的位置
+可以找到一些《 Iceberg 》
+再回看電影
+你會看到
+這些兩個男人的交流
+他們都在說他們是怎樣的空氣
+然後它們就把航空的航空停下來
+他們就說 他們應該不是有航空
+然後航空就說 他們就把航空離開了
+那些航空的航空 他們就把航空離開了
+他們就覺得他們很不愉快
+他們就想要找出任何的危險
+就算他們有人要找出危險
+他們就不可能把他們訓練
+這對我來說是很好的理由
+在A.I. 商業中的前途
+有些危機在我們面前
+這些危機 例如B 或Bubble
+在新聞中可能會在那裡
+至於我 可能有機會
+而我認為
+這些事物
+在於Bubble
+你可能不記得
+2000年代的 .com bubble
+但如果你想起
+那些.com bubble
+那是最大的Bubble
+歷史上,它會發生,但仍然在這裡
+而,人們做的.com 書寫,並不僅是活著
+他們都活著, Amazon, Google
+他們做得對,他們明白了
+他們明白了,他們明白了,他們明白了
+他們明白了,他們明白了,他們明白了
+他們明白了,他們明白了,他們明白了
+他們明白了,他們明白了,他們明白了
+有一個網站,我相信是 Petz.com
+Post bubble
+And the people who are doing AI right
+The folks in this room who are thinking about AI
+And how you bring it to your company
+And the advice that you're giving to your company
+And leaning into that in the right way
+Will also be the ones who not only avoid getting laid off
+In the bubble crashes
+But will be the ones who will thrive
+Through and after the bubble
+So anatomy of any bubble
+And what I'm seeing in the AI one in particular
+Is this kind of pyramid
+他门是初步
+那种我刚经常去说的
+they bottom is
+massive VC investment
+对你
+right
+一旦一瞬间
+You could go out with anything that there
+ش可能
+anit and get VC investment
+then you could go out and do anything
+with an LLM pure ve became investment
+now they are far far far
+more cautious
+I've been advising a lot of startups
+the amount they're getting invested
+is being scaled back
+the stuff that's being invested
+is changing
+fifth
+question
+massive
+vc
+on realistic valuations
+companies that aren't making money
+being valued massively high
+we all know who they are
+we are beginning to see those unrealistic valuations being fed off of that hype
+me too products
+where somebody does something and it's successful
+and everyone jumps on the bandwagon
+we're also seeing them everywhere
+we saw them throughout the dot com bubble
+然後在下面的位置是那種真正的價值
+我應該應該不會做到
+這個的三角形狀
+因為它應該是更高的三角形狀
+因為這裡的真正的價值是小的
+但是我用了這些項目的實驗
+所以這是一個技術的責任
+我拿了
+但是那種真正的價值
+那種真正的價值是在那裡
+而那種建造的那種
+會是那種能夠活動的
+所以
+我看到的導入的導入
+我會把你提到的方式
+讓你開始想起你的技巧
+在接下來的五年
+會有一個改變
+我會把我介紹的
+是大和小
+大智能會是我們看到的
+大型的語言模式
+會更大
+在智能中
+去到智能
+智能, 智能
+智能的世界
+會繼續去到更大
+更大是更好
+在那些公司的
+那些公司的成績
+達到AGI
+或者達到更好的業務
+那是一個領導的領導
+另一個領導的領導
+是我會稱呼它小
+我們都看了大量的公司
+我愛這個稱呼
+讓我們稱呼他們大量的公司
+讓我們稱呼他們
+自作能夠
+成為他們的
+地位的地位
+我最近寫了一篇文章
+80%的公司
+在大量的公司
+我們用小的公司
+中國的特點
+所以中國的模式
+在特點的做得很好
+可能是因為整個地區
+沒有在於大型模式
+同樣的
+像是西方
+我看到那種
+發生了什麼
+中國我覺得
+有那種開始
+小型模式
+那些可能會發生
+我不知道
+但我們要走
+在那種
+特別的地區
+我會叫他們
+說他們現在
+大小
+模式
+在你的身上
+會有別人
+像是GPT
+像是GPT 或是 Jamini 或是 Clawed
+或是模特兒可以放在自己的需要
+這個部分現在是用來調整
+這個部分會被調整
+這個部分現在是用來調整
+這個部分會再次調整
+我可以看到的大部分技術
+在這兩三年內的需要
+可以看到的大部分技術
+在這部分的防禦會用來調整
+所以能夠用來調整
+找到特別的下層的工作
+讓我給一個特別的例子
+我個人體驗的
+我工作很多在 Hollywood
+我工作很多在工作的工作
+我曾經在工作的工作中
+也曾經在工作的工作中
+仍然在製作
+它將會在製作日常
+但是
+我學習的一件事
+就是製作的工作
+在工作的工作中
+是非常保護的
+不只是有趣的
+Go and Google for James Cameron who created Avatar and the lawsuits that he's involved in
+of this person who apparently sent him a story many years ago about blue aliens
+and is now suing him for billions of dollars because obviously there were blue aliens in Avatar.
+The level of IP protection in Hollywood is insane.
+The opportunity with large language models is equally insane.
+A lot of the focus is on large language models for creation, for storytelling, for rendering and all that.
+但其實最大機會是用來做調查
+去看看電影的訊息
+看看什麼是好看的
+為什麼電影是好看的
+為什麼電影是不一樣
+為什麼電影是不一樣
+為什麼電影是不一樣
+為什麼電影是不一樣
+而電影的大量的大量的大量的大量的
+那種調查是很大的
+但是如果要調查那種調查
+你需要分享電影的細節
+和大量的語言模式
+或是GPT 或 Gemini 或什麼
+因為他們現在在三派的IP 中
+他們可以自行推出他們的小型模式
+他們會更好看
+7B 模式 今天是最新的
+是5B 模式 昨天的
+一年 現在的7B 模式
+一年 現在的300B 模式 昨年
+他們在那裡 正在建設
+自行推出的模式
+他們可以用下層的技術去做
+類似其他事情
+包括大陸的公司、醫院
+等等
+這些技術的方式
+是最重要的
+所以這是我的指標
+在於晶元的事件
+我認為最早的燈光
+是最大的燈光
+沒有燈光
+之後的燈光是最小的燈光
+但要不然
+你對你的生命
+去除非燈光的影響
+就要在於燈光
+建立真正的解決
+理解業務的部分
+並且通過你的技術
+不要一種充滿充滿充滿充滿的技術
+誰只知道如何做一件事
+我曾經與人們很棒
+有很棒的構造
+有一個特別的
+API 或是一個特別的 framework
+然後工程就被推到
+然後他們離開了
+好 所以對
+當發生了發生的發生
+已經說過了
+資金已充滿
+買賣充滿
+項目被取消
+然後 talent floods the market.
+How is it more important?
+Diversifying skills versus
+like actually focusing on for example LLAS
+versus like either vision
+or versus like very specific
+Right, so I mean I think
+so the question was around NVIDIA in particular
+hiring for a very specific, very narrow scenario.
+So then the question is
+How important is it for you to become an expert
+in a narrow scenario versus diversifying your skills?
+I would always argue it's still better to diversify your skills
+那一套困難的狀況
+只有那一套困難的狀況
+你把所有的蛋糕放進一杯
+Vidio會是一個很棒的公司
+做事沒有對他們任何的
+但如果你把所有的蛋糕放進那杯
+然後你不得了
+那怎麼辦
+所以我認為
+想想真的能夠
+如果你是很熱情的一件事
+要很深入的那件事
+是非常非常好
+但是只能夠做那件事
+我認為
+我會永遠要求能夠被分散
+我當時說分散
+例如說LLM 或是 computer vision 或什麼
+我覺得這就是一個部分
+但是這就是了解了解了解了解
+用它們的技術
+我認為是一種技術
+它們的 diversification of skills
+是在外面的
+也有機會想到
+好 到底是關於建築的應用
+到底是怎樣的計畫
+到底是怎樣的技術
+到底是如何的用家的經驗
+還有用家的經驗技術
+因為它們都很能夠
+建立一個美麗的應用
+但如果沒有人能夠使用
+我在看你的 Microsoft Office
+你知道嗎
+有些東西像這樣
+就是我所說的
+在更加的分別
+所以在那種模式的例子
+在NVIDIA
+可以把那種特別的例子
+分開出來
+但可以展示技術
+在其他方面的資料
+我覺得是非常重要的
+好
+我們只是在開玩笑
+所以我已經有點想過了
+但是我已經是一個大 Advocate
+但是我真的相信
+小Ai是下一大事
+因為我們在世界上
+這就是我做的工作
+我們在世界上
+有Ai在所有的地方
+所以有一個傳統
+而且很有趣
+你也有提到
+因為有一個傳統的設計
+那些電腦平台
+是CPU和GPU
+當它來自Ai
+但這也在改變
+CPU是專業GPU的專業
+但是例如在電腦空間
+有很多新的技術
+叫SME
+Scalable Matrix Extensions
+SME是讓你
+用AI的工作人員
+使用CPU
+前面的手機
+有幾個中國手機
+Vivo和Oppo
+最近的手機
+用SME的手機
+有些東西很可怕
+A. 他們沒有必要
+用外型手機
+用力把更多的腹部拍攝
+只能夠運用AI工作機
+而CPU當然是用低能量的
+能夠運用AI工作機
+他們能夠建立新的新設計
+如果我提到一項
+有一個公司叫Alipay
+Alipay有一個項目
+你會...
+我們都看到這些項目
+你能夠通過你的照片
+找到一個特別的項目
+例如A8Sushi
+或其他項目
+用那些文章來作出一個輸出
+所有的需要一個背後的服務
+所以你的照片在Google或Apple的照片上
+都在那裡
+而那些背後服務的模式
+可以在他們的設計上
+搜尋到的
+並能夠做到他們的設計
+AliPay的想法是
+說有三個問題
+第一個問題是 privacy
+你必須要分享照片
+在第三個部分
+第二個問題是 latency
+你必須要上載照片
+你必須要發送東西
+你必須要有背後的東西
+然後它要下載結果
+第三是建立了那套 cloud service
+然後在那裡發展 花了時間和錢
+如果他們能把所有的東西 移到 device 上
+現在的想法是 他們可以用一套 model 上的 device
+搜尋照片 用一套 device
+你沒有利用 還有 商業的 perspective
+他們現在把錢 創造了 stand-up service
+他們現在有 AI 運用 CPU 進行進行
+Apple are also people who've invested heavily in the scalable matrix extensions.
+You see whenever they talk about, if you've ever watched at WWDC or anything like that,
+when they talk about the new A-series chips and M-series chips about the neural cores
+and those kind of things in them, that's part of the idea.
+So to think about breaking that habit that we've gotten into
+where you need a GPU to be able to do AI
+is part of the trend that the world is heading in.
+Apple are probably one of the leaders in that.
+I'm very very bullish on apple and apple intelligence as a result
+and from the AI perspective
+and you know seeing that trend and following that vector to its logical conclusion
+where as models are getting smaller
+embedded intelligence getting everywhere
+isn't a pipe dream, isn't sci-fi anymore
+it's gonna be a reality that we'll be seeing very very shortly
+so that idea of that convergence of AI
+because of the ability of smaller models getting smarter
+和低能量的手機能夠運作
+我們看到那些轉向盤子在暴力
+我看到很大的機會
+最後一部分
+我再回到當時的作用
+我認為我常常說的
+一個很暴力的部分
+是我喜歡的
+叫做藝術理解
+然後你能夠開始使用
+模式去理解
+你身上的東西
+然後他們能理解你身上的東西
+能夠從那些理解新的東西
+從那種理解新的東西
+你能夠實現超強力
+我們是更有效率的
+包括那種建築機構或其他東西
+我會給大家一張稍微的 demo
+讓我們可以把視頻上升起來
+我之前在說過
+創作影片
+所以這張照片
+是... 抱歉
+這張照片的關係不太好
+我失敗了
+所以... 這裡有照片
+這張照片其實是我的兒子在玩 ice hockey
+我拍了這張照片,我認為我非常好在鋒利
+我寫了一張照片給他,他在中間拿了一張照片
+他有了漂亮的複雜在他的手上
+我問他,他在鋒利的目標,你覺得什麼?
+我們看吧?
+我們看,如果這樣看
+這張照片是錯的,但還是同樣的
+Because of poor prompting or because of poor understanding of my intent,
+if I talk about it in a genetic sense,
+the arena that he was in,
+which is a practice arena and doesn't have any people in it,
+sorry, I didn't pause it,
+if I just rewind to here...
+If we look up in this top right-hand corner here,
+this is basically where they store all the garbage,
+but the AI didn't know that and had no idea of it.
+他没有想法,所以他想起来是一个
+充满了空间,然后开始画人
+他尽量拍一块,大家祝福
+然后他突然有两个手指
+而不过是一,他忘记了他的名字
+所以我没有用过
+一个很有型的工作室
+我没有用过
+A. 明白我的意义
+B. 明白我的意义
+明白你所有的技术
+就是Veal
+明白使用Veal的语言
+要做一個計劃如何使用
+要做一個計劃如何建立一個提供
+然後使用它然後反應
+所以我已經經常經常經常
+經常經常經常
+在創作影片的創作中
+用AI
+我想讓你給我一個測試
+在影片中的影片中
+它們的整個意義是
+如果你想要表演的
+有些人要有情緒
+你需要能夠將情緒
+你也需要把整個故事的情緒放在表現中
+因為當你創作影片從一個拍攝時
+你會創作一個8秒的錄影
+那8秒的錄影需要知道其他故事的發生
+所以我來示範這個
+這不是很完美的
+我和專業的演員和朋友都在這裏
+他們在表演時笑著
+但我們要看分別的不同
+我們從一個不正常的鵬鵡玩家
+到這個
+我們希望可以聽到
+我猜我能做到泡沫後
+他們就把我關掉
+我這麼近
+但他們不會聽
+我不會
+他們不會聽
+所以
+這裡的想法
+就是在於正常的鵬鵡
+像我剛才說的
+要把鵬鵡進入那些步驟
+這讓我用同一個電子
+讓我向你表現過一段時間的失敗
+讓我能表現出一些東西
+讓我能做出一些事情
+像是在說話的情感
+所以我現在有點太晚了
+所以對不起
+我可以問任何問題
+如果任何人有任何問題
+我看到Andrew在這裡
+他在背後
+我只想要說
+謝謝你這麼多
+你的注意力
+我非常感謝
+對
+對
+好問題
+再次說一下
+How much of the improvement is from the use of an agentic workflow
+Versus just lack of hockey stuff in the training set for the failed one
+I, not comparing like to like so just using my gut
+When I looked at, when I broke this down into the workflow that said
+Okay, I created scenes like this one and they were awful
+When I just did it directly for myself
+With no basis, no agentic, no artificial understanding
+And when I broke it down into the steps where it's like
+OK
+在這 scene the girl is sitting on the bench
+and she's upset
+and the person is talking to her
+and he wants to comfort her
+feeding that to a large language model
+along with the entire story
+and along with the constraints that I had
+where the shot has to be eight seconds long
+clear dialogue and all of those kind of things
+and then to understand my intent
+from that one
+the LLM ended up expressing a prompt
+那是比我以前更加的貴重
+那是比我以前更加的貴重
+LLM的意識是
+有什麼好處 什麼好處
+有什麼好處 什麼好感情
+更多的
+我可以花時間去描述
+所以那第一步
+在它做的那一步
+做了那一步
+我的意識是很大的
+第二步是
+它用的功能
+所以我刻意說
+哪個影片我會用
+我用了Gemini
+是LLM
+希望邱文貴和Vio的慈善
+這樣一種
+所以能夠理解
+儀器的信心
+做事跟Vio
+我學會的
+像Vio
+很不好在做高動作的
+但很好的在做
+慢鏡的動作
+像你所見
+這件事
+所以LLM
+從我使用的
+我使用了那一種
+然後再次
+再次建立了
+然後再次
+再次修改了
+然後第三個
+使用的技術
+其實是給我
+創造了一種
+VIO會有一個價值
+2-3$
+創造4個VIO
+所以我最後想創造
+很多很多很多很多
+很多VIOs
+會投資好錢後
+壞錢
+但是那些資料
+我早前做的
+去理解我的意義
+然後去做
+利用的方式
+是在背後的
+可以拿到
+可能是第一次
+但會很少
+拿到2-3個
+試試去得到
+那是很很不錯的
+所以我認為
+沒有相同的相同
+我認為這個計劃
+和做出一個工作的程度
+都很合理
+有任何其他問題 想法 留言
+對 我回到你
+什麼令我最驚訝
+在業界的產品上
+哦 那是好東西
+我認為最驚訝的
+我應該不會驚訝
+是如何把整個業務的高度
+我實際上
+但是我 honestly thought a lot of people who are in important decision making roles
+and that kinda thing would be able to see the signal better than they did.
+And I think the other part was that the desire to make immediate profits
+as opposed to long term gains also surprised me a lot.
+Let me share one story in that space
+was one of the things that after we, Andrew & I taught the TensorFlow specializations
+And after that Google launched a professional certificate
+Where the idea of this professional certificate was
+We give a rigorous exam
+And at the end of the rigorous exam
+If you got the certificates
+It was a high prestige thing
+That would help you find work
+And particularly at the time
+When TensorFlow was a very highly demanded skill
+In order to get work
+Running that program cost Google
+$100,000 a year
+Dropping the bucket
+Not a lot of money
+goodwill that came out of it was immense.
+I can tell two stars, I'll tell one story very quickly.
+There was a young man and he went public in some advertising stuff with Google.
+He lived in Syria.
+And we all know there was a huge civil war in Syria over the last few years.
+And he got the TensorFlow certificate, he was one of the first in Syria to get it.
+and it lifted him out of poverty,
+他能夠到德國工作
+在一個大德國公司
+我遇到他在一個辦公室在亞馬斯特丹
+他告訴了我他的故事
+現在因為這個德國公司的工作
+他能夠幫助他的家人回家
+把他們從戰爭區
+進入平安的區域
+因為他有這個AI的東西
+還有很多不可思議的故事
+非常有趣的故事
+但是其實帶給我驚 Ken was sometimes the lack of investment in that
+where there was no revenue being generated for the company out of that
+we deliberately kept it revenue neutral
+so that the price of the exams could go down
+we wanted it to self sustain
+and ended up not being revenue neutral
+and ended up costing the company about 100,000 to 150,000 a year
+so they can do it
+and it's a shame because of all the potential goodwill
+that can come out of something like that
+but i think those will be the two
+that immediately jump to mind
+that have surprised me the most
+我猜到另一部分的部分
+是人们能够成为很 successful
+A.I.
+你不会想过
+会成为A.I.
+一直有印象来的
+让我说一句
+我有好朋友
+我给你打个招呼
+我有好朋友
+是一個職業的職業餐廳
+還有任何職業餐廳的粉絲呢?
+OK
+你知道,他很像一種 brutal sport
+你看,有很多的打扮
+還有很多的東西在餐廳
+他從學校上上班
+當他13歲的時候
+去訓練
+他會經常告訴大家
+他生氣的人
+因為他不在學校
+他和我完全相同
+我們這樣做得很好
+他從職業餐廳
+因為有負面問題
+他現在正在做 non-profit
+冰淇淋的冰淇淋的冰淇淋
+三年前
+我們喝了一杯
+他問我
+我問我這個AI
+我問我這個chatGPT
+是否很好
+我跟他說
+對 很好
+等等
+這件事是非常重要的
+我並不知道為什麼
+但一部分
+他在冬天的冬天
+每個半天
+他要向總裁
+做出的工作
+讓他們能夠合作
+因為即使冬天
+他還要錢去運作
+他在一年內在用150,000元的資料
+去找商務員
+去把資料從所有不同的資料搜集
+從資料搜集
+有些是工具
+還有什麼叫做
+鋪碟
+有一個鋪碟
+它是冷的
+還有
+有些是傳統
+還有一些是帳號
+還有這些
+他沒有
+用電子
+但是他需要把資料搜集
+所以他做了一個 experiment
+他給了智慧智慧的工作
+這就是他問的問題
+我問他是否很好
+所以我們繼續說
+然後他告訴我為什麼
+所以我找了一下結果
+因為他在上傳製搜集
+他在上傳PDF
+等等
+然後在進行報告
+他現在已經有兩小時
+去進行報告
+智慧智慧
+然後他就做得好
+150,000元一年
+他在製造和製造
+現在要進行
+供應小孩
+也和小伙伴從不同的工序調eskating equipments and lessons
+那 kind of thing
+so was taken out of the hands of an expensive consulting company
+and put into the hands of people
+because of this guy
+and he says he's the dumbest person alive
+you know, but I hope he's not watching this video
+but and he's like you know
+he and I told him afterwards that congratulations
+you're now a developer
+right and he didn't like that
+it's like the surprises like that
+that the super powers that were handed to somebody like him
+他不技巧的,但能夠
+能夠能夠
+建立一個方法
+能夠救助他的
+百分之百的
+一年
+這樣東西
+我一直都很驚訝
+在非常開心的方式
+對
+對不起,我會到你的臉
+對不起
+我認為
+但有多少人
+在這個程度上
+做這種事?
+對,所以
+再次提醒
+視乎影片的問題
+像我們 sometimes
+是容易地
+把音量看得到
+但是
+大家是否
+同樣的
+是我們
+我覺得這是我們的機會
+讓他們的信任
+和他們的幫助
+能夠明白他們的
+我想最大的
+和最大的歷史
+就是理解
+他們的獲得技術
+他們的所有
+都獲得了
+對於他們的
+實際上的
+而我對他們的
+歷史
+像我剛才說的
+我的朋友
+他看過這個
+但他不願意
+讓他拒絕他的
+他需要那種
+那 kind of advice around it
+and to kind of start peeling apart
+what he had done
+and what he did right
+and what he did wrong
+and so that positioning ourselves
+to be trusted advisors
+by not leaning into the same mistakes
+that the untrained people may be leaning into
+I think is the key to that
+and just understanding
+that the average person
+is generally very intelligent
+even if they may not be experts
+in a specific domain
+and to key in on that intelligence
+and help them to foster
+and to grow that in
+然後用他們的部分來判斷
+他們會有難度
+讓他們有興趣
+他們很很好的
+好 這裡有那些
+好
+所以AI 技術學院
+學習科學
+哪有好意義
+哪有要求
+我的心理體驗
+我覺得是好意義
+我認為
+沒有用於
+你能夠使用的技術
+但要求你
+但要檢查你的期待
+小故事其實在那邊
+是一個很重要的問題
+在歐洲的國家
+誰知道
+是
+什麼
+在歐洲
+是在歐洲
+是在歐洲
+所以我其實在歐洲
+做了我的學生
+我回去了
+去學校
+在那裡
+我遇到一個研究生
+他在研究生
+用了腦科
+用 computer imagery and using various types of computer imagery
+我问他,他有什么问题,什么是最大的阻挡,
+这八年之后,他的答案是,有机器的质疑
+因为他需要转转机器的模式,他需要机器的质疑
+他在一間公司的一間公司,
+有10位學者,
+這也就是說,大家每天都會在一天半天,
+星期三至星期二,他每天都在星期二,
+所以他會花時間不在星期二,
+準備好所有東西,
+例如模型運動,
+模型訓練,
+然後星期二,
+當他有公司的,他會做訓練,
+然後他希望,
+在那時候他會訓練模型,
+然後他會得到的結果,
+否則他會等一週,他就有空接觸了GPU
+然後我給他示範了Google CoLab
+有人用Google CoLab嗎?
+然後你能有GPU在空中自由
+這種東西
+然後那些混蛋在腦袋上
+因為我拿了我的手機
+然後我給他示範了
+我手機在機身上自由
+然後在GPU上自由
+然後他在訓練
+然後我給他做了一些調查
+然後現在是個個個
+這次會自由的Colab
+他有更多的Colab
+他有跟他分享GPU
+所以我覺得 for someone like him
+你 know machine learning was an important part of his research
+but he was so gated on it
+that the ability to widen access to that
+endened up like
+really really advancing his research
+I don't know where it ended up
+I don't know what he has done
+it has been a few years since then
+but you know that story just came to mind
+when you asked the question
+any more questions
+any
+feel free to ask me anything
+ok at the front here
+So can AI be a force of social equality
+or social inequality
+我覺得對於我對這回答是
+是?
+是兩種
+是兩種
+我覺得
+最後一個問題
+我認為
+任何技術
+可以用到任何的意義
+所以最重要的
+是去教育
+去承認對方的
+使用對方的意義
+有很多適合的
+能夠使用
+而有些適合的
+能夠使用
+更多的問題
+更能夠解決
+所以
+所以我一直都喜歡生活我的生活
+以為好意義
+而為好意義
+而在案例內
+我認為沒有任何不同
+我會做的所有事
+我會提供的所有事
+是以好意義
+人們會用它為好事
+但也要為它們準備好
+用它為不利用
+我展示的好例子
+我認為是好意義
+而不是壞意義
+而我看到的最多的錯
+是用不正確的
+而是用不正確的
+但我會說
+這是我只能給的主意
+那種東西是
+常常用不正確的
+但用不正確的
+AI自己沒有選擇
+是怎麼使用的
+Andrew,你想要註冊嗎?
+沒有,我沒有
+我只是想要註冊
+謝謝你
+謝謝你,Andrew,謝謝
