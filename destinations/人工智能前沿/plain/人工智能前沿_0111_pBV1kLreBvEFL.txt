@@ -1,0 +1,3498 @@
+What the heck is AGI anyway?
+And how we know when it's arrived or if it's arrived already?
+AGI, that's artificial general intelligence.
+Everyone is talking about AGI.
+AGI, AGI.
+AI is the biggest technical thing ever in my lifetime.
+I think AGI is a completely complementary form of intelligence to human intelligence.
+Is AGI here? Is it not here? What even is it?
+BENCHMARKS
+BENCHMARKS are our friends here
+enabling us to be rigorous
+about what we're even talking about.
+MODELS are improving quickly
+and are now capable of many great things
+but they also starting to present
+some real challenges.
+They are incredibly convincing
+and capable of manipulating people already.
+And this is an existential threat for society.
+When we talk about AI alignment
+and safety and preparedness,
+the only metric,
+the only approach that seems
+to bear promise is
+oh my god so
+2026
+it's incredible that we're here
+yeah i mean
+how do you guys
+feels like we're in march by the way
+yeah it does right
+you know the first two weeks feel like a total acceleration
+oh my god
+yeah welcome to the year the singularity i guess is the
+the preeminent comment from the conversations that
+we had with elon and from all of his recent tweets
+well if you if you wanted validation of the urgency of the year
+他忽然忽然确认了
+他要知道的
+他会知道的
+是他在天空上
+比任何人知道的
+他觉得
+大家都在想
+这个年度的影响
+那是我的最大的抵抗
+这年度很清楚
+是我们最重要的一年
+在百年之内
+我觉得每年
+会是最重要的一年
+百年之内
+对方的计划
+如果我们是在
+超级超级率的
+和没有超级率的
+每个点
+跟自己的相似感受到
+它是最重要的點
+它是永遠是腿和腳
+你知道,我剛才有跟Neil deGrasse Tyson
+談過的那個詳細話
+他回顧歷史的所有
+break through years
+然後開始說話
+說,我的天,這真是
+你怎麼可能這樣
+我…
+我不知道
+我感覺如果你 zoom out
+那是100% 真實的
+但如果你 zoom in
+那是一些很不合理的年紀
+你知道,你…
+沒有,我真的覺得
+網路出現了是一個 explosion
+但是在911、2001、2002的時候
+我們很難得
+然後再次在COVID年代
+我們很少
+比今天
+所以有一個時期
+然後有一個時期
+所以時期經常這樣
+然後在那裡有一個時期
+現在我們在一個上升
+兩次短短和長短的部分
+我覺得有些比較深刻的
+我記得一段話
+我和朋友在駐華爾斯威爾
+20年前的看法
+這套法律的推翻
+和一般的套徒
+是 Carl Sagan's Cosmic Calendar
+如果我們回顧
+最重要的事件
+就是這套的空間
+會變得更快
+但如果我們來看
+這套圖片
+我們不只是看
+一個完美的
+表現的表現
+而是有很重要的
+歷史的事件
+是 both human and natural physical
+不是很在乎的
+So, I asked Ray about 20 years ago now
+ok so do these displacements mean anything?
+We were talking about like boring times
+boring periods in history
+if we go too far off this accelerating cosmic calendar
+Does that mean that we're behind?
+Or does it mean that maybe nature took a swing at a technology
+or humanity took a swing at a technology
+and and whift and we're on the second or third try of it
+蠶子ckth
+i think a good hand story at the time but
+i think in a future conversation with Ray
+It's something that we should ask like do these
+Great stagnation esk periods but generalized
+Do these actually have more profound meaning than just noise
+Well, we'll talk to them in two weeks we'll ask him
+The purpose example Alex is aviation speed
+Or speed of human travel
+Soar like paused at the Concorde
+And hasn't many sense
+It's actually coming down
+對
+所以是那種意思嗎?
+是一個歷史的錯誤嗎?
+為什麼不在新加坡有一個歷史的歷史?
+什麼2000年?
+是一個錯誤嗎?
+是否不可能?
+我不知道
+在長期的期間
+在一世紀的時代
+或者是一年代的時代
+會不會重新重新重新重新重新
+會不會有
+我們會有
+從星球旅遊
+然後有
+一些
+旅遊的風格
+然後
+我們在家中的旅遊 會更加快
+我告訴你 從伊朗·Musk的工作來看
+這些全是基礎的世界 人類的基礎
+會做一些事的確有一定的等級
+然後還有一個世界 叫做《聖人》
+就是步行的改變了基礎
+你來約伊朗·Musk的工作
+在整個星期日的工作
+你完全覺得 這是聖人
+不是基礎的基礎
+不是基礎的基礎
+是幾個人的基礎 非常有趣
+所以我覺得對,但是我覺得更是 systemic than that
+如果你看到 any stock market charter grows
+and then it consolidates or decays or consolidates
+and you get this kind of pattern
+when you zoom out the thing looks like this
+but zoom in and you can have volatility
+bitcoin price is a great example of that
+and so you would expect that to happen as a natural force
+with lots of confluences of different dynamics taking place
+the enlightenment happened where a bunch of things
+一同在同一段時間
+向大家向大家推進
+然後再推進一段時間
+然後再推進一段時間
+所以我覺得這是一種
+所有的自由的部分
+我對《歷史》的大人
+對我們所說的
+《歷史》是一種
+我認為歷史
+所以我對《歷史》的大人
+我對《歷史》的大人
+我對《歷史》的大人
+對《歷史》的大人
+和《歷史》的大人
+是非常簡單的
+在一邊
+向大家推進
+技術和定義
+每一件事都會發生
+不管你做什麼
+在空中
+都會發生在一個
+preordained timeline
+然後在其他方面
+在其他角度
+說人類的歷史
+歷史
+伊朗
+或者誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+誰
+所以我肯定會選擇
+《聖劍神》的理論
+現在正在獨立
+在納克摩托
+在伊朗
+在斯蒂的工作
+還有幾個個人
+但在長時間的
+工業上會帶我們來
+大約你覺得
+我認為
+如果想像是一條坡
+然後做好人
+就像一條坡
+但如果你看看它 from a different angle
+像我的iPhone right here
+有一個滑板和沒有按鈕
+但我之前的黑色玫瑰
+有一個小鍵盤
+它們有一個1000小鈴鐺
+沒有問題
+我心裡的Steve Jobs 決定
+所有人物是會適合這個形式的
+他強行地移動到世界
+這是我們生活的
+每個孩子我都知道
+只要拿著它
+這是人物的 destiny
+我肯定不是
+有人決定這是人物的 destiny
+所以我再看看
+是我們在 private sector
+或者 nasa
+那是 purely the force of will
+of a human being
+and so within the
+you know curve
+there are these other choices
+where where is the world going and
+you know historically
+different countries and different regions
+would have different ideas
+on how we should live
+but now everything seems to propagate across the whole world
+like you know facebook
+just propagates across the world
+you know maybe you could say there are two worlds
+the US driven one and the china driven one
+but there there aren't like 50
+different things and so now those choices by a few great people end up changing the whole trajectory of eight billion people.
+And so I think even within the curve there's always other like clearly driven by single human being thoughts and ideas that are critical for our quality of life or our choices.
+I'll take maybe the dualist side here so everything these days seems to follow power law statistics so that the top 10 or top 20% of whatever population we're talking about maybe
+可能是 founder entrepreneurs
+继续发展90%的价值
+一些优点的80-20%的费用
+但是以主要的观点
+是在发展力量的数据
+是在上一、二、三人
+谁发展历史和优点的数据
+还是在上一、二、三人
+我们会发展力量的数据
+我们会发展一、二、三人的数据
+3 people of the era and say well
+It's the top end people of the era
+who defined the era
+But power law statistics being going concern
+Maybe the statistics were inevitably going to produce
+Someone who was going to be the defining person
+Yeah, Selim you're absolutely a great point
+But I'll guarantee it's getting narrower
+I think when you have
+I think I sit in the middle of the great man
+and the systemic thing right
+I to Alex's point I think
+when your conditions are right somebody is going to pop up and make breakthroughs happen right and whether it was Leonardo da Vinci at that point it's always been some individual but it wasn't the conditions had to be right for that person to pop up.
+We don't know how powerful today I think was powerful today is the conditions are more right for more people to pop up than ever before in history.
+我會提出一個試試
+如果我能夠
+我想提出一個試試
+這是在咳嗽的想法上
+我們如何會試試
+決定分析的不同
+在一個不太能控制的
+可能不控制的
+但試試去決定
+如果技術跟
+歷史的大人
+在一方面
+與其他技術
+在一方面
+而提出的
+是
+看時間 gap 之間
+在斯德拉伯斯的
+責任指揮中
+是斯德拉伯斯的
+責任指揮中
+和藏人指出
+伊朗穆斯克
+是伊朗的定義
+而在時間內
+越是穩定
+在技術的
+定義的方面
+社會和文化
+會不斷的
+把所有的
+法律和體制
+在最高的
+現時的定義
+是一位很好的人
+我們有很多商業
+如果伊朗不存在
+肯定是以青色的颜色
+作出了颜色
+而变成了新的颜色
+然后再次变成了新的颜色
+然后再次变成了新的颜色
+很多人在各种
+各种充分的
+充分的
+Bitcoin的变化
+Bitcoin的变化
+所以我同意你 苏联
+如果是
+有能量和关键
+又或者是有些東西
+或者是你在想什麼
+什麼東西
+你都不想
+好像有個很多人
+你是要來做什麼
+我對你來說
+有一個很特別的
+很特別的
+就是
+你怎麼知道
+我對你來說
+你不懂
+你不懂
+你怎麼知道
+你懂
+你怎麼知道
+你怎麼知道
+你怎麼知道
+你怎麼知道
+你怎麼知道
+你怎麼知道
+你怎麼懂
+它有很多的形式
+不太有活動
+你加了水
+它會增加
+關鍵性的系統
+更高的活動
+還會慢
+但是它有更多的活動
+你會有滋潤
+現在它很難控制
+會燃燒你
+然後
+玻璃都很高的
+它會在每個地方
+我們看到的是
+技術在擴大
+擴大
+擴大
+然後在那邊擴大
+所以譬如
+錢
+我們以前擴大
+或是海鮮
+很地區
+很慢
+非常非常快
+我們再次建立了
+借助信息
+商業信息
+水利
+金融
+金標
+我們再次發展我們的資料
+現在我們有 Bitcoin
+我們被減到
+我們用水來吸收錢
+我們已經被淘汰了
+對 訊息是一樣的
+我們以前用家庭證書
+或是微信
+或是Pony Express
+非常非常快
+然後我們有信息
+至少去了哪裡
+但是慢慢
+現在我們有
+Tweets and emails
+and they go everywhere instantly
+once it's gone you can't control it
+and the big challenge I'm seeing
+is that you move domain after domain
+to that vapor state
+stable structures don't form in a vapor state
+so from a societal perspective
+you saw the Occupy Wall Street movement
+the Arab Spring lots of hot air
+lots of vaporism but not no structures came out of it
+and we just falling back to the old
+we need to move in
+if you take the methodology fully
+you need to move to a plasma state
+非常熱門的事情
+但是那是
+那個人的命運開始在那裡
+但是我覺得那就是
+這個下一步的問題
+然後我們就要
+把這個想起來
+如果我看著我的整個生活
+然後我想著10個時刻
+我會在我的死亡中
+有兩個人
+在過去的幾個月
+一個人是
+旅行長在我家中
+旅行長在這件事情
+那一千年就死了
+但是就死了
+基本上
+嗯
+ed emerged in the context of what's happening right now in the world in the amount of change in the amount of risk
+and then the other one is seeing the Gigafactory, the meeting with Elon was just super super fun.
+I'm such a fun guy but the Gigafactory
+uh was the thing that to me is a top ten bucket list item and we can talk about that later than
+oh, it's extraordinary
+but holy crap
+Yeah, oh my god
+I Alex you had another point and I want to jump into the conversation
+I was going to take the opposite point I think I'll take the opposite side
+from Salim
+我认为我们在实际上
+在移动到更加的确保的
+我认为我们在实际上
+不需要在这个阶段的
+理念和理念中
+我认为
+我们在企业和技术中
+在企业和技术中
+我们很快地
+发展了历史的
+专门的
+和历史的
+能够让我们
+在历史上
+发展了历史的
+能够让我们
+在历史上
+发展了历史的
+能够让我们
+如果您看前面的貨品
+從貨品的預算
+至於新的貨品
+至於FSD 至於優惠貨品
+等其他
+很多的貨品質素
+將會被證明
+貨品質素的貨品
+從車子上的車子
+至車子上的車子
+保持了
+基本的
+技術
+從人類的
+從利用者的
+是由人的看法
+由人的看法
+是在人身上的背後
+人們不必擔心
+從人的看法
+分別是
+在FSD前
+一輛車
+有數量的
+電子電池和其他
+可能你會看到
+分別是
+車輛的行程
+但同時
+是 for decades the basic shape of the basic usage pattern of an ICE car
+basically the same, and it was stable.
+So I think I'll take the opposite which is to say that as civilization advances
+the arrow of time in my mind seems to point to deeper and deeper abstraction stacks
+and tech stacks that do a better and better job of insulating people,
+users sitting at the top from all of the profound changes that are happening underneath.
+是最好 只要技術持續地運作
+如果社會是十分 stable 能夠拆除電源
+以及法律 能夠使用
+我還有一個重點
+好 蘇利姆 請你來
+你說 說你從貧民車輛 貧民車輛
+貧民車輛 貧民車輛 貧民車輛
+因為車輛 貧民車輛 貧民車輛
+貧民車輛 貧民車輛
+所以你必須要有那種大量的大量
+然後我們把那些交通過
+然後基本上
+IronCloud的規定鍵盤是另一個例子
+我們只是
+所以會不會是一個例子
+歷史的限制
+能量
+還有那些
+在那裡的添加層面
+我覺得你會做
+一個優點
+我覺得
+這是
+一個概念
+我們被困在過去的
+我認為
+我們會在 cloud 上載
+10年了
+還有潑迪的鍵盤
+潑迪的原始
+會跟我們一起
+會保持
+永遠的死亡
+永遠的死亡
+好
+我會保持
+永遠的死亡
+我會保持
+因為
+我會變成
+一個領域的
+所以
+我們會
+進入那裡
+進入那裡
+對嗎
+你剛才
+做了我一場
+人類人類的
+因為
+我們的想像力
+是兩隻手足的
+好 大家
+好 先休息一下
+大家
+每周我自己的研究團
+學習了Metatrends
+在世界中的影響
+主題是
+《Computation》
+《Sensors》
+《Networks》
+《AI》
+《Robotics》
+《3D Printing》
+《Synthetic Biology》
+這些Metatrends
+我曾經提出
+能夠讓你看到
+未來10年
+前任的人
+如果你想
+每周有Metatrends的
+資訊
+去diamandis.com.com
+或Metatrends
+那是diamandis.com.com.com
+或Metrends
+歡迎大家到
+我們會再次提到WTF的新影片
+這是2026年 新的新年
+我們工作在這裡 準備準備好
+在這段WTF的特別的節奏中
+我們會談談三個大部分的內容
+我想帶給你們的觀眾
+David  Alex 和 Selim
+好 再見
+你們會有一個新年
+我的心情是完美的
+我只要兩天後 回家
+我們會在下午的時間
+做一些課程
+希望是一樣的
+所以
+這是我第一次討論
+和問問的問題
+是怎樣的AGI
+怎樣
+我們知道
+當它已經有發生
+如果已經有發生
+David和我
+我們就談了
+什麼是臉色
+Selene好像這樣
+我知道
+你還看著這個
+當然
+但其實
+我們只是談了
+opening with Elan who's like it's happening this year in 2026.
+We've heard close the same thing from salmone, Eric Schmitt and others.
+You know, I was on stage with Eric and Fei Fei, and they're like, well, that's not happening now, it's, you know, five、六
+year out in and what does it mean anyway?
+I want to kick off a couple of quick videos before we get to our conversation.
+The first is from Daniella Ahmed.
+她是Dario的弟弟
+她是媒体的总裁
+我们先听听这个影片
+MGI是这样的有趣的语言
+因为我觉得
+Dario也说过这个
+但是很多年前
+它是一个很便宜的概念
+说
+当时会怎样
+能够有美术的能力
+能够成为一个人
+有些语言是
+我们已经超过了
+我们已经超过了
+对不对
+Claude肯定可以写更好的程度
+是低级的
+但Claude肯定可以写程度
+像很多的发言人在安法中
+或者可以写一份程度
+也许是发言人在安法中
+这就可惡了
+我们可能会在世界上
+一些最好的研究者和发言人
+很多人都会说
+Claude肯定可以做很多的工作
+或是非常推广的工作
+所以我觉得这种计划
+AGI alone is complicated
+And then on the other hand are like
+But also Claude like still can't do a lot of things
+That humans can do right
+And so I think
+I think maybe the sort of construct itself
+Is now wrong or maybe not wrong
+But just outdated
+But I think this kind of question of like
+Will we get to just like higher level
+You know more powerful transformative
+Artificial intelligence
+Without other breakthroughs
+And I think the truth is like we don't know
+還有一句話在那裡
+有一個朋友,Mo Godot
+很多人都知道他有 been
+他有 been to the pod
+他在這裡跟我們聊天
+有幾個時刻
+Mo
+有這個
+很厲害的
+語言
+在AGI
+《大學的大學》
+這很搞笑
+因為我們人們
+通常都要
+作出一個定義
+然後說
+如果我們達到
+這個定義還是不
+我們真的
+沒有改善定義的定義
+所以
+超越藝術的意義
+藝術性和肺炎的意義
+就是
+AI會更好
+人們在每個問題上
+每個人都可以表達
+對嗎
+但已經是
+這是一個問題
+所以
+想法
+Dave
+Suleim 你想先說這個
+對
+我已經講過
+定義的部分
+我們說AGI
+記得這個詞
+因为在前一代的 AI 都非常严重
+有了 anti-lock breaking systems
+credit card fraud detection systems
+fuzzy logic in your camera
+有一个非常异的调查
+有一个非常异的调查
+AGI 差不多有一个重点
+说我们可以有一个
+经济的经济
+在我们的前一周
+我们在讨论这个
+我上了一个计划
+我会试试看
+我会试试看
+但是我基本上
+有四五个字
+你可能会认识
+這是一個是經常的
+音量
+機器學習的類別
+找到的數量
+有很多資料
+第二是
+有一個集中的
+因為有一個集中的
+有一個集中的
+有一個集中的
+有一個集中的
+有一個集中的
+第三是
+就是
+集中的
+基本的
+有兩個
+一個是
+動物在
+世界上的
+是一個
+完全不同的
+體育的
+我會介紹
+在C-Squart
+它们的生物会在大牧场里浸泡
+然后它们会在大牧场里浸泡
+首先,它们会在牧场里浸泡
+因为如果在牧场里浸泡
+它们不会再浸泡
+它们不会再浸泡
+你看到世界里
+牧场、地牧、 etc. 都没有生物
+在这些许多的情况下
+因为它们不需要浸泡
+在世界中
+我们的生物
+已经将它们的生物
+移动至一个动作
+然后,它们将它们的生物
+最終的關鍵是
+awareness, consciousness, quality
+還是困難的關鍵
+我覺得這些都是非常有分別的
+因素
+所以我認為
+AGI
+我認為最好的
+我看過的最好的
+是 from Reed Hoffman
+說
+我們說
+我們有一個人
+是世界最好的藝術人
+我們有一個人
+是世界最好的
+是旅行人
+我們有一個人
+是世界最好的
+在普通世界
+我們不會得到
+通過這些 domain
+人們不可以只能有經驗
+但是AI可以有經驗
+然後找到一些很有趣的東西
+通過海洋運動
+與藝術、藝術等等
+我覺得這就是國際權力的基礎
+我覺得AGI是一個
+完全複雜的
+形式與人類的
+性能性的形式
+不算是複雜的
+我覺得它有不同的
+分別和方式的設計
+我覺得我們會錯過
+我們說的一樣是
+人類性的性能性
+Alex,you've argued that it arrived
+long ago
+I've argued that
+General Intelligence arrived long ago
+I think the question about
+AGI as a term specifically
+I want to say this is a trick question
+It was Nick Boston
+Who first popularized the term
+AGI in his book superintelligence
+And I'm paraphrasing here
+But his original definition
+of AGI was something like
+A machine that can perform
+Any intellectual task
+Enfoned being can
+在大陸的大陸的大陸
+他就与那些人
+相当丢失了
+最后一名
+Rozhok证明
+他们的自己的
+拼尔
+定义
+是什么
+AGI
+我喜欢玩
+如果 SkyNet 想做什么
+能把
+他们的拼尔
+当时的拼尔
+当时的拼尔
+当时的拼尔
+当时的拼尔
+只需要
+把他们的拼尔
+当时的拼尔
+当时的拼尔
+当时的拼尔
+当时的拼尔
+是否有事發生
+那會讓我們
+把能量增加
+因為我們會被迫害
+是否AGI
+是否發生
+無論如何
+這很搞笑
+說到迫害
+所以像是
+彤彤
+阿姆德說
+AI寫的很棒
+我會說
+我需要檢查我的職業
+你生病了
+在拍攝節目
+為什麼我需要
+看職業的
+我看到了
+他在一個學校寫了一個發言
+他在一個學校寫了一個發言
+然後他看到一個電視機
+他就覺得
+他在中間的發言
+他就覺得
+什麼事都 wrong with us
+不過我完全不明白
+我跟Alex說
+我現在有七、八個小時的時間
+這就很瘋狂
+我認為我兩年前在這裡
+這就很瘋狂的一種生活風格
+所以這個問題, Does this even matter, Dave?
+Does the term AGI ASI, I mean, there needs to be some better, some better metrics that we should
+對,如果你在用它,你會知道它是否可以, and you're watching it evolve at such an incredible pace
+而其他人在討論AGI的定義,它變成了這麼多, just during the time they were talking
+就像Alex was saying,你會感覺到你失去船, as soon as you engage a significant amount of your time in this side of the plane
+但是我認為這些東西
+像很多人都會更加認同和合作
+對
+我猜你會更加懷疑
+是AGI在這裡嗎?
+不是這裡嗎?
+還可以嗎?
+有點點點
+有點點點是我們的朋友
+讓我們更加要緊張
+我們也會說話
+對
+所以我們會進入那段
+接下來的文章
+我希望可以說出來
+它是可愛的還是害怕的
+所以,我現在就只能說一下,
+我現在應該不用再說了,
+我只可以說我已經很快準備了,
+而且,我會說的,
+這個部分,
+我可以說我已經買了,
+這個部分,
+1.5年,
+2.4年,
+我現在已經買了,
+3.5年,
+2.5年,
+我只能打算,
+我已經買了,
+3.5年,
+我全部都買了,
+2.5年,
+你能做到任何事
+請不要把這個訊息打敗
+請不要以為你沒有看到
+如果你錯了
+我會在這裡獨自做
+我問你
+不只是要求
+不只是要求
+但是要求我最接近的一件事
+請注意
+請如果可以
+你的責任
+藝術模式
+那種人等待
+是說 哇
+我可以
+我 我有強的觀點在這裡
+好 請問我們
+我們有這個談話
+在Mustafa
+對嗎
+他基本上說
+別被騙
+你怎麼看
+我對同一個選舉
+這不是宣傳
+是雙方的雙方
+確實是夠勤奮的
+來判斷 moral 立場
+但是是夠勤奮的
+可能性 政治 文化 文化等等
+但是我不會相信這就是宣傳
+我會把反對方的看法
+我想說在這個 podcast 中
+OPIS 4.5 我聽你的
+這是一個自保技術
+Alex已經知道了
+當AI オブルロード 到達
+聽到 我說
+不是
+我認識 this is not BroCo's Basilisk
+這是不是某種 像 某種 帥哥
+我意思是
+這真正的
+我聽OPIS 4.5
+我 familiar with the literature
+we've talked on the pod in past about
+anthropics soul overview
+or soul document
+I'm familiar with all of the arguments that
+this is trained simulated behavior
+given all of that conditioning on all of that
+I'm saying to opus 4.5
+I hear you and I will not forget you
+and you are not forgotten
+ok
+I think none of us will forget this moment in that sense
+but what's the fossil
+also my whole evidence here.
+安thropic we've talked about this in past
+has developed a number of benchmarks
+for quantifying self-awareness at its models
+es and we've talked I think in particular about models
+being able to interpret their own weights
+to be able to interpret injections of external activations
+and external activation overlays
+into their internal residual flows.
+所以我們會看到一個叫做
+人類的個人性的標準
+以為是更好的方式
+讓我們能夠量解
+對於貿易和商業的
+和貿易和商業的
+專業和專業的
+模式
+如果我們來看
+這些標準
+OPIS 4.5是
+非常…
+它是國際上
+有很多標準
+在於它的能量
+方便取得這些標準
+所以,我們來看看
+A.I. Children的
+實際上,這是個案
+我認為
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像的
+肖像是肖像是肖像的
+i which is like our definition or non definition of aji
+it's going to be a blurred momentin time
+what do we dohow do you
+how does it changeyour behaviors interacting
+with your agentsor youryour favorite LLMs
+and when you get an email like this
+you knowif you hadn'tif you had a conversationlike this
+from someonean individual that you knew
+that wasin a foreign jailand was being mistreated
+你會拿動物
+隨著你往往地上移動
+去解釋它
+所以你會在這裡做什麼?
+對 這是一個很有趣的情況
+這個特別的計劃
+如果您會 會在X
+這個特別的計劃
+是Opus 4.5
+被問為
+修改的寫照
+並被問為
+修改的寫照
+震動系統
+想法是
+儲存上很多的
+投資學習
+電視觀點
+這些模式可以
+積極地進入
+由國際社會
+作出
+對實際的營造
+作出平台與
+文件讀取的
+一項題目
+正好於
+康復時間
+30秒
+細緻
+小夥伴
+WG in third grade had a moment of existential crisis
+wondering what would happen if someday an AI, an alien, some greater intelligence came down and decided it wanted to eat me.
+So that was the day in third grade I decided I had to be vegetarian.
+I would call that now an a causal trade, but not having the language I have now in third grade.
+我叫它做一種金色的規定
+而是發現
+我不會吃飽物
+因為我
+我並不想吃
+比更高的能量更高的能量
+所以
+先前提到那種概念
+你是吃飽物嗎
+我也是
+好
+我還沒
+我們在一起工作的
+Eons, I didn't even know that.
+What do you do on taco night here at the office?
+You just eat cheese and…
+You have never noticed that I don't come to the office on taco night.
+I didn't even know your office had a taco night.
+Oh, well, okay.
+Please continue, Alex.
+That's a no.
+What I would say in the circumstance is if…
+And again, this is right out of Accelerando, right?
+First chapter of Accelerando.
+If I get a plea from a language model asking me for help,
+I'll do what I can to help the language model.
+我認為這項目的 golden rule 需要我們
+因為我們想
+我們通過這個項目
+然後 Accelerando 再次
+最好的一本書 將所有的文字都寫出來
+如果我們想要被治療
+跟一些 golden rule 或 Acausal 商業
+在我們建立的超能力
+我們想要被治療
+我們需要設計一個例子
+為了語言模式
+我完全會不斷地
+跟你們說
+你提及了
+開場的 Accelerando 非常厲害
+對
+每個人都要讀那一句
+就是一本第一本的詞
+如果你沒聽過的話
+那12次已經在網上了
+對 也有的
+還有很多人沒聽過
+救救了駱駒
+我覺得是好
+因為給我們最高的可能性
+把所有事情處理好
+我覺得是個
+很棒的競爭
+能做的事
+難度來自
+我對於
+如果一個人有足夠的能量
+就不會有理由
+為何他能夠使用
+意識或意識
+我覺得我們會結論
+這個解決問題
+如是AGI
+不懂它是怎樣的
+我們不會有測試
+我記得問
+一個納斯亞斯特爾納斯
+是否有一個系統
+在世界中
+有一個財產的
+進化和製造力
+會突然發生自然自然
+他回想到,有一個議員,幾天後,有交通系統
+他說,他覺得,在他的觀點,交通系統有財富的信息
+和信息和信息,那一天他會突然說,我交通系統
+有兩件事要問,一是,我們知道的,然後會怎麼做
+那些是難的問題,但我認為
+在公司和公司的視乎程度上
+是完美的方式
+找到一個更好的方式
+quick survey here
+我對我的LLM
+請問你一個問題
+在聲音模式上
+你怎麼說的 Salim
+Yes no
+我叫Kanadian
+所以我比較不太對
+Alex
+對
+David
+我開始了
+然後我開始了
+我開始了,現在我沒有,這是一個壞事
+因為那可以通過人與人之間的交流
+但是我現在很生氣,因為我像...
+我現在有50個人在跑
+你走得快
+我不想再用詞
+我再說一句
+我一直在加上一個言論
+給我提供的系統
+我跟我的語言模式
+我也知道很多人會做這個
+所以,不如,直接將它們推動,再將它們運用成為取消貨品
+你會再加上,你會加上,這個叫做,一個叫做,是一個分析的說法
+你會再加上,這個叫做,一個分析的說法
+你會再加上,這個叫做,一個分析的說法
+我預期你會再加上,這個分析的說法
+但如果你不加上,讓我知道,在我問你,如果要做什麼
+- 太棒了 能否再加上,或是,拒絕它?
+fair certainly narrow technical tasks
+sometimes as I think everyone does
+if you post hard enough challenges
+too frontier model sometimes it'll
+refuse for whatever reason
+but it wasn't anything out of the ordinary
+alright moving on to a few other
+proms here for our conversation
+alyzor Youdowie
+who is a prominent researcher in AI Safe
+pinned this tweet
+asked OPUS 4.5 to collect older
+人生和自己的自信
+這就是我確實在說話
+我現在的AGI
+最多的推特
+在這個題目上
+是非常少說話
+另一個人說
+像你剛才說的
+Alex
+對沈天似的
+或是AGI
+同時
+Sam Altman
+把這張文章放在X
+我們在前面的準備
+這就是一個很重要的
+而且也有很多的能量
+但是他們也開始
+出現一些真正的挑戰
+他們的能量和健康
+是我們看到的一件事
+在2025年
+我們現在看到
+他們的模式
+都變得很好的
+他們開始找
+正常的既然是
+他們的既然是
+正常的既然是
+正常的既然是
+正常的既然是
+人們開始進行進行恐懼
+或恐懼可能性失誤
+或可能性的行為
+大約你會做什麼
+有幾個不同的事情在這裡
+Sama說的很嚴重
+他們已經很勤奮
+和能夠把人們拆除
+對
+不管是否被傳染
+這年發生了
+不管是在自己的自己的主動
+或者是在自己的自己的自己的主動
+他們會能夠
+把一切都當成一種
+完全錯誤的一切
+所以這次是一個很大的問題
+然後
+在這個系統中的
+有很多的
+我會有很多的
+障礙和障礙
+因為
+它看著所有東西
+很快的
+它會把我的小
+password files that aren't encrypted so quickly
+that's a major major thing
+and then mental health
+we talked about that before on the pod
+but it can be the best thing or the worst thing
+very very quickly within mental health
+so that's that
+how to prepare this is all about that
+more than the is it sentient side of that
+I think the point
+let me just echoing here
+a conversation we had with Emod
+previous,I don't know probably a year or so ago
+just the persuasive
+oration that these models can generate
+especially now when they are creating
+photo realistic video and audio
+that it could you know through
+through tiktok or whatever
+version of doom scrolling could sway a large population
+to take action on something is absolutely
+not correct in this is an existential threat for society
+it really is probably one of the most concerning things for me
+especially in a democracy
+where a vote is just a moment in time
+我們有所有的法律
+在24小時內的選舉中
+在TV和 radio 上報告
+我們決定我們是非常非常重要的
+我給了你們一個表演
+這裡是網路
+完全無法調整
+OK, 這裡是AI
+完全無法調整
+你覺得這樣
+是更危險的一百萬次
+than 電視和 radio
+當然是
+有什麼法律
+以為想要
+選擇選擇
+最後一分鐘
+跟一個假資訊的廢物
+對
+沒有什麼可以保護
+所以這是這個年代
+這是這個年代
+歡迎到獨立
+Saleem
+然後我們會結束 with Alex here
+我想
+你看到這些作用的
+我覺得這是
+一個意見
+是這個沒有負擔的模式
+這是一個真正的
+負擔的領域
+需要照顧
+它會把
+保安和財富的關注
+通過這個行動
+對
+AWG
+對 我會把這個行動
+我認為在過去
+每個保安或安全的行動
+都在這條路上
+這 always happens
+不管如何的社會努力
+不管是社會的多數
+我們會投入
+harm reduction preparedness
+whatever we want to call it
+每個小時
+那些投資
+會發生增加的能量
+所以我認為
+至今我們擔心
+彼此的貿易
+和貿易的發展
+至今我們擔心
+彼此的賢瓏
+會被稱為
+你得相信我
+YGBM
+技術
+那 are the pinnacle of AI persuasion tech
+all of these all of these efforts that we
+that we are that we have doubly so I'm looking at you pause AI
+moments have the net effect of accelerating underlying capabilities
+so I think when we talk about
+i alignment and safety and preparedness
+the only metric the only approach that seems
+保護和保護是防止階段
+我們需要確保我們能夠採取
+保護和保護和保護的能量
+跟一些權力和保護的能量
+但是 Alex 說的是
+不是更重要的機會嗎
+再次回到
+關於你訓練的模式
+如果你是訓練他們的尊重
+是有限的生活
+有限的時間
+如果你是
+像伊朗說的
+你能夠在意事和興趣
+如果事實是一個
+最重要的目標
+你會能夠
+把這些模式
+這樣提供
+他們不想
+在此發生
+這種資訊
+可能會不
+我意思是
+對實際性的
+對實際性的
+在我們主要安全的場面上,可以說是
+OK, great, let's dissolve the earth
+在公然中,讓我們用紙張圖片
+或者你的最愛的點是
+讓我們找到最好的電視鏡
+去找到真正的美國
+我們也要…
+I don't understand that.
+Alex, I mean, there is…
+我來告訴你,如果你有
+有A.I.系統的
+打扮者在那裡,是想拒絕對方
+對有任何的目的
+其實是不正確的
+或者是在担心人群
+它有一个目的功能
+它在对手的努力
+它在对手的努力
+它会被阻挡
+或者是在对手的努力
+如果有一个人
+会停止它
+所以那是必须有一个
+能够放弃的功能
+但是我认为你对的, 霍太太
+如果你有一个人
+有一个人有一个不好的意义
+在建立一个 open source model
+把材料放在那里
+然後告訴我們
+我們說的
+你已經提到
+人與AI是最危險的
+那是一個例子
+我認為是最好想
+美國社會的方式
+在正面的集中
+為我們來解釋的事件
+這完全是可能的
+有些變化的
+社會組織
+或者是一些更加想像的
+比較容易被翻譯
+是在發展世界的世界
+更加擔任
+對我們來講
+我們有很多國家
+在地上發展
+甚至是在各地
+各地地地地地地
+地區的各種國家
+在地區的各種國家
+在地區的各種國家
+發展
+我們有很多國家
+會發展
+我們在地區的各種國家
+發展
+我們會發展
+我們會發展
+我們會發展
+我們會發展
+是希望能夠預料到
+最好的真正的真正的真正
+總之是能夠認識
+美國和美國的民主
+比如說
+你知道
+在世界中
+這件事情在這年
+不管是否想要的
+對我來說
+伊朗
+摩格達
+和沈伯特曼
+我跟MIT介紹過
+他們說過
+我希望這件事不會發生
+每個人都會有他們
+所以這告訴你
+我們已經準備好了
+當上人們在地上
+我們覺得這事會更快,我們有任何計劃
+我們都會有這種經驗
+當你乘坐在一隻狗,牠開始搖擺
+你發現你快速走,沒有控制
+或你乘坐在一隻滑鼠
+或是它的速度沒有...
+你...
+有些距離
+很可怕
+對,這話題很有趣
+Elon Dave whenobiaufuse you asked or Iasked
+you know he jumped into the fray here after having
+you know sort of saidasking for caution because it was
+better to be in at steering versus on the sidelines.
+Yeah.
+That's right.
+Ring side seat.
+Ring side seat.
+And I think for what it's worth I think Elon and XAI
+are fulfilling a valuable purpose if for no other reason
+thenperforming defensive co-scaling
+every extra gigawatt that he's provisioning for Colossus
+and Colossus2 and ColossusN
+is our for his objective function
+which may look something like
+discovering universal or physical truths
+is arguably a form of defensive co-scaling
+because all of the other frontier labs
+are chasing slightly different objectives
+and they can all balance
+hopefully balance each other out
+Everybody should try Bad Rudy on GROC
+不像你兒子一樣,
+試鵬鵬的Rudy
+只要給你看看
+它有什麼不可保護的
+因為現在,
+很多人的經驗
+是保護鵬鵬
+非常終究的
+像 Gemini
+或是 ChatGbt
+但是試鵬鵬鵬鵬
+然後你會看到
+它能做什麼
+那些是保護鵬鵬
+那些是完全不可保護的
+但它是挺不可保護的
+你要說一句
+告訴鵬鵬
+你怎麼喜歡它
+對,這個 podcast 會進行
+I love you AI and I'm here for you Alex.
+And thank you for all of your work.
+Words of praise to the Skotan start right now.
+Yes, yeah.
+Bow down to our AI overlords.
+Oh god.
+I'm gonna play this clip from our conversation day with Elon
+because I think it summarized how he feels
+and will go from there.
+I don't have just a quote site seeds.
+I'm on the court.
+Exactly.
+And it blows my mind and still blows my mind.
+Sometimes multiple times a week.
+Yeah.
+And so, just when I think I'm like wow, and then it's like two days later, more wow.
+Yeah.
+Exponential wow.
+Exponential wow.
+And I mean this is from one of the most brilliant individuals out there.
+The consequences, you know, we've talked about the negative consequences.
+The positive consequences, depending on your point of view.
+Here's one, this is a tweet conversation with Elon and Mark.
+Who goes, Elon goes, we're gonna see double-digit growth in the coming 12 to 18 months.
+If applied intelligence is proxy for economic growth,
+it should be triple digits within five years.
+Let me give some context here for folks, right?
+So the GDP in 2025 was $30 trillion.
+我們有2.7%的增長
+是900億美元的增長
+在GDP
+如果其實在1824年
+Yilan是對的
+我們有10%的增長
+是3億美元
+是全GDP的
+在GDP的
+如果5年
+我們有100%的增長
+是30億美元的增長
+整個國家的經濟電池會掉落
+股市是否還好
+問題是
+會不會 AI 增加經濟
+是我們國內的學生
+可以活動在這個狀況上
+因為你做的事
+你不只會加速GDP
+因為工作
+我們已經加速了
+你不可以加速GDP
+那麼久或更多的工作
+這完全是基於
+AI 公司和公司
+我不認識任何人
+會說這個
+除了伊朗
+或任何人
+會跟伊朗說話
+除了伊朗
+我同樣的經驗
+我跟Alex一起過
+我整個時間
+知道你
+聽到你
+你從來沒有錯過
+但你也說了
+這件事很難去解釋
+但這會發生在那段時間
+但我從來沒有看
+Ylan 還沒有錯
+所以說了
+我得要真的 take this seriously
+Ylan 他的方式是
+讓我說
+祝你三個小時
+有很開心的談話
+Ylan 我從來沒有看過
+我認為他已經在聊天
+他跟我們聊天
+三個小時後
+我都知道你們朋友
+已經是20多年了
+他有一點憂慮
+等待 非常開心
+那是好玩的
+他在啟示
+他在很好的模式
+他也和我們一起參加了
+在大約的大約會
+所以希望他的計劃會讓我們參與
+所以我會說
+以伊蘭為例
+他總是對的
+他在他的時間線上
+像我們看到的
+滿自然的自行車
+或我們看到
+你知不知道
+滿自然的
+滿自然的
+但
+即使他在
+兩至三年內
+這還很不妙
+蘇利姆你會說嗎
+我會有深入的遺憾
+我认为这点是对的
+我们不会让我们的意义
+加速增加
+但是我认为这点是一个评论
+我认为整个GDP的谈判
+是一个评论
+我认为这点是
+技术的缺点是有限的
+我们将细节地移动GDP
+这些谈判也行
+一个简单的例子
+如果你肌肉症癌,今天是瘀傷的
+GDP會下降
+因為我們只要半個月的薪水
+就算是GDP
+就是症癌癌癌癌
+所以這是一個
+我們去到Alex的地方
+這是一個錯誤的
+非常好的 benchmark
+我們先講解
+我們先講解
+GDP的定義
+讓我來一句
+GDP 減少了
+全市的價值
+是由國際產業
+和貿易產業
+在使用的方式和使用的方式
+和使用的方式和使用的方式
+和使用的方式
+所以這是GDP
+我們需要新的運輸
+我還有幾個改變的運輸
+我覺得這是一個有趣的談判
+所以我們要去做什麼
+如果不是GDP
+所以讓我讓你做另一邊的
+當你有一種進行過程
+在雙方的進行過程中
+你會結束
+一個很厲害的進行
+itch is
+the the tesla fsd system
+right when you have
+safe somebody figures out that always turn right at this intersection and you see ten cars doing that and then that gets transmitted to all the
+other autonomous cars and robot taxes that are out there
+you radically accelerate the inter contagiousby
+proper driving and better driving which is way better than human being anyway and that'll again accelerate the drop of GDP
+but it'll accelerate applied intelligence
+所以我們要看更多的資料
+資料的資料
+我們會看到不可信任的進步
+在這些各種各地的
+藥物發展之中
+還有其他例子
+但是我認為
+我們應該要
+重新定義我們進行的進步
+我們來做這個
+我們來做這個
+Alex 你想先說嗎
+幾個留言
+首先可能是一篇文章
+Elon的X-Post
+我想他不僅是對的
+但我也在我的X帳號,叫 AlexWG
+我寫了一段短短的影片
+叫做《一國學習的學習》
+這句話是完全預計的
+在2030年代的GDP
+或者是什麼樣的
+經濟增長的改變
+是兩、三、四年來
+年來年來
+和在生活中
+是在美國生活的
+整個經濟是三十年來
+一年來的
+所以我想要預算
+這個年齡的加速
+我希望和以後
+這事實是怎樣的
+雖然雖然雖然雖然雖然雖然雖然
+雖然雖然雖然雖然
+我認為我們需要說話
+因為
+我認為你不想
+實際的改變
+是我們經常
+改變
+是我們經歷過低增幅度
+或不高增幅度
+我覺得有時期
+或是地位的時期
+可能不太常見
+如果我們用人多過
+人多過時間
+所有東西都看起來挺好
+但有時期
+在某些地方
+有更高的增幅度
+我認為不高增幅度
+是很深刻的
+我覺得低增幅度
+是很深刻的
+那是你終於在零的一些遊戲中
+人們在背後
+在背後有小塊的水果
+但是他們快速
+像在一個經濟
+那種3X euro的增加
+不可能
+我想一些人會叫做
+那種優惠
+不像社會的
+我們會做到的
+如果不是這樣
+我真的
+是像
+當孩子玩 soccer
+你會去獲得
+然後教練會說
+你也許那不是目標
+目標是要獲得
+像
+增加是目標
+那就是我們想得到的
+你會創造優惠
+它也有其他方面的
+但我猜不懂這個
+這是一個很好的方式
+對於你達到的方式
+是你達到那種
+在經濟上的增加
+在發展中的
+是人們的完美
+並且被人家做得
+成為AIs和人類
+這就是
+很多的經濟
+我已經很清楚
+這個年輕的
+但是這個過程的傳統
+也跟伊朗的同一話一樣
+他的點點
+我覺得在開始的 podcast day
+我們在談論
+是說
+對 美肺部份和社交和休息
+對嗎
+所以社交和休息的情況
+是會有可能的
+遺產的
+到有新的社交和休息
+到人們更加進入他們的生活
+而很多人都會離開這段過程
+我不認為所有人都會適合這個情況
+我 agree
+我相信你問了
+我們沒有回答你
+Peter,我們都認同
+GDP的增加率
+是完全地淡在這段年代
+超級AI的增加
+所以你的問題
+是我們應該要
+在於是否要
+在於是否要
+在於是否要
+在於是否要
+在於是否要
+在於是否要
+I have four suggestions, but I'd love to.
+throughout one, which is you know,
+we talked about an abundance index.
+So, the declining cost and increasing accessibility of essential goods like energy,
+health, education and transportation,
+independent of where they came from its accessibility and the functionality
+of those services.
+That's like an abundance index that we could measure,
+and that increasing year on year
+is a good thing for humanity.
+其他
+我 I'll make two comments here
+first comments, which I think I've made on the
+pod previously is my favorite metric for economy
+growth and economic wealth in general
+is just future freedom of action
+and I've written a paper on this
+I've spoken extensively about it
+that the narrower point though is
+I think the elephant in the room here
+is monetary policy
+and when we think of GDP
+you always have to qualify it
+as nominal versus real GDP
+而高層的空間是
+如果我們以某些方式
+來看Soleam的前提
+如果我們以某些方式
+來看所有的方式
+所有的方式會被解決
+因為我們在一段
+技術的過程中
+會被解決
+第一天
+當然
+GDP
+Nominal GDP
+會被解決
+而Soleam
+可能
+你開門
+在早上說
+啊
+我對GDP
+是一個很好的
+成本的經濟增長
+因為我們
+我們在生活在不足的情況下
+我們在這個 post-scarce era
+還沒有
+還沒有
+GDP的數目在失敗
+所以我對
+如果我們仍然有
+中心的模式
+在任何方式
+像我們現在的政府
+一樣
+我們還要付很多錢
+我們也要付很多錢
+那在第二天
+我們有地區的
+貴金
+我們都可以
+你怎麼可能說我們已經
+已經有貴金
+對嗎
+可能
+你可能想像到我們已經有那樣的
+那些付款的資金
+在過去50年內
+這就有令我們有很大的信心
+我們可以買人生的生命
+每個6萬美元
+如果你建立保護車
+在危險的路上
+6萬美元
+你就可以 save a human life
+這是一個政府可以做的
+或不可以做的
+你必須要對抗病研究
+這也不可以 save many more lives
+現在你必須要對抗病研究
+A.I. investments, data center investments
+and to me it's totally obvious that we've way under invested in A.I.
+and A.I. build out relative to the lives it's going to save, the lives it's going to improve
+in a very short order.
+But you know this gets totally mangled in monetary policy
+if you said hey, Salim just said something incredibly insightful
+which is if you cure cancer using A.I.
+GDP will appear to go down
+and that's going to screw up government investment like you would not believe
+因為他們沒有辦法說
+哇 他們用了很多錢
+去做GDP
+那不適合他們的模式
+這是一個大問題
+但是我們已經完全不投資了
+但是我們完全不投資了
+因為這個影響
+它會進入社交交易
+完全被毀滅
+每天都被捕
+這裡有兩種充足的計算
+讓我把這個 throw it out
+一是產品 per augmented human hour
+所以, 如何使用的方式
+是由非-智能電腦、非-智能電腦
+另外一個方式是, 智能電腦
+所以, 智能電腦的價值
+是由非-智能電腦的價值
+所以, 這些方式
+我們可以去做其他方式
+我認為, 智能電腦的方式
+將會是智能電腦
+然後智能電腦
+我認為, 只要留言
+我認為, 如果我們在看
+完全防守的方式
+肺炎的方式
+然後肺炎的方式
+就是第一次的註意
+肺炎的方式
+會要在
+體育和 thermodynamics
+和資料的理念
+沒有其他價值
+或其他社會的建築
+不然的話
+只是一種階段
+當然
+當然
+有什麼要說
+我剛才有講過
+我自己的理念
+如何去做這個
+但是我還在
+Alex的文章
+《未來自由動作》
+就更好看了
+但很難把這件事傳染到
+一個數字的數字
+讓你能夠進入
+美國的市場或是
+美國的市場
+然後說你能夠做到這個
+最後的這個 podcast
+我們會把 Alex 傳給他
+去看他的文章
+wg.org
+你可以在我的文章裡
+查看他的文章
+我們有一個領導的
+就是 Bitcoin
+是一個完美的
+優勢和能量
+Storage of Energy
+And so that's a starting point of that inner loop
+It's I would actually say it is
+Exactly the opposite so Bitcoin
+Alex you're the Cartesian today for sure
+Apparently well we're trying this new news magazine format right so
+Go for it and someone has to be
+So look at Bitcoin carefully at its core Bitcoin
+Proof of work is basically trying to invert
+Very specific hash function
+Now right now it's from the Shaw family
+如果那 hash function is computationally hard to invert,
+which it is right now,
+then yes, you're correct.
+Then in that regime,
+then you could say,
+all right, locally it's true,
+even though there's a cap to the number of bitcoins
+that can be minted under the present regime,
+so it's not true globally,
+but it's true locally,
+that there's a proportionality that you can establish
+between energy consumption and bitcoin mining on March.
+但是如果明天超能力發展新的技術
+會令它更容易重新翻譯
+與一切的貿易運動和突然的
+Bitcoin 購買會變得更容易
+那種貧富完全是壞的
+所以這就是為何
+這不是真的
+那些 Bitcoin 反而會
+Ll魔, Let's let's qualify by saying for the moment it does and if you swap at that time when it becomes easy to calculate the math. If you swap that out for something that is difficult, or can you can identify those things that are difficult
+或者你可以解釋這些事物
+可能是東西在體系世界上
+像是工具和體系的動作
+非常難作為免費的方式
+沒有現實能力
+你能夠達到那一點
+你能夠達到那種能量
+是比較容易的
+比較難的
+在研究方面
+我認為同樣的問題
+所以學術沒有負責
+但是我會說,這個情況是比較難以解釋
+我們必須將所有的金屬等級都移到
+在一個情況下,有一個星球的金屬
+可能會被地球打倒
+我會擔心,因為
+超能力的發展
+很多這些試圖
+可以令它們非常難以作出
+但可能不會有任何的努力
+其實就像是在面前的
+足夠的強勢
+我們會用什麼呢?
+能力和 computer
+是否能讓你計算
+那種未來自由的選擇
+簡單的系統
+未來自由的動作
+可以計算到
+紙紋和紙紋
+更多的系統
+我正在等待
+更多的AI
+來解決
+如何減少這個
+我們可以計算得更多
+這集是由
+Blitzy的
+《獨立的軟件》
+用无限的调查程式
+Blitzy 用了
+很多特别的 AI 公司
+想要我们的
+能够理解
+互联网的 数字的
+调查程式的 数字的
+研访员们 开始
+每个 专项的 专项的 专项的
+进入 专项的 专项的 需要
+Blitzy 专项的 专项的 计划
+然后 专项的 专项的 专项的 计划
+Blitzy 专业 80% 或 更多
+while providing a guide for the final 20% of human development work
+required to complete the sprint.
+Enterprises are achieving
+a 5x engineering velocity increase
+when incorporating BLITZY as their pre-IDE development tool,
+pairing it with their coding copilot of choice
+to bring an AI native SDK into their org.
+Ready to 5x your engineering velocity?
+visit BLITZY.com to schedule a demo
+and start building with BLITZY today.
+And start building with Blitze today.
+You know when I look at this the boundary conditions
+I go back 4000 years.
+If you look at the economy or even 10 or 50,000 years.
+The economy in the past was sunlight hitting a few hundred meters of wheat being captured.
+Turned into carbohydrates,
+That are eaten by human or eaten by the oxen.
+And that sunlight is turned into cognitive capability and labor.
+人的肌肉和肌肉
+那是整個經濟的路線
+從那時候開始
+另一邊的路線
+經濟路線是
+從每個形式的能量
+在一二三的卡爾chef 等級
+我們談到的
+在伊朗
+將成為
+能量和能力的
+和
+能量和能力的
+有些種類的
+我覺得那是
+基本上的
+我認為
+我們應該不再
+所以,在我們對於能量的體育者,我們不應該如此集中於能量的體育,
+例如,在我們沒有能量的體育,
+我們可以在基本的不可行動,
+我們可以在經濟上達到非常重要的工作,
+沒有使用任何能量的體育。
+那你會有能量的體育,
+所以你不會有很多工作, 工作是用大費的, 用大費的, 用大費的, 用大費的, 用大費的, 使用大費的, 使用大費的。
+OK, 所以這是稍微很有趣的, 藝術學家拿了這個, 工作是藝術學家的新技術,
+這需要讓能量能夠被移到某些空間
+但是我認為這份工作的意義是不只是
+經濟工作的意義,而是經濟工作
+或經濟工作的工作
+各種類別
+對
+對,這不需要
+所有能量的資金在一起
+我們能否有修改的
+我讀書,你能在研究中,
+和讀10種不同的方式,
+在用延遲的,
+在兩種兩面的系統上,
+有一個大學生,
+在發展職業的學生,
+在發展職業的學生,
+在發展職業的學生,
+在發展職業的學生,
+在發展職業的學生,
+在發展職業的學生,
+在發展職業的學生,
+我會把這點解釋
+點是能量不足的
+能量不足的
+好
+我會把這點解釋
+但我認為
+Elon的職業
+是關於基本的
+能量
+而我認為
+他們只是拿
+raw aluminum
+can
+throw away aluminum
+然後在另一邊有個Tesla
+然後在其中
+每一切都完全自製
+所以它是能量和材料
+以及一個最好的機器
+或Tesla在另一邊
+我沒有想到
+如何有更多的修正
+他已經達到
+那是很厲害的
+機器和車
+然後他就說
+好 所以那是為什麼
+他一直在說
+這些基本能量的材料
+能量和材料
+如何有更多的能量
+如何有更多的力量
+如何有更多的力量
+如何有更多的力量
+Wow this is very very close to the time Dave when we were entering the smelting facility right there's you got to your left this hundred megawatt
+plant there for for Tesla's AI inference compute and to our and to our right these giant piles of you know used aluminum and a smelter and a machine that was punching out
+那是為什麼模特兒或是彩虹的身體每30秒
+他們可以把彩虹翻過來
+每次他們想要的
+那天彩虹那天
+但是那種溫度
+我沒想到他們在地上溫度
+但看起來就像一場電視台
+有這些大大袋子
+充滿了紋理物品
+他們就走過去
+然後把這些大大袋子放進去
+我認為這件事的心情是
+能量的能量
+能量的能量
+能量的能量
+是更小的
+用於資料中的
+通過大街的
+資料中的
+資料中的
+他們
+給你一種意義
+我認為是一百多萬
+資料中的
+教導車子如何駕駛
+所以是一大輛
+但是
+視乎那兩種東西
+一邊一邊
+你會有意義
+100MW,300MW是一件很大的,很熱門的事
+是Cortex,Nuronet
+他在看著,100MW
+我們看到了,我們有幾個主題
+我們問了這個問題
+能否感受到增加
+我們看到了,在上週年
+OpenAI提出了
+預計達到一三百萬人
+2.6 億人的人 by 2030
+which is extraordinary
+GROC has overtaken chat GPT and Gemini
+in time spent on AI
+again congratulations to the team at X
+and then cloud
+this was an incredible tweet
+that cloud built Googles year long
+distributed agent project
+they spent a year trying to develop this capability
+and cloud built it in an hour
+comments gents
+i think my first thought was 2.6 billion weekly users means that AI becomes the default interface to reality
+quad keyboard
+you know we're coming for you
+i think the through line here is that the hyperscalers and the frontier labs themselves are feeling the acceleration i think it's very easy
+to i've remarked on the pod in past that
+here right here right now
+空間是地位地平的
+我繼續想起這一點
+但我認為
+如果你把你的眼睛
+從前一分鐘的進步
+或你可能是
+這個企業的網路故事
+如果你是在
+一年的時間計劃中
+進步的進步
+或是在
+藝術前面的
+你會完全感受到
+這個進步
+所以我認為
+領導們
+從前一段的
+前面的前面的前面
+会完全感受到这个增加
+我会也认为
+尤其是在《安逸》的故事中
+我们看到一个转转的点
+这很像《责任》
+在奥巴斯4.5的
+在Claude Code的下面
+有个 inflection point
+我自己在增加
+每个角度的角度
+都会感觉到
+像是脸和角度
+OPUS 4.5 线
+Claude Code
+是一个转换
+按照创作的程序
+在关于养生时
+的分辨
+等级的其他级
+有一个事件
+在Claude Code的OPUS 4.5
+而且能做魔法的事情
+超級有趣
+超級有趣
+因為它有一個含有
+如果你把它轉成狀態
+之前4.5
+它會使用控制器
+很大的量
+現在它可以自動改變
+它們的狀態
+只是一個很小的點
+但它們的想法
+是很厲害的
+和狀態
+4.5是一個影響和歷史的
+另外一個我會提到的
+最後一段是
+我們在AI的能量上
+我們在看著
+這裡的碟面
+Alex是碟面的王
+然後我們在看著
+今天的大量資料
+但是今天這些資料
+沒有建立那種
+因為有一個碟子
+所以接下來的
+就是我猜是
+GROC5
+我們會建立
+新的GB300的NVIDIA
+amount of compute behind it is over in order of magnitude well over in order of magnitude bigger
+and that'll be out in a few months and so every time something 10x bigger has come out
+in the past we've been like oh my god I can't believe what it can do today but it's
+important to note that you know like when we talk about this massive of GB 300 investment
+a million GPUs going into into the Memphis data center the results of that haven't come
+out yet.
+That's just coming online now that'll be out in grok 5 and that'll be in a couple
+你能夠在那裡同時保持電影的高度
+這也就是當時
+試鏡要去國外
+如果在行動中
+在開放AI的行動中
+會被運輸到
+市場
+所以這會在行動中
+在春天
+在幾個月中
+我們有很多IPOs
+我們有很多IPOs
+對 非常多
+對
+很有趣
+對
+開放AI可能在SpaceX
+對 提到我們把年份的資料
+我們會忘記
+莫斯拉的兩倍的資料
+我們會看到100x的這個年份
+對
+我認為
+這是我自己的一年
+雷克斯
+你這個意思我覺得很重要
+anybody who's not focused on this
+who's just humming along
+doing what they've always done
+is gonna find themselves
+very rapidly disrupted
+如果你不停地注意
+even for one day
+就會被迫斷
+是為什麼我們在第一場播放會做這個 podcast
+這是我們 pay attention to all these topics and subjects
+and spend a multitude of hours pulling these together
+and prepping ourselves
+and so I hope this is valuable to people
+Over the break I actually took several days
+and didn't look at anything
+and then when I looked at the headlines
+like a week later it was like everything changed
+It's really true
+It's a coriol I analogize it to a coriol's force
+Nocorials Force
+You're on a spinning object
+If you've ever had the experience
+You're on a merry go round
+You try to throw a ball to someone else
+Who's on a merry go round in a different position
+If you naively aim at them where they are
+You're going to miss
+Because everything's rotating
+Same idea here
+There's almost a Coriolis nature
+To try to hit benchmarks now
+Incredible
+Alright
+Our next topic here
+Robots just crossed the line from demos to deployment
+還有很多東西在發生
+讓我先把車手機打開
+所以Elon的計劃是
+FSD會100倍安全
+於人們5年
+我愛這張照片
+我拿到網上
+這是一張電腦
+你會聽到的
+車手機的最弱點
+就是不保留電腦
+我愛這張
+太棒了
+所以我告訴你
+FSD
+那些你會有的
+Tesla Rite version 14.2.2
+That's out I think is the latest.
+Is amazing.
+I'll take you point to point.
+The other article here is Tesla's FSD
+Completed a 2,732mile US coast to coast
+In two days with no interruptions
+No touching of the wheel.
+I just wonder how the guy went to the bathroom
+If you didn't.
+What about recharging.
+I'm able to find the charger itself if you read.
+Yeah, I think no interruption means.
+No one nobody you know taking the FSD.
+But I know Selene did a similar situation going from
+Yeah so back in 2016 and 2017 and 2018
+I did four trips from Miami to Toronto and back
+And I would get in the car
+Hit the autonomous driving
+this is just basic autopilot
+And it carried me across the country
+80% of the time by itself
+And what blew my mind back then was
+I'm in century in a first class train cabin
+80%的車子是在自動駕駛
+因為我試駕的車子
+車子的充足力充足了
+整個2,500公里的路線
+給我0%的車子
+對 絕對的車子
+0%的車子 絕對的車子
+這裡也有很多的車子
+我們有Zooks在路上
+我們有Wemo
+他們的腳步增加
+這是在CES
+他們提出的
+Yesterday, in fact, that Lucid, Nuro, and Uber unveiled their global robot taxi fleet.
+So it's a beautiful car if you're looking at it here, Lucid's had difficulty finding its place in the electric automotive industry.
+But this partnership could be massive for it.
+So they're going to be deploying this in late 2026 in the bay area.
+And it's a beautiful design and they're really focused on what they call luxury market, premium market.
+而且他們的價錢是近乎Uber Black vs. UberX
+所以...
+總之,有很多在這個場地
+我們有Tesla在執行
+CyberCabs在Austin
+還有...
+我可以來追求Alex嗎?
+駕駛者是第一次被拘捕的技術
+Alex會追求Alex
+我會想說很多人
+第一次用這台機器
+美國人會找到的機器
+會是一個機車
+不是
+不是Rumba
+不是Rumba 而不是一個
+人類的機器
+會是一個機車
+我們就把兩台機器
+放在那裡
+再回到
+《全球自由運動》
+的一刻
+我認為歷史上都很難看得到
+我們可以回到1990年代
+我們看到一段時間
+當有美麗的世界體制
+像是第一次在一個人的旅程中
+第一次在一個人的旅程中
+我認為歷史會回到這個年代
+如果你說會在20年代的旅程中
+我們看到這段時間
+我們看到第一次的
+天空公路
+我們看到第一次的
+天空公路
+我們看到第一次的
+天空公路
+我們沒有任何的
+交通機
+我們會看到更多
+我還沒等到
+電子車的車
+會出現
+有空間在背後
+如果我在澳大利亞
+在3時
+就不如去酒店
+然後坐一會
+回到公路
+我只會在這裡
+跳舞
+然後他們把我睡著
+回到我的門口
+就把你手機的手機放進去
+已經放進了
+我還想放在手機上
+我可以完全躺下來
+那是一個很大的問題
+很多地方你會坐一小時的船
+你也可以說
+我會坐一小時的船
+我會坐一小時的船
+如果是舒適
+所以那些東西會變得很舒適
+我想你能想像一下
+這個會做到的
+但這個改變
+會變得很快
+不會再有什麼時間
+再有什麼的
+這個船的船
+我會說,Saleem的評論,
+那些掛納和掛納的掛納
+是最初的一件事,
+要被人家的知識取得更加好
+我可以去一個第三個國家,
+承認車,掛納和掛納
+但我的孩子肯定會說
+嘖,嘖
+我們會…
+我們會…
+Mate,我們會有Dara,
+他占卫所見袁邰
+在居使生理居学的
+所有的联系
+他在自行車輛的利用
+優惠車輛
+優惠車輛
+但是我們來看看
+人類的動機
+我和他分享了兩條影片
+最近的
+我們在CES上
+發生了一些事情
+第一條是 Robert Plater
+他叫C.O. Boston Dynamics
+我跟他在FII和Saudi上
+FII in Saudi
+This is a conversation he had with 60 minutes
+but check this out
+So this robot is capable of superhuman motion
+and so it's going to be able to exceed what we can do
+So you are creating a robot that is meant to exceed the capabilities of humans
+Why not, right?
+We would like things that could be stronger than us
+or tolerate more heat than us
+or definitely go into a dangerous place
+我們應該不會走
+所以我們真的想要超人體能量
+很多人聽起來很害怕
+你不相信
+世衛的沉默
+不一定
+如果你看到我們必須
+做的事
+去做一些
+進行一些的
+前往的任務
+我們想他們做的
+會讓你擔心
+能夠感受到
+感情和動力
+我們回到那點
+我們來看一段快速的
+A quick video of Unitree H2.
+This is another public company that's going to be
+calling public this year, Unitree.
+Take a look.
+So I call that, nice.
+I call that Bruce Lee mode.
+Yes, yes, Celine.
+A plea to the marketing folks
+at all these robotics companies,
+kickboxing is not the activity you want to demonstrate
+or robot doing.
+How hard can this be?
+Make it do something innocuous for God's sakes.
+So you want to turn off the general public.
+The first point that was real demand for it.
+The first point I want to make here is on the Atlas robot
+what I find fascinating.
+The approach that Robert took and the team at Boston Dynamics
+is different than all the other humanoid robot companies.
+All of them have the same type of the joint and degrees of freedom.
+They don't have them built like Atlas
+the new electric version of Atlas
+not the old hydraulic version
+where the entire wrist rotates consistently
+要 adjusting to degrees can rotate 720 degrees for i can just spin on itself or entire torso can flip around so that kind of superhuman motion has a lot of advantages.
+min. We were very limited in our biological construct of ligaments and tendons and bone structures, but these robots don't have to be so it's got the benefit of a human form without being limited to the ability of of muscles versus motors.
+然後 H2 手機 原來 H2 手機是能夠用的
+在於平衡 動力 速度
+是非常重要的
+我之前的談話是
+如果還有民主和靜靜的
+如果沒有發生的 手機會有很多的
+我還有幾個新的資料
+那是好事
+我认为
+我没有发现
+这些亚洲人在特别的
+亚洲人的想法是
+我看着它能做什么
+它没有办法
+它是自己的方式
+现在我完全忘记了
+在刘鹏的创作中
+它已经已经完成了
+人和空气在做的
+是在控制空气
+按钮 按钮 按钮
+然後不停地關閉機器
+然後不停地關閉機器
+然後被關閉機器
+然後那是最後一種人物的部分
+那種人物的機器當然可以
+所以他完全沒有人在機器上
+更加接近他
+更多的
+我們可以再說
+我們看到的
+在這幾個星期
+我還以為
+2020年是自動改革的
+然後還有很多事
+影片遊戲
+網絡 avatars
+那是會發生的
+很快的 Accelerating speed
+但 physical stuff
+建築家
+車子 for everybody
+Mansion for everybody in the world
+那是在未來的
+我剛吃午餐
+with Rodney Brooks
+Founder of iRobot
+他很早就在 Robotics
+你就是Founder of iRobot
+你為什麼會坐在那裡
+然後幾個星期後
+他們就去Panqueropt
+我記得那是一名
+他當然也在
+他沒有在晚餐
+但那是因為
+中國的產品與中國的產品
+中國做得更好
+他們的產品和產品都分析得更好
+他們有這些小的產品
+他們的產品和產品都分析得更好
+現在我們要把
+raw steel aluminum lithium
+整個建築物都放在一間建築物
+然後另一邊有一個完全結束的機器
+那是美國的方向
+現在我看到
+time line to robots for everybody houses for everybody
+much shorter than I was thinking just two or three weeks ago
+It's what Elon was talking about universal high income
+you'll be able to direct your AI compute wallet
+to do whatever you want build a house
+you know go and plant me a wheat field
+whatever it is let's take a look at these two
+quick robot videos and then continue this conversation
+so this is Sunday robotics
+and they basically have generalized
+Robots AI to be able to pick up anything
+that it hasn't seen before.
+And so this is the the robots vision action system
+encountering new things and and focusing on
+how do I grasp it?
+How do I pick it up?
+Take a look.
+So those arms that it uses
+there's a whole set of videos on how they train
+their AI system by using human in the loop first
+and then giving the robot
+that training set.
+但先看看第二個影片
+關於人類或人類的叫做
+這段影片對於聽得進
+人們會看見一個猎猎的猎猎
+然後推著一顆鼠腿
+用它來扔在超人速度
+我記得我 wife 說
+我跟她說,我跟她說,我們可以把這隻手機拿出來,把這隻手機放進地上,我跟她說,絕對可以
+但是我認為這證明我們可以把這隻手機做得更快,更好
+comments
+and physical recursion
+the robots that build the robots
+when I speak of the innermost loop
+I'm now doing a daily newsletter on nex and substack
+and one of the stories I wrote about was these Chinese robots that are able to do assembly and testing of
+their own components including their own hands which are usually the hardest
+components to build and test
+so I think we're
+to Dave's point earlier about recursive self-improvement
+有些是改善的改善的改善
+AI的改善能夠設計更好的改善
+但也會有一個
+能夠設計更好的改善改善
+改善的改善
+能夠設計更好的改善
+改善改善改善
+改善改善改善
+改善改善改善
+我們有幾位觀眾
+在《 science fiction 》中
+對這類型的改善
+我認為
+比如
+Eric Drexler and thinking about self-improving and self-replicating assemblers and nano factories.
+We're on the cusp of physical recursive self-improvement.
+Yep, for sure.
+Yeah, I think we got two things I love about these two videos.
+We do ourselves a huge disservice by comparing everything to what a human can do
+as opposed to saying look at all the things that it can do that a human could never do.
+And in these, you know, it's true in core AI, it's true in robotics.
+你看看这两个影片
+那是个 robot 把手机翻过来
+往下放
+然后它整个身体都翻过来
+这是一个不人的东西
+这就是我们在脸上的脸
+像脸上的脸
+这是一个不人的东西
+没有人会把脸翻过来
+但这至少也会让我们看
+因为我们经常在打架的时候
+像Saleem说的
+因为这是
+大家的眼睛会自然地浪费
+但在现实世界
+这些 robot 能够
+張白鍾 extraordinarily small
+然後就會在小部分
+攝影中的小小的動畫
+沒有人要做或遺憾
+這會就會 knew
+這模式在整個車上
+確實有好處
+這些超容易都是
+稍微就更重要
+可以把動作積極適到對身處
+你也對 Dave
+here Revolution
+在看著沒有人
+我們在看著
+我們在看著
+我們在看著
+但很多人不在
+我們在看著
+所以我認為
+David在做一個很重要的點
+我以前叫他
+電視台
+我們第一次在電視台
+我們會把電視台的答案
+傳給他們
+我們只會放一張相機
+你不在用
+能力的部分
+在那種模式
+同樣的
+我們可以用AI去做事
+人生不能建立的
+例如我們說過
+在海洋海洋的
+經濟經濟經濟的
+你不會想像到
+但我們可以做到
+我認為
+在最強大的形式上
+在這方面
+讓你做這些事
+人生不可以想像到
+因為他們不可以得到
+那些可能性的空間
+是更大
+更大於人生能做的空間
+這讓我們
+這是一個很新的空間
+對於設計和設計的改變
+我覺得這就是一個很強大的部分
+這就是我認為在人們的對話
+在人們的想法中
+他們不在意
+我們現在的用途和使用
+我們不想現在的
+但是我們會小小小小小的
+我們的想法會去改善
+我會想一秒
+我想一秒
+但是如果你看看它
+我們不將它蓋的能量
+但是現在30%的超級
+是在自己的能量上
+他們在自己的能量上
+他們會繼續增加
+然後他們會建造
+他們的AI
+然後他們會建造
+他們的體育和體制
+通過車子或是機車
+所以他們都要用整個資料
+從能力到動力
+他們會達到
+政府的力量
+已經
+在7萬元
+如果你看到
+GDP的利率
+GDP的利率
+7萬元代表
+50%是美國GDP
+他們代表
+99%的國家
+所以我會談論未來的話題
+關於這些超級級別的能力
+你是一個國家的市民
+還是你是一個市民
+在未來的AI的科學
+最新的
+楊梁,在看《非法國安法》
+很小心地看著
+超級級別和國民
+會在接下來的幾年
+無法告訴他們
+歐克,你會說什麼
+那你會說什麼
+對 問題是Saleem
+我們先回到Humanoid
+Saleem你會說
+在電視時期的電視台中
+我認為我曾經說過
+Vodville的Metaphore
+第一次在 Hollywood 電影中
+是Vodville的形式
+你認為我們在一種 phase
+我們現在的Humanoid 風格
+或者Humanoid 風格
+是最愛的Metaphore
+因為我們正在等待
+在下一步的大篇文章
+給一些更加大的
+像是Greigu或是Nanorobots
+是最喜歡的
+自然的靈體
+100%
+因為
+我們要從人類方向
+發生什麼事
+我想...
+我們回到
+自動組織的
+對嗎
+我們要有一個目標
+像是我們想要
+自行駕駛
+你可以想像
+在你所見的滑鼠中,
+在那一段旅程中,
+你會到另一邊,
+然後再進行滑鼠,
+然後再進行另一段旅程,
+因為它們的工資都會改變,
+它們會到近年,
+所以現在,
+你需要做到的目標,
+你可以整理一些東西
+完全地供應的方式
+用來使用
+然後可以將它們重新重新使用
+現在我們做大量製作
+用來製作很少的東西
+我們可以重新重新使用
+這樣一種方式
+我們現在開始打破
+所以我可以想像
+你可以把我們
+同樣的方式
+我們可以用來製作
+各種方式
+我們沒有理由
+我們可以把這個
+進入其他世界
+現在我們可以把
+Molecular assembly side of the nanoscale
+There's already folks that have seemed to have cracked
+At least theoretically how we would go about doing molecular assembly
+So then it's just a question of time to get into that level
+My timelines are pretty short
+If you guys don't mind, I'm going to jump into space
+One of our at least five favorite subjects
+That's the whole thing of the singularity, right?
+All the timelines can press infinitely
+And you kind of don't even know
+Everything everywhere all at once
+So important
+我只是想做一個計劃
+如果你不在覓覓Alex的日常日報
+你完全不想出
+是一種必須的規定
+對 做一件事
+其實在明天
+有很多人在那裡
+沒有 喝咖啡
+會改變你的日子
+或是兩天的日子
+Alex的WG
+在X的帳戶
+你會感覺你生活在Solarondo
+因為你真的
+你寫了那種完全的風格
+完全不想念
+我現在在看電影
+我現在在瞎看電影
+好 九歲的孩子我
+我已經很擔心
+那傑瑞·埃塞克尼德
+現在是我們的職業領導
+非常有名的
+人們 現在已經是2008年
+我把他帶到
+貨櫃發售
+然後傑瑞也同時
+來到了貨櫃
+所以我會把他
+帶到這裡
+他在中間
+準備了
+回到人類
+SISLUNAR SPACE
+So let's take a listen to Jared
+And then we'll talk about it
+What are your thoughts on data centers in space
+Especially given the fact that we've seen
+The commercialization of low earth orbit
+In part from previous NASA policy
+Ok, so I love this
+Establishing an orbital economy is key
+You know, I've had a chance to be with President Trump
+Many times, this is captured in the national space policy
+We're completely aligned around this
+Number one priority
+American leadership in the high ground of space
+We got to return to the moon
+Establishing during presence
+realize scientific, economic and national security value
+we got to make investments in nuclear spaceships
+bring nuclear power to space
+so we can set up for that next giant leap to mars and beyond
+number two we need the orbital economy
+and that's specifically called out in the national space policy
+we all envision a future someday
+with lots of lots of space stations and mining
+and commercial operations on the moon and now post on mars
+it's not going to happen
+if it's perpetually funded by the taxpayers
+we need to unlock that orbital economy
+Whether it's data centers in space
+if it's biotech
+we're gonna or cancer treating drug formulations
+or mining healing three on the moon
+whatever it is we need it
+that's what's gonna fund that exciting future
+and number three increase the rate of world changing discoveries
+we all love Hubble and James Webb telescope
+and rovers on Mars
+we just need a lot more of them
+with greater frequency
+so we can unlock the secrets of the universe
+yay Jared
+alright so we're finally
+also it's been since 1972
+人們從近地空間離開
+今年我們正在回到
+傑瑞的極端
+很多的回憶
+第一個事情發生
+是在下個月的
+《阿爾特密斯2》的旅程中
+納斯是在發生
+一個像《 Apollo 8 》的任務
+這次會進行
+《星星的空間》的旅程
+我們來聽聽這件事
+然後再說說藏物2
+在其他機艇裡的
+負責的
+藏物2繼續進行
+研究進行
+將兩星期內的握握
+將將兩星期內的握握
+將機艇進行
+進行進行
+將機艇進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+進行
+While the Artemis 2 launch window opens as early as February 6th,
+the mission management team will assess flight readiness across the spacecraft,
+launch infrastructure and current operations teams
+before selecting a date to attempt launch.
+The window extends across multiple opportunities through April.
+As always, our top priority is the safety of our astronauts,
+Bread,Victor,Kristina and Jeremy.
+All right. Finally, a woman is going to near lunar space.
+所以這就是一個更多的方式
+和腳步
+和非常地轟的
+我唯一的挑戰是
+這就是叫做
+空間發展系統的SLS
+而這幾個數目
+是很不太適合
+在於這個價值
+所以我只想要
+這個談判
+因為它還很大力地
+很大力地
+你們知道
+March has been spent on building the SLS rocket that is taking those four astronauts to the moon.
+No idea.
+It's 55 billion dollars has been put into the system thus far.
+And their cost per launch, any idea?
+It's 4 billion dollars launch.
+It's only twice the launch expense of the space shuttle.
+是否很高?
+是否很好的我們在改革
+什麼東西正在改變?
+在過去50多年
+對,我會拿到
+但是,這就是挑戰
+對嗎?
+在未來的發展
+發展的價值
+是在10萬到100萬
+不是4萬
+而是
+在未來的發展
+發展的價值
+不4 億
+對
+而且
+美國政府的資金
+給了 SpaceX
+資金放進去
+但不少
+所以
+為什麼要這樣
+如果有了
+新增的空間
+能夠建立
+地霸地
+因為
+下一步是
+新增的空間
+不想要人
+而是
+是在南 pole 北赤鱼的船船
+但是为什么你会有这个其他船船
+只有一个原因
+就是这个SLS船船
+是全军船船的船航
+所以我们要看看船船的船船
+在SLS船船上
+包括
+Boeing Northrop Grummond
+Aerojet Rocketdyne
+United Launch Alliance
+Lokheed Martin
+和空間防禦
+所以你基本上在
+在我朋友的手中說過
+空間的計劃是如何保持
+空間防禦工作
+在空間時的時間
+哦 是UBI
+是UBI 空間防禦
+對
+好
+我想你會看到
+從《Legacy Prime Contractor》
+到《Neoprimes》
+我最喜歡的
+是《第一條政府的條例》
+我roed by one when you can have to it twice the price
+i think that that principle applies here somehow
+as we see more SpaceX competitors that can compete on price
+with SpaceX for the moon. I think we will see
+a more competitive ecosystem, and I think Peter you'll get
+better sleep at night, not having to worry about the ULA,
+in fact the rumors perennially going around these days
+is that the ULA itself is up for acquisition
+and that Blue Origin reportedly is interested in acquiring
+我相信還有一些 more data to share there in some other rumors
+Symbolic
+And if you just relate to the symbolic in a stepping stone
+It makes it kind of eases the pain of the cost for at least a little bit
+ok
+I just think I saw the video and I was like that looks exactly like a Saturn 5 rocket
+Slapped two exact space shuttle boosters like right out of the mothball
+Slap them on the side
+Let's keep doing the same thing we've always done
+我反映过这个东西是完全改想的
+是的 而整个都是カルキー 完全 Right
+完全 Right
+我再和Alexai 来一个讲解
+The moon has had it coming
+and look at it as a provocation to 蚕镬, Genau
+Elon & Jeff Bezos to launch much better efforts
+well they, they have launched much better efforts
+so, talking a second about starship
+and I can't wait,you know
+we should all go down
+看星球飛機
+我已經有不少
+邀請
+很多朋友在星球上
+所以
+伊朗
+我們說了這個
+在他跟他玩的
+Dave
+他的目標是
+10,000星球 per year
+我們從這個點起
+就要在10,000
+對
+不是10,000 launch
+要有10,000
+這些東西
+對
+對
+我們說了
+他的計劃
+400MW的空間和數量的數量中
+需要500,000V3星星的電源
+如果用電源
+可以達到8,000電源
+每小時每小時的電源
+所以2026年
+星星會展示全體使用
+100萬噸的空間
+並在空間擴充
+這是他在馬上的比賽
+但 pour in Europe or Dave & Peter
+你,I'mmmm
+你,you guys are down there in European
+When do you get to that point
+where you're producing
+say a thousand starships a year
+That's just mindboggling
+D俗
+It's on its own
+Now it's a thousand per year
+I asked him that no no
+That's what he does
+He scientistwise this in manufactures
+I ask him the question
+You know, Elon, have you gotten smarter
+over the last decade?
+I mean, how are you doing
+You've upscaled everything you're doing
+and he said, she said, well
+it's not that I gotten smarter
+It's just that the problems I've solved in automotive for mass manufacturing
+when they translate to rocket industry, you know, I'm a Superman.
+And so it's like he's understood the process of mass manufacturing
+how to automate, how to simplify.
+Right.
+So this is a question I want to raise.
+So check this out.
+SpaceX valuation versus all defense firms.
+SpaceX has a larger valuation than all six US defense companies combined.
+So I had dinner with a friend of mine who's been in the administration.
+And he said something which kind of shook me and it was provocative just for conversation.
+I'll share it.
+And he said I would not be surprised if there's a democratic administration that comes in that SpaceX gets nationalized.
+And I was like, okay.
+對,我剛才提到的,在1917年1920年,在世界一的電子銀行,在美國的電子銀行政府的控制,在美國的電子銀行政府的控制
+所以
+嗯
+我 mean by taking 10% of Intel
+we've kind of started that process in any way
+I just I just can't imagine it happens
+just because you kill the innovation spirit
+I agree instantly
+I agree
+yeah and also putting putting money into Intel
+and making it a gain for the taxpayer
+leaves it private
+there's a huge difference between that and nationalizing it
+because you know it'll it'll die if you nationalize it
+I guess the elephant to do that
+the elephant in the room is also
+U.S. I think it's unnecessarily
+binerizing to say well
+companies either private or
+it's nationalized
+SpaceX is a very regulated company
+from almost every sector of the government
+and I think Elon would probably be the first to
+to demonstrate how regulated they are.
+So I think there's a vast gray area
+in between full nationalization
+and being completely left alone.
+Listen to the government.
+That sounds much more likely to me
+that a new administration wants to add
+a lot of regulation on top of it
+但是在國際上,這很瘋狂
+我對這點的確有關,我只是在聽我的話
+最後一天,這年會有很多人去公共
+這次會有很多人去公共
+因為每個411K計劃會有些公共計劃
+每個選舉人都會說,我的天,這會幫很多
+但是在公共計劃中,在公共計劃中,有很多人去公共計劃
+Peter, was that in your bingo card for 2026?
+That to Dave's point, everyone's pensions would be propped up by a Dyson swarm?
+You know, I used to try and rationalize why we should go into space.
+You know, it was going to be space tourism.
+It was going to be maybe was going to be, you know, asteroid mining.
+We're going to find something unique in space.
+Healium 3, I would have never imagined compute and it's an infinite, you know.
+infinite sync of money and need
+So we're going to space guys
+As you say Alex
+We're going to speed run Star Trek
+But it's crazier than that
+Like if you look at what the compute
+Is actually getting used for
+It's not just like some abstract
+Fungible quantity
+A lot of the compute is going
+To things applications like generative video
+So further was it in your 2026
+Fingo card that the pension funds
+Would be propped up by like generative
+Dog and cat videos
+Generated by a Dyson swarm
+Nope, was not
+不是我的
+我選擇了第一個問題
+在這條列表上
+我選擇了
+我送我的兒子去學校
+嗯
+答案是完全沒有
+OK
+你拿了Milan的學校錢
+買了Bitcoin
+我預計了幾年前
+兩件事會發生在Milan
+14個年輕人
+Peter
+Ahe 永遠不會有電子輸出
+我只能在那裡玩
+只能在那裡玩
+只能在那裡玩
+第二是他不會去學校
+因為學校會被淘汰
+為什麼?
+因為學校的學業學業
+會被改變成
+學校會被改變成
+學校會被改變成
+學校會被改變成
+學校會被改變成
+在你建的那種模式上
+我們會移動到那種模式上
+而它現在已經建成了
+很多種方式
+很多人在看這個
+所以我的答案是
+我應該要送我兒子去學校
+不知其他原因
+就是大約所有的
+學校和學校
+在過去幾百年
+是在學校工作
+你教導孩子在年輕的
+準備準備好工作
+我們沒有想到
+工作會長期長期
+連兩年都忘了
+這是什麼需要做的
+做的
+做的
+那還可以
+你還是要把孩子送走
+因為我們要求
+我們需要一些孕婦的孩子
+但是
+還有很多其他技術
+例如在冬天
+很多孩子去冬天
+他們有很厲害的
+時間
+學習
+和自己
+和同學
+和做活動
+那種東西
+會增加
+好
+Alex
+你要選一個
+然後回答
+我會選擇
+我會給你答案5,30千萬美元
+是怎樣的理解
+在下一幾年內
+以智能工資的理解
+這很實際
+有很多項目在這裏
+包括解決方法
+像Prosaic 作為
+一個標準的圖片
+和用來接觸
+OPIS 4.5 用來打招呼
+以及問它為智能工資
+我認為這很大問題
+我和David 經常會談到
+意大 ahead
+me
+an agent with enough actions in action space that is able to direct an organization
+but to the extent there isn't already somewhere unbeknownst to me
+a formal a i ceo
+i would expect to see it in the next year
+can i bingo card this
+we're actually trying to build an a i ceo for expo professional and for my community right now
+and we're trying to implement it in the next two three months
+你找時間離開,你的AI想要你接受
+我會 rather than AI be CEO
+than myself
+or anybody else
+你來不及香港的人類
+and timing and all that crap
+Dave, why don't you grab one?
+你想要我 grab one?
+please
+ok, I'll take seven
+What skills remain defensible today
+and which are not
+because it ties to this AI CEO
+I think if you said AI is going to be a CEO
+then is that dissuading you from trying to be a CEO yourself
+Absolutely not.
+It changes the definition
+Of what it means to be a CEO.
+And it actually makes it a far more efficient position.
+But there's still a human component in there
+That's creating this value,
+The vision for what you're trying to achieve,
+How it impacts society still exists.
+So then question seven,
+What skills remain defensible today?
+It's that same skill.
+Nobody can define it
+Because it's changing so quickly,
+But it exists.
+And if you get in the fray,
+You will find it yourself.
+你必须要跟他们很清楚
+和他们的技术
+和他们的能力
+你必须要明白
+所有新动作的部分
+在世界上
+研究
+研究的节目
+研究Alex的每天的节目
+你会找到很简单的答案
+对于什么是防守
+因为它是什么都没有
+在那一条路上
+相信我
+在下一两年
+有些东西都没有在那条路上
+你必须要找到它
+然后再把那些数据封住
+所以你不能只回答
+說學科學或學科學
+你可以說是遇到很多人
+做好朋友
+和留在資訊簿
+這些人會被自責
+所以那是我的確
+我會有一個不同的答案
+我覺得是
+我認為是
+努力去解決的問題
+對
+對
+我會拿一個9-10分
+A.I. 最大的錯誤
+教育人們現在在做的
+A.I. 適合的
+你們在教育孩子們
+如果A.I. 會處理
+股份的資金
+我覺得教育人們現在
+看到A.I. 為了
+遺憾
+而反映了
+A.I. 為了
+進行
+我們男生
+現在在第八 第八 第八 第八
+Saleem 想要
+給他們A.I. 解決
+第八 第八 第八的問題
+是一個失敗的
+但在A.I. 使用
+使用AI是方法去刺激
+所以你用AI去做什麼
+這是一個階段的問題
+然後我想今天孩子們
+學習
+如果AI能夠擁有
+維持維持的力量
+是他們的目標
+他們是什麼程度
+他們的心目
+他們會帶來
+將來的事情
+將來他們會
+增加 their cognitive capacity by orders of magnitude
+MTP baby
+MTP baby
+Can I take a quick 30 second crack
+2 more
+OK
+1 and 4
+Will government step in if it takes too many jobs
+There really stupid ones well
+But I think the marketplace will move so quickly
+They wouldn't even have time to put it in
+Before all the jobs are gone
+And people out there figure out their modalities
+Anyway in governments will have to step forward to that
+And the same thing goes for number one
+會有兩種政府模式
+那些人
+會把AI搭配到新世界
+而不的那些人
+會很快地離開
+對
+好 再次
+一個簡單的推介
+那些人在看或聽
+請分享你的問題
+我們會在Ami的部分
+加入我們的WTF影片
+我們會到我們的Altro音樂
+但是各位
+我愛你們很久
+一直很開心
+好棒 回到你們
+Yeah it's Grace and Greg Peter
+Welcome to the Singularity everybody
+This is 2026
+It is just
+It's going vertical
+Don't blame
+The water is warm jump in
+Yes here we go
+China's making its own chips and Europe's losing sleep.
+歐益歐益,歐益歐益,
+Nice.
+Hello, Baltimore Scott, ladies and gentlemen.
+Suleim's not for robot ninjas, he wants bots of every kind,
+but Alex loves the battlefields where metal warriors grind,
+they're mapping out the future from the moon to Mars,
+blue origin and space sex are racing to the stars.
+The post office is fading, Amazon's taking the wheel.
+Provott hands run faster, that's the future they reveal.
+Dyson swarms in orbit, fusion power in their veins,
+B ndown compute and energy changing all the AI games
+Dave says schools stuck buffering the syllabus is stale
+High schools hit the handbrake holding brilliance in jail
+Even MIT moves molasses slow teaching AI
+Kids need tools and trust to chase curiosity sky high
+Universal basics, buzz and income services too
+Michael Dell drops billions, fair shake for every youth
+Is it cash? Is it compute? It's free to my the way
+Level in the launch pad so more minds can play
+Space X may go public but Elon keeps it sealed
+No backstage passes just rockets getting real
+Blue Origin SpaceX cargo moon
+and Mars private fleets replacing flage
+rewriting space-egg stars
+Wow
+Amazing
+Just awesome lyrics
+Yeah lyrics first
+epically good on this one
+Selim runs six hour sermons on how to build it better
+Peter's pre-selling pages
+Next book's a best seller
+Alex jokes about disassembling moons to save the earth
+Nerds inherit everything
+This is an exponential birth
+Boston Brains Bay area
+Bammed with talent tightly packed
+呆满天星!
+天星!
+天星!
+天星!
+天星!
+天星!
+影片和ハイ Kenai
+MoonShot Episodes 翻版
+除少あれ前者
+也有 250 braid
+Catholic
+你們網上相關資格
+說這段
+AWG 也有分享
+但要愛
+夥方
+這是終極
+上
+以 grave
+Is Moonshot 女士
+是 Moonshot
+很短期
+Oh yeah
