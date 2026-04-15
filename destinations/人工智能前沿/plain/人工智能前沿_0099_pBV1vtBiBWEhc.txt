@@ -1,0 +1,451 @@
+歡迎 to Big Ideas for 2026
+我們來聽聽Mark Andrusco
+on the evolution of AI user interfaces
+and how the way we interact
+with intelligent systems
+is fundamentally changing
+Stephanie Zane discusses
+what it means to design for agents
+rather than humans
+a shift that's reshaping product development
+And Olivia Moore
+will share her thoughts on the rise
+of AI voice agents
+and their growing role in our daily lives
+These aren't just predictions
+They're insights from the people working directly
+with the founders and companies
+building tomorrow's future
+I'm Mark Andrewsco, a partner on our AI Apps investing team.
+My big idea for 2026 is the death of the prompt box as the primary user interface for App applications.
+The next wave of apps will require way less prompting, they'll observe what you're doing and intervene proactively with actions for you to review.
+The opportunity we're attacking used to be the $300-$400 billion of software spend annually in the world.
+現在我們很興奮的是
+13億美元的資金
+在美國的售貨品上
+是由貨品商業
+或TAM 商業的
+30倍的大
+如果你們開始從那裡
+然後想到
+如果我們想要這個商業
+做作用
+就算是做作用
+至少如果沒有
+更多的能量
+than a human could
+對嗎
+所以我喜歡想
+說
+什麼是最好的工作
+什麼是最好的工作
+我最近在說
+是一種計劃
+在Twitter上載的
+它是一個計劃
+五種工作人員
+和最多的工作人員
+為何他們最好
+所以如果你開始
+在下面的計劃中
+它是人們
+who identify a problem
+and then come to you
+and ask for help
+and ask what to do
+那是最低的工作人員
+但是如果你到S tier
+就像是最高的工作人員
+you could possibly have
+他們會identify a problem
+他們會用資訊
+to diagnose
+where the problem came from
+他們會看出
+a number of possible solutions
+就要把解決的方式
+然後他們會保持你進入
+或他們會來到你最後一步
+說你能否解決這個方式
+這就是我認為的未來
+我認為這就是我們想要的
+這就是我們想要的
+所以我認為我們都很自信
+我認為LOMs繼續得到
+更快更快更便宜
+我認為這就是
+人類的行動
+仍然會需要
+一個人進入的方式
+去解決這個方式
+雖然是高級的階段
+但我認為
+模式是更能夠
+在 your behalf 上
+and you basically just have to click accept
+and you guys know I'm pretty obsessed with the notion
+of an AI native CRM
+and I think this is like a perfect example of what
+these proactive applications could look like
+so in today's universe
+a sales person might go open their CRM
+explore all the open opportunities they have
+look at their calendar for that day
+and try to think about
+ok what are the actions I can take right now
+to have the greatest impact on my funnel
+and my ability to close deals
+在明天的CRM,你的AI或CRM
+要做所有這些事情
+在你的身上,在意外,
+發表不僅是最明顯的機會
+在你的網絡,
+但在你的電郵中,
+從過去兩年來,
+在你發表的,
+這就是一種暖暖的行動,
+你讓它死,
+可能我們應該要發給他們
+這個電郵,
+讓他們回到你的工作中,
+所以我覺得,
+有很多方法,
+在你發表電郵,
+發表你的電郵,
+發表你的電郵,
+你的電郵,
+他們的機會是無法消耗的
+普通的利用者
+仍然會想要那最後一秒的免費
+差不多100%的時間
+他們會想要
+人的部分
+人的部分
+作為最後決定者
+那很棒
+我覺得這是
+自然的方式
+這個會發生的
+我可以想像一種世界
+在於能力的利用者
+就是
+用了很多的力量
+去訓練哪些AI App
+使用
+去有更多的 context
+在他們的行業
+和他們的工作
+做得很可能
+這些會利用更大的 context windows
+这些能利用
+记忆有很多LM
+能让用者
+能真的相信
+质疑
+做99.9%的工作
+或者甚至100%
+他们会传辑
+在计划数字的数字
+做得不得了
+人生需要证明
+嗨 我叫Stephan Deng
+我和A16Z的
+A16Z growth team
+我的大想法是
+2020年6月是
+創造給人家
+而不是給人家
+我超級興奮的是
+2020年6月
+人們必須開始
+改變他們的方式
+這將來是創造
+資料和設計
+人們開始
+跟網絡系統
+或他們的
+應用系統
+和人類的
+交流
+而人類的
+飲料和
+飲料和
+同樣的飲料
+和飲料和飲料
+我从高 school
+I took journalism
+and in journalism
+we learn the importance of starting with the five Ws in H
+in the lead paragraph for news articles
+and to start with a hook for features
+Why?
+For human attention
+Maybe a human would miss the deeply relevant
+insightful statement buried on page five
+but an agent won't
+For years we've optimized for predictable human behavior
+You want to be one of the first search results
+back from Google
+You want to be one of the first items
+listed on Amazon
+And this optimization is not just for the web, but as we designed software too.
+Apps were designed for human eyes and clicks.
+Designers optimized for good UI and intuitive flows.
+But as agent usage grows, visual design becomes less central to overall comprehension.
+Before during incidents, engineers would go into their Grafana dashboards and try to piece together what was going on.
+Now AISREs take in telemetry data.
+They'll analyze that data and they'll report back
+以心理和意識的方式
+直接進入
+人類的訊息
+前來, sales teams 會
+用來通過
+和用來通過 sales force
+或其他 CRMs 去集中資訊
+現在, 公司會拿到資訊
+並來減少他們的意識
+我們不再設計
+人類, 但公司
+新的改裝
+並不是 visual hierarchy
+但是 machine legibility
+這會改變
+我們創造的方式
+和我們以前的作用
+這是一個問題
+我們不知道
+也會回答 what agents are looking for
+但我們知道
+agents do a much better job
+在讀書的文件
+vs maybe a human would just read
+那些第一篇的標題
+有很多不同的設計
+that different organizations use
+to make sure
+that they show up
+when consumers are prompting chat
+gbt asking for the best corporate card
+or the best shoes to buy
+所以有很多我們叫做
+geo tools out there in the market
+那 kind of people are using
+but everybody is asking the question
+what AI agents want to see
+I love this question
+when humans may choose to exit the loop entirely
+we are already seeing that happen in some cases
+our portfolio company Decagon is answering questions
+for a lot of their customers already autonomously
+but for other cases
+security operations or incident resolution
+we typically see a little bit more human in the loop
+A.I. agent 第一次進行
+試圖解決問題
+在人類的不同的情況下
+進行調查
+這些可能是高度訓練
+更加有關的調查
+我們看見人們在錄影
+我們可能會在錄影長久
+至於模特兒和技術
+會有很高的明確實習
+我 don't know if agents will be watching Instagram rules
+it's really interesting
+at least on the tech side
+It is really important to optimize for that machine legibility piece
+optimize for insight
+optimize for relevance especially
+versus in the past
+it was more about hooking people in
+capturing attention in flashy ways
+我們已經看到的是
+高級的和超級的資料
+而你可能不想創造一個
+非常重要的文件
+非常重要的和非常有趣的文件
+但是你可能會創造
+非常高級的資料
+但在調整不同的東西
+你可能會覺得
+一個人想看到的東西
+Equivalent of Keywords
+In the era of agents
+Where cost of creation of content
+Kind of goes to 0
+And it's really easy to create high volumes of content
+That's a potential risk around
+Just high volumes of things
+To be able to try to capture agent attention
+I'm Olivia Moore
+And I'm a partner on our AI applications investing team
+My big idea for 2026
+Is that AI voice agents will start to take up space
+In 2025
+We saw voice agents break out from
+是比 science fiction 更像
+現實的業界
+在計劃中購買和計劃
+我感到興奮
+看到 voice agent 平台
+和平台的行動
+和動畫的行動
+作為全職
+並將我們 closer 進行
+實際的 AI employee vision
+所以我們看到
+每個平台的客人
+都在測試 voice agents
+如果沒有
+在計劃中
+在非常大量的計劃中
+健康是最大的
+我們看到
+每個平台的
+每一部分的健康貨品
+貨品供應
+藥品 貨品
+但也可能
+更有驚人的貨品
+可以是
+計劃和提醒
+一些的桌子貨品
+但也更有優惠的貨品
+例如貨品抹擲
+或是甚至貨品進行
+貨品貨品
+都被貨品貨品貨品貨品
+我覺得大型的車輛
+是很高的轉向
+以及貨品
+和貨品的工作
+在健康的情況下
+讓聲音器能表現一些靈活
+很好的解決
+另一個類似的層次
+是銀行和資金
+你會覺得
+有這麼多的規律和規律
+聲音器還沒有運用
+但這卻是一個地方
+聲音器卻沒有運用
+因為人們很好的
+在操控和規律和規律
+聲音器可以每次運用
+而且你能很重要
+能夠把聲音器搭配在時間
+Lastly I would say, another area where voice has taken off is recruiting.
+This is everything from retail front-line jobs to entry-level engineering roles
+to even mid-level consultant roles
+With Voice AI,
+you can create an experience for candidates
+where they can interview instantly at whatever time works for them
+and they're sent in through the rest of the human recruiting process.
+We've seen big improvements on accuracy and latency this year
+as the underlying models get better and better.
+其實 in some cases, Corona
+I've heard of voice agent companies
+slow off down their agent
+Or introducing background noise
+to make it sound more
+like a human.
+When it comes to BPO's and call centers
+I think some of them
+are going to see a softer transition
+and others are going to maybe see a
+harder cliff
+when it comes to the threat
+from AI
+and specifically voice AI.
+It's kind of like how people say
+AI isn't going to take your job
+a human-using AI will.
+What we're seeing is a lot of end customers
+may still want to just buy
+the solution not by
+technology
+他們需要應付
+所以他們還會用電腦中心
+或是BPO
+在較為接近的中心
+但他們會用一個
+會賣出更便宜的價錢
+或是可以做更多的數量
+因為他們在使用AI
+有關的
+有幾個標準
+人們仍然比較便宜
+在一個維持的程度
+然後才能做更好的經驗
+像是AI
+所以會更有趣
+看能否改變
+價錢會增加
+然後電腦中心
+在那些市場
+會面對更多的負面
+然後他們會做更多的負面
+AI是非常好
+在 multilingual conversations
+和 heavy accents
+通常我會在會議中
+會發表一些詞或詞
+我不會發表
+我會檢查我的
+granola transcripts
+然後它會發表完美
+所以我覺得這是一個好例子
+最多的ASR
+或是說話
+給 text providers can do now
+有幾個項目
+我希望我們會看到
+更多的 next year
+任何政府
+我們有資金
+準備了911
+如果你可以開911的電話
+他們都沒有發生過免費的事
+如果可以發生這個事
+你應該可以發生DMV的事
+任何其他政府的事
+現在很感動
+是一個 consumer
+很感動
+如果你是工作人員
+在其他地方的手機
+我還很興奮
+看到更多在 consumer voice AI
+它是最多是B2B 這麼遠
+因為它很明顯
+可以放置
+或是加上一個人在手機
+有更多的財產AI
+一個人在 consumer voice
+我最興奮的是
+是在於健康和 wellness more broadly
+我們已經看到
+voice companions take off
+和 assisted living facilities
+和 nursing homes
+作為 companion
+也就是 residents
+但他們也能
+track different measures
+和 wellness over time
+我們看到 voice AI
+是 more of an industry
+than a market
+我們認為
+會有 winner across
+或 at every layer of the stack
+如果您想要 voice AI
+或您想要 build voice AI
+我會推薦您檢查模型
+有很多的專業頁
+例如11 Lab
+讓你能夠試試
+both creating your own voice
+and creating your own voice agent
+讓你能夠感受到
+what's possible and what's to come
