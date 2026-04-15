@@ -1,0 +1,609 @@
+artificial intelligence is everywhere right now
+in your phone, in your car, even writing emails for you
+You may be wondering if there are actually any limits to what AI can do
+I've heard many people over the last few decades confidently assert
+AI can do certain things
+but it's never going to be able to do and then you fill in the blank
+Guess what most of those predictions have in common
+They were wrong
+The past few years have shown exponential growth in AI capabilities
+他在每天生活上都在做一些研究
+而且他在做很多這些事情
+很多人都想他永遠不會做
+或是還可以做
+當然很多人的限制 still exist
+但我的建議是這個
+不要依然依然是A.I.
+不然的話當然你想錯了
+在這段影片我們會開始看
+知識的情況
+如何分辨資訊和資訊
+這會幫助設定個案
+然後我們會看
+看 how we have looked at what have been considered to be the limits of AI
+and see which ones of those things have actually been accomplished
+and what's still left to do.
+Then we'll conclude with some ideas about the role of AI and humans
+and where each one excels
+with the hope of learning how to use this amazing technology
+to our best advantage.
+Let's start off with looking at the relationship
+that exists among data, information, knowledge, and wisdom.
+我們會用這個絲綁成分
+所以我們會開始用資料
+這就是基本的錯誤
+如果我給你資料
+像這個,我會說10,6,42,8
+那就是錯誤
+所以你不知道什麼要做
+但那就是資料
+現在如果我給你一些 context
+這個資料
+現在我們有資料
+所以這就是我們所做的部分
+稍微整理了一點
+現在我會告訴你
+這個資料其實代表了
+人類的年齡
+所以現在我們有更多的 context
+這有更多的意思
+如果我拿著這個
+然後說
+但我們把這部分的
+資料給我們
+現在我們就結束了
+現在我們結束了
+資料告訴我們還多
+所以我們會說
+我們看過很多人在這個房間
+在21歲的年代
+所以我們現在做了更多的規模
+現在最後的一部分
+是用了知識
+用了知識現在給我們知識
+知識可以看見
+所有的資料
+所有的資料
+所有的知識
+我們要把這點的學習
+和說我們有這些人在房間裡
+我們要做一些
+做一些年輕的遊戲
+讓他們繼續在家裡
+所以
+40歲的玩家
+不會太多玩一場
+10歲的玩家
+但他們可以去玩
+這就是個很詭異的例子
+但你可以看到
+資料、資料、學習和體力
+每一個人
+一種這些增加了更多的 context
+更多的 interpretation
+然後全部這些都會引起了
+最終的 威脅
+所以另一個方法
+要看這個 pyramid
+是 data
+那是一個 database
+我們可以把很多東西放進去
+但那是全部的
+只是一堆 raw facts
+資料
+我們有一個項目
+在手機上
+那是現在的資料技術
+我們叫做的
+我們有加了 context
+給所有的資料
+knowledge
+this is where AI really starts to come in
+now we're adding more interpretation
+to the information that we've just processed
+but here is where we're still trying to get
+and that's wisdom
+back when I was an undergrad
+writing my dinosaur to class
+and studying AI in its earliest days
+there were a lot of things that people said
+these are the limits of AI
+maybe one day we'll have a system
+that's able to do these
+but they won't be anywhere
+maybe even in our lifetimes
+for instance one of the things
+that was talked about
+是我們需要一個系統
+如果我們真的認為是用心
+那意義是一部分的
+所以能夠解決
+和解決問題的問題
+解決問題的問題
+這就是我們的能量
+一定是在那天
+但是我們從那天
+我們有一個遊戲
+就是IBM 1997
+有一個遊戲叫
+Deep Blue
+那是Garry Kasparov
+CBS player in the world, a Grand Master.
+That's a lot of reasoning, that's a lot of problem-solving.
+People thought you'd never have a computer
+that would be able to beat a Grand Master.
+Again,that's already happened.
+So what seemed to be a limitation wasn't.
+Another one that was really difficult for a long time
+was natural language processing.
+Human language has a lot of nuance,
+a lot of idioms.
+Things where we say things that we don't mean literally
+and sometimes you're supposed to interpret it literally,
+也许是有些人的語言
+例如我之前的例子
+如果我們說是雷尼茄和狗
+我們知道它不代表
+小孩在飛出的空間
+那是個瘋狂
+如果我們有一個 system
+會很明顯的
+我們要懂得這些東西
+要懂得這些東西
+懂得你哭泣
+或不懂
+有時候人們不懂
+也許是因為是個壞爸爸的笑容
+但要懂這個
+我們在一般來說,我們能夠告訴
+分別是有什麼感情和有什麼不
+我們其實有做一些進展
+1965年,我們有出現
+第一種是很新的電話
+但這不是用新的技術
+叫做Eliza
+它能夠與你談話
+現在,沒有很好的談話
+但它會問你問題
+和回應問題
+你覺得如何
+你覺得如何
+這類型的感覺
+就像你所說的
+一位很 passive psychologist
+但是IBM 進行了很多
+在2011年
+我們來自瓦斯恩
+玩了Jeopardy
+TV 遊戲節目
+能夠贏得
+比賽者
+因為Jeopardy
+是自然的
+玩言、言語、
+鑰匙等等
+你不能把所有的
+它真的要明白意味著這些東西
+進入了進入了進入的進入
+它真的要明白意味著這些東西
+進入了進入的進入
+其實我們已經做得了
+而我們看了今天的網路電視
+他們能夠懂得很多這個主題
+他們能夠從自然語言
+解釋你意思的策略
+解釋你意思的意思
+在一個意味的意味的形象中
+我想這是可能
+一個最有趣的
+技術技術技術
+是能夠做到的
+我們可以做到的
+我們第一次覺得
+我們在 computer 上
+我們可以將
+我們所要求的
+我們可以在一些時候
+想起我們需要的東西
+像一個人一樣
+我們會用這個方式
+去做這個
+我們要有能量
+能量
+我記得聽到很多人說
+你知不知道
+computer 能不能
+真的發揮資訊
+他們其實可以
+我們可以發揮
+我們有生產的 AI
+我們可以發揮藝術
+我們可以發揮新的作品
+你就可以言恕
+但是 those are really just mash ups
+of existing
+Well guess what
+When people compose
+a new song
+or draw a new picture
+We are influenced
+by the things that we've heard
+as well
+Listen to all the top musical artist
+that you know
+and they will tell you
+Oh yeah, here are my musical influences
+So those things all went
+into the back of their heads
+and influence the way
+that they create
+So we are creating new things
+and there are variations
+on the old
+But that doesn't mean
+just because a computer
+did it
+It wasn't creative
+因为它是实际的
+它们来自新的想法
+我们继续做这个
+我们基于我们的学习和我们的 creativity
+在一些事情中的过程中
+所以是AI
+现在有另外一个
+实际的感觉
+像是人类的东西
+那就是 science fiction 当中的一种
+但是我们今天有的
+你可能不会想象到是个人类的
+但是一个自动车是一个人类的
+在真正的時間中, 看到它的環境
+看到它在發生什麼, 想起它在哪個車上
+以及在哪個時間中, 做所有的計劃
+在真正的時間中, 做真正的決定
+機械人要做同一件事, 要在空間中旅遊
+所以這些東西, 基本上, 我們要考慮
+A.I的限制, 我會說, 你知道嗎
+我們已經做了所有的
+現在我們看看一些其他領域
+我們做的進步
+但我不知道我們會說
+我們已經做過了什麼
+還有一個是
+你聽過的IQ
+是如何解決
+一個是心情
+一個是意識
+這些系統可以去修理
+我感覺有些人
+可以修理心情
+但那是另一個
+EQ在系統中
+你可以看到在 modern chatpots
+能夠理解你的感情
+和方式你表達的
+所以有某種意識
+在於你對話的形式
+我們有故事
+對於人們的感情
+和情緒的關係
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+有些人感覺
+給予理解的情緒
+和這樣的情況
+是在這個場面
+說我們在做這個
+至少在一些情況下
+另一個環境
+我們還能夠有的
+是這個地區的
+供應
+供應是一個
+難以解釋的問題
+這是一個
+生產產品
+這個系統
+基本上
+確實地設計了
+什麼不正確的
+所以我們在想
+對的答案會是
+很多很多時候對的
+是複雜的
+但當錯了
+這些情況是複雜的
+我們有技術
+讓我們做得更高的
+更高的
+像是
+重生的
+生產的
+會幫助我們
+給予更多的資料
+更多的
+所以模式
+不會用自己的想法
+來解釋答案
+像是
+經驗的學者
+也會幫助
+我們用不同的模式
+我們可以用它來改善
+不同的環境
+改善模式
+所以我們可以做的
+是在改善
+供應問題
+我們做的
+這是一個
+我不會說
+是一個解決的問題
+但是我們可以確定
+看我們在改善
+這個問題
+是否解決了
+好
+所以這些是我們
+已經做的
+還是還在工作
+或是能夠看到
+印度的環境
+And now let's take a look at the future.
+In other words, what are the current limits?
+What are the problems that we're still having to work on these days?
+Well one of the limits of AI is a thing called artificial general intelligence.
+Right now, we see AI's that are super smart in a specific area,
+in a specific knowledge area.
+Now again with some of these chatbots that we have today,
+they seem to know a lot about it, pretty much everything,
+but they also have limitations.
+For instance, they don't do real time perception.
+他們不可以戴自己的衣服
+比如說
+所以
+藍色和大陸的精神
+會是一個人
+做所有的事
+我們認為是精神
+至少在派對
+他和所有的不同的 domain
+這就是我們沒有
+完全成功的一種系統
+接下來的階段
+會是藍色和大陸的精神
+我們有一個
+人類比每個 domain 更好
+這就是 science fiction
+我們還不說我們不會做,但我們還未做到
+另一個問題仍然要解決的
+是在於支援
+所以現在我們有系統可以做很厲害的東西
+但不然他們會把電池吸收
+他們會把所有電量拿走
+他們需要很多冷卻
+他們很貴的運作
+這不是我們能夠計算的
+如果我們繼續承擔
+更多的過程在這個情況下
+那不就沒了
+我們會用所有電力的方式
+在地球上
+進行一些測試
+我們會能夠做更好的
+更好的決定
+使用模式
+是對的
+並不是最大的模式
+而是對的模式
+如果是小模式
+會更能夠做好
+也會更能夠
+使用對的方式
+這就是我們還在做的
+不只是一個解決的問題
+但是我們有很多東西可以做
+另外一個是
+是在現實的區域
+是在現實的區域
+是在現實的區域
+所以是在現實的區域
+是否存在
+是否存在
+我真的不知道這個答案
+這是一個不只是一個
+學科的問題
+所以我不會試著
+和這個問題
+因為我不確定
+我們回到這個部分
+是理解的
+所以, 系統可以分辨很多東西
+但是, 它是否理解了什麼
+它真的知道什麼意思
+好像是很多的事
+但是, 它是否理解了什麼
+是否理解了想
+我不知道
+我告訴你, 有很多人我已經談過
+我認為他們是理解了想
+以及理解了智能
+它是很難把線線拉開的
+但這好像是一個限定
+A.I. 可能不明白
+我們喜歡的最大的關係
+是明白的
+判斷
+所以我記得
+我提到的資料、資料、知識和信念
+這是最後的
+這是信念和判斷的行為
+這就是能夠把信念做得好
+可能是 ethical judgments
+能夠決定是對的還是錯的
+再次
+能夠讓人們做到的
+有些人有很難的問題
+這些類似的 judgment
+所以我們是很難
+為我們設計一個系統
+如果我們不能解決
+這些規定的規定
+但是我們確實知道
+現在這些是限制
+這個系統的
+如何在於
+在於  judge something
+是很困難的
+像是 quality of something
+可能是 music
+你知道 我覺得是
+很棒的音樂
+你不可以不認為
+所以你會說,Jeff,你沒有 judgement at all
+但是,我還有不同的視頻
+但是這些系統,他們能夠
+能夠發揮音樂
+他們能夠把東西 throw away
+是完全的誇張
+但是他們能夠告訴
+什麼是會有一個打擊
+還有什麼不一定會
+例如,在音樂的部分
+所以,這裡有很多工作
+所以可以做一些
+有些高級的 judgements 也有
+這個
+一般的感覺
+我會把這句話放在詞上
+因為… 詞語
+因為…
+我覺得這句話真的很難聽嗎
+我們有限制的人
+所以我們不能預期
+我們可以做完美的事
+我們認為是很難聽的
+因為我們都會有不同的想法
+當然有些東西我們知道
+這個系統必須能理解
+但今天
+當然有些限制的人
+如何說是在目標設定
+有些人會說
+今天的Agentic AI
+能夠把自己的目標設定
+並去做這些事情
+我會做一個分析
+我們有 micro goals
+這些是我們需要做的小事
+如果我給你一個大目標
+然後是 macro goals
+所以是大目標
+這是需要做的
+這是我去做的
+現在的經驗人士
+可以做這些 micro goals
+goal within the larger objective
+但是為什麼我們會做這個
+第一個地方
+那可能是還不在
+它的 reach at the moment
+然後感情
+如何
+是否 A.I. 系統
+真的感受到
+是否理解
+發生了什麼
+感覺
+什麼味道
+那些東西
+感情的東西
+我們在建造 robots
+我們可以看到和聽聽
+可以味道
+可能是在一些情況下
+但是有很多其他東西
+可以去到這些感覺
+我們沒有全部放在一種系統
+然後這裡
+我覺得是一個很大的
+是深入的情感
+是一種系統可以感受
+同樣的方式
+能夠感受到樂趣
+能夠感受到悲傷
+失去
+是否真的能夠解決所有事情
+我明白一些人不太能做得到
+這是一個很難做的事情
+我們能夠在今天處理
+但真的能夠感受這些事情
+我會推薦你
+這些是一些
+在一級或另一級的
+是否有限制在今天的AI
+現在是怎樣的
+人和AI
+我們要怎麼做
+我們要確保這是一個方法
+讓我們做得到
+人們真的應該在這裡
+做這種事情
+回答什麼問題
+我們要做什麼
+這是我們要做的
+全球的貿易目標
+而回答為什麼
+為什麼這個目標
+他們是在做什麼
+為什麼我們在做什麼
+我們要做的
+而沒有目標
+這只是一個不明的工作
+所以人們還要更好
+我們應該是在這個圖案的控制方式
+在我們這方面 當我們告訴了這個系統
+需要做什麼的
+AI能夠在很多個程度上
+找到一個優勢
+然後去表現
+其實是做的
+優勢可以把很多東西
+很多東西都做得更快
+然後他們可以做得更好
+但是他們需要知道
+要做什麼的
+我們需要知道為什麼
+如果我們來看歷史的AI
+我們做了很少的進步
+然後一旦突然就被拒絕了
+我們是這個 inflection point
+我們是這個發展的
+我們是這個發展的
+沒有人知道
+但是我可以說的
+這一點我們可以看
+我們已經完成的歷史
+我們可以看
+很多未來的資料
+還有一些需要做的事
+這其實很有趣
+如果你是人 who enjoys IT
+and the possibilities of problem solving
+then we're gonna be able to do a lot more work
+and ultimately we're going to end up with systems
+that do things we didn't even imagine yet
+So my advice to you
+is you start looking at the limitations of AI today
+I would say, don't become preoccupied with those
+because the people who have and have asserted
+that AI will never do that or the other thing
+have generally been wrong
+My advice to you. Don't bet against AI
