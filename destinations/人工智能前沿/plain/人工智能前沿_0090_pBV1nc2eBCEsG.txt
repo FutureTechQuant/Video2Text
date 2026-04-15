@@ -1,0 +1,650 @@
+Alpha Fold, it's easy
+It almost felt too easy
+It felt like too many of ideas were working
+It felt, it was going up
+And I remember talking to Tim
+The engineering lead going
+This is really feeling too easy
+We're having too much success
+This problem can't be this easy
+Are we leaking the test set, right?
+You know, are we doing the classic machine learning sin?
+Follow scholars
+I don't really like to be on camera
+But there is a big reason I am here today
+You see, I met Nobel Prize winning chemist
+And why Is it Important
+Alpha fold is a neural network
+which makes it relatively appropriate for the podcast
+but it is a deep learning system
+that predicts the results of a specific scientific experiment
+to tell you about that
+I should tell you about the domain that it's in, proteins
+so proteins are
+the nano machines that basically drive your cell
+a couple of thousand atoms
+每个人都会用DNA的评论
+我们说DNA是一个计划
+它们的教权是
+有很多人在说
+如何和能力建造重新的 protein
+所以三个词是
+DNA的词
+一共有20个
+组织的组织
+这些组织
+基本上就是
+小的类型
+你懂吗
+cbp 뿌�
+And there's a machine, another protein in the body
+that reads the DNA in a relatively complicated process
+and kind of builds out the protein one step at a time
+joining links in a chain or a rope.
+So it takes this chemical group, attaches that one,attaches that one,attaches that one,attaches that one,attaches that one, attaches that basically the same
+way at each time,and builds out a string of maybe 300 of these
+is a reasonably typical link.
+And then what happens when your cell builds this thing
+is of course it's not a machine,most of them are not machines that function
+像是滑鼻的帽子
+它其实有些部分是红色的
+有些部分是正常的
+有些部分是红色的
+所以它会变成
+它会变成红色的
+变成红色的
+它会变成一个
+比较强大的3D物件
+那是一种
+整合的工具
+所以这些是工具
+它们自己建造的
+对 它们建造的
+在1D 当然
+我们的电子是1D
+我们的世界是3D
+所以这是
+它们的体力
+它建造的这些东西
+它们变成了
+这些非常有趣的形状
+这些人有20,000人的肤体,
+有百万多万人的肤体在所有的体系中
+我描述的一个部分是非常简单的
+非常简单的认识,
+因为我们的认识是在《中文》的
+中文中文,你能想象一下
+是否有一个认识的认识,
+就是认识的认识,
+就是认识的认识,
+就是认识的认识,
+一年
+要有肥皂的身体的困境
+很难做的一些 experiment
+他们经常失去
+非常难做的
+如果想要提供一切的经验
+可能是一百万块钱
+所以许多人做这个 experiment
+他们开始从 DNA
+但是他们真的想明白
+这个机器的效果
+所以他们需要看一张照片
+所以他们
+会决定困境的困境
+他们用大量的 纳纳的 纳纳的 纳纳的 纳纳的 纳纳的
+大量的 纳纳的 纳纳的 纳纳的
+小小的 纳纳的 纳纳的 纳纳的 纳纳的
+这些
+所以
+但是人們都做了很多
+有一個很大的社會財富
+因為很重要的東西是
+要明白這個要明白
+治療病毒的症狀
+現在200,000人
+知道的 protein 條件
+約140,000人
+我們做的 Alpha Fold
+我們發展了一個
+深學的系統
+從
+套整酸酸的
+DNA 酸酸
+到
+強化的酸酸
+在五至十分鐘
+而不在一年
+做這個
+伸凹度提高
+並不是很好的
+但非常提高
+使用了科技的核心
+而它们已经使用了很多
+所以我们估计了
+200万个亿的肤体
+每个肤体的体体
+从一个人的身体
+全是肤体的肤体
+科技用它为肤体
+发生了体体的解决
+我认为
+从一个研究的方面
+它们是
+第一个问题
+是在AI上
+它们是一个
+非常专业的
+科技用的系统
+我觉得它是
+三百万的科技
+我們用了我們的資料
+來做預算
+每天做預算
+我們會用AI
+並不是用來做
+人類的做法
+而是做超人類的做法
+沒有人類的做法
+用來做建築
+用來做 experiment
+我們可以用這兩種
+發展新的技術
+我們可以建造新的技術
+現在我記得問你
+你剛才如何感覺到
+當它開始開始工作
+我記得
+當它開始
+我們真的有什麼發生
+我們保持
+AlphaFold 已經建設了
+我們昨天沒有有AlphaFold
+今天我們還沒有
+可能是兩年
+三十四十年
+不同的
+個人的想法
+在這裏工作了
+一些大想法
+但是每個表演都在整個表演中
+我記得一年到建築的二個年
+那是很成功的
+它幾乎太簡單了
+太多的想法都在工作了
+它就開始了
+我還記得說到
+Tim的研究隊說
+這真的太簡單了
+我們太過了
+這個問題不太簡單
+我們在訓練的 test set
+我們在學習新的機器
+他就在說
+我們不覺得我們
+我們回到家裡
+我們雙檔檔
+我們雙檔檔
+我們要確保我們沒有
+真的可以找到一個
+但太簡單了
+我們覺得 nature 應該不容易
+這個方式
+我記得我真的
+還不太確定
+我們做了一些
+SARS-CoV-2的
+重點是COVID
+然後我們在 experiment
+我們還不確定我們會不會有任何的力量
+但是我們還在生
+那是瘋狂的
+但那是一個專業的學生
+因為在學生的項目中你失去一千個
+然後你終於被擊中了
+你不問問題
+你還要慶祝
+但那不是你做的
+你會把表現剩下的部分
+所以很棒
+但是你見過專業的 athlete
+他們不…
+他們…
+他們失去的時刻
+他們都在不停地在想
+在想,在想
+這是一個技術
+技術學習是一個技術
+你必須要是技術人物
+去做這個
+好,現在我問這個
+因為技術
+從0到100的
+就是一種技術
+所以這是
+很多技術的
+小小的小小的技術
+每個技術
+都會有小小的技術
+你再加一個技術
+你再加一個技術
+我還在問,這好像是一段年輕的進步
+你開始在爭執,為什麼你會這麼驚訝
+當你進入爭執?
+所以,就像莫斯拉,是一個成功的
+成功的理念和 breakthroughs
+在整體的表現中,是一種不可行動的
+而不可行動的,在莫斯拉的情況下
+是一種不可行動的,是一種不可行動的
+你會想到,你不會知道你會到下一步
+你不會知道,我們有了進步的機會
+他們不會這樣做,我們會想到的
+但進步的機會,我們會想到
+我們會想到的,我們會想到的
+对吧
+德范对此
+好 Teet mine 的电脑
+有一些 6 个月时间
+所以,每六个月
+你一直完成你的 task
+当你 他们每下 6 个月样
+集结完一些何处的结构
+我注意,我们只会
+经常预判出这么一种
+最荣幸的一层 但不入无 impact
+然而取得自信
+有时确详实
+我们必须和 欣壮自信
+需要持续恢美
+以 pelvis 提发
+所以它是一直改變了
+改變了歷史和恐怖
+只有當你讓它變得很激烈
+然後你再改變了
+然後你再改變了
+然後它變得更激烈
+對 像在做過十年
+超過了
+對 這樣
+好 能否建立一個
+想法在什麼類型的 protein
+變成了3D的劑
+你也有看過3D的效果,
+說,這不可以,
+而是可以變成這樣,
+這樣可以嗎?
+我會告訴你兩種故事,
+我建議,
+我建議一個不一樣的體育,
+所以你會說,
+這很像這個其他體育,
+所以我建議,
+這會有一個相同的體育,
+所以這是人們可以做的,
+我們人們叫做 homology modeling,
+它是一個非常有名的名字
+說說這個圖案是很像的
+可能這個圖案是很像的
+所以你可以這樣做
+而且你會有時候會發現
+個人的模式
+像這些紙幣都會寫出
+這些紙幣的模式
+像是
+肌肉體的很常見的
+肌肉體的
+我記得有一個紙幣
+說說最後的一種
+肌肉體的是
+這些三個胸肌
+那一種前面的
+所以有些規定
+人類的規定
+他們的圖案
+你可以用那一種
+但最後只會
+它只能做一些活動
+它不給你這種精神的精神
+你需要做藥物發展
+其實那些東西
+其實我真的沒有驚喜
+從機器學習來的
+我應該不會驚喜
+但是我真的驚喜
+我猜那些東西是很大的驚喜
+有時候我們會有
+有大量的肌肉肌肉
+或者是一個像C形的 protein
+而你也知道, 蛋白質和 protein 都很高級的
+它是一個很薄的物體
+它說它不看得對
+但是它是非常肯定的
+我們在研究的 experimental structure
+我們立即發現了什麼會發生
+所以AlphaFold2, 原來的AlphaFold2
+是只在一個 protein 上訓練的
+但通常在某些動物中,
+有些動物的動物會有很多的動物
+例如,有些動物的動物
+可能是三個動物
+在一起的動物中
+會有些動物的動物
+並不是一種動物
+而是三個動物在一起的動物
+或是有些動物的動物
+有些動物的動物
+會有些動物的動物
+然後他們只會在身上
+表現在動物中
+而有些動物
+會發現這些動物的動物
+會有些動物的動物
+或是這個動物
+但我會發現, 其實這檔案有3個檔案
+所以這檔案是1.3個檔案
+如果你把檔案放在檔案裡面, 也許
+AlphaFold沒有告訴我們, 它有學習規定
+有些是檔案, 我可以解釋
+我想另一個大驚喜是, 當我們贏了AlphaFold
+我們會看到不同的檔案, 當我們贏了AlphaFold
+我們會看到不同的檔案, 當我們贏了AlphaFold
+我們會看見一些美麗的部分
+而有些很醜的長的蟲子
+噢,不,那是錯的
+我記得我們看見
+我們不會看到這個
+當我們預計了
+我們 experimentally solved的 protein
+我們說噢,不,那些 protein
+那些 experimentally solved 更特別
+其實 AlphaVolt
+不是好在我們之前的問題
+然後 Catherine 跟隊長
+有點晚了那天
+看見這個 Uniprot
+Buna Pront, this database of various experimental facts
+about proteins which will tell you certain regions
+that are known, for example, experimentally,
+to be disordered and she starts to realize
+that where AlphaFold is making these ridiculous
+long arcing predictions
+that can't possibly be correct
+and they aren't proteins it was very low
+confidence and those regions were disordered
+and what AlphaFold was, in fact,
+telling us is this region doesn't have a structure
+kind of implicitly so what we've found
+out is that the lowest AlphaFold confidence protein
+是一個數量的數量
+從哪個 protein was disordered
+所以我們會找到這些東西
+我們 kind of
+知道的 protein 但我們沒有感覺
+因為 disordered 並不在
+這個基礎的 protein 等
+我們會找到這些東西
+就 kind of 看在 Alpha Fold 上
+然後 感受到
+厲害 厲害
+現在 我想問
+它們的最大效果是
+因為它現在有
+百多千的研究工作
+在五年內,這就是一件不可信任的事
+所以,哪一種是你最愛的?
+我認為有兩種最愛的
+第一種是這個大股的股份
+大股的股份是有很多股份的股份
+叫做紐克力股
+紐克力股是其實
+那種
+大股的股份是紐克力股
+紐克力股店是你的DNA
+那是你的紐克力股
+而其他部份的銷量在外面的紐克利亞斯
+所以需要一個保守機器
+讓他知道誰可以進入和離開
+然後開啟和接駁
+我記得在想
+這件事是極大的
+AlphaFold是1000倍的大
+於AlphaFold可以做的
+所以我們可能會再次進行
+一些機器學習
+會幫助這些問題
+然後這個紙箱出現
+我第一次看到的
+是在柯子茂在學校裡說
+我們把紐克利亞斯的綜合
+我們已經知道30%以上的潛力
+現在我們知道60% 70%
+而很多的潛力都被拒絕了
+因為我們用很低的測試技術
+CryoE-T
+用Alpha Fold
+用來擺放不同的Alpha Fold
+找到一些小的
+零件和零件
+然後我們可以
+最後建立新的
+新的潛力
+其實這和一些
+非常有關的寫作
+我們有一個特別的問題
+就是
+所有的潛力
+三分之四
+用了很多的潛力
+我記得在搜尋這些文章中
+有150個詞的文章
+AlphaFold在這裏
+我們做的工作沒有做
+我們做的所有事
+就是用了科技的技術
+讓學生們用來做
+很厲害的發展
+我只覺得
+我…
+我…
+我現在的Nobel是非常重要的
+現在我正在等待Nobel
+有誰用AlphaFold
+還有自己的創意
+找到的一個東西
+對,第二個Nobel
+是一個我沒想過的
+我认为其他人是
+人们发现了这些使用的方式
+我们没想到的会是真的
+所以他们会发现
+万万的方式的证据
+然后就看到哪个方式的光光
+所以我真的喜欢的方式
+有一个纸上的纸上的纸纸
+华人和华人的华人
+华人和华人的华人的华人
+他们一起联系
+他们认识的
+然后他们开始纸纸
+但是他们知道
+有一个纸上的纸纸
+那些東西沒有什麼意義
+那些兩種肺炎的肺炎
+那些肺炎在蛋上
+那些2000肺炎
+每一種肺炎都在肺炎的面上
+就只有一000肺肺炎的計算
+他們找到一個肺炎
+肺炎的肺炎在蛋上
+然後他們去到肺炎
+然後他們說
+把肺炎打出來
+肺炎和肺炎都會合作
+但不是開始肺炎
+他們會做動作
+在自己的地方
+它们会发现那些阻挡性的阻挡性
+所以它们现在认为
+这个东西没有理由
+它们没有理由哪些2000的
+在Alphafold说
+看看这一种
+那就是肯定的
+那就是肯定的重点
+我喜欢这个 notion
+我们不会做这个 with experiment
+你不会发现2000 labs
+做2000 structures
+看哪一种回来
+我们可以做新的类型
+因为我们的技术
+不错
+有任何不期待的使用程序
+好 这一种我真的可以说
+我可以说你一个不期待的强度
+然后一个不期待的强度
+所以不期待的强度
+是如果你拿个酪酪的酪酪
+你会做一个让它不稳定的事情
+一个很大的规定的条件
+是那些正常的酪酪酪
+不像酪酪酪的酪酪
+他们不像酪酪
+所以 肥皂填製是很小的
+充滿肥皂材質
+它不代表在中等 protein 中間
+如果用一個肥皂的 protein 進行
+在中等的 amino 物質
+對於肥皂蘇合成的
+AlphaFold 會不改善它的構造
+雖然這並不作為理想
+可以解釋一下
+但我們說 AlphaFold 是沒有非常濃稠的
+解釋的
+它正在回答不同的問題
+所以我們說
+它是有些未來的工作
+所以 有很多人做肥皂的設計
+我們用 AlphaFold to check their designs
+and say which ones does their design method work
+Does it produce sequences that AlphaFold thinks folded
+to the structure they were trying to make
+And I remember thinking that's probably not going to work
+because AlphaFold isn't mutation sensitive
+it doesn't have a sensitive enough understanding
+of the interactions
+but I was totally wrong about that
+and people found that it was actually really good
+when it came to design proteins
+and figuring out which ones might work
+one paper that came out
+在前幾個月後,AlphaFold說
+當我們設計股份的股份
+我們會有10股股份的增加
+如果我們只能讓AlphaFold的股份變成股份
+其實它變成了一個很大的
+股份的股份
+是一個障礙性的股份設計
+即使我們試試設計股份的股份系統
+我們有這個極端的設計股份
+現在,我認為
+我認為在20年代,每個人會有關新的健康方法
+會有利於一種用途的方法,用來解釋新的健康方法
+你認為如何?
+我覺得這很公平
+現在是一種新的健康方法
+我會說,這就是其他方法
+It is now a tool of modern biology
+I will say that there are other tools
+Every biological discovery today
+in some way benefits from DNA sequencing
+Right? DNA synthesis
+These are tools that underpin the kind of
+technology of modern biology
+And alpha foldis very certainly one of those
+That people think that
+人們會教學生,是一種普通的學校
+我們會學會如何做一些東西
+我會給大家看看如何使用 Alpha Fold
+因為你會用它在你的學習
+然後人們會把這些學習
+和學習的學習都加強
+那是一個很棒的部分
+在學習中的工作
+是你會有這個很大的 spread 效果
+不是只是...
+我覺得有時候
+是很棒的
+要成為醫生 要成為人
+非常清楚 而且非常清楚
+要做出正確的治療 讓人健康
+但我還愛這個想法 要成為研究者
+我可以建立一個圖案
+可以幫助百分百千人
+可以幫助百分百百人
+能夠健康在時間內
+這幫助進行科學
+我喜歡認為
+Alphafold maybe made structural biology
+which is one of the major fields of biology
+5%-10% faster
+Right, and that's extraordinary
+Is it a possibility that, you know, Alphafold lists
+it gives you a confidence score too
+not just a prediction
+can it be confidently incorrect?
+Yes
+So we
+a very simple analogy
+if
+如果天氣報告說有90% chance of rain 今天
+而不是 rain
+是錯的嗎
+有些人會說 yes
+但那是不正確的
+是錯的一次時間是10
+所以我們可以說
+Alphafold's confidence is calibrated
+所以我們可以說
+90% chance of being
+或者說是
+Average accuracy is 0.9
+在一個層次的層次
+叫LDDT
+所以如果我們的確定是0.9,
+那在 average it will be there,
+但是 some of them will be very bad,
+其實我們知道,
+有些很有趣的 failure mode
+有很高的確定,
+有時候是錯的,
+但更常常,
+例如,
+有兩種的 protein will have two structures,
+Alpha fold will produce one with high confidence,
+但它不會,
+但你真的要用另一個,
+所以,
+這確定的 more reflects,
+這個 structure makes sense
+有一個 state of the protein,
+但它不必要說是每個狀態的 protein
+或者是那一個你關心的
+好,我們來看看亮度
+我問你一個問題
+然後再回答一句
+哦,那是我的問題
+How did AlphaFold 2
+improve on the first one?
+我們做了一種機械學習的研究
+在製作的部分的 protein 和mL
+不只拿mL 從機械上升
+然後再製作的 protein
+AlphaFold 3
+我们并提出我们的性能性能性的组织
+然后我们也提出了这个建议
+组织
+组织
+它发展新技术
+更加能够发展更加能够使用
+短给在另一个意义中
