@@ -1,0 +1,1320 @@
+如果萁兔人一開始開晏
+回到2015和2016
+然後想趕快進入rush building chat gpt
+他們如何能夠做到
+還會發生什麼
+發生什麼得到
+還會發生什麼動作
+會不會有更多的
+那種動作
+會有更多的
+如果想進入chat gpt
+會有很多少的
+你可能也能做到
+我們看到
+一些事像蘿蔔gpt
+嗯,我 mean, like, sometimes it's easier to do, to do something with more compute, and but then by adding more clever tricks, you can do it with a less compute.
+嗯, I mean, also, I guess we could have scaled a lot faster.
+嗯, or it would have been possible to scale.
+如果我們知道會有什麼回合
+如果你想要做這件事的事
+如果你有做這件事的一種
+你可能可以做這件事的一種
+或是可以做一種大圖
+然後再做一種
+我們現在知道的事
+在上訓練
+你可以有很多
+你可以能夠更加增加
+更加努力在做後訓練
+所以,即使是GPD3的模式
+去建立一個很好的
+像是Vue Shot Prompted Chat模式
+如果你可以做很多的 fine tuning
+去建立 fine tuning dataset
+在一個更好的方式
+你可以建立一個
+更小的模式去做
+還不錯
+你覺得有多少人
+會有什麼需要
+還有你覺得可以做的
+還有多少GPUs
+如果我們想到中間的中間
+這張圖片是一人的圖片
+然後它寫了一張圖片
+那是一年半的時間
+所以那是一個更大的圖片
+這張圖片是H100的圖片
+我們也有寫了H100的圖片
+但是我們可以有聯合
+Increases suggested, there are a few GPU boxes.
+You could've gotten something that was ChatGBT 3.5 level
+Maybe back in 2018 or 2019 with a couple people
+I might be underestimating all the different parts of this stack
+but I think you could
+if you had a few talented people working for a year or so
+所以我認為你會有什麼
+其實這也有建議
+在 pre-training datasets
+和其他人的畫面上
+所以我並沒有想過
+這個能夠做到
+但我認為你可能
+會做到一些事
+2018年或2019年
+會有幾個人
+可以進入3.5級的GPD
+可能在未來
+會有更多的劇情
+然後會有Demo
+CHA-GBT是一個頁面
+它訓練整個東西
+然後用網絡來訓練整個東西
+然後在訓練一天
+OpenAI是一個最大的
+世界上最大的公司
+從市場的貿易
+以及科技公司
+或者是CAPEX的資金
+但是我覺得很容易
+失去知識的方式
+然後就像RAGTAG
+是一個公司的公司
+我真的感觉到有点想念
+因为我刚才说了
+我已经到了
+但是我也是很想念
+因为我的年纪是很小
+我跟他说了
+我已经到了
+我跟他说了
+我已经到了
+我已经到了
+我跟他说了
+我已经到了
+我已经到了
+我已经到了
+比较早前的设计,可能是一个学生的团体
+有些设计的设计
+是人们在做的,在他们的味道中
+人们在设计中
+有1、2、3人在设计中
+会发出一个文章或是一个 blog post
+所以我说第一两年开放的Ai
+有很多的味道
+我说的也有理解
+大专业的理解
+和理解可以放在一起
+可以跟历史学院
+我们可以更加的
+做专业
+和放在一起的
+大量的人在一起的
+所以我说的
+那点
+跟我们一段时间的理解
+我们也被深入深入的
+這條路是用高層的方式
+和有關的項目
+我們有這個建議
+但是我認為
+這間公司是一種
+小的研究項目
+和更大的項目
+讓我們想起
+把研究者和研究者
+和研究者都放在一起
+我認為
+不只是項目
+而是項目是成功的
+我認為
+很多項目的項目
+沒有去到任何地方
+或是正常的項目
+不想成為主項的主項
+或是碳化
+對 碳化
+但是我想說
+有些項目的大部分
+不應該是最成功的
+像是一個
+年輕項目的
+叫做《英雄》
+它們的想法是
+建立很多不同的
+藝術環境
+然後建立整個資料
+然後把他們放在一起
+如果你試圖了所有的遊戲
+你會用它們的通訊器
+你會用它們的通訊器
+那是很好的
+我們會用它們的通訊器
+用它們的通訊器
+用它們的通訊器
+其實我覺得
+我覺得這個問題是
+一個很正確的想法
+但也太早了
+可能一年太早
+而且有很多的
+在那段時間,我們還在失去
+但在那段時間,我們終於
+人們一起建造這個系統
+開始在做檢查
+但整個系統很無聊
+很壞,我們也有檢查
+我們在訓練模式
+從 scratch 開始
+這些模式並沒有
+將它整個整個整個
+所以我們終於
+成功
+我們終於
+開始要求
+用新的原始得 salmon versions of this
+I like I ended up
+leading the team working on
+reinforcement learning research
+for a few years and we were
+we were working on these
+collections of video game environments
+but we instead of trying to like
+just create this big data set of any like
+anything you could do in front of a computer
+we focused on
+像是在影片遊戲的類型
+那些都變成了
+更喜歡的工作
+所以
+那是一個不成熟的項目
+我認為有些其他項目
+例如
+在公司的結尾
+但也有用於
+長期的努力
+做大學的項目
+做研究的項目
+還有
+訓練很多人
+做這些工作
+你记得什么是最大的研究生物的团体
+在2020年代的开放中
+还是在这个情况下
+研究生物的团体是什么
+可能有一个特别的系统
+是在于
+很容易或非常难处理
+或有很多问题
+在时间里有研究生物的团体
+我猜有些大多数研究生物的团体
+like the robotics project and doda was probably the
+the earliest really successful like big project with a lot
+of compute.
+so yeah, these projects ended up having like being
+some combination of like system
+ML systems work where there is like some big code base
+and system that was built for it and then like
+a bunch of research on like RL
+and certain regime and the underlying engineering
+那些设计的设计是如何设计
+然后将它设计到
+设计上设计的设计
+或设计的设计
+对 还有什么
+对 设计的设计是如何设计
+设计到设计的设计
+设计到设计的设计
+然后会有设计系统
+就是从设计的设计
+但不完全设计的设计
+会有设计的设计
+like, large-scale roll-outs
+and like training in parallel
+maybe async RL
+and that sort of thing.
+How would you describe the ideal of the Perfect Research Manager,
+because it's this weird role
+where more and more big science is being done in ML.
+They're bigger and bigger teams working together
+and that requires more coordination.
+And the people that are being managed
+and need to work together
+I assume are like a,you know,
+是一個大量的個人性
+而且它是一個新的場地
+所以不太有太多人
+有技術特殊的人
+也想去進行行業
+你的經驗是
+什麼不做
+在職業的研究人員
+或職業的職業人員
+如何對那個行業的意見
+這是一個難題
+因為我看見
+人們有很多不同的方式
+和很成熟的方式
+而且我認為
+所以我覺得這個環境變得更改變
+所以可能是一個不停地的問題
+而這次的工作是7-8年不太正確的
+所以我看到一個模式
+你像一個小組一樣
+一個人在手上的充滿信息
+他在寫很多文章
+他在寫文章的文章中
+是給他們非常細節的技術和訊息
+我看到一些群組的更多的手工人
+就是幫助人們
+在做音樂的表演中
+給他們一種 career 類的領導
+以至於細節技術的方式
+保持人們開心和有趣
+讓人們做自己的事
+我认为这些模式的工作在不同地方
+如果你做更多的专业专业
+然后你和人们的经验
+做自己的专业专业
+我觉得会更加重要
+让人们做自己的事情
+而且有时候
+有人会发现
+有趣的事
+或者是有些東西有趣的東西
+但是如果你是更有目標的
+如果你是更有經驗的人
+或者是人們
+如果你是想要
+做更多的事情
+我覺得這會有更多的意義
+讓整個行政部的行政部
+更加努力
+給予更多技術
+請問
+terminology
+member of the technicalacing
+I assume
+opinion ib accomplished from Bell Labs
+actually was was like to talk
+to an early research executive
+at the rush
+and I asked him
+how inspired
+where you by
+passing examples
+of successful industrial research labs
+like maybe xero intrigue Bell Labs
+and I said not at all
+like
+that was that was night
+at least for him
+he didn't look
+to them for
+inspiration at all
+what were
+these institutions
+places that people
+我跟他講過嗎
+或是哪些群職人員
+從哪些人的想法中
+或是他們都想到的
+我想說
+有些人可能有在學校
+學校的想法中
+我們在練習中
+我們可能有更多
+從前幾個地方
+我們有工作過
+所以我們
+像我們很多人
+有些領導人
+學校的領導人
+像在學校工作
+在學校的心動或是深入的
+我想說那些
+我说过每个人都曾经在 Google 在一些时候工作
+所以我们可能会有很多
+我们有点受到影响
+他们的事情
+我说
+我记得一些讨论
+人们会说到
+《产生》的《产生》
+还有其他
+《产生》的《产生》的《产生》
+还有其他一些计划
+像这样
+但是我還記得是一個很大的努力
+去分析過去的最有效的學生
+然後開始建造他們的爭執
+然後我猜是
+大學、大學、大學、大學
+思考、思考、 Google
+可能有些東西
+怎麼去分析他們的分析
+還有什麼類型的問題
+是那些環境最適合解決的
+可能有些地方的建設性是
+Google是一個很棒的領導人
+但可能是歷史上有些慢動作
+有些地方的安全性
+我猜可能在想
+在其他環境上有些東西
+比較有品質的
+但有些東西你認為是
+可能有些東西你認為是
+有些東西你認為是
+有些東西你認為是
+有些東西你認為是
+是,那是一個挺大的問題
+很難說到這些不同地方
+也許他們都改變了時間
+可能,在AI vs. thinking machines
+其實我看到很多的相關性
+因為我認為,有很多的
+有幾種不同的東西
+在企業上,人們在做事
+我們仍然在創造
+husband
+the vision is going to sort of emerged out of
+seeing these different projects take shape
+it's also a different point in the history of the field
+the field is moving really fast now
+there are other companies that are moving quickly
+so there is some pressure to catch up
+to the current state of the art alongside
+新的東西我們想做
+在想想想的機器
+whereas
+在早前的開放AI
+遊戲的感覺是
+當然有深入的想法
+但不是像每個人
+在一些對比的
+對比的方式
+沒有一個很清楚的方式
+而可能有一個想法
+就是你想要
+調整成RL
+讓RL更好
+然後找出更好的建築品
+等等
+但是我對於大家來說
+沒有什麼想法
+所以在一些時候
+比較像是平時的時間
+在前一天的開放AI
+這有更多的努力
+而我認為
+很多公司開始的
+最近的更加
+比較有力的活動
+首先 要把這個社會的立場反映
+所以 我已經很清楚
+我肯定會嘗試 確保我們沒有
+在抓緊的模式上
+我們也會建立了
+很多的瘦身
+在做學習
+和新的構思
+不必在其中的主要路上
+讓其他的環境進入
+因為我覺得很容易
+如果你在 catch-up mode
+就很難建立那種
+學術學術的學術後
+在文化上
+建立正確的文化
+就很難建立後
+為什麼兩種等級的功能
+是在RL上的
+現在嗎
+對,我會說
+他們不太能夠幫助
+在設定上
+人們在現在做RL
+例如在做
+RL 人們的負責
+RL 在
+這些相關的獲得
+在短期內的時間
+其實
+我們不想說
+現在短期內的時間
+因為如果在計算
+10,000 萬的時間
+那是長期內的時間
+現在的目標是
+人們在做RL
+因此 價值的方式不太能幫助
+而且
+有點...
+有點難為何
+我會說
+價值的方式幫助很多
+價值的方式給你改變
+這是他們的主要
+所以你不必要有太多的改善
+在這個現實上的一種拘捕
+我認為你會有更多改善的改善
+在其他拘捕的其他拘捕
+人們會用來做RL的研究
+所以我沒有想過
+我會想到值得的功能
+會讓你回到某個場面
+你最擔心的是如何我們
+繼續學習
+你覺得Laura會繼續玩嗎
+對,我認為繼續學習的方式
+會有幾種不同的學習
+我認為有幾種不同的學習
+有種用於更多的心理學習
+有種用於 motor learning
+有種用於 episodic memory
+學習新的學習,例如 procedural memory
+我認為有種種的學習
+會有不同的學習
+我想在層面的行動中
+或層面的行動中
+繼續進行更好的
+和更長的層面的行動
+可以做更重要
+我想 Laura
+我想 Laura 會在層面
+或層面的行動中
+找到的程度
+在層面的行動中
+更好看的行動
+特別是那些需要很多的力量
+和很多的知識
+可能
+是很難說的
+你認為我們會需要想法
+在內地放一些東西
+然後有些
+絕對的計劃
+去解決這個問題
+我們想要把這些系統
+解決世界的問題
+我們想要他們學習新的東西
+在飛機上
+是很難說
+我們需要的
+因為
+如果我們繼續努力
+再令他們更好
+我們會繼續
+將所有的數據寄下
+我們會繼續改變
+所以我們可能會改變
+即使我們沒有改變任何的方式
+或是我們沒有做計劃的註意
+我們會將這些問題解決
+但也許有些新的想法
+會解決這些問題的更快
+並且會給你一個不同的計劃法
+讓你能夠有不同的
+能夠有更多的
+能夠有更多的
+能夠有更多的
+能夠有更多的
+能夠有更多的
+能夠有更多的
+你能夠用不同的方式
+用不同的方式
+所以我可以看到
+對,我可以看到
+其他方式
+給你更好的方式
+或更快的方式
+更有效率的
+繼續學習
+很難說
+什麼方式
+會最好用
+從訓練的方式
+但我會期待
+我會期待
+You have more, I would expect like in context learning
+to help in a very short horizon regime
+to be really hard to be over a short time horizon
+but I would expect Wade Uptase to win over a longer time horizon
+How worried are you about brutal generalization
+being a blocker to having general AI
+在大陸的工程中
+用了很多方式的方式
+例如
+我們會做好 pre-training work
+才能夠讓我們用到
+然後我們會用RL
+RL會用
+用到 domain 和 distribution
+我們會用RL 等
+所以我們會用到
+對
+我想
+很難說清楚
+然後就想想看他們的效果
+他們的效果跟人類的效果
+因為在學習的程度
+他們的效果跟人類的效果
+都可以有很好的效果
+但是好像
+一些訓練需要更多的資料
+像是否會讓人學習同一種東西
+所以我會說
+對,我會說
+有些方式
+在於模式比較有型的
+但很難給大家
+很清晰的概念
+我覺得是
+人們開始做更好的
+長時間計劃
+因為我們已經有提供過
+發展過80年來的時間
+所以我們有很多
+自行改變的技術
+我覺得人們不太適合
+自己改變他們的個案
+但他們還很順利
+如果給人家目標
+和意見
+去追求目標
+他們會很
+也会很贵贵地去做很多不同的事情
+所以我想说
+而且模特儿也会很贵贵地去做
+模特儿也会很贵贵地去做
+而且也会更贵贵地去做
+但是也会更贵贵地去做
+做更贵贵地去做
+所以这就是很难说的
+是否是一種時刻的風險
+而是否是時間時刻的模式
+將會增加
+像是在大陸
+或是否是
+這只是一些
+基本的遺憾
+或是否
+這會花很長時間
+去提升人際時刻
+而這其實是很難解決的
+因為如果我們在
+時間時刻的時刻
+當然會有時刻
+去測試
+去測試這個模式
+在世界上,變成更有名的
+合作模式
+所以可能你只會有一個
+整體的設計,或是有一個
+創作者,想解決LL的問題
+可能你會有一個
+合作模式,開始做一些
+合作模式
+你可能會有合作模式
+和創作者
+你覺得任何想法
+從2010年代的
+Gans,或任何老的想法
+忘記了
+合作模式的模式
+會是更有用的,或重要的
+或是我們應該
+從來沒有拿過的想法
+你不肯定嗎
+對 我覺得
+扣子訓練者 渦輪學生
+渦輪學生會有很多意義
+因為你可以
+在理論上
+你會有自己的自動改善
+因為如果你有一個模式
+就是做一個理念
+跟進行進行的學習
+是一種自行進行的
+你利用這個
+去提供學習的
+信號給進行進行的模式
+然後
+當模式進行進行進行的
+進行進行的進行進行的
+它也會變成一個更好的渦輪
+你會有一個比較有自然的環境
+所以我覺得這也有很多意義
+我認為
+我比較喜歡在一起的理想中
+例如多種類型的訓練
+或遊戲
+例如設定遊戲
+你會有 either 零元遊戲
+或多種類型的遊戲
+在於
+你能夠設定遊戲的位置
+所以  equivalence is something very interesting
+And like games give you a lot of
+Give you a lot of nice properties
+Like they give you an automatic curriculum
+Like because like the
+If you're a player in a game
+Like if you're playing against copies of yourself
+Your opponents are getting better at the same
+As you get better
+They're also sort of
+They're sort of theoretical CS
+為何要設定遊戲的設定
+遊戲應該是一個好意義
+這些構思在不同的教育中
+兩位遊戲的角色
+你會有一個兩名遊戲的評價
+和兩名遊戲的遊戲的相關相關
+所以用一個很便宜的
+一個很便宜的工作
+你能夠創造一個賺錢
+讓遊戲的相關相關
+可以解決一個很難的問題
+還有一些
+有關於這個理論的理論
+我认为这些计划的计划
+我觉得是非常强劳的
+我没有看到
+有些计划在这些计划里
+但我希望这些计划会更重要
+你会如何使用AI?
+我会使用AI用上很多计划
+我会使用Cursor很多
+和Claude Code 和其他计划
+我会使用很多
+Chat windows open with different models a lot
+and I ask them a lot of questions multiple times a day
+Like the types of questions you go to Wikipedia for
+or do you actually involve them in the research process at all?
+I definitely use models for research a lot
+I would say if I have an idea now
+I will just fire off a bunch of questions to GPD5 Pro
+and have it do a bunch of literature searches for me
+或者我甚至有個大想法
+我會寫一個文章
+然後告訴我
+要把文章翻出來
+我會說
+我會找到這個很方便
+對
+絕對是
+絕對是
+文化搜集的方式
+因為它要多久
+找到文化
+這方面
+而且這也增加了
+找封信的學校
+那種比較容易的學校
+我當然用很多模式
+找封信的學校
+找封信的學校
+有些是
+用來寫
+我也用來寫
+寫給我
+我經常
+做
+我自己的
+我自己的想法
+但我會常常
+用電話模式
+像是我的
+第一回合
+什麼是一天
+你的生活看起來
+像是你在做的研究
+我可以想像一些人會猜
+你
+要做自己的活動
+可能在工作
+在資料中
+跟朋友說話
+還有另一個
+世界的模式
+可能你是一個很短暫的工作人員
+你需要很多時間去走開
+和想辦法和想辦法
+但對於當地人的生活
+像是在做你的研究時
+你覺得怎樣?
+其實我喜歡在咖啡店買東西
+我喜歡在咖啡店買東西
+因為有些東西
+有些動作的活動
+我可以坐在咖啡店裡
+用手機去刷一些東西
+4 move distractions
+So, I definitely do some of that were
+When I'm in more of the idea formation phase of projects
+Or when I'm thinking more about what's the right thing to work on
+And then at a certain point
+It becomes about execution and at those times
+And, uh, like if.
+Uh, if we're in a project that's more in execution mode
+Um. I'll just
+I'll be spending more time either coding
+If I'm working on it myself or
+我花了很多時間在讀書、寫寫信息、寫信息,看著他們的信息和文字
+所以我花了很多時間在做資料詢,在那裡我只在看別人的工作
+你認為這個技術需要做效果的資料?
+2019年或2020年是一樣的,現在是一樣的
+您在2020年有什么关于举行的研究
+您有何更新的推进
+如果您觉得这些讯息有其他用途
+您想想
+您有什么想法
+您在研究中有什么新的选项
+您有什么想法
+您在研究中有什么新的选项
+您有什么想法
+您有什么想法
+您有什么想法
+您有什么想法
+您有什么想法
+您有什么想法
+您有什么想法
+我讀過很多書
+我認為所有的提議
+都會保持
+所以
+我會繼續把提議
+我會說
+對 什麼都會改變
+我會說
+其實我會說
+保留一堆紐坑
+可能會更更好用
+現在我們有LLAM
+我的層面是很重要的
+所以如果你想要有好點的
+給你提供
+你可能會
+給你提供
+紐坑給LLAM
+給你提供
+有些訊息
+對 我想說
+可能
+最大的改變我可以想到
+就是現在
+是很方便的
+想想如何把
+LMS進行進行
+我認為
+其實我沒有想到
+我沒有想到
+難以想到
+是最好的方法
+去進行你的研究
+除了那些
+在於將來進行你的研究
+而且是不太明顯的
+這點會是比較不一樣的
+在其他領域的研究中
+因為我認為
+每個線的構思都要有很多的價值
+還有每個線的構思都要有很多的價值
+而不是每個線的構思都要有很多的構思
+所以我認為
+這個類型的AI-assisted coding
+你只要有一個模式,寫一個大碼,寫整個碼,你可能會做得好,在其他 domain 中,你只要想要定義這個碼,寫一個模式,寫一個好像要定義這個碼,但我認為,在研究中,有很多資料,知道的,就是,就是,就是,什麼都在每個碼上寫的,我認為,那些人,他們做得最好,真的,有了這個意識,整個碼,
+就像那些大型的電池
+可能從2012年來
+但是感覺特別像
+2020年
+和大量的計劃
+很多的研究員
+都進入了ML的學生
+雖然是學生
+但
+請不斷的
+我認為
+這對大型的建議
+的價值
+已經是非常高的
+ML的故事
+ML 其實 其實 進行的進步
+已經很大 建造了更多的方式
+但是 進行這些進行的進步
+有幾個大意義 很多的細節
+讓他們工作
+然後 整個大堆的大堆的
+大堆的建築物
+但是 怎麼會你解釋
+經過 經過 經過 經過 經過 經過
+經過 經過 經過 經過
+經過 經過 經過
+經過 經過 經過
+經過 經過 經過
+經過 經過
+經過 經過
+經過 經過
+經過 經過
+經過 經過
+經過
+你必须想起
+洛杉磯的食物
+而且很难
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+去
+我认为
+如果您回到
+70s、80s、90s的文件
+我认为
+优点的方式是低的
+我认为
+优点的方式是低的
+我认为
+优点的方式是低的
+我认为
+优点的方式是低的
+做了很多不同的測試
+和不同的測試
+像在這幾天
+你可能會有一個RL的紙
+有些很聰明的設計
+和一個測試在拖延的測試
+那是非常有問題的
+這是一個測試
+很多的 math
+像是 mathematical
+的想法不是很成熟的
+我倒不太確定
+其實 the rate of idea generation
+has increased a lot
+and standards
+and the level of...
+actually quality has increased
+in certain ways
+as more people have entered the field.
+就是那些你的自然?
+那是我的自然
+and I also think
+there are a lot of problems with
+with the academic publishing system
+and reviewing and everything
+and it's definitely frustrating
+很多人都在這個系統中
+但是我認為
+我認為是不太好
+因為我認為
+這項目的確是
+有很多的
+有很多的目標
+人們在看事實上
+這項目的確是
+有很多的目標和問題
+所以我認為這項目
+是很好的方式
+所以
+即使你有很多問題
+還有很多的假實資料
+我覺得整個的領域都看似有進步
+其實, 再說
+你認為, 學生的發展系統
+跟內地的行動系統
+這些大公司
+以及他們的行動領域的行動系統
+你認為, 能夠把一千人
+學生的行動系統
+從一家公司的行動系統
+能夠把開放的行動系統
+傳送到開放的行動系統
+對, 那是很有趣的
+對,如果你看到當中的表現
+在一間大學的學校中
+我想說,它是更好
+在一些更壞的方式上
+更好在發展世界上
+我想說,它是更好
+在於有更高的明確度
+把實際的結論
+提到什麼是最好的學習
+我想說,人們有更好的方式
+這些學習更加重要
+在真實的情況下
+只要是在寫文章
+所以成績更好
+在寫明確的決定上
+我認為通常
+沒有人會花時間寫明文章
+在任何的細節中
+寫明文章的內容
+沒有人寫明文章的細節
+我说 即使是高度的学生
+从而提高的方式
+我说 其实
+设计的比较少
+在内容的授权上
+人们不会
+尝试新鲜的基础
+尝试新鲜的基础
+很多学生的基础
+有些基础
+而在某種方式上
+你不必相信結果的結果
+但至少
+最好的工作
+其實是挺有趣的
+而且有很多好基礎的
+相比
+所以
+我對整個說法
+有些
+對 網路上的細節
+是更多的細節
+在外面的世界
+還有更多的
+積極的
+但也沒有更多的精華
+我對整個說法
+對,會很棒
+我對這些學習的建議
+是很關心
+這些學校的進展
+去改善
+學習的文化
+去給大家寫
+給大家寫
+更多細節的學習
+那些
+進入學習的
+只要做
+最少需要
+找到食物的改善
+是一種挑戰
+因為公司的利益
+不太能夠
+建立一個好理論
+然後做真正的學習
+對
+怎麼有個角色進入
+從什麼東西看起來
+進入了
+2015、2016、2017
+當年人們
+比較少的
+嗯
+你 know
+more
+you know
+waris or better engineers like
+more creative
+um with
+sure difference in any way of like you know
+people attracted to doing this work back then
+to the set of people
+entering the field now
+I mean I'd say
+youter. yeah I'd say
+maybe people were a bit weirder back then
+because I think now
+it's sort of more obvious
+it's a yeah more obvious
+and like conventional wisdom that
+like
+AI是最重要的一件事
+所以會拆除很多人
+有更多的活動
+而有更多的危險
+所以
+我剛說過
+那些人比較奇怪
+現在有更多的
+9950
+just given the numbers
+I would say the bar has gotten higher
+Just because so many people are trying to get into the field
+and applying for all these roles
+I'd say probably like engineering skill matters
+就像在學習中的學習
+因為我認為現在
+計算的東西已經有很多的改善
+而且也有很多的流行
+從計算中的簡單想法
+並且正在保護他們
+我認為大家
+而且因為這個地區
+更加清潔
+所以你經常在
+你不像在寫了一堆的書
+從寫了《朱伯特之日》
+你已經在
+別人的寫字的書
+而且有很多的
+在別人的 Codebase 上
+還有很多好的
+資料建築
+所以
+因為你建立了很多別人的 Code
+還有很多別人的
+技術技術
+還有更多的方式
+你覺得
+RL 資料
+看起來很大
+在過去的幾年
+看起來有很多
+有很多的題目
+然後看起來
+其實已經很簡單,
+已經很接近一些構思,
+還有其他構思的構思,
+你認為有更多的資料,
+還有RL的資料?
+你認為
+RL的資料
+和數十多年來
+會很不同的?
+對,像你所說,
+有些構思都會變成
+一種新的,
+有些時候,
+他們變得太早上
+他們不早上來
+但後來他們回來了
+所以我預期會發生更多的事
+所以
+對於重要的想法
+我認為
+外交社會是個很有趣的想法
+和有趣的想法
+而是
+對於我們在LM
+至 some extent, what we're doing in the LLM world now is like
+sim to real or what in robotics they call sim to real
+where you build a bunch of simulated environments
+and you try to do you try to do URL on them at scale
+and then you try to have enough diversity
+that you'll generalize the real world
+and I think actually, I think sim to real is still yielding
+yielding good results in robotics
+The real has been a big group,
+I think it's a very effective technique.
+But there's a lot of value in learning from the real world.
+So, I expect to come back to the LM world
+and to figure out how to learn from real deployment.
+If some of the biggest AI labs did develop really powerful AI systems
+是一個很重要的方式
+去跟對方的關係
+以及其他世界上最重要的
+國際社會的社會
+他們會如何合作呢
+如果那些人
+會需要
+做好未來的事
+他們會如何合作呢
+我感覺他們的
+比較有信心的
+我想他們會有
+很重要的
+有一個重點是
+在領導的領導系統
+和領導系統的領導系統
+所以
+我可以看到他們
+還有一些
+領導系統的領導系統
+和安全的領導系統
+最近
+有些
+像是
+一些悲傷的
+有點悲傷的
+像是個性格
+但是,嗯,imo,
+yeah I could see it, um,
+I could see it working out if if um,
+if it became sort of more clear that this is the right thing to do.
+So with this being a time where technology is getting better fast,
+there's lots of talk about predictions of how fast the technology is going to get better.
+And in particular, lots of people talk about, you know,
+what's the estimate.
+When do they think agi is going to happen?
+就是這個問題
+我們很多人在說AGI
+或說一些像
+所有的知識在 computer 上
+是被人做成了 AI 而不是人
+還有
+一個方法
+我試過問這個
+是AGI 像
+一個大 複雜的
+研究研究的項目
+至少在我的個人體驗
+研究研究者
+在研究中的不同的做法,
+我相信会是比较小的
+和我所看到的
+非常具体的态度
+是他们将继续继续圣意
+比较早期继续继续
+例如,引用常用的 3x 方式
+在那里取得自己的项目
+对于实际上,
+当他们将继续继续圣意
+你認為這就是
+一個很重要的主題
+大家的AGI時間線
+他們會
+猜測到長遠的時間
+因為學生和工人
+會猜測到長遠的時間
+然後在你個人的經驗
+學生和工人
+你們有什麼好處
+在計算時期的時間線
+我相信
+有一個很大的擔心
+在計算時期的時間線
+可能是2或3x
+在這個情況下
+我想說
+在這個情況下
+用這個法律
+我覺得這個法律
+是很重要的
+想想
+AGI會更遠
+人們的時間線
+想想他們用
+他們的定義
+想想他們的玩法
+想想
+我們看到
+我們在看這個
+最有趣的問題
+是自行車輛
+我們看到這個
+長期沒有人想到
+去
+去採取自行車
+去採取自行車
+去採取自行車
+所以
+我覺得這是一個
+非常重要的方式
+我認為
+另一邊有這個 positive feedback loop
+自己的自己的發展
+也會有可能的解決
+所以我認為
+人們在合作的這個方式
+也有很短的時間內
+我認為這也是
+很強烈的一條理論
+所以我認為
+對,有很多的不確定
+如何解決
+人們的AI
+還有人們的理論
+還有人們的理解
+什麼的
+所以,對,我不會做一個非常確定的計劃
+所以你和想像中的Machine Releases Tinker
+什麼是它? 而是誰?
+Tinker是一個低級的訓練 API
+它給你一個小的設計
+低級的訓練和計劃
+讓你表達了
+像你所想的
+Post Training Algorithms
+You might want
+Well, not having to worry about
+Like GPUs or accelerators
+And not having to worry about
+Like a lot of like distributed
+Like Distributed Systems Issues
+You otherwise would
+So it's sort of trying to
+It's finding something that we think is like a good
+Layer to abstract away
+And building that as a service
+Like people don't usually use
+Service for ML training,
+Services that exist are much more high level.
+It's kind of novel in that it's a service that is around this lower level of primitive.
+The closest analogy would actually be sampling APIs that you can get for an OpenAI
+and AnthropaC, and so forth,
+where you don't have to spin up your own GPU Box to do sampling.
+你只做一個API的電話電話號碼
+從Python 或JavaScript 等等
+Tinker 讓你基本上寫了很多訓練的信息
+用一些Python的信息
+然後用那些信息來做
+不必擔心地去安裝一些東西
+在GPUs上
+你認為下一任的思考機器
+那些讀者會開始
+會在Tinker上建設
+對 希望很多公司
+會在Tinker上建設
+而不只在建設他們的資料
+建設了很高級的
+商業模式
+然後 要回答
+你問的問題
+我會說
+現在是人們
+很高級的
+在他們的知識
+他們
+我們想用這些低級的技術
+我們用Tinker的開放功能
+所以你不必要寫所有的訓練套路
+但我認為Tinker是最好的
+為大家看著細節的資料
+而去看這些細節的
+但我認為在時間內
+我們會令它更加的 user friendly
+而建立更多的技術
+和更高級的技術
+在Tinker上
+讓它變得更像
+你不用用它作為經驗
+你可以用你的意識
+你需要解決的問題
+或是你需要建立的模式
+然後我們會做這個模式
+然後我們會想要什麼
+在明年或明年
+所以你能做什麼
+你會看到一些東西
+在我們自己的模式上
+那是
+嗯
+sometime like next year
+and also tinker expect us to keep improving tinker
+to add a lot more models functionality like multimodal
+train like various kinds of multimodal input and output
+like really scale scaling up the sizes of
+jobs you can do with tinker
+thank you john it's been fun thanks for having me
