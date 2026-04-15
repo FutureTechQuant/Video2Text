@@ -1,0 +1,1563 @@
+Alright
+This is CS50
+And this is our lecture on artificial intelligence or AI
+Petitcally for all of those family members
+Who are here in the audience with us for the first time
+In fact, for those students among us
+Maybe a round of applause for all of the family members
+Who have come here today to join you
+Hi
+So nice to see everyone
+And as CS50 students already know
+It's sort of a thing in programming circles
+To have a rubber duck on your desk
+Indeed a few weeks back
+We gave one to all CS50 students
+and the motivation is to have someone something to talk to
+in the presence of a bug or mistake in your code
+or confusion you're having when it comes to solving some problem
+and the idea is that, in the absence of having a friend
+family member or TA of whom you can ask questions
+is to literally verbalize your confusion
+your question to this inanimate object on your desk
+and in that process of verbalizing your own confusion
+and explaining yourself quite often does that proverbial light bulb
+go off over your head and voila problem is solved
+now, as CS50 students also know
+We sort of virtualize that rubber duck over the past few years.
+And most recently in a form of this guy here.
+So in students programming environment within CS. 50
+A tool called Visual Studio code at the URL of CS50.dev
+They have a virtual rubber duck available available to them at all times and early on
+In the very first version of this rubber duck,
+It was a chat window that looked like this
+And if students had a question they could simply type into the chat window
+Something like I'm hoping you can help me solve a problem
+在多年内 这些数字的数字都被CS-50Duck 发出了一、二、三个缺乏
+我们有了一个评论 说这些数字是只能够回答学生的问题
+因为它是在那种状态中 把你发现
+啊 我做了什么严重的事
+然后你把自己的数字都发出了
+但是当然 现在我们在年轻时
+CHA-GBT、CLAWD、GEMINI 等其他AI-based tools
+可能没有意义的 当年在2023年
+这 bento y
+er
+and that now is the tol that they have available
+which is in effect meant to be a less helpful version
+of chatGPT 这就是继续输出了个比方
+one that doesn't just spoil answers outright
+but tries to guide them to solutions
+according to any good teacher or tutor
+and so today's lecture is indeed on just that
+and the underlying building blocks that make possible
+that there rubber duck in all of the AI
+with which we're all increasingley familiar
+namely generative artificial intelligence
+using this technology known as AI
+要发展一些东西
+例如是画面 声音 视频 或是评论
+其实我们想要让大家早前参加
+如果您想要探索一下手机
+您可以在这里探索一下QR Code
+这会引起您到一个拨拳场
+可以在这里发展一些答案
+我叫CS50的理事长
+Kelley 会帮我来这里
+为了转换手机
+我们将在这一场游戏
+看我们现在的人们是如何在实际上
+解决了AI的实现
+所以我们将在新加坡的新加坡
+新加坡的新加坡
+将在新加坡的新加坡
+而不是AI
+我们将看我们的技术
+如何在实现
+所以我们将有两张照片
+在一会儿
+您将会问您的手机
+如果您有评论过
+您的手机
+哪一张是AI
+左或右
+所以希望在你的手機上,如果你想先去 swiped to the next screen
+我們會把手機上的插頭會開啟
+在一刻你應該要在你的手機上看
+我會指示你,要選擇左或右
+你不需要看這個,但看起來有些回應
+在這個時候,看起來有70%多的回應
+你會覺得是答案在右邊
+如果Kellie可以 swiped back to the two photographs
+在这一种情况下
+是的 这一种情况下
+是在对方的
+可能它看起来太好了
+或者可能太不实际
+可能我们看一些其他例子
+所以同样的QR Code
+没有必要再查查
+我们先去拨这两个例子
+现在两个相片 同样的问题
+哪些是AI
+左或右
+左
+或右
+我们先看看线
+看出有什么方法
+有点近点
+但大部分人認為答案是在此外
+5%的觀眾是真的確定你不確定的
+但Kelley如果想再回到照片
+答案這次是一個問題
+他們都在Ai
+可能說話到這技術的好處
+已經有哪些顏色在現實世界
+它是訊息了很多訓練資料
+所以兩張照片看起來像人
+但並不存在
+再說一句
+這次在寫文章
+这会是我们的主题
+我们的主题
+是第四个词的
+或者是新的
+这两个最后两个词
+同样的词是之前
+所以不用再分析
+这就是词
+S.A.1
+我喜欢拿一碗酥酥和一碗冷水
+吃一碗饭
+有时候我会把一碗好吃的
+一碗果子
+或者一碗酥酥
+我们吃的时候
+我们聊天
+和一起聊天
+噠噠噠
+S.A.2
+我妈给我一碗饭
+一碗喝水和一碗草
+我会去吃饭
+我会找一个厉害的桌子
+坐在那里
+吃我的饭
+我的朋友们来说 坐下吧
+打打打
+最后的问题是 这些是AI
+1或2
+SA1或2
+这里的标准是在读的
+看起来大部分人说SA1
+我们回到词
+有一个人说SA1为何
+如果想要用一个简单
+为何SA1
+好 SA2看起来比你更像
+你会问什么阶段你会在
+5th grader
+所以是否是新的第五代
+或者不是
+答案在這裏的確是
+SA1是AI
+因為SA2是更加重視
+如果我再說第五代
+我應該說
+有些不太確定的標題
+不太確定第四代
+或第五代會被揭露在別人的天下
+在我們看的那些
+SA1
+但 suffice it to say
+這遊戲是不算我們可以玩的
+因為它會太難得到
+成為了A.I. 或非A.I. 而我們今天的目標
+是給大家一個更好的感覺
+並不只是我們在這些遊戲中
+玩的技術和文件和文章
+但也有什麼是
+我們正在進行的
+理想和技術
+正在進行的
+我們正在進行的
+數量和數量
+並在進行的
+數量和數量
+並在進行的
+數量和數量
+並在進行的
+數量和數量
+並在進行的
+數量和數量
+並在進行的
+數量和數量
+並在進行的
+數量和數量
+我们的质源
+可以使用来计算所有这些技术
+所以这家店的建设
+是建成了一个非常 complicated的建设
+有一个像这个
+这里有一个学生
+用了CS50的技术
+这里有一个网站
+with which CS50的学生
+叫CS50.AI
+我们的工作人员
+写了一堆词
+它其实提供到
+什么叫做APIs
+application, programming, interfaces
+第三派对的公司
+像Microsoft, and OpenAI
+他们真的做了
+很大的工作
+在发展这些模式
+以及一些水分的酱汁
+我们的CS50加进去
+来让杏仁的答案
+自己的CS50进行
+但我们已经做的
+是一件你可能知道的事情
+一部分是讨论训练
+就开始了
+比较好
+在每个网站里有网站的调查
+讨论训练真的
+不是那么多的训练
+而是一种问好问题
+在你的问题里
+给予内容的内容
+所以,CS-50的解释是
+最高可能性的
+是你回想的
+所以,這兩種詞語
+是在這個世界上
+有多麼的學生
+所以,CS-50
+將這兩種詞語
+都用來解釋
+我們,我們,我們
+寫了什麼叫做
+系統計劃
+這是我們人的教訓
+通常在英文中
+我們是用來
+拋棄
+技術的內容
+來有一個
+個人性
+或是一個
+經營的特點
+我們,CS-50
+是用來寫
+系統計劃
+基本上,這樣看起來
+其實,很多文章
+today's but the essence of it is this
+you are a friendly and supportive teaching assistant for cs50
+you are also a rubber duck
+and that is sufficient to turn an A.I. into a rubber duck it turns out
+answer student questions only about CS50
+in the field of computer science
+do not answer questions about unrelated topics
+do not provide full answers to problem sets
+as this would violate academic honesty
+answer this question colon
+and after that preamble
+if you will aka system prompt
+we effectively copy paste whatever question a student has typed in
+否则是用作评论
+这就是为什么
+狗属在我们的情况下
+像是狗属,不是狗属
+或是狗属
+但比较是一件
+在评论中的
+输入的目标
+而这些人
+在50年代的学生
+可能会记得
+从前几天
+和前几天的0月
+我们第一次
+介绍了学生
+我们有评论
+我们那天的评论
+最后看起来
+有点像这个
+我会走过来
+会取得税策到硕士
+但是现在,在住所设计的一些
+铺材谷谷的Python
+还有连锁没编织过的
+小课
+在课完成中,我们用这段课
+提供了开智公公公公的
+清厉封网
+联系搜集饮搜集
+如果我们有办法
+它们会在大家的公司里
+用这些公司来做
+解解解解解解解解解
+像我们这录
+我们有研究
+我们在周六发生了一个评论
+用了认识的评论
+用了认识的认识
+现在的50学生都很 familiar
+我们再次发生了一种认识
+在那天我说
+限定你的答案
+一句词
+想要你
+导致你
+我觉得是个人的日子
+然后我们再用一些
+更多的计划
+但是我们在实际上
+发生了一个叫做
+责任的责任
+这就是责任的责任
+从开放AI的官网
+我们利用
+客人责任的责任
+是一个计划
+或是一个计划
+开放AI的责任
+这些计划的方式让我们去到三个方式
+是计划的计划的计划
+是计划的计划的计划的计划
+是计划的计划的计划的计划
+是计划的计划的计划的计划的计划
+是计划的计划的计划的计划
+最后我们做的那一天
+是选择了帮助的
+帮助.output.output.txt
+这就是我们能够回答的问题
+像是什么是CS50
+还是什么
+我们之前都看过了
+但我们没有说过
+那一天
+我们只能说到
+或者 out是 about more we could actually do with it
+and so in fact what I thought we do today
+is peel back a layer that we've not allowed into the course up until now
+and indeed you still cannot use this feature
+intill the very end of the class in CS50
+when you get to your final projects
+at which point you are welcome and encourage
+to use VS code in this particular way
+so here again is VS code for those unfamiliar
+this is the programming environment we used here with students
+and let me open up some code
+that was assigned to students a couple of weeks back
+namely a spellchecker
+它们要在C里进行
+所以我从前来就用了一个叫做
+输入的设计
+在这个设计里
+我用了一个设计
+所有的学生在那一天
+叫做
+设计.C
+在这个设计中
+这些设计不像很多人看过
+如果我们从7-7月到现在
+我们有些设计的地方
+我们有些设计的地方
+所以在长期之内
+学生需要回答几个问题
+就是写出设计
+这个要做这个要做这个要做这个要做
+还有一个
+有四个功能
+或者是免费
+学生需要写出设计
+我竟然說 開放了五、十、五、十多個學生
+在那種很大一段時間內 讓我現在給大家看看
+如何使用AI
+你 將來的學生可以開始寫寫寫文章
+更快的 並不是用不同的語言
+而是用這些AI最好的技術  beyond the Duck itself
+所以我現在在右邊的VS Code
+是 enabled a feature that CS50 disables for all students
+from the start of the course called copilot
+this is very similar in spirit to products from Google
+and Anthropic and other companies as well
+but this is the one that comes from Microsoft
+and in turn GitHub here
+and it too gives us a chat window here
+and this is just one of its features
+for instance if I wanted to implement
+to get started the check function
+I could just ask it to do that
+implement the check function
+and how about using a hash table in C
+I'm going to go ahead and click enter now it's gonna work
+It's using as reference
+That is context
+the very file that I've opened
+which is dictionary.c here
+copilot in general
+as well as a lot of a I tools
+we're familiar with CS50 itself
+Because it's been freely available
+as open courseware for years
+what you see here doing
+is essentially thinking
+that's a bit of an overstatement
+it's not really thinking
+it's trying to find patterns
+在我自己的問題中
+在所有的訓練資料中
+在之前所見的
+並且與一個頗為好的答案來源
+所以為了今天的目標
+我會把我的手擺在
+寫寫的GPT的解釋
+做出的方式
+但在這裡看的是
+最有趣的一條
+如果我現在擺下
+是在綠色的
+是所有的指示策略
+在這條檢查的方式
+λοbel and cure check function.
+Now it might not be the way you implemented it yourself,
+but I do dare say this has hints of exactly what you probably did when it came to implementing a hash table.
+And in fact, I can go ahead and keep all of this code if I like how it looks.
+Let's assume it's all correct there.
+It might be the case that I want to now implement the load function.
+So how about now implement load function, enter as simple as that.
+And what data is being used?
+Well, few different things.
+它说的是一条文件,所以它确实使用这一条文件
+但是,也有些是调查的证明
+因为所有的学生都很 familiar
+这些 达达 颜色 和 颜色 所给的英文
+是 结果 这些 方式 应该 做的
+有些是 发言 这些 认识的 方式
+不然 这些 认识的 方式 所 能 成 成
+这些 认识的 方式 所 能 成
+所以 这些 认识的 方式 所 能 成 成
+这些 认识的 方式 所 能 成 成
+它 这些 认识的 方式 所 能 成 成
+而是很像一个好T.A. 或是一个好软件的研究
+这就是处理到如何把这些软件的软件搜集
+所以在这里如果我现在转过来
+我们会看到一些提示评论
+通过它可以解决那一种问题
+也就是搜集功能
+我竟然说过
+我已经在讨论了几分钟
+才看到50学生
+在这里的问题中
+正在调整解决的方式
+来到这一种问题
+所以我会把手指打开
+我会想到是对的
+但那是一大筆的想法
+那些人會問
+為什麼我們在學習
+如果我可以問英文
+做我的工作
+我會說
+因為你希望你會覺得
+你已經在學習了
+過去幾個星期
+但如果你有個眼睛
+看著你
+你不會有辦法
+在這裡討論
+告訴別人
+發生什麼大小的事情
+但還要說
+有些人像我
+所有的工作人員
+朋友們和工人
+這類的功能和 AI
+I amplify your capabilities as a programmer overnight
+once you have that vocabulary, that muscle memory for doing it yourself
+The AI can just take it from there and get rid of all of the tedium
+Allow you to focus at the whiteboard with the other humans
+on the overarching problems that you wanna solve
+and leave it to this AI to actually solve problems for you
+a fun exercise too might be to go back at Terms-N
+and try solving any number of the course's assignments
+for instance let me go ahead and do this
+在我的电脑里面 我会回到主记者的主席
+我会建立一个空的设计叫 mario.c
+它有什么没有的
+我会在我的电脑里面在说
+请认为
+设计在C里面
+使用了C的指示器
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+使用了SIMBLES
+I dare say that's essentially the English description of what was for CS50 this year
+Problem set one to implement a program called mario.c
+This two is sort of doing its thing
+It's using one reference, it's working
+It knows as a hint that this file is called mario.c
+And it's seen a lot of those in it's training data over time
+There's an English explanation of what I should do
+And those CS50 students in the room
+Probably recognize the sort of basic structure here
+Of using a do while loop to prompt the user for a height
+Using the CS50 library, but it's not a problem
+I'm just trying to explain it
+CS-50 library which has been included
+print a lefto line pyramid
+using some kind of loop
+and boom we are done
+and these are fairly bite-sized problems
+as you'll see as you get to terms end
+with your final project
+which is a fairly open-ended opportunity
+to apply your newfound knowledge and savvy
+with programming itself to a problem of interest
+it will allow you to implement far grander projects
+far greater projects than has been possible to date
+certainly in just a few weeks we have to do it
+因為你的自己的能量
+所以在這段期間
+我們來談談
+如何這件事能在任何的情況下做到
+我已經整整整地發展了很多東西
+這就是我們開始的故事
+和整整地發展了的那些照片
+和那些兩種小孩的圖案
+但到底是甚麼是創意
+還是真的
+是甚麼是AI
+這些是一些
+有關的建築物
+不在任何地方
+任何時間
+並且有帶來
+我們有進入
+能力的進展
+所以在Gmail
+或者是外表的硬碟
+很多的硬碟就在一个字上结束
+如果没有一些人在 Microsoft 或 Google 里
+在调整的评论
+如果他们来自于硬碟或不硬碟
+他们在用评论
+现在用 AI
+那样看起来硬碟
+所以我会把硬碟放在硬碟的字上
+这可能是99%的时间
+但确实有可能的练习
+其他项目可以是
+手写设计
+当然 Microsoft 和 Google
+不许认识手写的方式
+我们在这里
+但是它已经被认识到
+其他人的手写的方式
+那些手写的方式
+看起来像一个人的
+所以在很高的可能性
+他们可以认识
+像Hello World 这种
+那样的许多文章
+我们现在都在连续
+上连续上连续的
+像Netflix 这种
+他们会很丰富
+如果我看X
+我会也喜欢Y
+Y?
+因为其他东西
+我之前看过
+可能是上升或下降
+可能是因為其他東西
+人們看過的
+像類似的電視劇或電視劇
+所以這也是A.I.
+如果要求
+如果要求的建設
+每部電視劇或電視劇
+在他們的資料中
+都會比較為 organically
+極為大眾的
+你們和我會喜歡的
+然後還有這些聲音師
+Siri, Alexa, Google Assistant
+還有其他
+別認識你的聲音
+不必要知道
+什麼問題你會問
+如果要求
+有所有的問題在世界上
+只要等待你和我問問
+這兩者當然是極端地發展的
+但這就有點讓我們感到不太好
+我們來看回時間
+有些朋友們在觀看中
+可能會在這年遊戲中
+在世界第一次的 arcade games 中
+名叫 Pong
+這就是黑和白遊戲
+在其中有兩位玩家
+一隻爬著右邊
+一隻爬著右邊
+然後用某種類型的
+玩家或是 track 球
+他們可以把爬著上下下
+而目的是把球放在前方
+然後 ideally 把球抓起來
+不然你会失去一个点
+这只是一个转换
+所以没有什么很专业的看法
+只要15分之12
+再次选择
+再次选择
+没有什么有趣的事情
+但这是一个很好的例子
+一个游戏
+自己的解决成为一个解决的游戏
+而且已经在我们的组织中
+在玩 against
+不仅是 computer
+但 CPU
+组织中的重要设计
+或是 AI
+而且 AI 没有必要
+在我们现在的图案里
+是一种很大的进步
+例如,這裡有一個成員名為Bright out
+類似於Spirit,但有一個打架和一個球
+而目標是把球放在這些顏色的骨頭上
+然後你會有更多的點數
+depending on how high up you can get the ball
+我們人們,即使我們沒有玩過這個年輕遊戲
+可能會有一個信任
+說我們應該把打架移到哪個角度
+哪個角度應該移到哪個角度
+我們應該移到右邊
+那一定會被抓到
+所以你和我只是做了一個決定
+那是一個不太確定的決定
+但我們已經被打架了
+但是我们可以把整个游戏的玩法
+并开始调整它
+或者说明它有点比较具体的方式
+步步步
+其实确实是决定的
+是经济、策略、计划、计划
+这也是一个方式
+可以在这种方式上
+做好这一游戏
+如果你只要追求这个方式
+所以我们可以如何去进行
+调整
+或者决定的方式
+像是打开
+你先问一下
+是谁的球到左手
+如果如此 你知道我们正在游走的时候
+你必须要先动到铺铺
+但如果你的答案是没有
+其实你不只要转彎左转铺
+可能是对的
+你应该怎么问
+你会在铺铺地上
+如果铺铺在你身边
+你不想往下走
+所以你会问
+有一个问题
+是铺铺在对的铺铺
+这个是一个有关系的问题
+如果是
+那行 动在右下
+但如果不是的话
+你应该要站在位置
+不过你不要动铺铺
+好 那不算太明确
+所以将来是遊玩或者主ّ神照项 they'll be the best
+you will and we can map it to code using pseudo code
+in saa thusangers desafaction. We can say in a loop
+while the game is on going. If the balls to the left of the paddle
+then move the paddle left
+Elts if the balls to the right of the paddle
+sorry for the typo there
+move the paddle right
+Elts is just well move the paddle
+So these decision trees as we drew
+have a perfect mapping to code
+or sudo code in this particular case
+肯定是用了它来调整
+它是这样的方式
+但有没有什么像TikTok Toe
+有些人可能会把你放在里面
+在这些线上
+有什么你可能会有
+这里有一个TikTok Toe
+2O和2X
+這遊戲TikTok Toe
+也許是Knight's and Cross
+是一個回復
+X和O是2人之間的
+而目的是3O或3X
+無論是直或直
+還是在中間
+我們來看
+可以解決TikTok Toe
+像一個電腦
+可以問自己
+可以3個Row在這段時間
+如果對
+可以玩3個Row
+是那種方式
+如果不可以的話
+你應該要問
+我的對手可以三個個的
+在他們的下一個 turn
+因為如果這樣
+你應該要把他們的動作也封鎖一下
+所以你現在就不會失敗了
+但是這個遊戲
+Tic Tac Toe 比較簡單
+就是
+有點難玩
+當不明顯地
+你應該去哪兒
+現在我們人們
+如果你玩這個遊戲
+你應該會有
+你喜歡的中方
+你喜歡的上方
+或者什麼的
+所以我們應該可以
+把我們的下一個動作做得快
+但是是否正常?
+我敢說,如果在年輕時期
+或是最近,你曾經失敗一場TikTokToe
+你只是在TikTokToe失敗
+因為,有些人的理由是
+你應該每次失敗一場TikTokToe
+如果你正常地玩TikTokToe
+最壞的是你應該用一枚架
+但最好是你贏了一場TikTokToe
+所以,當你 next time
+你會玩TikTokToe and lose
+你會做錯了
+但是,在你的防守
+因為你的問題
+是不明顯的
+我如何回答你
+当答案不在我面前
+要移动或移动
+一种方法你可能使用的这些年
+是叫做minimax
+而名字是说
+要选择一些东西
+或者选择一些其他东西
+来吧 让我们把游戏
+转变成一些码
+但是比较简单的码
+这里有三个
+TikTokTokToe 桌
+O 这里有1
+X 这里有1
+中央有1
+不关我们的方法
+我们需要一个系统
+所以我會提出
+任何0贏, 勝率是-1
+任何X贏, 勝率是-1
+任何沒有人贏, 勝率是0
+所以在這點, 每個盤子都有這些值
+-1, 0, 1
+所以, 目標因此
+TikTokTownAO的遊戲是為X 減少勝率
+因為1是最大的值
+而O 目標是減少勝率
+所以我們要把遊戲的玩法拿出來
+就把它放入码, where one player just wants to maximize
+one player just wants to minimize their score
+all right, so quick sanity check here
+here's a board, it's not color coded
+what is the value of this board?
+one because x has in fact one straight there down the middle
+so x is one, zero is negative one, otherwise a tie
+so now let's see how we go about with those principles in place
+figuring out where we should play and take tacto
+现在我们有一个非常简单的设计
+只有两个动作在 left
+不容易想想到如何赢 或是赢这个游戏
+但我们来用它为一个简单
+是O's turn 为了一个时刻
+所以哪里可以O go
+那是一个问题
+为何我们能选择O的方法
+或者是如何选择O的方法
+为O 来赢
+O可以选择在两个地方
+上右或下右
+哪里可以O go
+如果O在上右
+我们应该认为
+这个上右的方法是什么
+是否是小的
+我们来看
+如果O 要到这里,X 当然要到这里
+X 会在这里赢得,所以这个阶段的价值是 1
+现在,因为只有一个方法的方式
+可以从这个方式到这个方式
+我们可能会叫这个阶段的价值
+是 1 尽管O 可能不想去这里
+因为这就是一个最高的价值
+O 想要准备
+如果O 到下方
+那X 要到最高阶段
+现在没有人能够去
+所以这个阶段的价值是 0
+我们可能会说
+这个是0 因为它是唯一的方法
+所以现在O 更加研究和计划
+可以决定 我想要一个结构
+或者一个结构
+0 可能是最好的方法
+因为它是比1 而它是最少的机会
+所以O 可能要在下方的中间
+和最少打开一条线
+所以这是我们看到的明确
+如果人们在失去TikTok
+你没有跟他们的计划
+但你可能可以做到
+如果有两个动作
+但并且…)
+我们先去重新维持三种目标
+这里有三种篮板
+有点过意
+并且瞬间持的大幅度
+越来越大
+这些像是幼稚圈系的
+幼稚圈系的分音越来越大
+并且大幅度的
+那基本来说
+如果一直和你变成一个大小 但你的视角
+在你的头上 假如我如果每分八
+就可以不会临下
+所有架枝和角色
+在整个角色玩得比较合理
+你先去受化
+你的 instax 可能不一定是合理的
+用一个方法来试试
+MiniMax 会 ideally 赢得赢得赢得赢得赢
+但最后会让你用一台
+如果你不能赢
+但 tic-tac-toe 没那么难
+我认为 这些方式是 用 tic-tac-toe 的方式
+我们可以写一条 许多 tic-tac-toe 的许多 tic-tac-toe 适合
+我们可以用这样的方式 如果 每个 tic-tac-toe 的方式
+用 x 每个 tic-tac-toe 的方式
+调整 当时的 tic-tac-toe 的方式
+然后 选择 tic-tac-toe 的方式
+所以你只要試試所有的機會
+然後你會決定
+我們很多人的頭都不在意
+但我們可以
+否則如果是玩手
+基本上你會選擇同樣的
+但選擇最少的可能的機會
+所以這就是技術
+來進行TikTakToe
+有多少方法可以玩TikTakToe
+255168
+這也就是說如果我們要把那棵樹抓起來
+它會很大大大
+而且會花你時間
+去想過所有的機會
+所以在你的防守
+你可能不太會玩TikTakToe
+只是會更難以為是遊戲
+但我们的年轻人会更清楚
+什么是《吹牛》的游戏
+是经常使用的游戏
+像是哪个更好的游戏
+比如是网站 玩给它
+或者其他其他
+如果我们认为
+就是第一四个动作的《TikTok Toe》
+我认为
+黑和白的动作
+然后它们每次都会玩三次
+所以四个动作
+有多少不同的方式
+可以玩《吹牛》
+就像85亿
+只要游戏开始
+那是很多的決定要考慮的
+如何讓遊戲有多有名
+考慮一下
+266 萬的機會
+這就是我們人類的
+我們用我們的新的PCs 、Macs 和手機
+要把手機放在手上
+因為我沒有這幾個記憶體在我的手機上
+我沒有這幾個小時在我的生活上
+去掛在這些數字上
+去解決這個問題
+所以
+A.I.C.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I.E.I comes in is where it's no longer a simple is just writing if else is in loops
+and no longer as simple is just trying all possibilities, you instead need to write code
+that doesn't solve the problem directly, but in some sense indirectly.
+You write code so that the computer figures out how to win
+perhaps by showing it configuration of the board that are a good place to be in
+that is promising, and maybe showing it boards that it doesn't want to find itself in the configuration of
+because that's going to lead it to lose.
+不仅需要提供它的设计 但实际上不该用作太多
+这就像我们在现场设计中说的样子
+转发code 如何解决责任设计制动
+通常是使用设计瑞兰的方案
+而这个方案是以所谓的方式
+把意思招建成对方的设计
+设计作业务和人工的设计方式
+是用作想设计的方式
+因此我们设计人工是一个
+设计设设计 是一种设计方式
+all of the time
+in fact
+a fun demonstration to watch here involves these here pancakes
+so in fact let me go ahead and pull up
+a short recording here of an actual researcher in a lab
+who's trying to teach a robot how to flip pancakes
+so we'll see here in this video
+that there's a robot has a arm
+that can go up down left right
+this of course is the human
+the researcher
+and he's just gonna show the robot one or more times
+like how to flip a pancake
+and crosses his fingers
+and okay seems to have done it well
+又不是相同的
+但是挺好
+现在他就让机器
+就想想想看
+如何把那个盘子翻过来
+就要把机器翻过来
+几个不同的时间
+第一几个时间
+机器不太会做得很好
+因为它真的不明白
+什么人刚刚做的
+或者什么整个的原因
+但是
+这里是最重要的
+重新训练
+在后面的部分
+机器可能是
+会让机器更加赢得
+做得好
+比较好
+比较赢得
+像是把鍵盤打開給你
+再給你一個點
+例如是給你
+在一塊雞蛋的數量
+或是每次
+把手機鋪上來
+然後把鍵盤擦掉
+往下倒
+一個拔刀的手指
+把膝蓋擦成一個
+刺激
+所以它會
+較少的行動
+在下一段時間
+還有其他父親
+也就是今天
+很多人
+一個人
+就像這個
+或者是這個
+或者是這個
+或是這個
+或是一個人
+有你可能有
+在某些時候
+有你未來的孩子
+再做一次
+再做一次
+只是一个 quantization of the movements x, y, z 和 z 组合
+所以能做更多的 x 和 y 和 z 组合
+让它有什么样的奖励
+现在到50 条件
+它们的方式都会越来越好
+像一个好人
+我们看看能不能做到这个
+不太能够使我自己
+可以把这些东西翻过来
+那还挺好
+还挺好
+我已经做了这一段时间
+好
+所以
+我们现在看了
+我们可以如何能够
+在那種遊戲中,我們來舉個例子
+讓大家知道有哪些遊戲
+有哪些遊戲 哪些遊戲
+有哪些遊戲 哪些遊戲 哪些遊戲
+你需要去看 右邊
+可能你正在進入遊戲的角色
+所以,這裡是遊戲的遊戲
+在黃色的角色
+這裡,例如,在綠色的角色
+是遊戲的角色
+你需要去到那點
+而可能在這個世界
+有很多類似的屁股
+你不想要進入屁股
+因為你會失去一個命
+或失去一個點
+或是一些判斷或判斷
+跟那些
+我們,在這隻生物的眼睛
+可以看到怎麼做到
+綠色的角色
+但是如果你在玩
+像是Zelda或什麼的
+可以做到
+上下右邊的動作
+以為是希望最好
+所以我們只要做這個
+我們要把綠色的角色
+random 選擇這一個方式
+然後往右邊
+現在我們可以把
+一個人的命運
+一個人的命運
+或是無論如何
+判斷它
+讓它知道
+不要做這個
+只要玩到
+有些人的記憶
+也許是人的玩家
+或是這個儘管
+就像是黑色的線,那是不要再做那一點
+因為那不可以令到好處
+所以可能是 next time the yellow dot 走這一點
+然後 啊! 他們沒有意識到
+那是其實是同一個招式,但那是好
+用了一點點 more memory
+然後 別再做那一點
+因為我只在這段時間中 失去了一段時間
+然後 可能會走這一點
+下次 啊! 現在我需要記住
+別再做那一點
+但 因此我正在被判斷的做錯事
+或者 等於 會看到 會看到
+是要做更多的 成功的事情
+就算是有可能的
+我终于能让我进入这个方式
+所以我能得到100分的赢点
+还是什么的
+所以现在这些绿色的方式
+我能再次跟随着这种方式
+再次跟随着
+我可以经常赢这个游戏
+像我现在
+30年之内
+玩超級组织
+因为我能到各地的游戏
+因为我知道每个地方
+因为有时候我会还在我脑袋里
+这是最好的方式
+我能跟超级组织
+在我想象中
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+你还在想什么?
+我選擇了一道菜式
+但我真的喜歡
+我不會再再選擇其他菜式
+但我會選擇更好的菜式
+但我不會再去探索
+因為我已經很想做的
+像你一樣的笑容
+但如果我們找到
+我們在探索的部分
+我們會想探索
+我們在探索的部分
+我們會想探索
+我們會想探索
+我們會想探索
+我們會想探索
+Warring v. Exploiting when it comes to using artificial intelligence to solve problems
+Up until now I've just been exploiting knowledge I already have
+Don't go through the red walls, do go through the green walls
+Exploit, exploit, exploit, and I will get to a final solution
+But what if I just sprinkle in a little bit of randomness along the way
+And maybe ten percent of the time as represented by this epsilon variable
+I as the computer in the story generate a random number between zero and one
+And if it's less than that percent, which is going to happen ten percent of the time
+我会做一个计算动作
+而不是一个我认为会比较接近的
+不然的话我会把动作的高度提高
+这次不会必须赢得我第一次
+但如果我足够玩了
+然后发展一些计算动作
+我会很快会找到一个更好的方法
+所以会是一个更好的球员
+一个更好的赢者
+如果我只10%的时间
+把其他东西买到的菜单
+我会找到一个很棒的菜单
+不然的话我会找不到
+所以,在这种方式
+我们可以终于找到更好的方式
+就像在短期之下
+因此我们继续增加我们的数据
+更好地做更好的
+我们可以在同一技术中
+展示更好的技术
+所以我们可以看到
+尤其是在游戏中
+尤其是在写一个方法
+来玩这个游戏
+让我再来一个视频
+录像一个游戏中
+而这个游戏
+是在发展的
+可能比你或者我
+能更加能够玩这个游戏
+就像是Pancake flipping robot
+有些動作的感覺
+還有一些優點和優點的感覺
+所以現在的爬斗在做一些 random stuff
+它還不知道要怎麼玩
+但是它發現
+在200 個影片後
+它說 如果我打到球
+然後它會下降
+如果我失敗
+然後它還會有點複雜
+它不太明白
+它應該要怎麼做
+但是如果你再次進行
+再次進行
+再次進行
+再次進行
+再次進行
+再次進行
+再次進行
+再重复它 再重复它 再重复它
+再重复它 再重复它 再重复它
+你会看它开始相當的好
+又接近了好人的好人
+但现在是完全选择的
+如果你想把它的者可以在旅行循例下
+那 if you 和我
+如果你想要人合作的
+你可能会找到一个关系
+我可以说
+AI 将于伤害得分
+但如果你的手对高上出来
+你能让这个游戏
+平衡自己的表情
+你自己的技巧 把你掌握得更好
+我自己的技巧 也很不太好
+我自己的技巧 也很不太好
+但我自己的技巧 也很不太好
+但我自己的技巧 也很不太好
+但我自己的技巧 也很不太好
+但我自己的技巧 也很不太好
+所以那次你會有機會
+做一個打算
+把這個技巧 讓你做更多的工作
+讓你做一個打算
+而不是
+那是什麼
+在這個世界的AI
+在機器學習的 context
+那些是特别的学习
+那些是超级的
+我们已经用了这些学习
+其实我们的第一个例子是
+Spam 早前一定是超级的
+为什么 因为我和你
+在这天的评论中
+把电脑打开了
+可能是今天
+我打开了电脑的短缩和电脑
+说 这就是Spam
+你应该打开了
+那是在调整Google的方式
+想象是不只是小年轻的
+但是可能是千万人
+在调整那些评论中
+是Spam
+那是超级的学习
+还有一个人在调整
+在用它做一些什麼的
+所以 spam detection might be one of those
+但是在那種方式的負責性
+在那種方式的負責性
+它不只是很高的
+那會是有人在Google
+或是 Microsoft
+在每個電郵中
+或是有人在Netflix
+做的那些
+在所有的影片中
+它是很便宜的
+在於人的力量
+而且它有一定的問題
+因為有這麼多資料
+它只是不太實際的
+因為人們都擁有
+很多的資料
+很多的資料
+我們要進行
+一個不可預計的模式
+所以這就是
+世界開始要考慮深學
+solving problems using code
+whereby you don't even have humans in the loop
+in quite the same way
+and neural networks inspired by the world of biology
+are sort of the inspiration for what is the state of the art
+even underlying today's rubber duck
+and more generally these things called large language models
+like chat, gpt and the like
+so here pictured somewhat abstractly is a neuron
+and it's something in the human body
+that transmits a signal
+say from left to right electrically
+and if you have multiple neurons
+you can intercommunicate among them
+so that if I think a thought
+那我会知道如何提高我的手段
+因为有些评论连续积构
+就已经从我的头上到这种兴趣
+所以这是我记得的9th 级的科学
+但是我们在 computer 研究所
+我们会把这些评论连续积构
+所以在说这些评论连续积构
+我们将它们当成红红
+我们将它们当成红红
+像这些小红红
+如果它们有连续续积构
+之间的一些的体系
+我们将它们当成红红
+像是一个红红
+所以这是一个
+研究所谓的一个红红
+如果有两种红红
+在这里
+这些是一种阴调的
+你能想象到这些是
+可能两个进入到一个问题
+而现在一种进入在这两个问题
+我们可以代表
+问题解决的 notion
+就是 CS50 和内容的
+比较常常的
+解决的
+所以我们可以解决
+问题的问题
+没有需要的
+运动和进入
+让它想想
+如何解决这个问题
+这里是一个很简单的
+两个世界
+XY 和 2 点
+这两点
+这两点在这个世界
+是 either blue 或是 red
+但我没有想到
+但如果你把我提醒到這兩點
+我猜我可以來自預計
+尤其是你讓我擺放這個世界
+在於X-coordinates
+在 horizontal
+Y-coordinates 在 vertical
+然後你會知道
+我們可以想像這個紐納網
+很簡單地代表
+X-coordinate 和 Y-coordinate
+而我最想的答案是
+quote  unquote 藍或藍
+Rx和Rx,叫做R8x, R9x Это下限的双小数字
+T pops是R0、7,R9x就是O
+R9x is a random vector
+R5x,就是N25
+R1x,Rg2
+50是R2
+Rn是R不公平的
+Rm��면,Rc就是세요
+日常从国际的表达
+The order between day and day
+This order,no question
+那我太過激怒了
+那線不太適合
+所以我們可能會把線拼在這方向
+現在我回到業務
+現在我可以預計
+以高的可能性
+根據XY的色彩
+什麼色彩的下一個點
+你給我夠了這些點
+我可以來得上一個
+不錯的最適合的線
+不完美的
+但這裡有一個問題
+因為AI不完美
+但99%的時間
+我可能會能夠預計得到
+我可以更好做
+讓我把線稍微推開
+然後可能會做得更簡單的
+變化
+所以我們在做什麼
+在认为这种组合的认为
+即使是三个组合
+我们基本上是在想
+三个组合 三个计划
+A B C
+这些组合的计划
+是一个方法
+这种计划的方法
+可以代表
+在这些计划中
+比如是A x x y
+和一些常常的计划
+我们可以征明
+如果这种计划的计划
+Predict it's going to be blue
+Otherwise, predict it's going to be red
+We can sort of map our mathematics
+Just like with tic-tac-toe
+To the actual problem we care about
+By defining the world in this way
+And so if you give me enough data points
+And enough data points
+I can come up with answers for that A, that B, that C
+The so-called parameters in neural networks
+Now in reality neural networks
+are not composed of like three neurons
+And a couple of edges
+They look a little something more like this
+And in practice they've got billions of these things here
+On the screen
+And which case
+每一個這些圍割的圍割
+都會有些學生的學生的學生
+這圍割的圍割的圍割
+是由於很多學生的學生
+而我, computer scientist
+可能知道這些圍割的圍割
+因為這些圍割的圍割
+是三個
+我, computer scientist
+知道這圍割的圍割在什麼時候
+如果你把圍割的圍割
+然後看在圍割的圍割
+連在這裡也會有
+百萬的圍割的圍割
+我不會告訴你
+這些圍割的圍割
+或為什麼這個圍割的圍割
+是因为大量的计划
+就是码面的方式
+如果我需要更多的计划
+我会更改一些计划
+组织的图案可能会变得很不同
+但我的计划和计划
+是用来解决的问题
+如果你想想想计划
+从人体或压力
+你可以有两个计划
+与其一计划
+一个经济购买的钱
+那可能是计划
+再计划在计划中
+我们现在能够
+把大量的课程
+像CS50的Rubber Duck
+和大量的课程
+例如Claude, Gemini, ChatGPT
+這真的正在發生
+這已經是很熱門的新年
+有些新的研究和資料
+有很多的進步在新年
+有從OpenAI
+例如Generative Pre-Train Transformer
+這有很多的
+但這就是GPT
+在ChatGPT
+這基本上是一條紐約的網路
+在大量的資料中
+訪問的大量
+這給我們
+我們在學校的交通技術
+我們都會有更多的資料
+所以這是一個例子
+在這些GPT的空間
+我們看到一個企業
+在新年來的做法是個很難的企業
+以達達達
+大陸是一個新英國的美國
+在英國的西邊的海洋海域
+大陸是一個企業
+可能是誰在大陸生活在大陸
+他也知道這個問題
+但是如果这些公众在计划中有很多的数据
+就会有很多人说是美国人
+在一部分的词语里
+然后我会说的答案是其他部分的词语里
+但是在这个例子
+根据我们的问法
+是这么远远的
+从一些有用的词语里
+直到最近
+这就是一个很大的问题
+因为有很多的远远
+更多的原因是
+这些词语里的词语里的词语里
+像我们突然开始叫它一个国家
+我们叫它一个国家
+而这不是必须的 与AI的关系
+是同样的
+如果只是
+City,State
+你会有更多的优点
+所以在我们现在的评论中
+我们首先要解决一些问题
+我们首先要把评论
+或计算数字的数字
+进入一个评论
+或评论数字的数字
+我们会用一个
+代表每个评论
+例如
+Massachusetts
+如果你把它写成一样
+会代表一个评论
+或数字的数字
+每个模型的连续绳能只有1536线
+可以达到迟到伟大的余地
+也许是个一个连续绳
+可以调整容量
+那就是我们的调整
+来自于我们有的一个自己的设计
+就是我们的设计
+用了我诐言的计算
+用了计算的计算
+直接在计算的还是我们的计算
+因为我们的计算
+而是在其中的一個問題上
+我們會有更多的注意力
+而我們的A和是和是和是
+我們會有更多的注意力
+因為他們沒有那麼多的信息
+至於AI的解釋
+而你能夠避免
+那句話
+像美國的首席
+一句話在內
+目的是
+能夠解釋那句話
+而且這句話
+是比較小的
+大部分的語言模式都是
+只是標準模式
+像是最高的可能性
+它應該會在最後的這個檔案
+根據所有的網站的報告
+以及 Google Search 結果
+以及 Encyclopedia
+以及 Wikipedia 也有在網上找到
+希望答案會是
+Boston
+但當然
+1% 多的時間
+可能是少於那
+答案不可能是對的
+甚至 CS50 自己的狗是否可以
+即使我們有寫了很多文章
+來把壓制的問題
+放在那些錯誤
+那些錯誤是
+最後的就是依據依據的
+就是AI做了什麼
+可能因為一些瘋狂人在網上做了什麼
+而是被證明了是權力
+或者是因為不幸
+因為那些雜誌
+10%的時間
+1%的時間
+AI這個方式
+在大型語言模式和網路
+解釋了一個答案
+就是不正確的
+所以我今天想到最後的最後一句
+有很多人可能會有關
+由蕭筍斯基的
+《家庭》的電視劇
+幾年前, Somehow sort of prettyt the state
+we were being in with these AI machines
+he said the homework machine
+o the homework machine
+most perfect contraptionthat's ever been seen
+just put in your homework
+then. drop in a dime
+snap on the switch
+and in 10 seconds time
+your homesercome out
+quick and clean as can be
+here it is
+nine plus fourand the answer is
+three
+three
+oh me
+I guess it's not as perfect
+as I thought it would be
+this thenwith seahs共产车ists
+see you next time
