@@ -1,0 +1,210 @@
+你會看到很多瘋狂的東西在這段影片中
+因為這篇研究是
+《假撞》
+它是教導一個 robot 去夢想
+是的, 夢想這麼穩定
+這些夢想要開始來自
+真實的印象
+好, 所以我猜你看了很多這些影片
+由 robots 做這些非常印象的
+企圖的東西
+Parcours, Flips, 跳舞的運動
+你叫它
+这些人在这些日子都在媒体里面做了一整天
+而且看起来我们突然间
+有100年进入未来的一切
+对不对
+不太对
+但是很少人知道这些人不是困难的
+真的吗
+为什么
+因为这些人都在控制的 environment
+每一步都知道前面
+对 这很容易
+真正的困难是
+在星期日的大人物
+手機和採用小或是不可適合的物品
+現在這很難
+而且更糟糕
+做到沒有物品或是沒有面具的
+不見了的光明
+現在這很難
+這些模式非常印象力
+但他們沒有任何的挑戰
+所以他們可以連接手機
+他們不需要機器去鎖定
+新或改變的情況
+所以,在短片,康夫,容易不容易,但是 being useful is nearly impossibly hard.
+我不要你們做康夫,出發,我希望你們可以 fold my laundry instead,謝謝你.
+OK,但是怎樣?
+Scientists typically train a robot in a simulation before deploying it into the real world.
+It's like learning inside of a video game.
+想想一个自行车,首先你已经在游戏,
+然后你开车时,
+一段时间你会得到一个好车,
+然后你能进入世界的真实世界,
+但是,只能做到。
+呵,声音好,对不对?
+但是,当我去到这些很棒的机器在世界中,
+我一直回到一种结果。
+事情真的很好,在游戏上。
+然后,当实际上发生了,
+事情会像个瘋狂。
+直到这些新工作出现了
+它将解决两个非常困难的问题
+一是在拥有数千多的调查
+它需要向前往的未来看出
+非常远的事实
+我已经准备了
+二是在不同的工作室和
+不同的组织
+不同的形式
+所以这是基本上不可能的
+I don't think this is going to work
+so example
+here is the reference simulator
+this is based on physics
+all handwritten equations
+tested to hell and back and trusted
+It is super precise
+however
+here is the problem
+it is painfully slow
+and it gets even worse
+it is brittle
+if you change the shape of the robot
+and a new experiment
+you have toretune large parts of the setup
+by hand
+呜  yuck
+So get this crazy idea
+Scientists wrote an AI
+That looks at lots and lots of this kind of footage
+Frame after frame
+It studies how the world works
+And later this AI says
+hmmm
+I've seen enough examples of how physics behaves
+So now let's keep the equations
+And I'll just tell you what happens next
+And even better
+They gave it the perfect name
+Nerd Neural Robot Dynamics
+嗯 真是好玩
+So Nerd is a Neural Physics Solver
+So how good is it?
+I mean if it does not give you similar results to the real physics simulation
+It's not very useful is it?
+So let's compare and...
+Wooow!
+Cardboard balancing is a classic task
+Not that hard, but it absolutely nailed it
+If it looks like a copied version of the real simulation
+That's when it's good
+OK,看一些磚石
+Come on man
+These are idealized conditions
+It's not even touching the ground. Let's try that. OK, good.
+Now you get to graduate to robots
+Sort of, let's try a spider. Let me try to explain this because this absolutely blew my mind
+The blue spider is running in the traditional accurate physics simulator
+And the orange one
+Now hold on to your papers fellow scalers
+因為這就是 where the insanity begins
+這隻 robot learn to walk inside the AI's imagination
+然後我們將它們放進遊戲中
+然後...
+哇...
+看著這隻
+它們不一樣的狀態
+但很相似
+你能相信這個嗎?
+這隻想像力
+歐洲歐洲完美地在實習中
+沒有訓練或好運動是必須的
+所以 spider walking check mark
+什麼意思 轉動
+然後
+他們都超可愛
+而且做得超好
+哇
+好
+現在
+我們來進行
+大戰
+真正的挑戰
+首先
+我們創造一些資料
+好
+哇
+這是什麼樣的 chaos
+這是什麼樣的謎嗎
+怎麼能夠使用到什麼
+好
+這些紅色的動作
+在動畫中
+運用的動作
+然後確保
+所有動作
+torks are being simulated
+now the nerd AI is watching these frame by frame
+ok now you got your own robot and
+holly matter of papers
+the controller trained inside the imagination of nerd
+can move the robot and it is super cute
+look at that bobbing I love it
+and as this robot arm works really well too
+now is the time for the ultimate test
+把Nerd Robot 放在現實上
+記得 這個是 where everything breaks
+它是 supposed to touch these red points
+and...
+嗯...
+它不僅僅僅好, 但它會看起來很容易
+我可以證明你
+這不是我看見的
+我去到這些層面的世界
+不全是
+這真的很難
+好棒
+然後我正在坐在這裡
+笑著說
+這就是我們做的原因
+所以,它怎么做到这些瘋狂的魔法呢?
+我会尝尝我的最佳解释
+亲爱的朋友,这两个分子是 Dr.Kalo Zsolnai-Fehir 和 Dr.Karo
+欢迎到一部影片的一千
+这本文章描述了
+如何Nerd 学会想象下的下一步
+在机构的状态
+首先,它提升了动力
+但是,它在机构的自己的设计中
+接下来,它将返回到世界设计中
+OK
+So what does that mean?
+You see the robot learns physics the same way you would learn to move through a dark room
+You only feel the changes relative to yourself
+So you turn left, you go forward and then you figure out where you ended up in the room afterward
+That is so cool
+And here's something that made me fall off the chair
+They fine tuned this AI on real world cube tossing data
+Here, a cube is being thrown and it is the ground.
+So what's so interesting about that?
+Well, nerd mashed it better than the physics simulator called warp that created it in the first place.
+The student just beat the teacher.
+And it is faster than the teacher too.
+What? How is that even possible?
+Well, imagine that the simulator is a physics teacher who sits in a room thinking about
+是一個 idealized world
+但 nerd ai is the student
+他去了外面 睡在眼睛裡 學會了
+不只是 book smart
+也是 street smart 也就是
+那是技術的技術
+絕對是 超級厲害
+哇
+什麼時候要生命
+現在這還不完美
+還不夠大
+例如 nerd 仍然沒有被測試過
+like humanoid.so I'd love to see that
