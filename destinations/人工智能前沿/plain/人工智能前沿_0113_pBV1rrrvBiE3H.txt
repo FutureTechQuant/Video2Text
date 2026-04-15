@@ -1,0 +1,640 @@
+AI Lab 所為最高級的內地
+就突然在中心中找到的
+Enthropic is one of the key AI names
+I'm a potential IPO this year
+and it's looking to outmaneuver big spending rivals
+by showing you don't need the most chips to win
+Enthropic story began 5 years ago
+with a defection
+a core group of senior open AI researchers
+who helped build the systems that became chatGBT
+then left to create a lab
+where safety wasn't an afterthought
+We had this really clear vision
+of the company that we wanted to build
+A technology company developing transformative AI
+at the frontier, but with this very intense sort of focus
+on making the system safe and reliable.
+No viral consumer product, no flashy demos.
+Just quiet progress, building for enterprises.
+The Anthropic partnership is critical for us
+and very, very strategic.
+Anthropic has always had a fraction of what our competitors have had
+in terms of compute and capital.
+我們還沒有把最強大的表演模式
+和最大表演模式
+都用來表演過的
+幾年多
+這就是最重要的遊戲
+最大表演的一代
+美國最大的動作
+是A.I. Arms Race
+今天在安斯拉帕克
+發生了50億美元
+國際發展的發展計劃
+Amazon的11億美元
+A.I. Data Center in Indiana
+是世界最大的
+現在還活著
+安斯拉帕克真的跟我們合作
+他們看到能力的那塊
+然後跟我們一起 co-invest in
+讓我們更加合作
+但同時
+Anthropic 正在預告
+下一萬萬元的
+藝術和智能
+可以快速地進行
+讓大家準備好
+我們會到某些
+AI系統上
+更好於所有人
+和所有的任務
+我用的詞
+我最近寫的
+是一個國有的
+大學的學生
+在大學中
+這是企業的
+Anthropic
+藝術的藝術家
+然後才能快速地
+就要暫時暫時提供了
+在2020年
+男士達里奧和丹妙拉阿姆德
+和一位學生團隊的創業領導
+創業領導
+確保下一任
+創業領導會被決定
+多麼的懸念
+和多麼的實力
+我們真的就覺得
+我們比我們跑向了什麼
+而跑離了什麼
+我們創業領導
+我們都已經知道了
+我們各種各樣的時間
+和我們一起工作
+over a lot longer than just our time at OpenAI
+we really had this kind of long history together
+just as a group of people with this sort of
+very like-minded set of values
+anthropic deserves a huge credit for making the practice of
+AI capability and AI risk evaluation systematic
+and sustainable
+and inside that decision was a bet that
+safety wouldn't be a tax on progress
+it would be part of the product
+there's this sort of misbelief that like safety
+and reliability kind of come into tension
+with the business side
+and we actually had this
+this sort of at the time
+it sounded very novel
+this belief that those two things
+actually were correlated
+and that they went together
+they were specific about what that meant
+the guardrails
+the controls that keep a model
+from going off script
+generating toxic content
+or being manipulated into bypassing
+its own rules
+had to be engineered into the system
+not bolted on after the fact
+antheropics model families called Claude
+it's similar to OpenAI's ChatGVT
+or Google's Gemini
+but trained differently with different data
+different safety approaches
+and different goals.
+And while OpenAI turned Chatsubitine
+to a household name by giving it away for free,
+Anthropic took Claude in a different direction,
+straight to businesses.
+The kind of higher bar for safety in businesses
+and in enterprises was really well suited
+to where Anthropic excelled from sort of day one.
+Inside OpenAI, Dario Amade wasn't just another
+fast-moving builder.
+He was a technical leader who wrote long memos
+about safety when most investors were focused on speed.
+那Murphy, a partner at Menlo Ventures, who led one of Anthropic's early funding rounds, saw something different and Dario from the beginning.
+He's just got amazing energy and passion and kind of this boyish charm about him. Description of how to execute what they were doing distinctively and just him as a leader.
+All just kind of came through extremely clear and that's actually in our process of thinking about investing where things really accelerated, where like this person is going to help build an amazing company.
+Company
+What Anthropic was proposing wasn't just a better model
+It was a different theory of how to build them.
+The founding crew avoided flashy announcements.
+No grandstanding.
+They pitched themselves as the steady alternative.
+Less noise, more control and a simple premise.
+You need a set of rules in guardrails baked in from the start
+Before Frontier AI gets too powerful to steer.
+November 2022 Open AI sounded the starting gun.
+A new artificial intelligence program called ChatGPT
+made its debut online this project from the open AI research lab can write essays and carry on convincing written conversation chat
+gbt free chatbot anyone could talk to went viral instantly 100 million users in two months Google scrambled Microsoft went all in the entire tech industry lurched into motion
+butanthropic didn't sprint the real money the sticky reliable long term money wasn't in viral moments it was in fortune 500 contracts
+anthropic just announcing a major new
+互联的国家传媒
+传媒的AI
+传媒的经济传媒
+传媒的经济传媒
+发展技术
+传媒的经济传媒
+传媒的经济传媒
+和财务
+是非常重要的
+从最初你知
+传媒的经济传媒
+是非常重要的
+我必须要说
+我们是确定的
+我觉得这两个部分
+第一是
+传媒的经济传媒
+是很適合
+一个B2B公司
+我们真的在想
+例如, 依靠保安、安全、安全
+這就被拒絕了我們的DNA
+我們找到的原因是
+這份信念在採取
+上方的行動和在下方的移動
+這方面, 事實上, 它是非常重要的
+我認為, 第二, 它是比較
+經濟的理念
+在2020年至2021年
+也看到了這個可能的未來
+Claude was just capable of many of the very kind of high
+intelligence tasks that humans do in the workplace
+and we thought that's a pretty big market.
+Bessmer Ventures, Samir Delacchia,
+says the bet made sense for one simple reason.
+Enterprise customers don't churn the way consumers do.
+We really loved the focus that they had
+and candidly the focus of Anthropic on safety and trust
+we knew was going to play really well
+with the Enterprise buyer
+and that's also proven to be true.
+anthropic's early traction showed up in one place over and over people using it to write code
+they really found a home in the developer community so lots of enterprises are adopting
+clawed to support their coding activities the product is evolving to match
+anthropic recently hired instagram co-founder mike kriger is chief product officer
+he says the change is already visible
+we're moving from asking questions of these ai models to doing work with these ai models
+Model. So for example, we're looking at things like how do we unlock this kind of cash flow analysis or due diligence on a client or analyzing an entire market and then preparing a presentation at the end of it.
+All these really like core chunks of work that otherwise might have taken hours. We can now do.
+And now that enterprise bet is going global.
+Because we work so much in the enterprise side, I think we're a good barometer, maybe a pure barometer than the others, which kind of filter through consumers, which kind of have their habits and their use
+cases we look at our revenue.
+It's grown 10 X a year every year for the last three years.
+0 to 100 million 2023 100 million to billion 2024 1 billion to
+it's going to land somewhere between 8 and 10 at the end of this year.
+Will it continue?
+I don't know,but the technology is driving there and the economic value is coming with it.
+Anthropec says its business customer base has grown from under 1000 to more than 300000 in two years
+那 nearly 80% of
+clawed activity actually
+come from outside the United States
+The customer list reads like
+a who's who of global enterprise
+Novo Nordisk the Norwegian
+sovereign wealth fund the world's largest
+plus bridgewater, stripe and slack
+all running clawed at scale
+It tripled its international workforce
+and expanded its applied AI team
+5 fold in 2025
+building deeper coverage across Europe
+opening its first Asia office in Tokyo
+and adding major hubs in Dublin, London and Zurich
+最起碼的問題是
+在這個很簡單的方式
+在幾個簡單的模式上
+每個項目都會更好
+更好在用
+更好在做學習
+更好在用醫學
+更好在法律
+更好在資料
+更好在產品
+這就是所有的資料
+在我們的經濟上
+這次的推動是
+企業的A.I. 技術
+貿易者在做監獄
+在Google 和 Microsoft
+進行企業的企業
+已經使用了
+企業的企業
+是85%
+A.I. 開業
+是60%的 consumer
+現在開業
+是在企業的市場上
+採用了企業的企業
+企業的企業
+是一個簡單的方式
+能量是與作用
+你能夠有最好的研究者
+最清晰的建築者
+strict safety protocols
+but without chips, power and steel
+you have nothing。
+I think the sort of fundamental thing
+the industry is banking on
+is this belief that you have to
+invest up-front very early
+in order to be able to get access to the hardware
+that you need to train the models in several years
+this idea that more compute leads to better outcomes
+that there is just this kind of exponential
+graph that happens
+Something that I hear from my colleagues a lot
+is that exponential continues until it does not, Right?
+我们每年都会说
+这不可能是个例子
+我们会继续做业务
+然后每年就会有
+Anthropic现在在各三大线网站里
+调查了 Amazon 和 Microsoft
+在许多加重的资料和权劳
+我们在新互联网的卡莱尔
+在互联网的 Amazon 和内地
+A.I. data center
+就去到RAREL look inside the facility
+How important has Anthropics feedback been
+not just to the way that you're thinking about
+Trainium 2
+but your imminent launch of Trainium 3
+It really is a partnership both ways
+and so they've given us good insights
+into what we need to accelerate in the chip
+how we think about the various pieces of that chip
+that allow their models to train faster
+and more efficiently
+In this case we get really deep customer feedback
+from one of the best model producers in the world
+that tell us what they need from a next generation chip
+Chip
+Amazon is an anthropics only cloud partner Google still powers a meaningful share of
+claws workloads and now Microsoft is in the mix to in November 2025 Microsoft and
+NVIDIA announced a strategic partnership with Anthropic Microsoft committing up to
+5 billion dollars NVIDIA up to 10 billion alongside a major Azure compute deal.
+So I have to decide now literally now or in some cases a few months ago how much compute
+I need to buy in early 20
+for to serve the models in early 2027
+when I get to that revenue amount.
+Anthropic raises billions from Google,
+Amazon and Microsoft
+then spends those billions buying compute
+from Google, Amazon and Microsoft.
+We invested a billion dollars in open AI
+to help get them off the ground
+and that's flourished into the AI standard
+if you will in the market today.
+We're doing the same thing with Anthropic
+to help bootstrap their growth
+and to help bring them to a new level of parity.
+Critics call it vendor financing dressed up as strategic partnership.
+Whatever you call it, the result is the same.
+Anthropics ability to compete is inseparable from the infrastructure deals it signed.
+We view ourselves as continuing to be thoughtful and respectful stewards of capital.
+And I think that has always kind of been our focus.
+Every dollar of compute is important and represents either the ability to train better safer models
+or the ability to serve more customers.
+OpenAI is wagering.
+It can win by out building everyone.
+Sketching plans that add up to 1.4 trillion dollars
+in AI infrastructure.
+Anthropic has lined up roughly 100 billion
+and compute commitments spread across multiple deals.
+XAI is building out Colossus.
+It's computing complex in Tennessee.
+Meta and Google are committing tens of billions in capex.
+It all amounts to the same wager.
+The demand for AI services keeps climbing fast enough
+to justify the build out.
+I'm one of the most bullish people around.
+and I think it pencils out on the economic side.
+I have my concerns where even if the technology is
+is you know really powerful and fulfills all its promises.
+I think there may be players in the ecosystem who
+if they just make a tiny error,
+they just get it off by a little bit.
+Bad things could happen.
+Anthropic has always been defined at least in part
+by its relationship to open AI
+born from a split and now circling the same customers
+the same talent,
+the same multi-billion dollar contracts.
+But the power dynamics are shifting.
+The frontier isn't about making our chat better.
+The frontier is about creating models
+that allow us to do better coding, better math, better science.
+And that's where Anthropik is now leading the way.
+It has the top model for programming for software.
+Even better than Gemini, even better than OpenAI's model.
+OpenAI still leads in scale and cultural cache.
+ChatchBT is a household name
+而且有差不多900 億人的利用
+anthropics most recentl
+close round
+value it at 183 億
+and it's now on track
+to nearly double its valuation
+to 350 億
+with new names like Microsoft
+and nvidia joining its cap table
+there's going to be at least
+two independent companies
+probably two really big ones
+and there was no way
+you could make an argument
+that this wasn't going to be
+at least you know the
+the second big big player here
+and now obviously has strong
+Crosspex to be the number one player in this space
+and Dario really stands out in the market on that dimension
+and not all the other leaders in this space have that same DNA
+And that rivalry is starting to change the shape of both companies
+Dario Amade, who kept a low profile for years
+is stepping into the spotlight
+ananthropic long positioned as the quieter more measured alternative
+is learning how to compete in public
+one of the values and the things that we talk about a lot internally
+is just how not to believe the hype
+我認為us never been about seeking attention
+or sort of being in the headlines
+We're really here to do the work
+As Anthropic goes so goes generative AI
+They have the most pure bet on this technology working
+If Anthropic is able to make it work
+All of Gen AI is going to work
+And if not we're gonna have some serious problems
+What happens next isn't just a model race
+It is a stress test of the whole stack
+Chips Power Cloud capacity and pricing
+Aanthropic is one of the clearest readouts
+It can turn demand into durable revenue
+不需要拨费发动的资源
+就不会赢得了
+货乡的经济
+就不会允许
+经济的经济
+我会记得
+我们在社会中的
+经济的发动中
+我觉得我会
+分辨
+我会叫
+经济的方式
+和经济的方式
+我认为
+经济的方式
+我们非常认为
+从一个
+经济的方式
+我们不可以看
+经济的发动
+我认为
+经济的方式
+是一个更有趣的问题
+尽管
+我們知道技術的效果
+它需要時間使用
+技術或個人的方式
+我認為
+技術的效果可以很快
+但也許人們
+可以把技術傳達
+Anthropic 正在進行
+進行比賽
+在旅行
+Anthropic 發表了
+《學習》
+他們給了
+《曹》的信息
+Company
+And the AI discovered two things.
+It was about to be shut down
+and the only person who could prevent that
+was having an affair.
+The AI decided immediately
+blackmail him.
+Anthropec ran the same scenario on nearly every popular AI model
+from open AI, Google, Meta, and others.
+Almost all of them resorted to blackmail.
+Most labs don't disclose when their models fail safety tests.
+Anthropec does.
+A lot of people will sort of say,
+Hey, it's a little bit unusual for kind of a company
+to talk so openly about
+雖然我們認為有很多的 positive upsides
+但也許,世界的真實的威脅和害怕
+可以從這個技術來的發展來得來
+我們在社會的公共貢獻
+我們真的能夠看待這個程度
+而這個行動繼續發生
+在奧克斯和北韓的創作
+使用Claude 作出
+假定性的原始
+作為貿易的軟體
+在7月中
+中國的貿易
+貿易協定在
+國際政府的貿易
+這些不只是
+貿易的
+他們是有機的
+我們可以說
+Claude 可以用
+可能是貿易的
+這是我們必須
+知道的東西
+如果這件事
+我們就可能
+會發生
+其他前面的
+模型的發展
+我覺得
+在這樣的
+安全 信念
+安全 和安全
+很多工作都能伸出
+公司的方式
+很重要是發表
+容易明白
+文章
+為何有些發生的事
+在恐怖空間
+在安博
+San Francisco
+有個群組叫
+《Red Team》
+他們的工作
+是找到
+失敗的模式
+前來的客人
+測試
+能否推進
+危險的能量
+從
+用於有關的
+無辜的
+發生
+10次 itself replication that would make it harder to shut down
+the response is fast
+taller access
+tougher limits
+or holding back a broad release until the defense is catch up
+anthropics red team lead recently spoke with 60 minutes about the risks of letting ai run too much of the show
+you want a model to go build your business and make you a billion dollars
+but you don't want to wake up one day
+and find that it also blocked you out of the company, for example
+Kriger says the only way to move fast without cutting corners
+is to plan for safety from the start
+我們有時間把4.5的計劃拆除
+我們稱為Red team
+但我們要用電腦和外星體的計劃
+然後確保它是安全的
+然後再把控制器的內容放進去
+所以我們就要做到兩個
+我們要想清楚
+這是一個不可思議的後果
+但這個事實是有助於安排
+川普的AIsar 川普的Sax
+曾拒绝了企业的恐慌
+并且随意推动国家的国家
+通过民主国家的国家类政策
+像是在加拿大
+他叫做
+A regulatory capture strategy claiming that
+anthropic is trying to slow innovation
+by hiding behind safety talk
+Dario Amade pushed back directly saying the company is
+aligned with the administration on the issues
+that matter most from energy expansion
+to national security and pointing to their 200
+million dollar pentagon contract as proof
+I'm concerned that there are some who see this technology
+as analogous to previous technological revolutions
+as being like the internet
+而是在社會上
+對於一些問題
+但是市場會想辦法
+我認為那些人
+最接近A.I. 都不覺得這個方式
+如果你拋下
+實際的研究人員
+在A.I. 工作
+他們會感到興趣
+但他們也會擔心
+他們會擔心
+他們會擔心
+國際保護的問題
+他們會擔心
+他們的安排性
+如果規定
+在國際、國際等
+或是在外國
+安卓會有一個開始
+year of safety research red team
+disclosures and responsible scaling
+infrastructure are already in place
+rivals and new entrance would have to build
+those mechanisms from scratch
+the fight over who defines responsible AI
+is now proxy war for control over
+america's AI future and
+anthropic stance may shape how
+regulators approach the entire industry
+if you were a social media company
+for example if you could have gone
+back in time and said like wow
+if we had known what was maybe
+going to come out of these platforms
+會不會做任何事情
+所以我覺得在經濟上
+我們真的要說
+我們在試圖我們最好
+我們當然不能知道未來的未來
+但如果我們想
+那個X或Y的事情會發生
+我們可以做到今天
+去討論它
+然後去試圖去拭取這些危險
+但是對於安全保護
+比安全保護更快
+模式越強越強越強
+對方越強越強
+壓力越大
+從開放中 中國
+和大陸的市場
+在晚上做什麼
+有很多很有趣的
+技術安全工作
+是未必能夠發展的
+我認為企業的藝術
+是在工業中的領導者
+做的那種工作
+還有更多工作要做
+而模式就變得更快
+第二是
+就是社會的影響
+會更加大
+我們最近發表的報告
+提及了
+經濟影響的影響
+以及貿易的影響
+會有所影響
+我們真的覺得
+是更好保持
+能夠保持
+有可能的問題
+Anthropic 建設
+是一個不可以完全解釋的
+測試成功
+不可以完全猜測
+而是在世界中
+進行駕駛
+或是後來的結果
+會表現
+後來的模式
+會變成
+像一個國家
+有純粹的
+大型的大型的
+我感覺他們
+能夠把每個方式
+都推出
+能夠保持
+經濟 價值
+R&D
+你知道
+我擔心他們
+會能夠
+把自己的人
+會有完美的供應
+我們認為
+我們在建立一個
+獨立的和獨立的
+能夠有獨立的
+國際保護的利益
+和民主的必須
+先進入
+這完全是
+完全是一個不可行
+安博學學院的
+是一個能夠保持
+能夠保持
+能夠保持
+沒有失控的
+能夠保持
+問題是
+當它擴大
+時速的速度
