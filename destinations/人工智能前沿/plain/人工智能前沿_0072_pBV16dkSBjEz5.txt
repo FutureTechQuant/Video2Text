@@ -1,0 +1,292 @@
+近年,《智能智能》,或AI,
+已在社会上伸展。
+《智能智能》,《智能智能》,
+但也有《智能智能》的照片,
+以及《智能智能》的股份。
+在8月8日,
+John Hopfield 和 Jeffrey Hinton
+也有得到《智能智能》的
+责任和能力。
+但为何《智能智能》
+是《智能智能》?
+In this video, we won't be discussing the specific application of AI
+nor the ethical and societal questions it raises
+But rather the basic principles behind these algorithms
+We'll see that there are unexpected links with magnetism and particle physics
+Together, let's dive into the physics of AI
+It's 1920, and German physicist Phil Helm Lenz
+提出了一種體質問題給他的學生
+學生了埃及
+教授問埃及學生
+學生了一個模式
+為了解釋螢幕
+有些材料如鵝
+可以形成的螢幕
+鵝的部分是建成了
+瓦特曼的
+whose electrons
+剩下的小量的螢幕
+叫做瓦特曼
+畢竟它們可以存在
+一個兩種 states
+上或下
+在這個構造中
+Eizen  sides as a grid of atoms
+Each carrying an up or down spin
+He is interested in how this network evolves over time
+First of all the ambient temperature causes the spins to fluctuate randomly
+Second adjacent spins in the grid tend to align
+Because this configuration requires less energy
+And is therefore more stable
+As time passes
+We see magnetic domains in which nearby spins
+futures warehouse
+are aligned with each other.
+finally,
+if we add an external magnetic field
+all the spins tend to align with this field
+transforming the iron block
+into a large scale magnet.
+The icing model thus makes it possible
+to grasp certain phenomena
+such as ferromagnetism.
+To better understand this model
+We can imagine it as a marble
+rolling across a mountainous landscape.
+Marble's position represents the grid's configuration at a specific moment in time
+while it's altitude represents the energy associated with that configuration
+Over time, the marble rolls towards lower, more stable configurations
+as the spins align with each other and the grid relaxes
+Let's fast forward a little
+It's now 1982 and computer science is booming
+美國的John Hopfield
+是使用冒險模式
+來建立新的圖案
+能夠記憶著的圖案
+而在亞特曼的
+Hopfield Network
+現在是製作了
+藍色渦輪
+可以使用或不
+這些渦輪
+都能夠連接到
+像鑫鑑的鑫鑑
+同時
+鑫鑑的鑫鑑
+跟鑫鑑的鑫鑑
+但這次
+每鑫鑑
+其中,Synapse 持有肌肉的影響,
+使得它能夠影響到
+對合性的內容
+有些Synapse 持有保持肌肉的影響
+使得內容能夠改變成一樣的形勢
+其他形勢有一個影響
+所以內容不能影響其他
+其他仍然持有 negative 影響
+使得內容能夠改變成一樣的形勢
+如前,網絡正在發生
+每一種內容取得一些數量
+由其中的鋪子
+而变成生命或不生命
+依据着一种有限的强确
+在时间中
+网络 thus 终于
+比较强势的情况
+更加强势的
+最后一条模式
+就是可以终于
+拒绝所有的权力
+例如 如果我们
+将这些权力投入
+网络没有更大的强势
+而变成不强势
+这些达于所谓的改变
+而在这段时间之后
+才能静置下来
+网络发现新的
+垃圾写法
+而他们在此之间
+移动的各种写法
+让我们想得上
+垃圾写法的写法
+在这些情况下
+我们能够标准
+有不同的写法
+将将这些写法
+成为垃圾写法
+让网络要安保
+一位写法
+Hopfield thus built a network capable of memorizing patterns
+because when released from an initial state
+the network naturally converges towards the closest memorized pattern
+A powerful tool that allows machines to learn
+Over the years other scientists like Jeffrey Hinton
+continued to develop this model
+gradually leading to the AI we now know
+Still today, Artificial Intelligence
+is based on these neural networks
+communities propagated
+from sin at the cynaps
+for these networks
+to function properly
+we start by training them
+usingmany examples
+in order to final裡
+tweet their parameters
+and for them
+to memorise
+recurring patterns
+this is called
+machine learning
+we've seen so far
+physics has influenced
+umble development
+of artificial intelligence
+but it turns out
+there's another
+pass less known connection
+between neural networks
+and fundamental physics
+to understand itwe'll have to open a technical parenthesis.
+Let's look at this neural network.
+It takes two input values,transforms themand produces another output.
+Overall the network actsas a mathematical function,taking two input and returning an output.
+We can represent the two input values as a point in two dimensions.
+我们的纽纳链接触在每一个位置的分辨量
+像是一个分辨量
+在体系上,分辨量很重要
+以下的温度,分辨量,或设计量
+在我们的情况下,分辨量的分辨量
+在辨设计的分辨量
+我们可以辨设不同的分辨量
+我们在一个位置的分辨量
+我们可以辨设不同的分辨量
+如果我们改变了图案的设备,我们会有不同的设备
+我们认为设备的设备变得更加快,
+而我们可以看到,有些设备的设备变得更加快
+设备的设备的设备是有一个设备的设备
+我们会更加快,
+而设备的设备变得更加快
+我们会更加快,
+而其他人
+當然,分別的分別並不一樣
+如果我們再看另一個角度
+也會變成我們增加
+數量的渦輪在網上
+網上的渦輪增加,分別的分別
+不過在時間中,它變得更好
+更好
+難怪,分別的分別
+似乎突然變成
+hit towards a bell curve
+What mathematicians call a Gautian distribution
+Surprisingly this is true for all input values
+Regardless of the number of layers in the network
+Thus,almost all neural networks converge towards this type of distribution
+when they become infinitely wide
+All of this has been established for about 30 years
+1995年,Jeffrey Hinton 学生 Radford Neal
+发现非常大的纽约纽线
+在纽线中向纽线的程序发展
+2020年早前,一群新的研访
+在新的I-Fi中
+提出了一个不期待的
+相关的影响和价值
+在广场的形状
+我们看到的纽线
+可以被表现成一个
+价值的形状
+在空间的每个位置
+但在广场的体系
+部分的 behavior of particles which make up matter and govern interactions
+is described by quantum fields
+which can be imagined as fields whose values fluctuate randomly
+particles are disturbances that propagate within this quantum field
+in the simplest model of a quantum field
+particles are independent and do not interact with each other
+in this situation the values of the field fluctuate according to a very specific distribution
+A gorsian distribution.
+In other words, a quantum field without interactions
+behaves in the same way as an infinitely wide neural network
+whose coefficients vary randomly.
+That said, in nature, particles interact with each other
+and physicists calculate these interactions
+by adding small corrections to the previous model.
+Similarly, in a real neural network
+which is not infinitely wide,
+研究的分辨量是 not perfectly Gaussian
+but slightly different
+小的 corrections must be taken into account
+Corrections that are analogous
+to those caused by interactions
+in particle physics
+There is therefore a strong analogy
+between the behavior of neural networks
+and that of quantum fields
+at present, quantum field theory
+is our best description of the world
+但它是非常難以計算的
+例如,雜物規模的動作
+已經是一個極大的挑戰
+甚至是最強大的超級機構
+有些學生們相信
+紐約網路可以給予更新的方式
+來解釋這些問題
+他們可以已經製造
+一個自由的研究資源
+沒有交流
+更多的重要
+學生們也製造了
+交流與交流
+比如5.4的模式,
+在哪里的部分分別是相同的
+或是哪些部分的模式,
+有些部分的部分是相同的
+這項方式是非常有趣的,
+並不是還能夠學習
+實際情況,
+但也有提供一個新的方式
+去解釋某些
+體積問題的部分
+在部分的體積
+這項方式
+也讓我們學習
+有關體積的學習
+用來學習體積的技術
+比如某些細節
+是用來學習與分別的解讀
+最後,有很多的連結
+與藝術和藝術的分別
+以及有些AI的模式已經在使用
+在學習與分別的解讀
+來自Denois 《Gravitational Wave Signals》
+或《Analyze Data》
+在新的學習中
+在學習與分別的解讀
+來自學習與分別的解讀
+來自學習與分別的解讀
+或探索各種的領域的系統
+但也有無限的機器
+去找出新的機器
+或去依照機器的實驗
+最後在 astrophysics
+為了註冊
+有些機器的形狀
+將機器的影像
+被影像的影像
+被影像的影像
+或把靈體的靈體
+或靈體的靈體的靈體
+更加
+機器的技術
+可以幫助我們
+更加理解AIS
+而是黑色的硬碟
+是很難以表達的
+體育的概念
+如是能量的環境
+和交流
+將導致
+能量的環境
+進入了體育的語言
