@@ -1,0 +1,2695 @@
+我可以 barely take university seriously
+that don't teach activity as a part of their career
+Gabriel Peterson, a high school dropout from Sweden
+who now works as an AI research scientist at OPTI
+the creators of CHATCH
+I always thought I was too dumb
+I met a programmer once
+and I was so starstruck
+I was sleeping on couch pillows
+that I found in like the common room
+companies just wanna make money
+you show them how to make money that you can't code
+and they'll hire you
+I currently work at Sora
+where we're building
+什麼建議會給一些人
+誰不懂他們想要的
+我認為人們學習的方式
+最快是
+歡迎大家來《Extraordinary》
+《Extraordinary》的大家的故事
+我是C.J. Wen
+The Founder of Victoria.com
+And I'm here with Gabriel Peterson
+A high school dropout from Sweden
+Who works as an AI research scientist
+At OpenAI
+The creators behind ChatGBT
+To be a research scientist
+Typically you need a PhD
+But Gabriel has been able to
+Teach himself mathematics
+And machine learning
+Using ChatGBT
+And now works at the world's top AI company
+Gabriel was born in the middle of nowhere in Sweden
+And now is in San Francisco, California
+after getting his O1extraordinary Ability Visa
+Gabriel, welcome to Extraordinary
+Thank you so much for having to be here
+So, Gabriel, your story is super fascinating to me
+I have a tweet over here
+It says, five years ago, I dropped out of high school in Sweden to join a startup
+with close to zero experience as an engineer
+Today, I'm joining OpenAI as a research scientist to build AGI with Sora
+How did you get here from that?
+Yeah, it's a long story. I've always been thinking about AI
+Every since I started reading books, super intelligence
+and life 3.0
+oh max tag mark
+yeah max tag mark
+dude i love that
+and both of them happened to be Swedish people as well
+and i was like okay there's something here
+but i always thought i was too dumb
+i think i was looking into b2ai
+like i didn't really know programming
+and i was like probably there is like
+a bunch of really smart people out there
+that i can never compete with
+and yeah i just ended up working as
+an engineer for a couple years
+so you dropped out of high school
+how did that happen
+how did you have the conviction
+to leave high school when everyone around you
+從你的家、家鄉、家鄉
+就在那裡
+我真的沒有想過
+這件事情會變得更好
+我認為
+我有一天
+我的婚姻叫我
+說你好,我只是跟這個人說
+他真的很聰明
+他有這個職業的想法
+去做職業推介系統
+我們應該開始購買這個
+他現在在新加坡
+做資料研究
+我們要開始購買
+我們開始
+對,來這裡找我的祭祀
+我心想
+dude, I had this big party tonight.
+I'll come tomorrow.
+It's like no.
+So I just went like to the next bus to Stockholm
+and I just never returned.
+So you dropped out of high school.
+You went to the startup.
+What happened?
+We had this idea
+which was building a product recommendation system
+for e-commerce stores.
+And at first like none of us knew anything about startup at all.
+We were completely like okay, what do we do?
+How do we sell?
+So the first way I started selling was like calling people up.
+I started with sending cold emails.
+It didn't work very well.
+我開始打算找人家
+有些人都會有興趣
+但我只是18歲
+沒想到我做什麼
+我沒有技術
+我們以前做銷售
+我以前用銷售商店的購物
+我會用A3
+一個大紙
+我之前已經用了
+整個網站
+訓練新的銷售系統
+你會有一個銷售系統
+然後你會有銷售系統
+什麼銷售系統你會展示
+增加銷售
+所以我把他們的舊的舊資料印到上方
+然後我們新的舊資料印到右方
+然後我把這100個
+哇,我把他們印到一個大型的
+然後我走到門口看見
+喂,我可以跟舊經理、舊資料經理說
+然後我便會給他們看
+這是你的舊資料,這是你的新的
+然後他們會說
+哇,你做了這些嗎?
+你怎麼做這些?
+這很酷
+然後他們就說
+好,但從哪裡來的
+有很多的廣告
+別擔心
+我經常把網絡的書
+我可以用他們的網站
+on their website
+which flipped their
+pre-recommendations with our
+pre-recommendations
+and I was like
+yeah we are ready today
+we can just go live now
+that's crazy
+and then they're always like
+ok but how do we know
+that we'll make money
+and I'm like
+do not worry
+I have an A.B. test set up already
+in this script
+it will track
+like the revenue from people
+using your pre-recommendations
+and our pre-recommendations
+so I could just like
+first meeting
+just close them
+everything ready
+from the start
+we did all the implementations
+which you know would backfire hugely later
+because we didn't you know
+we just thinking let's just scale
+or let's not think about being easy to scale up
+let's just like just make sure we get customers right
+with like a bunch of other 17、18
+year old who dropped out of high school
+yeah yeah so it was over
+he was the researcher
+he was 16 or 17 at the point
+and then my cousin was like
+and you guys were all
+in person in like Stockholm, Sweden
+yeah so I was living in my cousins
+我們住在大學
+我們沒有大學
+我們沒有大學
+我們是大學
+但在普通的房間
+我們很小
+我們可以只住在那裡
+如果去到大學
+但我們要把東西寫在那裡
+我們會說
+他還在大學
+我睡在一間大廳
+我找到的一間大廳
+一年
+是一間很難看的房間
+但還好
+我們坐在這間合作的空間
+你怎麼會繼續走
+像很多人都會離開
+但你
+他們可能會回到學校
+但你就是
+你從來沒有走回
+為什麼你繼續走
+為什麼你繼續
+住在這間 shared dorm 房
+在這些 社群網站
+我認為我一直有
+很不可思議的觀點
+我100%肯定
+這會讓新一百萬人
+100%是沒有問題的
+而且我真的非常緊張
+我真的覺得這就是
+下一件大事
+沒有任何其他事情
+我只是在工作
+網路上的網路
+我一直在旅行
+在做銷售
+我們做這些瘋狂的事情
+去找客人
+你從來沒有知道有什麼好處
+你怎麼去學習那些
+我因為我對著
+我們要做的職業
+你跟他一起玩
+對,你怎麼學習的?
+我猜你跟你朋友一起玩
+你跟他一起玩
+對,但那時候
+我第一次學習的方式
+是我的家庭
+我當時很年輕
+我當時在13歲的時候
+但他給我展示了
+java
+我做了一個非常簡單的
+像是Pokemon clone
+像是轉身
+你能夠受到傷害
+這是一個非常壞的玩家
+然後
+有時候我去買
+然後我做了一個
+Yudhimi的Python course
+我學習了非常簡單的Python
+I mean it was like really asking where like you had little
+it's coming and you were like duck trying to avoid it.
+It's really dumb and I also did.
+I try to get into machine learning.
+I did all these like the classic like machine learning course by Andrew and G.
+I just thought like yeah I'm probably too dumb for this.
+I just can't do this stuff.
+But yeah, when I really started getting coding was at the peak.
+When we were you know where to build things,
+we had to make proper recommendation systems.
+Scraping integrations,
+set up e-be testing and all these things.
+Yeah, but how do you learn that if you don't go to school?
+好事只要工作
+是你永遠都會有一個問題
+這做得很簡單
+每個人都會問
+如果你不去學校
+怎麼學習
+就說 這麼容易
+然後你會有一個問題
+然後你就可以 map out
+我想要整合我的
+部分的推出系統
+去到E-commerce Store
+做這個
+我需要想想
+如何選擇
+要把文件和網頁
+設計好它們
+要學習這些東西
+然後你就可以步步步步
+去過程
+你能問你朋友你會否被迫
+我覺得這樣很簡單
+尤其是你會有很多的壓力
+如果你有一個真實的工作
+你會有壓力
+那就是所有的
+我從來沒有學習
+有些人說
+學習這個東西
+但你會有很多時間
+也不會給你錢
+如果你要給我寄給
+去 another high school drop out
+What would it be so that they would learn more
+I think I was extremely lucky
+I mean I was living in this town called Vaggiett
+In the middle of nowhere in Sweden
+I knew no engineers
+I met a programmer once in early high school
+And I was so starstruck
+I was like, do you code?
+Do you like make webpages?
+That's awesome
+And when you don't have this culture
+Why is SF such a capital of startups?
+Because everyone is only talking about startups
+It's like so clear how to do one
+But if you're like in the middle of nowhere
+你不像是人家的人
+这就是我说的
+你会想这些东西是不可能的
+做这些东西我都觉得
+这好像是这么远的
+我非常幸运地去逛逛
+逛逛是第一个
+我说这就是一件事
+我没有选择
+我可能会很难逛逛
+因为我没有知道我正在想
+这就出现了
+而且我还想做一件非常好的学习
+别人也想做一件同一事
+像在市場上的解決
+解決真正的問題
+有優惠
+現在我們要幫助社群主義
+你不需要知道
+你不需要有很多知識
+但你做的事情
+如果你能證明對人家
+對 我很高興在社群主義
+知道的
+我超創意
+超高的社會
+你會展示這些東西
+對人家的興趣
+最後一句
+你不需要知道
+你會說
+對 我每次都在社群主義
+我都很高興在
+把資料拿出來
+你都知道世界中的所有的知識
+知識並不是一個問題
+同樣的
+你必須要去一個學院
+然後再去做一些
+像是一個 pre-requisite course
+或是一個有可能的解決
+或是有可能的應用
+你現在可以去一個真正的世界
+找出一些問題
+例如說我可以把這個解決
+或是說我可以教大家更快
+或是任何問題你想解決
+然後你可以用Ai的 query
+ChadGPT 想想解決
+如何解決它
+以及如何解決它
+我認為最快學習的方式
+是用什麼叫做
+做一個最快的方式
+你會學會更快
+如果開始了
+然後你會學會
+所有東西需要解決
+然後你會找到更多的問題
+然後你會去學會
+就算你開始了
+你去下課
+但這是一個很難學習的方式
+在學校
+每個人都要有自己的心理
+我們需要開始
+我們需要開始
+如果你想要學習
+你可以忘記
+在學習動作的一段時間
+是學習
+然後你會有
+學習方式
+有學習圖文
+有這些東西
+然後你會有
+這個簡單的
+ML
+超級好
+有學習圖文
+這些東西
+還用不上
+但是它會花很長時間
+到它變成了產業級ML
+為什麼呢
+因為它很難調整
+最高的下降方向
+因為那需要
+學生們一直在你身邊
+它需要你能夠知道
+什麼是最好的學習
+你需要學習在任何時刻
+如果你做一堆學習
+你會知道
+首先你經常學習
+然後你經常學習
+而且它是比較容易調整
+它是非常不可行的
+現在 用SHAGVT
+這些都會改變
+這些都會改變
+人們說學生會改變一段時間
+但是我可以將大學大學大學
+學生不教學生學生
+作為一部分他們的學生
+這就像是一段
+不像是一段學生
+從二十歲開始
+像是突然的學生
+學生沒有
+像是一種
+學生的學生
+你只能
+學生的學生
+從學生大學大學大學
+人們並沒有
+真正的學生
+如何把學生的學生
+學生的學生
+他們會常常告訴你
+你會說你不會明白問題
+你不會說 等等
+這不是真正的
+你開始了問題
+你會去下降
+如果我想學習機構
+我問了Chery Pity
+什麼項目要我做?
+寫了一個項目
+我開始了蠱蠱
+然後工作
+然後從那裡開始
+我開始了一部分
+機構的問題
+OK
+這裡是什麼?
+可以告訴我
+為什麼這個模式
+讓模式學習
+然後我會告訴你
+然後你會說
+它使用了Majic multiplication and linear algebra
+你知道,how do they work?
+What's the math intuition behind this?
+Show me, like make up a couple of graphs
+to really make me get an intuition for this part of ML
+and then suddenly you have all the foundational knowledge
+Like, it doesn't need to go bottom up anymore
+Yeah, and this shift will...
+Yeah, I think this shift will like fundamentally change
+how education is done
+What are schools not teaching you about AI?
+First of all, the perception of AI
+is completely wrong in schools
+Shatchivity came
+当然学生们会说
+哦 很好
+有些东西可以做到的工作
+这就是他们想的
+这也有意思
+这是我会调查的第一个
+学生们会想到的
+是
+哦 没有
+每个人都会用AI去做工作
+我们需要用Ai
+AI是不好的
+这变成了一个
+学生的感觉
+Ai的感觉是
+我可以用这种方式
+学生的感觉是
+OK 学生就用这种方式
+这很难
+去
+建立一个学生的教学
+它不自然地變得很自然
+現在
+我非常開心我跟朋友說
+他們回到學校去學校
+他們就說
+我發現我可以用學校的GPT
+給我推薦
+給我所有前幾個問題
+然後我問他們
+OK 告訴我一些
+基本的問題
+讓我可以用這些不同的問題
+讓我可以學習
+他們的教學
+或者像
+我建立了10個問題
+對吧
+然後大家就開始學習
+怎麼用
+學校還是很不合理的
+對 沒什麼錯
+如果教授只能把故事改成
+OK, 這裡是如何學習的
+如果學生想嘗試
+他們會找方法去做
+如果他們沒有想過
+可以用這技術學習
+我會用嘗試
+對, 沒什麼概念
+如何使用AI學習
+如何使用AI學習
+技術、技術學習
+現在可以學習
+我做了一件很像的事情
+在我之前的描述中
+我现在在索拉工作
+在这些视频模式的建议
+我希望学会一些像
+像画面模式的基本性
+所以我问了大家
+喂 这是什么
+最重要的概念
+像视频模式和画面模式
+在视频模式里面
+然后就开始说
+好 我们有这些叫
+自动销售
+这些叫
+运动模式
+我说
+对 这些很有趣
+我听过这些很有趣
+很酷
+现在写了一整个调整的模式
+然后写了一整个调整
+我没有想到什么就行
+这里有很多调整
+然后你再来做它
+你再运动它
+你再说它是什么
+然后你开始建立一个
+计划的想法
+这个就像这个
+这个就像这个
+然后你再继续
+明白在内容
+每一个网络的调整
+就像
+这一部分
+这一部分
+所以,例如
+写了一整个模式
+例如
+你可以拿一块
+比如,一块
+例如Restnet
+Restnet blocks
+他們做了很多的改變
+他們也有一個規則
+讓資料通過
+這樣會令模式更容易學習
+從開始就沒想到
+你開始問
+Chashubity follow-ups
+告訴你一個問題
+但你仍然有一個大問題
+為什麼
+為什麼
+你為什麼要學習得更好
+然後你會問你
+你會問你
+那你會問
+你會學習得更好嗎
+你會問
+對 學習的階段可以在這些
+X,Y,C不同的方式
+在這個狀態上
+你不會做這個
+他們會停止在
+X,Y,C的東西
+然後你會繼續問
+模式一直到你明白
+然後你會明白
+你可以告訴模式
+這是我的理解
+是完全對的
+然後你會開始學會一些小的技術
+例如說這套概念
+我12歲的時候
+這套是真的好
+它會開始超級好
+像你進了一間書店
+你可以想像到
+在店裡有不同的書店
+然後你可以想像到
+然後它會把所有的東西
+跟AI的關係都聯繫到
+一些世界的概念
+讓它變得很簡單的
+像我一樣
+所以它好像
+任何的主題
+你可以学会现在
+然后你需要的就是资源
+然后你开始问
+喂 什么是我的计划
+你需要明白这个
+然后你会把一张图标标标
+对吧
+因为你如果在计划
+视频模特儿
+你会说
+计划模特儿
+或者是拒绝模特儿
+像是平均拒绝
+然后你会说
+好 这次的计划模特儿
+是拒绝模特儿
+然后你会说
+你会说
+可能是拒绝的
+但是每个部分
+你會再更加地搜集
+我不明白這部分
+為什麼這件事
+是否正式的
+為何這件事是這樣
+如何做到的
+我寫了你的貼文
+在onx.com
+很有趣
+看起來
+你能夠用AI
+繼續用 query
+直到你已經有了解
+然後你已經有了解
+你几乎重複地解释
+像是如何解釋
+最好的方法是解釋
+但現在可以用AI
+所以當你解釋到
+在深層的研究中
+之後的研究
+在一些很技術的題目中
+你不一定知道
+什麼是研究的
+然後你會解釋
+有研究的研究器
+或是有研究器
+然後你會選擇
+但之後你會解釋
+研究的模式
+然後它會再解釋
+或是看不同的部分
+你不明白的
+然後你會繼續重複
+到你有很大的壞處
+我會說到一些
+深刻的感受
+如果我會在一個詞裡寫一句
+你需要
+技術要求在這裡
+是知道
+什麼技術你會有在你的知識
+像是你會有一個AI模式
+或是什麼東西你會想學
+然後明白
+當你不懂得的部分
+其實是挺難做的
+是你需要練習
+練習自己
+再說
+你真的要明白這個部分
+所以那是一個技能需要
+第二技能是
+當你開始問問題
+你需要有很強的技能
+當它們按鈕
+當你覺得啊!它們按鈕了
+對
+我可以明白
+基本上為什麼這個技能是
+是這樣的
+怎麼會有人學習
+如何學習AI
+這是一個很好的問題
+首先我會改變
+AI的概念
+用來做工作
+你
+要用AI
+去
+專注地學習
+你
+你不只用它
+你能夠學到的
+你能夠學到的
+我意思是
+當你把那些心態轉換成
+好像仍然相當不一樣
+但仍然變得更加相當
+你最多有東西
+可以學到的
+然後變得很棒
+首先
+像我所說的
+不 when you have gap in your knowledge
+理解
+像你能夠
+基本上就像
+你會發掘一些東西
+你會經常
+跟所有這些hacks
+你會發現
+SHAGBT會回應
+在一個非常普遍的方式
+你的方式在学习的方式
+可能不太像是
+它们的质疑
+因为它想让大家
+大家有好经验
+但你可能想
+再次回答
+我经常告诉你
+例如
+你必须很直接和确实
+一直让我看到
+所有的交流
+和形式的交流
+让我看到
+我真的有
+有很寂寞的理解
+为何这回事
+如果你不确定
+让我看到
+选择你
+和其他人的选择
+為什麼這件事和為什麼其他東西不合作
+然後開始變得好
+問這些問題
+給你一刻的安慰
+最快的可能是想要達到一刻的安慰
+像是第一次你明白的
+倫敦和阿里格巴
+或者是第一次你明白
+為什麼背景的繁殖
+你可能很清楚
+哇 終於按了
+然後把這些按鈕
+讓它們變得
+像是最快的可能
+那是你的利用
+這真是瘋狂
+在 modern day in order to stay competitive
+and to be top performing
+When you look at someone, honestly they will be at the top of the field pretty quickly
+how you've done it
+just by the rate of being able to query for information
+and that's probably the most important skill now
+what do you say?
+Yeah, and building up this like
+this is not that very important
+like build up, the moment you have a question in your head
+make sure to get it into Shachi Pity
+他很難,這首歌是我記得我的Custom,因為我開始了一間公司
+他 was like
+Dude, Shatchapit T is out, this was like pre
+pre like the shatchapit was called
+I didn't think this back in the day was just like a playground, it was like super early in GPT3
+Like before shatchapit T days
+And he was like, why are you not using this yet? Like you're writing code all the time like, yeah, I'm gonna try it out, you know
+他一直在推 me every month
+每個月我開始連接我 每一個月我開始連接我
+我開始有這個問題 我需要問協志
+很重要的 每次遇到人 每次討論
+人們都會有這些問題 或是在工作
+他們會有這些問題
+你會問協志
+每次你問任何問題
+任何時候你需要解釋
+就是要向協志
+就一直在那裡
+很低的努力
+你會有一個很簡單的方法
+問協志 任何事情你都會問
+你只能讓我知道世界
+對,但最重要的部分是
+你能夠快速地
+完成那一刻的實現
+或是成功的成績
+然後技術可以
+成功地發展
+並非在一種充滿的方式
+但在一個方式上
+會給你很細節的
+或是不同的學習
+或是什麼形式
+最適合你的學習風格
+讓你能夠
+明白和成功的
+這很難
+我认为我挺有趣的
+所以我会问你这些东西
+然后你会说
+我明白
+我明白
+这太难了
+你再来一次
+再来一次
+然后你会说
+然后你会说
+你会说
+你会说
+好 从事实上是时间
+然后你会说
+好 这些东西
+在世界没有存在
+如果没有存在
+他们会还在这些东西
+说我这些东西
+我12岁
+我需要了解这些设计的权力
+继续展现我需要的设计
+让我明白这些
+有很多的创造方式
+可以使用
+把这些设计的权力
+提供到的
+我认识了很多东西
+尤其是前一阵
+像是比较好
+一年后
+当模式不太均衡
+我认识的东西
+我可能不能认识他们
+如果我不懂
+把这些设计的权力
+提供了我可以问一千个问题
+对 然后再提供一千个
+這個為什麼要教習近平在學校中
+這是一個新的語言
+就是
+你知道
+你仍然需要其他東西
+例如生產、生物、其他東西
+但是知識是一個新的新年代
+你不能跟任何東西相比
+這是一個很 concrete example
+因為人們不想想知道
+怎麼 AI
+怎麼不斷地改變世界
+現在我正在工作
+但是我現在的工作
+是因為
+大家會想
+需要一個學生
+對嗎
+很多人都沒有學生
+但如果說了
+五年前
+一位在最高的AI學生
+一位在高校
+他沒有在學校
+他只想要
+學到這些很好的東西
+在其他地方
+但他沒有在學習
+人們說
+不,這不可能
+對嗎
+但是我們現在在這個狀況中
+我可以做的工作
+是因為
+中國人
+已經做了很多年
+就是用 chatgbt
+那是瘦的
+猛烈的速度
+世界会发展到 chatgbt
+你能做任何的搜索
+如果你想做生费
+或者做团体
+你能做到的
+就是厉害
+这会有
+优势的大量的
+优势的大量的
+任何人都能做到
+只要
+他们知道
+用 chatgbt
+20元
+每个月
+他们的想法
+是很好的
+和理解其他東西
+你用CHAGYBT使用
+學習成為
+世界最好的影片模式
+很簡單,很多人問我
+我會問我,你其實做什麼
+做什麼,我都不知道
+我都不知道
+但我覺得很特別
+很簡單,你看影片
+你會覺得,這部分
+不太好看
+你去改變建築物體
+改變資料
+你訓練模式
+看結果
+你待會兒在影片中
+你會說
+這影片更好
+這很好
+這跟MOSTER有關
+然後你再做
+你會說
+我 next thing I want to fix
+我 next thing I want to try
+AI is really good
+因為
+我這個問題
+Hello AI
+這就是我的整個 Codebase
+告訴我10個想法可以做到的
+對嗎?
+你會告訴我很多想法
+你會告訴我一些資料
+你會告訴我一些很棒的東西
+你會告訴我一些很棒的想法
+你會告訴我一些很棒的心態
+你會告訴我一些想法
+跟朋友說話
+說得很棒
+對,很像是非常直到
+那如何找到別的資料
+去推介你
+他只知道
+他只知道
+對,他只知道4.0
+就像我以前的模式
+你只要把網址印出來
+然後你只要把網址印出來
+然後就能做到嗎
+因為模式只會記起網址
+對 它就是網址
+像是大紙紙
+像是紙紙紙紙
+但你也可以用搜尋的功能
+對
+你也可以用搜尋
+在你正在說話的時候
+你會覺得
+對 找一些紙紙
+就在這裏說
+然後
+明明不在寫紙紙
+詞字字
+你懂嗎
+你用了GVT
+我還有我的教訓
+像我OK 我想要
+給我一張紙紙
+因為他們通常會用一些技術
+我已經知道的
+他們會介紹一些新的東西
+然後我問他們
+OK 跟其他東西
+告訴我一堆
+非常細節的
+就是他們做的
+跟之前的東西
+這是一個很好的詞語
+通常你會說
+這篇文章
+可能會令你不太值得
+嘗試看
+然後你就可以去到 next one
+還是你會說
+這篇文章是很好的
+我只會在詞書中寫詞
+如果我真的想要去寫詞書
+然後我會在詞書中寫詞書
+我會在詞書中寫詞書
+然後說
+我會在詞書中寫詞書
+然後我會在詞書中寫詞書
+哇
+我會在詞書中寫詞書
+我覺得很重要
+你不可以在詞書中寫詞書
+你不可以在詞書中寫詞書
+不
+我不是詞書
+我非常喜歡詞書
+不,你好像有一個很不同的方式
+如果你要建立一些很細切的東西
+你必須要明白所有東西
+因為尤其是你正在推動一個前面的任何領域
+我希望大家能理解所有的基礎
+我認為第一次的反應是
+你只想要用削減度
+你並不想要理解所有的東西
+你只想要把A.I.SLOP的東西拔出來
+我覺得這不是對的
+我希望用削減度
+那當然是
+但我希望用削減度
+去理解所有的基礎
+這很重要
+像在冠軍的情況下,
+OK AI 和工作都做得很好
+我從來沒有想過
+或者在冠軍的情況下
+你需要去學校
+他們有一個模式
+以及一個資料的資料
+你需要這個教育的教育
+我應該說在這裏
+你需要這些東西
+AI 很好
+你需要用它來做所有的
+你需要用它來理解所有的
+對
+然後訓練人類的AI
+似乎在於
+在你的腦袋中
+在你的腦袋中
+所以你在斯坦克里
+你离开了你的第一个兼职
+你怎么找到你的方法
+在沙发加州
+你做什么
+我一直想继续工作在兼职
+我一直在沙发加州的币市
+因为我都知道
+我都知道大家在这里
+我都知道
+我都知道大家在这里
+说话
+我发现
+我估计
+你可能是
+超级好学习
+最快的
+这些是
+很可惜的
+像我 s 我 s 我 s 我 s 我 s 我 s motorcycles
+billioner
+Yeah. And like back then the best thing you could
+do was to work with the very best people.
+So that's what I'm trying to do.
+And so so how do you work with the best people?
+Well you talk with as many companies as possible.
+You make sure you know you interview the person
+interring you right?
+Like what have you done?
+Like do you do you guys do pull requests?
+Do you make sure to really review my PR
+So I actually know what mistakes I do?
+And I managed to join a couple companies
+我和很多的工人和工人
+也很想要
+我也是很清楚
+我總是要做一個合作的
+最大的錯誤是
+我跟同一家工人
+同一家工人
+一段時間也很久
+那就是
+我看到別人的錯誤
+所以
+一年後
+在高校
+你跟你的第一家工人
+你只能找到
+最好的團隊
+或是最好的工人
+或是最好的人
+你以為你能做到
+你會做到他們的
+你會學會他們
+然後你繼續找新的機會
+或者更好的團隊
+對,我只能讓我可以在我工作的地方
+讓我可以在我工作的地方
+可以在我工作的地方
+你試著找最好的地方去工作
+最好的人
+你試著去工作的地方
+跟他們一起合作
+讓你確認自己的工作
+所以你不只要做
+任何的工作
+因為你不只要學習
+讓你真的給人的感受
+給人的觀察
+因為那是最好的方式
+或者有什麼訊息
+給人的訊息
+也许能很丰富
+但也能让他不断地找到信息
+对 然后打电话
+打电话 然后说
+那是个很棒的评论
+现在我们就通过所有的订阅
+一起打电话
+你学会了很多
+你只能问一堆问题
+什么是最好的
+成为一个很好的订阅
+是非常难的
+是一个非常大的地方
+有很多第一个主要的东西
+和意义和理解
+而且他们很容易
+在你订阅他们
+但他們很難學習
+要有誰可以告訴你
+你會很棒的
+同樣的
+因為你只能做到
+一個有機的工程
+或是一個教授
+但現在你也有AI
+你也能做到
+你能做到這在任何公司
+你也可以在任何時間
+你能做到4時
+你已經做到一些修正
+或是寫了一篇文章
+你還可以問AI給我一個訊息
+對
+我可以告訴你為什麼這個好 decision
+我做了這事一段時間
+我認為當你找到一件事在你的生活中
+那是真的好
+你應該要把事情揮露到最高的位置
+像問卓卓的100個問題
+對嗎
+對
+我經常用卓卓的手機
+我寫了一條文章
+放在那裡
+然後我會說
+這就好
+這就好
+或是怎樣
+可以做得更好
+為什麼不?
+我會告訴你
+但是有些人會說
+你可以這樣做
+才算比較簡單
+你只能隨時學習
+對
+如果你在做這件事
+一百次 a day
+那一百次
+想要的問題
+或是追問的問題
+你能夠把99.9%
+人的世界
+成為一個高校的
+學校
+應該會有
+我認為
+有很多宗教訓
+要從人類來看
+人類的資料,還有其他情況,當情況變成了想法的同時
+如果想到模式的表現,例如在網站里訓練,會有一些不同的想法
+有時會有奇怪的想法,還會有很多的資料在找到最好的人
+但現在你有95%的資料,也就是這樣
+所以,找到最好的人,會有很多的資料
+但也會經常用AI,到哪裡去,去建立深深的理解
+你不會想解決任何問題
+任何的概念要學習
+對
+你學會從這些學生
+你會在不同的公司
+不同的YC公司
+或不同的
+所有不同的機會
+你怎麼會來美國
+如果你沒有去學校
+如果你沒有一個高級的計劃
+對 開始了
+加入一家公司叫Dateland
+我們做了一個空隙
+但是更有表現
+和分家的一位
+對
+可以說是一個層面的安排
+這是一個很重要的決定
+我在工作裡面
+和工具師很高興
+他很愛教大家
+他很愛擁有完美的課程
+因為我寫了課程
+他只會用100句話
+哇
+他會多一段時間想
+他會覺得很棒
+他會說
+第一次的主題是為了
+為什麼Colors在某種方式上
+寫了一段時間
+在某個時候
+我工作了一段時間
+從 sweden
+他們在新加坡
+我心想
+我真的想到美國
+這就是我最初想到美國
+這並沒有發生
+因為公司被拒絕
+還有
+還有其他東西
+我決定離開
+那就是我最初的
+我開始了一個 process
+有一個叫J1 visa
+比較像
+可以說是一個 internship visa
+因為我們都很短
+我真的不想要一個 OWA visa
+就說不然
+然後你也不需要贏得
+優惠金錢
+還有這些普通的東西
+然後我就說
+對 沒辦法
+怎麼做這個
+然後我再花了很多時間
+想想想看我什麼
+然後就去到新加坡
+我來過STV
+幾個月前就在討論
+人們想想看
+什麼東西會做
+什麼好企業
+然後我加入了Mijorna
+當我加入Mijorna
+我就說
+現在我們可能可以加入O1
+然後 turns out the O1 Visa
+有很多的創意
+可以得到O1的
+很多的創意
+例如我們用的一件事
+我的O1的創意是
+我的中文書
+我記得我的CUSTOM在告訴我
+你花了你的時間
+回答了很多中文書的問題
+然後我就說
+你不知道
+可能是有幫助的
+然後 turns out
+中文書的書
+可以算是
+對 這裡有的
+這裡有我的書
+所以你能用中文書
+來獲得
+學術審判
+對
+你的O1
+我們就是真正的
+我有一百萬的
+很多人會看你的帳戶
+很嚴重 會下載
+任何東西都沒有
+如果你獲得獲得獎項
+你會幫助很多人
+就是Crateer
+你會幫助別人嗎
+我覺得GitHub
+或者StackOverflow
+是一個非常有創意的方式
+去建立Archieferio 1
+所以
+你中途中
+是
+最大的
+最好的AI
+在一家新的創意
+你怎麼在工作?
+對, 挺有趣
+我覺得很難得
+決定在你的行李上
+那是很可惜的
+但想要有多少小機會
+你只要發展
+想發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+你只要發展你自己的運動
+好, 現在來吧
+你會做一個改變
+對 做一個改變
+一個改變 讓它實現
+對
+你確保結果的結果
+是一個很高的公司
+對
+而且也要很清楚
+如何給他們的價值
+讓他們明白
+你不是誰
+我不是誰
+但當你表達什麼
+例如說
+我做了一個叫做快速的事
+一個很表現的網站
+你每次跟別人說話
+你覺得是很重要的
+可以幫你
+你給他們看你能否表達好處
+我建立了這個很好的東西
+你應該看到它
+他們都說
+哇 這個很棒
+現在突然
+他們有很多朋友
+來開始做兼職
+現在他們想要介紹你
+因為他們看到你懂事
+每個人都想幫助你
+如果你首先能確保
+你能給他們表達
+因為他們可以獲得
+很多的社交資料
+做一個介紹
+對 做一個介紹
+你買了一個我介紹的
+他們是好高的
+如果你是一個人
+如果你是從中央
+像是你從中央在 Sweden
+如果你是一個人
+你會如何去表達
+你的價值
+給一些人重要的
+第一件我推薦的
+是做一個模式
+非常非常簡單
+其實很難做好模式
+因為很多人都覺得很難
+因為他們需要做一個模式
+很難做
+他們沒有技巧
+這很不正確
+你可以做很簡單的
+你不用那麼多的知識
+做一個很好的研究
+最難的部分是
+讓人們明白
+為什麼可以用三秒的研究
+你會有100個
+一個程式
+如果你用一個連結
+然後他們會用一個連結
+然後你會有一個鏡頭
+讓你確保你做了一個很好的研究
+讓人們明白
+他們在看的時候
+是很難的
+讓人們明白
+你真是好運作人
+就是很難的
+但是你還在
+那就是他們想要的
+我 mean companies just want to make money
+you show them how to make money
+that you can code
+and they'll hire you
+and then you might say
+oh but the only hire people with degrees
+well yeah because literally no one has ever
+show them that they can do their work
+they're like oh i had these internships
+and the interviewer would be like
+ok what did you do there
+oh i streamlined pipelines
+and made things 30% more efficient
+and it would be like
+ok well
+that tells me literally nothing
+ok well what have you done
+oh i went to harvard have the best grades
+well i still don't know
+如果你可以做工作
+但我還有這些更多的
+我當時是參加 debate champion
+然後開始跟這些事情一樣
+家人會告訴你
+人們在你身上會告訴你
+沒有任何問題
+唯有的原因是
+沒有人可以表達他們可以做任何事情
+所以他們開始聽到這些
+諸多的事情
+沒有人 總之都不想要
+現在有些人都不想要
+這些人是誰
+不想要的 他們不想要
+他們只想要做模擬
+就是很棒
+你只想說 我可以做模擬
+很棒 這是一個目標
+每個地方都很完美
+當更遠離開了COE
+就越來越難了
+因為人們開始失誤
+對比公司最好
+而他們不想失誤
+他們不想失誤
+他們不想失誤
+所以他們如何去買一個
+如果他們是不好的
+他們不會再買一個
+他們的明確信息
+他們去到最高的學校
+對
+他們去到最高的學校
+我怎麼知道他們是不好的
+所以他們的學校
+不一定會錯
+所以那就是
+他們的想法
+像是不准购公司的责任
+所以通常是购购公司的责任
+他们不尽力
+他们不可能知道如果是好或坏
+他们只会在这些企业中发出企业
+这就是为什么人们说
+我需要一个认识
+因为他们说的都是所有的
+人们都知道
+你只能跟人们说
+你只能去一个设备
+去逛街
+每一个设备
+我都知道
+有一个高级的人
+有一个高级的公司
+他能学习
+对
+如果你们真的好
+在用SHAGBT
+你们看到一个这些人
+在一个设备中
+你们会跟他们说
+你給他們我的提問
+你會說
+對,我會想
+我們可以在一起工作一週
+自由工作
+這會很開心
+我剛才有這個想法
+我可以跟你們一起工作
+沒有任何的工作
+沒有時間
+只要我做好資料
+100%都會說
+對,你會說
+好,我做好任何事
+我可以看到你做得好
+如果你總是一個人
+他知道的事
+他不一定知道的事
+如果你是一個 smart person
+你能用 chat 信用
+你可以找到工作明天
+然後這裡是人們說
+但是這是一個危險
+我真的想去學校
+我真的想去所有這些東西
+沒有危險
+你還可以做到一個危險的方式
+你去學校
+你去學校
+去學校
+然後在學校
+你去學校
+然後有很多危險
+你只會再多放一些時間
+去學校
+當你工作時
+沒有人會看到你的 degree
+當你工作時
+你只會有一個工作
+你為什麼會在學校
+你怎麼做這些事
+like where is the degree coming like
+it's things you do way much harder than if
+you did linear algebra in school.
+And this is obviously for the people who really want to
+go all in at their career,
+this is you know obviously not the right thing for people who
+i mean I also recommend my my friends are like yeah go to college
+It's an awesome time right.
+you have so much fun,
+you meet a bunch of friends,
+you even like learn things.
+I mean it's it's it's not useless to the things you learn.
+They just teach them to you in very inefficient ways.
+你會遇到很好的人
+你會遇到更好的人
+如果去到San Francisco
+或去網路和人們
+或工作在公司
+你會遇到更多更多更多的 interesting people
+但你仍然會遇到更多 interesting people college
+你會得到更多的東西
+更加不足
+所以這是一個問題
+就是你希望做什麼
+我覺得很容易去確認
+高級是對的
+如果你是超級有趣的
+我總是說
+我只想說
+你能夠跳出最快的
+你還可以做到安全的事
+去那裡
+and making sure you can continue to don't get a job
+but if you're
+you know really ambitious and really care about your career
+I mean that's you know the obviously the best thing to do
+I would have dropped out of high school
+if if I couldn't get someone to do it for me
+Yeah
+so no that's that's really awesome
+University in a lot of ways is in super confidential way
+We're like I see it a bit like an adult daycare
+you have a bunch of people who needs to take a decision
+about what they want to do
+further on in life
+and you don't want to make a decision
+and then an option comes up
+尤其在 Sweden where you don't even pay for college
+他們說
+你可以給你自由的錢
+然後將資料進行進行進行的
+我們也有這些學習
+你不需要再決定
+如果你想要成為律師
+你也要做這個慈禮
+但如果你不想要成為律師
+我們有這個
+律師、工程、
+或是工程、
+這些學習
+你不需要再決定
+你繼續做一些 random things
+五年多
+你只要將資料進行
+人們喜歡將資料進行
+我不想要展示
+我一直在做這件事
+因為那是你覺得的
+不確定
+但你會覺得你選擇
+你會做什麼
+如果有人做了什麼
+五年
+他們賺了一份錢
+如果他們拿了一份
+完全分別的工作
+例如他們從
+財經上去做
+或是賣東西
+如果他們賺了更多錢
+或是更開心的東西
+人們會說
+你只是這樣做
+你只花了五年
+你的生活
+你知道
+這真的有奇怪的問題
+他們只改變了
+他們的生活
+和生命的
+可能他們也不太疑惑他們的 salary
+但他們就更開心了
+我覺得他們都很開心
+什麼建議你給一些人
+他們不太知道他們想要做的事
+他們好像18歲
+可能他們在學校
+或者在高校
+或者他們剛上學
+你告訴他們
+這是一個很普通的人
+我遇到很多人在這個位置
+我已經在這個位置
+我開始了
+在一個很年輕的學校
+我真的想要做錢
+或者想要做生意
+或者我想要成功
+我並不確定這意義
+因為我從沒看到任何東西
+然後我還不知道什麼是最初的
+但我想繼續在生活
+然後你開始搜尋一段
+如何讓我賺錢
+然後你看到這些服務頁
+然後你坐在服務頁
+然後你覺得我賺錢
+然後你一直這樣
+你沒有辦法去開
+然後沒有人告訴你去開
+然後你去學校
+等了8年
+然後你開始做事
+等了10年
+然後你去學校
+然後你去學校
+然後你去學校
+你知道,某些人很幸運
+他們玩 Minecraft
+然後他們開始玩 Minecraft servers
+然後你知道
+他們說,我可以付錢
+你知道,從外面的人都知道你在做什麼
+然後你開始想,對吧?
+然後你還好,然後你知道
+我這樣,你知道
+你做了什麼,你開始付錢
+然後你開始真的想
+想起一些東西,從正面的看法
+我認為我的建議是
+你真的要做一種信念
+然後變成了 software engineer
+特別是會聊GPT
+然後做Demos
+那些東西
+那可能是一個好信念
+你知道,開始玩遊戲
+好奇是在手機上
+可以展示你的工作
+非常簡單
+給人們傳達的資訊
+你玩遊戲
+你會有好歷史
+和為何很高的行政
+和能夠學習的
+然後你可能會
+展示一個例子
+如何能夠學習
+從赤征匹匹
+我 mean hiring managers will love this
+but oh, this guy gets it, right?
+and they just send that to like 500 people, right?
+and one of them will be like, yeah,
+I should give you a shot, you know,
+you're an undiscovered talent,
+you'll make like 10 bucks an hour now when you're early,
+but it's worth, you know,
+it's worth our time to try out
+and this person will learn a lot,
+the work would real people.
+Like as fast as possible,
+get yourself into real context
+with real problems where you make real money
+where people have like real economic incentives
+and from there,
+你永遠都會繼續承認
+那你沒事
+但你真的很難得到
+那一場跳舞
+那一場跳舞
+從一個舒適的高校
+到說我正在工作
+正在工作
+那都是一種經濟的路線
+有一個很經濟的路線
+我們可以做這個
+一個經濟的路線
+因為很容易
+如果你想成為一位市長
+你會怎麼做
+當我當年16歲
+我會做的第一件事
+是要給很多人發訊息
+說我可以做經濟
+他們都會承認
+為什麼會回答
+大學或是學校
+如果你進入他們的網站
+你把他們的工作創造
+然後你做了他們的自由工作
+然後你把他們的工作放在他們的身上
+然後他們就會說
+這傢伙就做了工作
+這是一個很低級的工作
+這是一個很低級的工作
+每個人需要很多的問題
+你就可以解決一種問題
+你已經做了一部分
+你已經證明了
+你可以做到
+這也讓他們更容易決定
+好,我們開始了
+我們開始了
+我們開始了
+你覺得這是最重要的事情
+要做到的?
+我非常愛AGI
+我只能做到的事
+我現在做的事
+我愛的
+我好多人
+我會做到
+很棒的人
+因為是AI
+我現在做的事
+我會做到的事
+這就是
+更快的新技能
+所有的項目
+比如說在CESA 上
+或者在做一些微軟的測試
+如果有些人很興趣在空中
+他們不可以學習所有東西
+而是在做小型的搭載
+然後他們可能可以加入一些很好的搭載公司
+還有一些不可能的空間
+就是更新的AI搭載
+然後有兩倍的GDP增加
+我們會看到的
+我很期待
+我有一些 Twitter posts here
+非常有負面的 take
+我們會通過一些熱帶的影片
+讓你更加深入
+學習ML with my Professor01 Preview
+監視一下,設計,預先,解釋部分
+解釋為什麼它會有效
+主題是為什麼
+解釋我像M12
+去到所有的細節
+學習這個方式的方式會很難
+對,我認為在這裡
+因為我想變得非常好在ML
+這 is kind of the path that explained before
+of how you can learn very fast
+So you started the problem
+You can ask genre of the for which problem you should solve
+just give you great problems to start with
+and you coded witch at you with T
+you try to understand the code how it works
+when you understand the code
+you can go into depth for each specific module
+How do you learn that
+just recursively go down all the way down
+and yeah
+with just having a very strong feeling
+Wow if I had to learn this from the math up
+that would be so hard
+有很多時間
+對
+如果你想要
+我需要這些預算
+在CS406之前
+我需要CS365W
+或者什麼的
+我覺得會更難
+我覺得這就是
+對於信念的錯
+我們說
+這不合理
+我應該要學習這個項目
+這是預算
+因為
+我喜歡你叫
+O1預算你的教授
+我喜欢你
+你能学到什么
+我能随时去
+从最后
+到最后
+我没有能够触摸那些知识
+我只是在地上
+做了一些评论
+对
+这就是
+我们的认识
+认识
+我认识
+在上海
+我非常认识
+学院
+不可能
+学院是一个很好的地方
+因為那不是你應該要做的
+我覺得很多人
+他們覺得很開心去學校
+很多好事都會出現
+像這些紙牌等等
+但有些很危險的行動
+人們要去學校
+一件事就是
+你只能學到
+基本的學習
+從開始開始的方式
+人們很願意去防這個
+但他們已經準備去
+去戰爭了
+他們說你錯了
+你永遠都不會理解這些事
+然後我問
+為什麼人們 become so upset
+我意思
+it seems like you know
+as someone spends a lot of time doing something
+and then being told that
+oh, there's more efficient ways to do this
+I mean, their egot is hurt, right?
+yeah. They spent 10 years doing something
+10 years doing something
+And this high school dropout comes out of nowhere
+and just learns it
+yeah. It's tough
+It's really tough
+and when I write this kind of things
+it will hurt people's feelings
+and to be honest
+that's kind of the point with it
+because these people gatekeep others
+from getting into whatever they want to do
+如果某些人17歲的時候想學ML
+然後他們問這些別人
+他們從前學習過
+他們就會說
+對,你需要花很多時間
+你需要學習這些學生
+你需要這些教師
+這些學生
+等等等等
+然後就不太確定
+這不是你需要的
+你還可以做
+還好,你覺得那還好
+你去做
+這可能是一個好事
+但有些方法
+如果你把這個想法
+那是背後這些想法
+更多人可以做
+我做了什麼
+大學沒有維持基礎的基礎
+我學會主要的主題是
+在學校的學校裏的教育模式
+像CHAGIPT
+我通過一些類似的教育
+我剛才介紹過的
+我學會如何學習
+也很清楚我會說到
+基礎的基礎
+我真的很喜歡
+他們沒有維持基礎的基礎
+而且他們也有
+經驗自己的興趣和學習
+他們也能學習任何東西
+然後,學生想要有一個模式,在學校中
+如果你是學生,你整個生活中
+你已經花了時間,跟別人說
+為什麼你去學校這麼重要
+然後你不需要了
+他們會把所有的力量做到
+保持著那一種方式
+如果所有最 smart 人都開始學習
+那些最 smart 人就不想去學校
+然後這些學生的資料
+可以在學校裡有
+很壞
+他們的優勢是很難的
+我花了十年
+I'm like $400,000 in death
+I have successfully combated my dissertation for my PhD
+and you're telling me that
+David Peterson over here says
+I'm currently doing a job traditionally only done by PhDs
+with zero ML or math experience
+with the help of chat GBT IDK
+what other proof that chat GBT is at PhD level that we need
+Yeah, it was a pretty good post
+To be clear, I mean the people who are professors who have done PhDs
+他們做了一個很厲害的工作
+他們做了超級好事在世界上
+他們做了一些研究
+但是很重要的事
+我想不定這些人
+我好像在討論這些人
+那是不正確的
+我只想討論這些概念
+是來自於老的思考
+它 takes three days to learn diffusion models top down
+6 years before you can learn it bottom up
+那是最完美的考慮
+對 如果你想學習
+工程模式後的學校
+就像六年代
+學校前你會再次遇到它
+你會說 要學到一學、二學
+再學到一學
+然後再介紹機車學習
+這是一個問題
+你怎麼知道
+你喜歡學習工程模式
+六年前
+這是一個問題
+學校的問題
+你可以嘗試不同的工作
+你不需要做什麼
+我認識很多人
+Oh AI sounds cool
+So I'm gonna take this course
+And they have no idea what an AI is
+Until they're like three years in
+Which is insane
+Like should really take three years
+Until you know what you chose
+To do the rest of your life
+And spending millions
+Like oh shit
+Maybe I wanted to learn something else
+But you could have just learned it
+Far faster
+If you yourself had felt more agency
+It's like literally just like
+Can you think you can learn
+Diffusion models in three day
+And even if you want to go to university
+Because I mean going to university
+就好像是很棒的經驗
+我現在知道的
+但是好像是超級有趣的
+而且如果你想做到的
+你可以繼續去學習GVT
+學習這些東西
+去到最後看
+看這個
+看這個意思
+我只知道
+這其實很有趣
+我準備學習這個
+那是很棒的
+你做得很好
+你做得很好的決定
+你會知道你學會很多的學校
+你會知道你學習一些有趣的東西
+你做了很棒的決定
+我愛它 when people
+能夠學習什麼東西
+更快的
+在時間中
+別人不可以相信
+他們很用心
+我花了這麼多時間
+在挑剔
+你能像個
+一個生活的例子
+做這個
+你可以做這個經常
+如果你相信
+你能學習什麼東西很快
+然後你會
+繼續問問題
+像你躲出來
+像你學習什麼
+然後你能在
+世界上最愛的AI
+是瘋狂的,很簡單
+在最後,就像是
+公司想讓人們做好東西
+讓他們做好東西
+就像是,把所有的資料
+你每次收到的,但找到工作
+然後就開始從那裡,很簡單的
+因為那就是所有的事
+然後人們會嘗試加上
+你知道,東西在上面
+對,就開始從那裡
+這引導我到一個你的推特
+公司想要做錢
+所以,你需要做的是
+讓他們知道
+如何幫他們做錢
+把所有的東西
+你都說過
+要做好工作
+然後開始從那簡單的說法
+我覺得人們很難受惡性
+當經常給予提供
+如果你下了五年
+然後你很開心
+然後你覺得
+我學會了好東西
+然後有人來問你
+你好
+我會有很好的生意
+我應該做什麼
+還有這位人
+他選擇了
+基本上每個人都選擇了
+他想做
+例如 soft engineering
+他會說
+我總是想
+你應該花這五年
+在學校做這個事
+他們沒有資料
+他們很想要你最好的
+但他們的作用完全沒有意思
+這人沒有生活經驗
+這人沒有一件事
+沒有跟任何其他
+甚至他們試過
+他們可能不可以做
+因為他們看著
+我做了這五年事
+然後我還在浪費那段時間
+不,這不可能
+這應該是對的
+你們的意見
+總是經常有資料
+所以我通常都推薦大家去拒絕
+最多的建議
+就是我從高校上上學
+因為我拒絕了建議
+我從來沒有相信別人
+我一直覺得
+對 別人最好
+他們真的覺得他們最好
+他們覺得他們在幫忙
+但你知道
+很多人會給你建議
+不幫忙
+例如我
+如果問了一個人
+在學校
+並沒有想過他們的行業
+他們就把這個同一事
+他們會有很好的意義
+但你知道
+其實是一個反應
+不代表什麼
+你怎麼跟對方交通
+你跟你的父親一起過時
+當你下降了
+這很有趣
+這就是我後來發現的一件事
+我認為很多人會覺得
+哇 還有兩種類型的父親
+比較像是一個學校
+我父親永遠都不會說
+你應該給學校的學校
+他們就說
+只要你學校的學校
+像是A到F
+你會有E
+如果我會有E或多
+他們就會很開心
+那都是我永遠都沒有的感覺
+他没有另一个想法
+我感到很怀疑
+我问他
+为什么他们不在乎
+为什么他们不可以
+让我做事
+为什么他们不可以
+让我做事
+我真的有很大的不知
+但是我想做这些好事
+为什么他们不可以让我做事
+然后就像这种
+优势的年轻人
+我父母在最后的
+一个角度上
+那角度是
+你对你的孩子
+有多深刻
+对吧
+父母在另一个角度上
+他们的孩子
+有很大的深刻
+这些是
+父母可能没有
+成功的事情
+他们想成功的
+跟孩子一樣
+現在他們正在活動
+他們的夢想
+通過他們的夢想
+你會變成一個醫生
+你會變成一個 lawyer
+這是我的夢
+這是你的夢
+我愛你
+只要你做這些事情
+因為這是我會做的
+他們是我最好的朋友
+他們確信自己
+我真的想這個
+因為我真的想
+但很常是很生氣
+我希望我的孩子做到這個
+所以我可以告訴我的朋友或朋友
+我可以做到的
+所以你還有這兩位
+大家在中間的地方
+在瑞士那裡
+比較常見的地方是在很遠的地區
+很少的朋友在瑞士那裡會
+關心你的學生
+因為是一部分
+因為是一部分
+而且我覺得人們不像他們的
+朋友不像他們的
+太多的孩子在大學上
+那當然有很多人也有這種想法
+但我覺得是一種不同的分別
+現在我明白這方面的效果
+我非常高興在我自己的孩子中
+有經驗過我自己的想法
+我只是有支持我自己的想法
+我明明是有點驚訝
+我當時在高校
+我爸爸就說
+不不不 這是不好的
+但他們很快就開始了
+是沒有錯的
+我感到高興
+那是不錯的
+我覺得很多人
+沒有這種經驗
+你決定要從哪裡拿出資訊
+有幾個人要從哪裡拿出資訊
+很少
+我可能可以把他們交給一邊
+我跟Cousin和我
+很像一個人
+和我們想的
+他也有很多年年輕的
+所以他去到學校
+他有一個好原因
+他覺得我去到學校
+你和我想非常像
+我們想同樣的東西
+你會花時間
+那是一個大部分的信念
+OK, we think he's a similar about things
+and he kind of like short-cut a lot of things
+that he had to go through and spend years doing
+that wasn't worth it for him
+and I could kind of just like follow his footsteps immediately
+and yeah, he's one of the people I take a lot of advice from
+and that I based a lot of my opinions on early
+but especially if you aren't established yet
+you don't really have a track record
+you're young, you're unproven
+and like how do you go about like finding advice
+或者是承诺的方式
+或者是学会的方式
+然后像是什么
+你做的
+像是怎么做的
+怎么做到
+自己的发言
+我觉得很容易
+被人家的肩膀
+像是一个很严重的16岁
+然后像
+首先像是看
+motivation 和言语
+在 YouTube 上
+有很多这些人
+像是我做了几万
+然后我做了
+然后就全部都不停的
+然后你
+你去看这种
+感觉之后
+就像我看到了什么
+我看到了一个秘密
+是有 secret
+現在我感到
+我感到良好
+我感到良好
+我感到良好
+你會覺得
+對,我現在會感到良好
+那你會醒來
+到其他日子
+然後就已經被人迷走
+這些影片
+他們是用材料
+為了感受到良好
+而你會感到良好
+和在做什麼
+是同樣的
+人們的優點
+是關於良好的障礙
+有些人說的這些東西
+是非常好看的
+我覺得他們都很好的看
+我覺得他們的課程很好
+工作很好
+有些人的生活很好
+沒有任何的問題
+如果你們不做
+你們在做什麼都好看
+對嗎
+什麼都好看
+你們還不知道
+因為你們年輕
+你們也沒有資料
+但是你們應該開始嘗試
+而且這就是一種方法
+是做真正的工作
+解決真正的問題
+有很多的充電器
+有些人會有工作的工作
+你必須找到他們
+去到Linckteam
+找到職業的創作人
+傳訊息給他們
+說我想試試在你們工作
+試試在這星期的工作
+我準備做什麼
+我能做好事
+我能開始工作
+做很簡單的事
+給你們一種最快的
+實際的經驗
+這是我最大的想法
+我每次做到的事
+我從來沒有做過
+那是不想做到
+真的體驗
+比如我花了很多時間
+在學校和學校
+學會
+有好處
+早上起床
+走路
+我感覺很 productive
+沒有問題
+無論如何
+如果你是不做
+什麼
+那也沒關係
+同時
+就是
+差不多都是工作
+可能是別的
+你需要去探索
+但我和很多別人
+覺得
+who think alike, gets your first job as fast as possible
+which is very tough, requires a lot of work
+but that's where your eyes should be at
+70% of people are in permanent slight suffering
+because they're allergic to making any mentally tough decision
+when there is also an option to do nothing
+This is a very good post
+this summarizes I think..
+if people have read this post, understood it, and acted on it
+我覺得世界上的生命會變20%
+像我這樣說的
+你會有的工作和 satisfaction
+因為我發現
+人們很容易做不好的決定
+當他們很難做
+別人都知道他們很難做
+因為你的腦袋不讓你懂
+如果你在工作
+你不喜歡
+你喜歡什麼
+你的選擇
+你的選擇是
+去到一整個工作
+去跟他們做
+然後你準備了一些工作
+你必须要小心地做好工作
+你必须要做好工作
+你必须要很自信
+你必须要受到受到受到的受到
+你必须要与其他工作
+是一种很好的经验
+然后你必须要告诉你
+你必须要对自己的工作
+我相信你
+你必须要对自己的工作
+所以前一段时间
+你会想到一件事情
+你会想
+我现在做的最好的是
+我现在做的最好的是
+我现在做的最好的是
+你如果超级想要学习
+你会确定自己
+你最能学习的
+你無論你是第一次工作
+無論你是第一次工作
+而是一個完全平常的工作
+除了所有的工作
+你會把你最多學習得好
+即使你已經在那裡三年了
+但什麼是
+什麼
+看得到的
+正常的
+對 什麼是
+說你希望的事
+是一個好的工作
+一個簡單的事
+你可以希望的事
+很多人想一個好的工作
+和好朋友工作
+可能他們想工作的事
+我不知道他們想做什麼
+但他們想一個合作的事
+這個非常普遍
+所以一個非常非常清楚的例子
+我曾經有一個朋友在 Sweden
+我做了一個普通的稅務稅務
+非常低的稅務稅務標題
+他的標題是非常好
+他在 Sweden 生活中
+他有可能50%的稅務稅務比普通的稅務高
+我告訴他很多時候
+他問我為什麼不去新加坡
+你只會有10年稅務
+和更好的人和更好的人用
+這些東西
+他有所有的原因
+就把他的腦袋弄成這樣
+他一直推進去
+他不可能...
+即使他相信我
+你自己是一個人
+你的腦袋讓你想起
+這是一個機會
+因為他很感動
+我剛才介紹了一個公司
+我心想
+我把這兩個放在一起
+然後讓他開始介紹
+你開始介紹
+那是更簡單的
+因為他們會
+把你帶進公司
+所以他們會...
+有動力
+對 有動力
+他們會做你所有的
+有趣的事情
+然後從外面去
+給你一個賣點
+你從來沒有想過
+現在我們已經有了一項購物
+你只需要選擇
+然後你會感到
+那些對象的東西
+會顯然會是
+去找一些其他公司
+看看這些人會給你一項購物
+這些人會更好工作
+這些更有趣的人
+他們會相信這個公司
+然後我會繼續留在那裡
+但是最簡單的事情
+就是要接受
+這位朋友
+就結束了10億元的錢
+就像這樣
+然後他把這個
+我可能還說過一年
+所以如果10億元的錢
+那就是很多錢
+就是在美國
+就要找一個工作
+對,那就是一個滿地的家
+他只懂得
+人們不懂他們的失去
+他只懂得買一個房子
+在 sweden 如果你看到
+他只懂得買一個房子
+他只懂得買一個房子
+因為他沒有做這些簡單的事
+就是買在 San Francisco
+很簡單
+你的建議是
+想來 San Francisco
+為什麼要來 San Francisco
+為什麼要來美國
+首先
+簡單的
+talent density 越來越高
+會有很高的 concentration
+和價格越來越高
+你任何一切的生活
+你的生活 standard will always depend on your salary
+所以在這個情況下
+你會覺得我生活 standard
+我還可以動作
+去獲得 permanent sun
+因為有些人會很容易決定
+有些人會很難決定
+但這些兩件事
+那是很重要的
+然後你變得更加 ambitious
+更加明顯
+更加目的確是
+去到新加坡
+你真的沒有任何其他選擇
+如果你想把你的整個生活放在 start-ups
+你最好是去到 San Francisco
+泰國舞台是非常高
+地區非常溫柔
+大家都在聊天
+你能夠去到很好的人
+還有一種另一個動作
+如果你從沒去到 San Francisco
+大家都說你應該去到 San Francisco
+第一天在這裡
+就變成了一種變化
+對 世界觀
+他們是很糟糕
+我還不知道這幾個人在想
+我做的事情在整個世界
+我只遇到
+每次想像中都會在同一個空間
+同一時間
+這是一個很動作的體驗
+這是一個很動作的體驗
+沒有人站在說話
+但有動作的說話
+然後他們告訴你
+所有的 random slope
+不做任何事
+那樣就很棒
+這是一個很動作的體驗
+有些人會覺得你
+他們會動你
+他們會想你
+他們會想你
+他們不會工作40小時
+這就是一個很厲害的世界
+and and I mean, look at what has come out from silicon valley.
+I mean nearly all innovation happens here.
+Like, it's you know so much.
+Because like probably more than all of Europe combined happens in San Francisco.
+The amount capital in only San Francisco is probably like magnitude higher than in all of Europe together.
+You know, Apple, Google, open AI, and庸北,
+You know, all these huge companies,
+They all have their headquarters here for a reason,
+Everything you care about in life like life standard wise,
+like what makes your life good.
+你會有Google Maps,對吧?
+在你之前有Fiscal Maps
+雖然, turns out Elon Musk built Maps
+像Zip2, whatever it was called
+在 San Francisco, 15年前
+你會有你的iPhone, which is an incredible technology
+built in San Francisco
+你會有Satellite Internet
+你會有人,你會有人,
+人們會被招呼,可以再次進行
+你會有Decisives, that are cured
+就像是
+這幾百萬人在美國
+和在新加坡
+就像是一百萬人在這裡
+就像是一樣的大堆空間
+對
+是瘋狂的
+但這裡有一個能力
+對
+如果有人想到新加坡
+或者在這裡走
+首先要很可愛
+要好一點
+這是第一件事
+這樣會很容易
+如果你是很 ambitious
+然後想做一些事
+你會開始工作
+做實際的公司
+然後你會變得好
+對
+所以
+當你做這個
+第二步就是
+找一個公司
+準備給你贊助
+這就是你需要好
+因為
+對
+你需要好
+因為這個公司
+會想要
+只要
+他們需要
+做一個
+經驗
+就是
+一些重點
+然後
+他們就不如
+給一些
+從美國
+如果好
+就更為
+不太重
+但 turns out
+有很少
+很好的
+software engineers in the world
+還有一個很大的需要
+是在美國的好 software engineers
+或是在世界各地
+需要很好的 software engineers
+我們永遠都沒有機會
+我們可以雙倍的數量
+在美國很好的
+所以我們仍然沒有夠
+對
+所以我們有很大的機會
+去美國
+如果你是從哪個國家
+可以做到的
+在網上
+可以做到的
+當你提供一個公司
+給你一個很大的價值
+人們在SumFrights
+就很開心地贊助你
+尤其現在
+The paths become easier.
+Definitely so.
+That's what I'm doing.
+I had a blast talking with you.
+I mean your tweets are really funny.
+I think your takes are very valuable.
+And for someone who's...
+Thought for himself
+This whole time ever since high school and even earlier like it's...
+It's really awesome for you to be able to distill all that...
+And then share it here.
+It really appreciate your time.
+我會很開心分享
+分享主題
+幫助別人
+別人想像我
+去得更快
+我可以在這裡
+4年更快
+如果有人告訴我
+我正在幫助別人
+但那是我的意見
+我自己的
+想像中
+如果有人想
+對我來說
+這一點可以很值得
+我希望這集
+能夠把握一些
+你基本上是告訴
+對你的年輕人
+對
+然後
+你知道我真的會想
+把這一點推進去
+很棒的
+那就是我希望的
+我想幫助別人像你
+從中間到世界
+讓他們有真正的獨立
+你沒有去高校
+你沒有去高校
+但是你上了高校
+你仍然能夠
+可能是一位最擔心的工作人員
+在世界最好的 AI 公司
+你做的 最大功夫
+你用的 最大功夫 最大功夫
+你用的 最大功夫 最大功夫
+然後  pretty much anyone from anywhere
+只要有網站 有 chatGBT
+他們可以做到的 他們可以做到的 他們可以做到的
+然後 目標是
+我想分享 還有更多的
+有趣的 更有趣的 還有更多的
+非常有趣的 還有更多的
+也會幫助很多人
+因為我和你一樣
+我經過了高中
+來新加坡
+想說我住在這裡
+很冷靜
+我只要住在這裡
+我還要來
+去外面的巨星
+我已經有機會去學校
+我已經成為
+最好的
+最有趣的學生
+但我只是
+San Francisco is clearly the place to be
+where all the innovation are
+where all the brilliant people
+and I just need to figure out
+how to get a visa
+how to get an O1 visa and stay
+and certainly by learning
+learning on my own, learning using AI
+I taught myself how to code with AI
+working on my first engineering job
+that led me to get someone to sponsor me
+as you said
+and then actually be able to move here
+嗯
+and uh
+yeah i feel like
+in this episode we can make it to that
+a lot of people
+um
+you know their lives are completely different in better ways
+because they listen to you so
+yeah i hope so
+that'd be epic
+that would be epic
+one more thing that i thought about
+which was a huge blocker for me
+when i was back in sweden
+and i wanted to do all this things
+我認為很多人,像我一樣,都覺得我做的,
+也覺得我做的,
+他們認為他們不太會做的
+我記得,我還以為我是個瘋狂人,
+我還以為我是個瘋狂人,
+我還以為我做的,
+我還以為我做的,
+比較像是在高級學校的學生,
+對,比較像是在高級學校,
+但你見到,
+人家在做 rocket 模型
+人家在做這些其他東西
+我心想 怎麼能這樣做
+我心想 怎麼能這樣做
+我心想 怎麼能這樣做
+但我覺得很容易去分析
+超級容易去分析
+可能人們都聽到這句
+在那裡的1% 人
+很多人都不想有公司
+想做什麼
+然後花一小時在做那件事
+你已經在一百萬分之多
+那一百萬分
+那是
+你知道
+他們已經有那些
+那些五百萬的開發人物
+甚至少的
+那些二百萬的開發人物
+那些一百萬人的人
+所以
+你知道
+只有那些
+應該要把他們的策略
+如果我繼續這個行動
+這就是我才能成功
+對
+你能來這次的森林
+就去做一家大公司
+或是一家大公司
+對
+很多東西要做
+謝謝你們的時間,謝謝你們的時間
+謝謝你們的時間,謝謝你們的時間
+我認為你們是最好的人在學習的
+在世界上的AI,更多人應該知道
+我希望有些人能夠學到
+更多的東西,更多的東西
