@@ -1,0 +1,781 @@
+Great.This is going to be a really exciting panel
+and I'm very excited to speak to this group of entrepreneurs
+and investors about AI.
+The title of course is looking into the future,
+glimpsing the future.
+So we're talking about where AI might take us,
+how we might get there,
+but also I think we have to address the elephant in the room,
+which is fear right now.
+There's a lot of fear in AI.
+There's fear of missing out
+if you're a government or a country,
+but there's also fear that we've overspent.
+我們看到 overnight the Nasdaq fell by about2%
+I think,there was a bit of a sell off
+even after Nvidia released some pretty impressive results
+so of course this is all about talk of the bubble
+we're gonna talk about the future
+but let's talk about where we are right now and address this
+let's start with Matthew
+you spent a lot of time at McKinsey
+on machine learning
+and now you're CEO of Invisible Technology
+so this is your bread and butter
+working with companies to integrate large language models
+Models are they really struggling that much to integrate these systems because the big concern is all the money being spent isn't resulting in revenues for the end customers.
+So I think this is a question of adoption. I think you can look at bubble terminology is around adoption and the technology itself and then valuations and I'll focus on the first one because they can and others can focus on the second one.
+I think if you look at adoption today, it's really a split between consumer and enterprise adoption.
+So consumer adoption has been the fastest growing technology evolution in history probably 65% of there's a study recently across 50 countries.
+65% of consumers use GenAI on a monthly basis now.
+So the technology adoption on the consumer paradigm side has been massive.
+I think enterprise has taken is going to take longer than people had expected.
+And so I think if you look at the automobile took 40 years from mass adoption.
+A ją
+aam
+Is that 5% a model today are making a production to production on the enterprise side that everybody has been talking about that
+Study yeah exactly and and you know I think that is a realistic context so so 70% of the software in the US for example is over 20 years old
+You have a lot of legacy systems fragmented data and the process of actually working through all of that to adopt it geniai
+You need clean data, you need to redesign and re architect workflows and you need to actually have a line
+adoption and leadership of these initiatives
+and that's going to take a little bit longer than people expected
+so I think the adoption curve will be very material over the next five years
+and I think the consumer adoption has already been massive
+I do think the enterprise, the reality of it is a little bit slower than people originally expected
+it's just so the money will come in, it's just going to take longer
+Anna, you have a theory on this, right?
+I think that with regards to the AI bubble
+I think that it will ultimately follow a mayor's law
+就是人们 tend to have this type
+of expectation about technology
+and in reality it will kind of go through periods
+of overestimating and underestimating the market
+and I think some of what we saw last night
+is sort of I wouldn't call it a hype around AGI
+but I think three years ago when Chattopity came out
+I think people had you know magical expectations
+of AGI that are coming soon
+and I think it gradually being brought to a reality
+我們在想 about
+What is the quality of revenue?
+What is actual retention rate?
+and gross margin?
+and not just growth, right?
+And I think we're thinking about
+is this a finite game?
+is this a winner takes all or zero sum game?
+And I think we're seeing that
+I think for consumers
+you're not going to spend endless money on AI.
+You might have a budget of say $100 a month
+and what are you going to spend that on?
+Like $20 which had to be teed
+and what's the rest going to.
+So I think people are actually fighting for that budget.
+所以我覺得是體育體育
+而我覺得是健康的
+但是我覺得在時間之下
+我們會跟進馬來西亞
+我認為在十多年或百年之內
+我們會突然地 underestimate
+那些技術的AI
+但沒有人看似在說
+利用的市場的高
+800萬人在每個月使用
+CHA-GPT
+我想這問題是
+那100塊錢的預算
+會變得更大於市場
+那就是希望的
+是市場的利用
+你很舒服地說
+這會發生
+我覺得這樣
+對
+David,我必須把這提升
+你 guys 已經提升了
+你的系列 B 資料
+在 Monday
+你提升了你的
+職業的資料
+這個資料在日本
+讓你做最高價值的
+private company
+你其實提升了
+AI bubble
+其實你也有
+太多錢在賣
+因為你一個AI 公司
+對我們提出的資料
+我們已經提出了資料
+我們已經提出了資料
+所以我們可以
+提供一隻鎖鎖
+但是我覺得
+我們有很多話要說
+在智商社會
+我們有很多的智商社會
+是基於
+進行更大的建築
+而我們的公司
+我們在R&D的工作
+是基於新的
+我們看到的在中國的國家
+和中國的國家
+沒有資料
+而是更加有新的想法
+即使是在 AI 方面
+我認為
+在關於資料
+很多資料需要
+資料 能量 能量
+這才會令使用
+在市場上
+最高價值的情況下
+但我的問題是
+會有什麼技術
+而現在的GPU建築是會使用
+以下的使用方式
+我認為一些人說我們在LNM的
+不必要的AI的方式
+對…
+我覺得這有什麼不可真實的
+以這個詞語來說
+只有5%的使用方式
+現在進行進行
+但同時
+這個使用方式是
+我最興奮和熱情的
+最後我認為這可能是
+我們在這個世界上
+我們有20美元的資金
+我們在CBT上
+我們對這個新的利用
+和我們公司的想法
+是幫助日本
+進行一個
+最大的生產生產業
+在這個歷史上
+幫助他們的生產
+和這個新的技術
+確保這5%
+上升到50%
+70% 80%
+以增加產業能
+日本的工業
+這就是我認為
+在工程中的工程中
+工程中的工程中
+作業的模式
+甚至使用AI
+我們公司發佈
+技術叫AI scientists
+可以更加能夠
+使用AI的方式
+這些AI 新的新的
+我們只是看
+使用AI 新的
+新的新的新的
+我想我已經說過了
+現在我們在大型的大型的
+主流模式
+我認為在接下來的5、10年
+什麼東西在電腦中
+會比較適合
+一個個人的電腦
+所以我其實很期待
+接下來的5、10年
+我認為我們在大型的
+發展的大型
+和更高的
+新的發展的大型
+這是我希望看到的
+以及在影響中的影響力量
+以及小型的模式
+那是一個很有趣的點
+你早前提到的
+有可能的大型語言模式
+不是只是AI的模式
+而是一個很好的方式
+給你, Nathan
+因為你一個領導
+你一個領導的
+和拍攝
+你的建設
+可能是模式
+不正常地在用
+搜尋文章的文章
+但是
+我知道你現在不在做這件事
+但在未來可以可能建立AI
+在世界中的資料中
+我們所謂的世界模式
+就是世界模式
+Yan Le Koon的Meta
+他只剩下Meta
+已經在某段時間上正在描述
+你可能可以說明一下
+這部手機你現在正在使用
+對
+所以這是Planos Pin
+還有Planos at the back of a smartphone here
+所以我們在Plaude 發展的
+我們沒有使用的電腦
+這就是我們要成為
+最信任的工作者
+我們將將近1.5億的電腦
+使用成全球
+我認為一些的使用方式
+可以告訴大家的故事
+我們要把整個新的資料
+用來使用這類型的使用方式
+for example every human being would be using kind of an anti-taking solution
+Zoom or Google Meet etc etc
+but think about real life conversations
+we talk to people around us
+and we apply that has a philosophy, where conversation is a form of intelligence
+and that means you know
+expect that if we are able to capture all those meaningful conversations
+but guess what for in-person mediums and conversations people are not doing that
+如果我們能夠達到這個問題
+例如 如果我們能夠達到這個問題
+他們的工作是 先讓客人進行家族旅行
+他們的成績完全都會依照他們能夠
+讓他們進行一個成功的行動
+當他們進行家族旅行
+他們也一樣 當他們進行家族旅行
+當他們進行家族旅行 當他們進行家族旅行
+他們會提供給他們的病人
+或他們的父母
+about how the dog is with this illness and treatment plans etc.
+Guess what?
+All this data set has never been captured before.
+It was not captured, it was not trained, apparently it was also not able to be utilized.
+So it's a plot.
+Just real world conversations between a person with their real estate agent,
+a person with a vet and their patients, these kinds of conversations.
+So in the end I think we buy equipping humans with the sensors
+我們會有可能10x或100x的資料
+能夠建立
+10x的數字的文字
+已經從網路的整體
+可以獲得那種
+錄音的討論
+我覺得這是一個
+非常大的預算
+所以會更多
+對
+結果會是
+更能夠的文字模式
+對 當然
+這些用作
+他們從來沒有訓練過
+用戶的情況
+如何讓人描述車
+哪個模式
+如何讓人描述車輛
+如何讓人描述車輛
+這些都沒有在前面
+所以對於這類的規定
+有很多的
+所以這個
+因為這篇文章的主題
+是《閃爍的未來》
+我們必須要討論這篇文章
+Theoretical threshold where AI systems becomes smarter than humans and more capable.
+How much does this really matter to your businesses though?
+Maybe David, do you have any thoughts on that?
+I think the rest of the world living outside of Silicon valley.
+We kind of have a different view on HCI.
+Which is do you care?
+I mean, I think especially in Asia.
+We're in Singapore right now.
+I think Asian society is a little bit more than that.
+I think Asian society is a little bit more than that.
+在新加坡現在,我認為亞洲社會比較相信
+一個類似的建築物體,一個類似的建築物體
+我的看法是,我們是人類的建築物體
+我們是一個類似的建築物體
+我們不是一個大自然的大胸
+我們是一個建築物體的網路
+我們分享這條文件,知道如何理解
+然後將它們移動進去
+我們也是一個最適合的建築物體
+我的 view is AI is going to be a normal technology
+20 years, our kids will be using a chat bot like a fax machine
+it won't be magical anymore
+all of this will be integrated and adapt with civilization
+and even with regards to LLM's integrating into our workflow or AI
+I think a lot of our know-how, this resonate with what you were talking about earlier as well
+我們是社會
+我們是一個像是自然的狀態
+我們會把這個進入
+這一個人類的 civilisation
+進行進行
+所以不像是一個
+Sci-Fi type of view
+我都說Sci-Fi
+不,我們先把這說
+我們會談論將來
+我們當然要談論中國
+還有那麼多興趣的
+工作在中國的AI
+Anna,你寫了一些
+一些第一次來買新的A.I. 公司
+來中國,你也有買了Manus和Kimi
+這些是年輕的 Founders
+所以,是一個新的年代 Founders
+來中國,你會有什麼意識
+他們的意識,甚至有些不一樣
+跟前一代的很成功的 Founders
+來中國,在阿里巴巴,在拜登之類
+我們看到,很多 Founders
+本來的年輕人在20年或30年代
+半個他們在25年 他們在2000年
+他們比前一代更加地高
+我認為他們的資料不足
+他們在年輕人的年齡中
+他們在中國的年齡中
+如果你們從小島到中國
+你們有資料
+不僅是在北京和 Shanghai
+但在世界上,也使用了全球產品
+所以我想,一件事是
+AI是比較無聊的,對於人們認為
+美國經常說到中國的AI
+我聽說,在中國比較少
+可能是因為它是一個遊戲
+但它是不只是一種語言
+在我的經驗中,我認為
+The founders are thinking about building the best products for any user.
+So I think in that way AI is borderless to a lot of Chinese founders.
+And it does seem that China has caught up significantly in terms of the capabilities of their AI models.
+And a lot of people attribute that to open source models that are coming from China.
+So these companies don't have to start from scratch, they build on each other.
+Mathieu,you're dealing with a lot of western companies who are integrating LLMs.
+And I'm curious about how popular these Chinese models are.
+There was a very interesting stat that came out from a partner at Andreessen Horowitz,
+the venture capital firm from Silicon Valley,
+who said 80% of the startups in Silicon Valley who are pitching to them now
+are using Chinese AI models.
+So maybe that's just distinctive to tech startups,
+似乎是有所增加的
+我認為是需要用的
+西方的讀者
+所以我認為我們看到
+很多建議的建議
+在社會社會社會的
+建議中的建議
+我認為
+在AGI的前提的
+建議中的建議
+是很重視的
+所以我認為
+有種類的精神
+就是很多的
+現在的議題
+是在社會社會社會
+但建議中的建議
+是在依賴
+極限的進展
+測試保護
+所以
+財富保險
+整個 main thing you'd expect large companies to be focused on.
+And so actually it the enterprise adoption cycle.
+Different it's focused on how do I get my structure and structure data together or in organized
+way,how do I redesign a workflow with human loops and make sure that I have governance
+of that workflowand then most importantly,how do I do governance testing,
+adversarial testing,red teamingto make sure that what I exposed to consumers
+is really good.I think one of thebeen've seen some really interesting public
+examples.Just one one recently.Catalac released a Channel
+所以他們基本上是雙倍的資金
+其他類似的歪行業
+他們在不同的位置
+他們在不同的位置
+我覺得企業是一個很不同的
+地步
+更多是關於保安、測試
+所以我不會看你會看到
+大量的開放和開放
+其實開放是在過去一年
+很少會看到
+很多更多的
+測試和測試的模式
+但我認為這會發生
+在接下來的五年
+但不會發生
+其實我想加到這一點
+因為80%其實
+我覺得是一種秘密
+我覺得是在 open source models
+但是其實80%是 closed source models
+所以會是16% 用在 Chinese open source
+那也有意思
+對…
+我問你 如果有任何想法
+我之前提到 open source in China
+是否是原因
+或是部分原因
+為何 AI 公司 變得這麼快
+是否因為那種問題
+還是怎樣
+中國在這麼快地進行的情況下
+那是誰來的
+對
+在日本的公司
+我其實很關心
+開放大量的開放大量的社會
+對中國的利益
+我認為
+我們在說這件
+很大的新的事物
+我認為開放大量的
+是為了
+世界的其他人
+可以合作的
+不僅僅在中國
+發展這件事
+技術和揭露
+也有我的意味著
+有限量的資料
+像是你沒有
+百億美元的資金
+你其實
+你必須合作
+在合作的方式
+去發展 textology
+所以 新興的
+新興的 新興的
+對
+我覺得
+有很多話
+尤其是這個
+geopolitical environment
+有很多話
+中國 開放資料
+美國 開放資料
+我希望看到
+開放資料是開放資料
+開放資料是開放的
+還有一個地方在任何國家
+就像是Linux的開放項目
+沒有人說Linux是這個
+在芬蘭的結構
+是一個全球項目
+所以我覺得
+DeepSeq 或QN 或Lama
+他們只是開放項目的
+而世界終於會把他們當成開放項目的
+他們可以建立
+建立的項目
+這些項目可以更加合作
+我們看到美國公司
+特別是AI的應用公司
+使用深層的模式
+採用他們自己的資料
+使用更多的能力
+我認為這就要繼續
+你不能停止
+開放的動作在歷史上
+也許是很有趣的
+META
+Lama 他們的成績還算很成熟
+但是
+馬克宗博士
+開始了超能力學生
+and he has said that they will probably go more closed
+source and maybe move away from the open source ambitions
+they had before.
+It's a shame I mean Lama threeis still one of
+the best open source language was out there.
+Although Lama four was a little bit of a flop.
+But we use Lama three.
+Yes, there is a Lama four
+and they're not using it.
+So take from that what you will.
+Nathan any thoughts on sort of the differences
+Between China and the US in terms of AI development?
+Well, because we are working on,
+I wouldn't call it a plot or a hardware company.
+Actually, we define ourselves as an AI company.
+But as a matter of fact, we try to build the solutions.
+We internally define the company that we are working on
+building the next generation of intelligence infrastructure
+and interface for people to capture, extract and utilize
+從他們的意見 從他們的意見 從他們的意見
+所以在這樣一方面
+我們可以想像到
+很多公司的社會公司
+他們在網上已經能夠
+能夠把能力集中在網上
+但如果再想到
+如何會能夠幫助人們
+在網上集中
+在有的情況下
+會有的情況下
+Visual intelligence is happening or how we are able to capture that?
+That's why we're trying to combine the best trends in both worlds.
+We have the best engineers in Shenzhen,
+working on the hardware design, engineer, and manufacturing.
+We also have the best engineers in San Francisco,
+working on the Cloud infrastructure, et cetera.
+所以最後如果我們真的有10億元的財富
+或每一個人都會有財富
+或是有經濟的經濟
+幫助我們取消財富
+我會看到
+它要有最好的財富
+像中國在指責每個部份的財富
+- 也就是...- 由於中國的產業,大部分的產業,
+- 也就是...- 當然,現在的公司,
+- 仍然在市民化的建設中,
+- 如果我們想說,
+- 因為公司是很強烈的,
+- 接下來的10年,我們會有
+- 利益, 和體育的優惠,
+- 90% 人們不需要工作,
+這就是Elon Musk所說的
+如果我們在世界中進行過
+為什麼我們會嘗試跟它們一起去比賽
+我們是對國際的
+這並沒有太多的意義
+跟Elon Musk的最後一句話
+跟整個世界的路線
+和全球的資源
+會發生通過AI和動力
+我想,我想說兩件事,
+我想,我認為,對於工作的改變,
+這些改變的歷史,
+如果我們看每個技術,
+每個前百年,
+每個技術的改變,
+我們會如何改變,
+但,如果我們從
+一個經濟的經濟,
+到一個經濟的經濟,
+到一個經濟的經濟,
+我認為,
+人們的動力是
+很重要的,
+如何將在接下來的20年來
+進行,在這些各種各樣的領導,
+我認為,
+很多的正常的經濟,
+是非常不同的,
+是在說的,所以給我們三個例子
+能量,有很多的討論在於
+資料中心,是否是一個不足的問題
+但你能看得到
+在世界的電力產品的結構
+資料中心只有1%的
+全球電力產品
+而Ai的資料中心
+是0.25%至0.5%
+所以你會有很少的
+全球電力產品
+在外面14%至20%
+全球電力產品
+是在氣溫和液體上
+所以這就是為何
+世界經濟發展
+而你能看得到
+全球電力產品的影響
+是會很正確的
+我們沒有這個討論
+我們要用健康
+完全不同的空間
+但美國的例子
+花14000元
+在健康財富
+是2.5%至3%
+像是在加拿大和加拿大
+如果你想到
+健康的財富
+John Hopkins
+就出現了
+你會看到
+250,000元的財富
+一年可以
+從更好的體驗
+進行進行
+20%的健康
+和胸肌治療
+的財富
+樊層等房子的需求和零錢數量
+可以時看到的健康程式
+最後最後一個想要 focus on
+的權力鍵域
+你會想到令管理您的時期
+這些管理運用的手段
+有一個總工肯定
+在公司的計劃中
+認為公司可以幫助
+保安管理也繳情管理
+首次經營的拳權
+給政府購入的時候
+是在50-70%
+若你現在想像
+在政府的政治、
+在社會中的錢 生產 生產 生產 生產
+生產 生產 生產 生產 生產
+我覺得這有很大的 positive implications for society
+而這的方式 會變得更加不同
+但我認為你會有更多的資料
+和建築 以後的 AI 作為例子
+好的
+David 請
+我不同意Elon
+你不同意Elon
+我認為 AI 能做到的工作
+我們可以在家裡 看電視
+我覺得
+他就說
+我們是很努力的
+我們想要工作
+對 我也很努力
+我覺得這新技術
+有些利用的情況
+可以做到
+因為這就是
+我們自己的
+社會能力
+我們有更多的
+產業
+我們其實就要努力
+不然
+所以我認為
+尤其在美國和中國
+人們仍然會繼續努力
+這種比賽
+那些人可能仍然會繼續保持
+那是我的觀點
+你從中國的開始
+你如何回應到大陸
+他們想建立AGI
+還是他們想解決
+國際危險
+或是 end poverty
+一些公司
+在 Silicon Valley
+他們的動力
+我們要建立AGI
+讓我們能解決
+世界最有嚴重的
+人類問題
+為何中國人在建建AGI
+I think that everyone's a little more practical in terms of you.
+The information has this list of neolabs that were just started.
+You have a lot of big visions, and that's what's great about Silicon Valley.
+In China, I'm seeing sort of more different verticals popping up right now,
+which is kind of interesting.
+So Dan Wang wrote this book, Breakneck.
+And it talks about U.S. being a legal society,
+and China being an engineering society.
+And I think one thing that I observed
+因為哈比恩、勞國爾是 rock stars in the legal industry for example
+那可能會說哈比恩、勞國爾是最高的AI Law apps in the US and Europe
+在中國我們不會看見一個這樣的領域
+但是我們會看見一個我們的領域
+BlackLake,它是在中國的很多產品
+我們會看見一個2.0的產品,它們有很多的產品
+So they might, they're coming up with their own small model and vertical that's built around AI for factories.
+Right and we have a company called AIEU that's doing a full stack education apps,
+so you might see different verticals coming up in China which I think will be super interesting to watch.
+And even within AGI if you look at robotics, I mean the hottest company in robotics in China is Unitry,
+which is hardware, right.
+I mean it has good software but it's known for its hardware
+one could argue if it is hardware or software more important in robotics
+but you'll see kind of different things popping up, yeah
+particularly in manufacturing
+ok quick fire round question to everybody on the panel
+what is the AI breakthrough that you're most excited to see in the next five years
+anyone want to start
+here you go
+我認為在接下來五年,我們會看到AI用的很多新的改善
+新的改善,我認為會有很多新的改善
+用的例子是AI,是科學改善,是藥改善
+甚至是新的AI改善,我認為這會有大量的
+改善,在接下來五年
+好,Mathie
+Mathieu
+對,所以我認為
+我認為技術今天
+是可以做大部分的大部分
+東西需要在公司和公司的
+大部分的大部分
+是在老的技術中
+設計成的類似
+70%的技術
+在世界上是20歲的
+所以我最興奮的是
+我認為Genei
+是一種我們可以
+modernize existing legacy architecture
+做所有的紀錄
+理解如何將
+新的系統變成新的
+我認為這就是
+如果你拿一些
+其中一些社會 that have 30 to 40 year old
+mainframe systems is all their foundations
+What will allow them to move faster
+and address all these real world needs
+is actually legacy architecture
+modernization.
+So the breakthrough will just be making it work
+for business.
+It's literally it's not the fancy stuff
+it's just the basic foundations
+and resetting those so you can build
+on a modern architecture.
+Okay, Hannah.
+I think one that's not talked about
+a lot is voice agents.
+We have one that's launched.
+This week called type list.com
+and I think just the change
+and potential human computer interaction
+through voice is something to watch
+特別是客人的服務
+客人的服務是一種
+我還以為是一個例子
+但是這真的用了聲音
+作為一個敵人的設計
+對
+這在人間的進行進行
+非常好
+然後呢 奈森
+我希望我們可以說
+經濟技術可以有很多的進行
+所以AI可以使用
+如果你想到
+在我的預算中
+每個人的服務
+將會有優惠的配備
+在下一十年
+我們都會使用這些
+對 現在我們從這邊開始
+就像說 雙方的電腦
+他們仍然沒有能力
+使用電腦的命令
+去支持這些功能
+還有 像是 他們的攝影機
+他們的電腦生活太多了
+也像是 他們的電力器
+他們也不想走得太快
+我們希望 等等
+所以 其實我們的 physical limitations
+我們從最前面的模式
+从最前面的模式来的
+所以我希望这就是
+我们的下一五年
+我们也在试试
+你试试?
+好,那么我们来看
+Nathen的公司在电子技术上
+和线性技术
+当然
+谢谢我们的讨论
+谢谢我们的观众
+谢谢你们的观众
