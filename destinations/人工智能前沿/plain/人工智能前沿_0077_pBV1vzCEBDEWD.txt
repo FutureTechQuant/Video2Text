@@ -1,0 +1,1058 @@
+Welcome back everyone!
+In this segment, we have a special guest, Sam Altman,
+who will tell us all about AI as a career choice.
+Sam is the founder and CEO of OpenAI,
+before OpenAI Sam was the President of WiCombinator,
+before that he was the founder and CEO of Loupet,
+and before that he was a student at Stanford.
+I have to tell you one story about Sam.
+In my courses at Stanford,
+I often pose hard problems for the students to think about
+and I can tell you that in all my years of teaching,
+Sam was the only undergraduate whoever came up with a novel research idea on any of these problems.
+So that's Sam for you.
+Sam, welcome and thank you so much for taking the time to speak with us.
+Of course, really happy to get to do this.
+Awesome. Okay, we have a lot of questions to discuss.
+So when we dive right in.
+So I wanted to start with sort of a high level question, just to kind of set the tone.
+And so just in your mind, what would you say are the biggest open questions in AI for people to work on?
+我們在未來的過程中,我們都看到了很多新的學習,
+但是我們仍然在很早的年齡上,
+我們做這些系統的方式,每年都會變得更好,
+我認為這會持續一段時間,
+但在人類的經濟,
+我們仍然有很大的問題,
+但人們可以做得更好,
+的一些 FeSystems
+I think the way that we sort of separate these concepts of pre training and RL
+somehow there's something new to discover therebut I think we're going to go on
+for a long time about all the things we still don't know.
+Like we have one piece of magic which is this algorithm that can learn and we keep finding new ways
+to do more impressive things with thatlike it's only been two and a half years since
+Chachi BT launched and if you go back and use that original version
+Heat
+um
+so
+the rate of progress
+is so suborstick
+but the list of problems
+in front of us
+in the list of unknowns
+still just is huge
+you know what it's going to take
+to build the system
+that can go
+automatically discover new science
+which
+for me is
+very important to go billed
+still a lot of work to do
+so a lot of people talk
+about the training data problem
+that we're kind of running
+out of training data
+is that do you think in an area
+where there's a need for a lot more work
+you know that's another way
+of saying the data efficiency problem
+我們不想用資料來學習
+多多學習每個 byte of data
+我們可以學習
+從我們的 感覺
+我喜歡知道
+這很有趣
+明顯
+這些系統的學習
+和我們學習的方式
+是一點點
+至少一點點
+可能是很不同的
+但對
+人的能量
+可以學習
+從一個資料的部分
+挺有印象的
+對 只是幾個資料
+我們可以 generalize
+對 這些東西需要
+有些人需要很多資料的資料
+然後他們會用那些
+所以我想有很多可以做的事
+在於我們不太清楚
+我們如何做到的
+對
+你知道 這是很有趣的
+一個問題來的就是
+我們只是想建立人類的能量嗎
+還是我們想要走 beyond 人類的能量呢
+我覺得在很多的程度上
+這些系統已經是 beyond 人類的能量
+不是在每個 但
+確實是要求人類有什麼能量
+對,這很有趣,一位學生在社會上說
+我們的目標是不想人類建立
+我們也知道如何建立人類
+但問題是,我們如何建立不同的東西
+我覺得這是你所走的地方
+你能夠告訴一件事,像是人類的社會
+就是什麼事情,超超能力已經存在
+不只是一人的精神
+但是是一種發展
+那種
+技術、工具
+和工具我們都建的
+所以我們是所有的
+工具、工具、工具
+都建在我們身上
+在時間中
+沒有一個人
+能從地面
+把東西打進地上
+去製造一台
+有很多東西
+要進去
+但是實際上
+社會能做這個
+這個瘋狂的事
+我們能做 scientific discoveries
+我們能夠 manipulate matter in new ways
+我們能做 all these amazing things
+And you know like AI will just
+in some deep sense be another contributor to that
+Scaffolding outside of anyone's neural network
+human or artificial
+And if the AI goes off and like discovers novel physics
+and then humans can use that to do new things
+like is that gonna feel like the AI was the super intelligence
+is that gonna feel like the scaffolding just got taller
+我不知道
+我還沒等到A.I.
+A.I.其實寫了第一份資料
+在社會中寫了
+可能不太久
+對 會很棒
+所以我會把這些資料調到
+明明很多人都要做A.I.
+我會說
+你也說了
+我們真的只有最初的一段
+感覺像
+這裏會增加
+沒有 fear of lack of things to do an AI
+所以如果學生決定進入AI,
+就像有很多事情要做
+對,我擔心,你應該會很有心思
+在說自己的本書
+但是我認為這本書是最好的
+好,我 glad you said that
+因為這就是我所想問的
+所以,大家在學校中
+他們通常是學校的學生
+有很多不同的地方
+他們可以進入
+所以,人們可以進入資金
+他們可以在商業頁面工作
+他們可以在商業頁面工作
+他們可以在學業頁面工作
+有很多不同的頁面
+當你擁有了資料
+你能在社會上進行進行
+所以你會給一些資料
+誰在考慮一個贊助
+從公司或公司的開始
+或公司在資料頁面工作
+或商業頁面
+你決定哪些頁面
+你願意進行嗎
+首先
+你應該做最重要的
+你應該跟人們說話,你會感到興趣
+我覺得這更重要的是任何一堆的大學
+但如果你想要大學的大學
+任何一段時間在人類的歷史上
+只有一小部分最重要的
+學者的方向
+在不同的歷史上
+有些是學者,或是文化,或是 computer science
+或者建造網路
+現在
+我認為最高一是
+建造了我們的知識和明白
+和
+建造了
+藝術知識
+我認為
+這世紀最重要的
+現在
+這世紀最重要的
+這世紀最重要的
+這世紀最重要的
+大約是一段時間
+而且
+很幸運
+在這麼很大的
+incredibly huge tectonic shift
+and
+my biased and generic advice is
+you have the opportunity for this to be the most important work you ever touch in your life
+and you should jump on that
+yeah so this is kind of a unique time
+it feels like a very special time
+yeah where AI is kind of the main
+the main technology is being developed
+so why would you why would you not be part of this
+the main technology is being developed
+it's also the thing that will have
+那是 probably the biggest sort of total impact on everything else.
+Yeah, that actually makes total sense.
+And so I guess our audience when they evaluate different job offers,
+I guess it kind of makes sense to think about,
+obviously you want to be in a company that's leading development.
+我認為這樣
+對 確實是
+對 確實是 完全有意思
+所以我們來快速進行幾年
+說說 總是很難預計未來
+但我們來預計未來
+我只是在擔心你會怎麼想
+如果我們快速進行5 可能10 可能20年
+你認為AI會變得那麼熱烈
+如今天
+還是你認為在某個時候
+會有些不適的情況
+那當然會發生
+但要多久
+世界會變得更加有關
+但世界可能會更有用
+但我們不想同樣的
+我記得
+我們在App Store
+2008年的時候
+有幾年後
+大家在說
+我會先發電腦
+我會發電腦
+我會發電腦
+然後10年前
+I've heard that everybody was like it was the dot com boom everyone was dot com it was like the hot thing
+and then there was a moment where each of those got an incredible amount of hype and focus but pretty quickly after
+you didn't talk about being an internet company anymore because every company that had an internet strategy and
+only a few years after that app store launched on the iPhone no one talked about being a mobile company anymore
+because it was just like if you weren't it didn't make sense
+I hope that in 5 or 10 years AI is like that.
+And no one talks about being an AI company anymore.
+We just we expect every product and service to be really smart.
+And I'm excited for that world.
+It might mean that AI has less hype than it does today.
+But it'll be way more powerful and way more integrated into our lives.
+And everything will be, you know, using AI.
+What is, there's a definition of technology,
+which is everything that was invented after you were born.
+所以今天印度 gardeners 今天
+他們不會知道世界不需要GPT
+我還有一個孩子
+我花了很多時間在想
+他會不會更好看 than AI
+但是他也不會再成為世界
+他不會想用
+手機、產品和服務
+不需要很精彩的
+去理解他
+因為你把他帶來
+我非常興奮
+你會如何準備
+你兒子是一種世界的
+他會做一些事情
+只是不停的
+我當年是小孩
+學生們是一件很棒的事
+我比他們更好
+我比他們更好
+他們還還...
+他們還不知道
+但他們不像是
+能夠進入生活的狀態
+我還以為他們
+會知道什麼要做
+為學生們做的事情
+是說,這感覺是很重要的
+你會有興趣,我會勸勸你
+我不知道我可以做甚麼
+除了說,我認為是很重要的
+你會有所做的更多
+我可以做得更多
+我希望你能做得更多
+我可以做得更多,如果你想
+但我想這就是答案
+有很多大事要做
+要教孩子們,要求他們有自信和感情
+但事實上,我們會更加相信
+新的技術,我們會更加努力
+讓我們生產更多的技術
+他們會做到的
+不過,你也有興趣說這句話
+因為,例如,當車子走來的時候
+很多人基本上都知道
+如何使用一輛車
+但他們沒有想到如何使用一輛車
+小部分的民眾
+都會進入建築機構
+understanding exactly tinkering
+There was a whole subculture of people tinkering with engines
+and kind of making cars do all sorts of things
+they weren't designed to do and so on
+And the same thing by the way with computers, right?
+Most of the population knows how to use the internet
+but they couldn't tell you how a computer works
+and then there's a segment that actually focuses
+on kind of playing and kind of pushing computers to the limits
+I'm curious if you think the same thing is going to be about with AI
+like the population will be used to using AI
+they'll see it everywhere
+但可能只有一個小的部分
+會理解如何做更多的內容
+如何推動它進行新的工作
+當然,我覺得這很棒
+像很多人用
+人們用電腦做得很厲害
+不懂如何做到
+對,這很重要
+但這就是為了特殊的特徵
+和這個類似的
+成功的成功的設計
+我覺得最重要的技術在未來
+會不會能夠
+能夠建造AI
+用AI去做很多東西
+今天
+可能有些資料研究員在開放AI
+不懂所有東西
+去建立一個電腦從地上建造
+但他們知道要用電腦去建造AGI
+所以
+這是一個很重要的設計
+然後在AGI上建造
+會有新的東西
+然後有人要去解決
+但他們不需要知道
+要如何訓練電腦
+好的
+我希望你會說
+其實我們需要知道技術和明白如何
+對於一些人來說
+對
+但是我覺得這是很厲害的
+現在是世界最重要的技術
+甚至在前往的情況下
+我認為會更重要
+我的意思是
+我們只要想像十多年
+二十年來
+我們還沒想像更多新的東西
+我們還沒想像到
+我看
+這其實是一個很有趣的意思
+我們學生
+今天是很重要的
+要知道如何學習
+如何訓練他們
+所以可能會有新的想法
+如何建立DNN
+或其他學習的方式
+但你認為
+這會是我們的功能
+我認為是
+我只想想它能夠做得到
+我不知道如何做
+或者我可能可以做
+但會是很大的限制
+我記得的
+但我從來沒有想過
+如何做一個
+我還是用了很多
+但是我覺得
+這就是一個讓我去想想
+高級問題或更加強勁的東西
+我真的不知道要怎麼做
+對,這也很合理
+所以這也有所為人們來訪問
+新的應用程式,新的東西
+我們沒看到過
+可能這是我們想要的
+對,這很棒,很有趣
+我們在進行一個很有趣的未來
+所以,我猜,接下來5-10年會不會很有趣
+應該會有
+對
+好,所以我想把耳機換掉
+其實,我們要談談這個題目
+這個題目是關於
+關於關於關於電源系統的保護
+所以,關於電源系統的保護
+關於電源系統的保護
+甚至是在做一些事情
+不想做的
+在過程中 we talked about various attacks
+比如 prompt injection attacks
+學術民生重組證明
+他們在進行困難的模式
+例如性命卡
+我們會運動模式
+把拆去搶而進行
+整個程序裡還有一張網稿
+AI Security'a big topic
+當然,我們也討論了
+Defense
+哪個熟練性擔任
+AI systems from prompt injections
+還有其他註冊
+這位工人
+它是一個非常大的領域
+有很多的領域
+有些人在訓練、有些人在訓練
+你覺得AI的安全性如何?
+我問一個問題
+在所有的不同的領域中
+這個領域是在學習一輩子的
+這是一個很好的領域
+我覺得這是一個最好的領域
+我認為我們會很快進入世界中
+有很多的社會安全問題
+人們說的會被重拾
+社會安全問題的不同方式
+我認為
+以這些模式的能力
+如果我們想能夠
+利用他們的大量的用途
+社會安全問題會很大
+你提到很多項目
+我認為是非常重要的
+Aversa or robustness in particular seems like it's getting quite serious.
+One more that I will mention that you touched on a little bit, but just it's been on my mind a lot recently.
+There's two things that people really love right now that taking together are a real security challenge.
+Number one, people love how personalized these models are getting.
+Chachi BT now really gets to know you
+it personalizes over your conversational history
+your data you've connected to it, whatever else.
+And then number two is you can connect these models
+to other services.
+They can go off and like call things on the web
+and do stuff for you that's helpful.
+But what you really don't want
+is someone to be able to exfiltrate data
+from your personal model that knows everything about you.
+And humans,
+你可以 kind of trust to be reasonable at this
+如果你告訴你的
+傢伙的一堆 secret
+你可以 sort of trust
+他們會知道
+什麼 context
+什麼的 告訴別人
+模特兒真的不做這個
+很好的
+如果你告訴一個模特兒
+你所有的
+你 你知道
+private health care issues
+然後它是off
+你會有一個
+買東西給你
+你不會有那 e-commerce site
+知道你所有的
+health issues or whatever
+但是這就是一個非常重要的安全問題
+可以解決這個問題的100%的重心
+對,所以這就是一個例子
+你可以在這裏做一件事
+因為你的整體的意義
+我認為AI安全是很高級的
+很高級的地區
+對,所以我問的是
+當你來看網絡公司
+傳統的技術公司
+例如Google、Amazon
+他們有很多研究員
+在社會保護的計劃
+而且聽說
+社會公司會開始
+投資優惠
+在社會保護團隊的建築
+所以
+我們觀眾在看
+他們在問
+他們應該在哪個地方
+要在社會保護
+他們應該想要
+在社會保護
+他們應該說
+可能有很多
+需要的經驗
+在社會保護
+對,這很棒
+我非常高興你提到這
+嗯,我 guess I'm the question of AI security.
+That's kind of the other flip side of it.
+I'm curious how you think about this.
+So, um, so far we talked about security for AI.
+There's also this question of AI for security.
+Yeah, which is really interesting.
+Yeah, it's really interesting.
+The fact that the chat you be using amazing.
+It's finding bugs in software.
+It's really we're starting to do a lot more work on this year.
+I think that.
+I think that we should be like a superhuman.
+You know, AI security analyst.
+就是要用什麼叫做
+對,所以那是用...
+那像是一個很嚴重的工程
+用AI去測試器
+對,用它在同一方向
+你能使用它在保護系統
+我覺得會是很大的一場
+在各種各樣的行動中
+我的天,我好高興你提到
+我好高興你提到
+所以那...
+那是很奇怪的
+我們說到AI找到的 vulnerability
+大家會想,我的天,有些能力
+但事實上是,在你測試你的程式前,你會用AI系統測試你的程式,去找有機的方式,然後你會把它調整
+對
+所以,可能這是一個機會,你會做開放AI的程式
+我認為是
+對,所以你會看到那種可能性的程式,讓人可以在時間中更加掌握
+對
+對,很棒
+所以這也是很棒的
+我還想說一點點
+你的意見
+影響大致上在 computer science
+這就在我們剛剛所說的
+但是我必須要說
+這很明顯
+我現在 whenever I need to write code
+我其實不再寫 code anymore
+我寫 pseudocode
+然後我去cha-chipit
+或者其他電腦
+然後把 pseudocode 轉換 into real code
+我的學生們都會用這功能
+這功能很棒,很快就會發展
+他們的生活會增加
+然後會更加容易生活
+所以我非常期待
+因為很多觀眾
+都是發展的
+我非常期待
+聽你的想法
+你覺得 software 技術
+會不會像在兩、五、十年來
+會不會像在兩、五、十年來
+真的不同
+但現在看起來
+我認為你會比較喜歡說話
+你可能會說英文
+如果我是一個家庭公司
+例如一個頁面
+決定買哪些書
+今天我買了一堆產品
+然後我買了一堆頁面
+那些頁面的頁面
+那你覺得那會改變未來的?
+我認為要做第一版本的方式
+你會把你想要的程式介紹到
+然後你會有什麼想法
+去寫寫的程式
+然後你會在明天起床
+然後你會有那一本書寫的程式
+然後當機器變大了
+然後更加難度
+你會有這些
+某些技術工具
+在你手上發揮
+做一些東西
+然後寫寫測試 檢查規定
+你會想像一下
+在其他地方的程度上
+可以在公司上寫寫
+並不是在發展
+但在發展中
+我覺得有一個很清楚的方式
+我們知道這個會如何
+對 所以我們要讓
+我們發展的發展者
+更有效率
+對
+所以那就是我們的目標
+你會說明一下
+我們想要的, 其實是在寫的
+我覺得這樣
+對, 非常棒
+所以, 我要問, 因為, 我是學生
+所以, 我要問, 為什麼你認為
+學生會變得像5-10年
+所以, 今天我們學習
+學習系統, C++, 學習
+學習寫書
+我們會在5-10年學習什麼?
+當我來到學校
+我記得在106X
+他們在教我們
+用一個鋼管的方式
+或什麼的
+我還以為
+我從來沒有
+有興趣的
+他們教我一些東西
+但我從來沒有
+要做這回事
+在我的生活
+為什麼你不教我
+用一個 web app
+或什麼那是最重要的
+我還以為我們
+已經在10年內
+在前面的
+最有趣的
+學習
+現在,我認為,有一個版本的版本
+就是,在這裏,我們會看到
+我們在兩年內改變了
+我們會改變了
+這對我們來說,感覺到
+我們要教的方式
+是,我們要教的方式
+就是,進入到CSU
+或者是,進入到計劃
+應該會改變了
+應該改變了,就像
+我們應該還要教CSU++
+或者什麼語言我們認為是最適合的
+什麼 但我覺得那種 mix 與學習的關係
+學習如何讓人知道
+如何把學習的學習程序
+和學習的學習程序
+有可能有其他東西
+學習得到的高的比例
+哇 那些東西是要考慮的
+我覺得那些東西是要考慮的
+我開心地學習了
+C++ 他們有些有趣的
+他們有些有趣的部分
+但是如果我認為是一天工作的工作
+如果是一個人會真的想要
+創造很值得的技術
+在未來的情況下
+我猜它會很不同
+從於我們會教育那一種
+所以我們來試試這個 argument
+我會在你心裡想想看
+你認為的
+所以在高校
+還是學校
+我們仍然學會
+加和分數
+雖然我們沒有必要加和分數
+我們有計算員
+但是我們仍然需要學會
+我們都懂得了
+我們生活在世界中
+你認為學習的運動系統和公開系統
+是一樣的嗎
+我們需要學習
+但我們不會使用
+是有趣的
+我記得
+在學校中
+我教授說
+你需要學習基本學習
+我問他有什麼計算
+因為我告訴他
+那教授告訴我
+那時我還沒做過這個
+那是一個神經病
+我還沒做過這個
+所以如何知道
+什麼東西是很重要的
+很難學習
+重點
+學習技術是非常重要的
+所以學習任何東西是重要的
+因為你會找到其他東西
+我非常高興知道
+什麼是行動系統的工作
+還有什麼是行動的工作
+我認為很多人的價值會變成一種
+是經常學習和靈體的學習
+以及一種自然的興趣
+很多人都要明白
+如何建立一個很好的運動系統
+是否會有關於
+人們的身份
+需要明白如何使用AI
+做新的事物
+我們不可以想像
+甚至我們只能限制
+用手機的手機
+我們只能限制手機
+我認為如此
+但我認為這一點是一個比較重要的一點
+因為現在可能是更重要的
+要學習如何訓練一個網絡
+然後要學習如何訓練一個手機
+然後可能在另一個10年來
+它會不太重要的 還要學習如何訓練一個手機
+還是比較重要的
+所以我認為這一點
+是一個很重要的
+它们会很重要的, 还要买一个计算机
+还要有点重要, 学习计算机的计算机
+但是, 因为它是一个很好的事情, 要明白世界的理解
+而且, 它会有新的东西, 这是前面的, 这是真的
+你需要去做好, 使用计算机是一个计算机的计算机
+我看到, 这就是我们说的计算机, 需要知道的
+这就会改变, 因为我们不需要学习计算机的计算机
+對,有時候,你會告訴AI,像Train and NUNA,
+那會做得很好,然後會做得很好
+我看到,對,對,哇,那是個很棒的觀點
+對,很有趣,然後我們就…
+現在,我認為Train and NUNA,那會是個很棒的事情
+現在?
+對,現在,對
+對,那是沒有意義的
+對,對,那很有趣
+所以,你給我們一個好 homework assignment here
+想想看什麼 CS education will look like
+在五年來
+對
+但我的猜想是
+我們仍然會需要學習基本的程式
+因為
+怎麼能成為一個學生
+並非要知道如何寫書的程式
+這是基本的技巧
+大家應該知道
+所以
+對,所以我們學生
+不要被迫使用
+不要被迫使用
+不是,這是一個
+更重要的一點
+就是
+我認為它們很快就會變得更快
+然後我真的會想到新的地步
+對 也對 也有所作為
+所以我經過這些網路的問題
+我必須問一個問題
+就是
+這些構造器的構造器很棒
+就是他們在玩
+他們的構造器很像是
+他們的心思
+這些構造器可以生成
+對 他們在生產
+對
+但是他們在寫構造器
+在語言
+例如Java 和Go 和Rust
+他們是設計了人類的構造器
+而不是ML 構造器
+FBI Quarters
+So do you think we're going to invent new languages that are going to be specifically designed for AI
+Code generators or maybe the AI will generate these new languages for itself
+Yeah I wonder about that
+I suspect
+Well, I think things that are human compatible are super important
+And the fact that AI can write this but humans can also easily read it
+And make some tweaks, very very valuable
+所以我相信
+人類的計劃和方式
+或方式容易使人們讀
+會更重要
+是比較適合
+從一個學習的方式
+我明白
+所以唸書的方式是比較重要的
+所以唸書的方式
+更重要
+對
+你知道 可能會變成
+未來的方式
+但是今天你會問我
+會發出一個註冊
+這個註冊是95%的確正的
+你總是要去看書的規則,然後去做一些改變
+但誰知道,可能在幾年後,你們會變得完美
+然後他們會一直以來會有完美的規則
+我希望這樣,那會很棒
+然後我們會需要去看書的規則
+然後我們可以開始去看書的規則
+然後我們可能不會需要規則
+對,所以...
+但是現在你所說
+我們可能會把人的規則和書的規則負責
+所以,學生們需要學習,Java,Go
+和股市的語言
+我覺得這樣
+這些東西會發展
+但未來的可能會有不同
+對
+對 真是有趣
+好 現在我想說
+有關不同的問題
+是關於建築的AI系統
+對
+我還在想
+你認為
+我們在對建築的
+AI系統中
+我問的是
+因為幾年前
+所以,支援Vector Machines和GaNS
+我們是一種的大量
+我們都會在AI學習
+然後,我們會把所有東西改變
+現在,我們是全是深入的網路
+我們可以做所有的
+轉換、平均、平均
+這些東西完全改變了
+在過去幾年
+我感興趣的是
+我們找到的對AI建築者
+這是它嗎?
+像是DNN、平均、平均
+如果我們再等兩、三年
+我們會再次進行,然後我們會學到新的建築物
+我不知道會如何進行,但會進行一些...
+我希望會進行一些...
+- 會更有趣的? 嗯
+我認為,這仍然有大量的發現力
+我認為,如果你看到第一次通訊號碼
+至於我們現在的使用,它是非常不同的
+但是我猜我們可以進行更多的
+我感覺我們不太接近了
+我看了一段
+對,但是這絕對是一個挑戰
+大家在聽,對吧?
+我們...
+所以...
+我想你應該說
+我們可能沒有在這裡
+還有新的建築師在海上
+所以有很多資料
+我覺得這樣,這是我的意思
+對,對
+對,所以...
+對,大家在聽
+你知道,這就是...
+可以的,對
+你只要找到對方的想法
+對,很合理
+我猜...
+我有一種追蹤的問題
+我只是在擔心你覺得
+可能這是一個領導的問題
+但是這些新的AI建築物
+這些新的構思
+你認為它會出現在學校嗎
+你認為它會有些職業的學生
+還是它會出現在工業
+我不知道 開放AI
+Google 所有人在工程中
+還是一些人在工程中
+在社會社會的工作
+我沒有想像中
+你不必要想
+我從我的經驗上
+就是一個小組織的
+很 talented people pushing in a new direction
+那種變化可以在世界上發展
+在任何一個設定
+我覺得那是一個很好的訊息
+因為你沒有必要有
+對方的股票
+能夠有這種很好的想法
+然後改變世界
+所以我覺得那是很重要的訊息
+所以,我想可能最後一件事我想問你,是...
+我想這是一件事大家一直問你,就是這個問題的能量
+對,所以,人類的腦袋,這個用了20W的能量
+去做所有的事,20W,就是這樣
+我認為ML訓練會有更多的20W
+今天
+我不認為這是一個對比
+我認為你...
+首先,我們應該要把你的溫度減低
+整個平均的平均數量
+所以我們就要確認100W的平均數量
+好
+但是
+你對於
+人間的平均數量
+至ML系統的平均數量
+如果我們想說20年
+100W的平均數量
+讓你平均數量
+加上外力的平均數量
+以及很多人的平均數量
+讓你的腦袋
+變成平均數量的平均數量
+現在
+我覺得能量開始變得更像
+當然,在GPT4的訓練中,它用了更多 instantaneous watts
+但它沒有訓練了很久
+你可以說,很多資訊已經被用了
+所以我們可能會把長期的領域取消
+但那是一個問題
+但是我覺得會是一個相比
+是
+像WATS per token
+GPT4
+和WATS per token
+Generated by Dan Bonet
+對
+這個
+這個數字看起來相似
+我們現在說的
+對
+像INFRENT token per INFRENT token
+我不會覺得我們會這樣放開
+好 很好
+嗯
+我不知道這個數字在我頭上
+但我的信任是…
+不,不,不,不太自然
+嗯,嗯,嗯
+其實你所說的問題是真的要計算
+我們做的計算真的…
+我們不需要計算
+對,對,我已經20年了
+讓你能夠給我一個快的答案
+不太有力量,因為你做得很快
+但是你不…
+你不能跟人跟智能
+你需要跟智能和智能一樣
+對,對,對
+我完全 agree
+但同時,我認為
+如果我們想要減少能量的能量
+那是,那是很像一個很厲害的資料
+我以為我們有另外100x的能量
+可能更多
+如果是更多的能量
+其實我比較興趣的是
+我們在腦袋裡
+我們不像是在腦袋裡
+把所有的能量都放在一旁
+我們在腦袋裡,我們在腦袋裡
+我們在腦袋裡,我們在腦袋裡
+我們在腦袋裡,我們在腦袋裡
+他們的資料在另一邊
+所有的能量都用來傳達資料
+從一邊到另一邊
+所以你認為
+有空間給完全新的
+新的硬碟建築物
+那會有什麼樣的
+當然 當然
+我覺得
+也有新的硬碟
+像我們可以
+如果我們可以
+有機器的工作
+那會是一個
+大量的能量
+但對 可能有新的建築物
+有新的技術
+在未來
+對 可能也有更好的
+能量 可能有更多的能量
+所以就像我們
+我們今天談論過
+我希望可以展示
+有多多新的
+像是有多少的
+新的地位
+還有空間
+連我們可以
+把我們的食物
+放在水中
+去看水溫
+我們可以有
+很大的能量
+所以我們可以
+沒有問題
+我們會找
+大量的
+瓦斯伯特
+糖果
+糖果
+對,我認為
+有很多東西
+去探索
+很難做的
+就是重要的研究問題
+對,我們還說我們在年輕時期
+開始這個改變
+有很多的地方要去探索
+對,這已經很棒了
+最後,Sam,我不能讓你去
+之前問你用你的大體驗
+你已經在一段時間內
+已經在 Stanford
+所以我必須要問你
+分享一些你的體驗
+然後問你什麼樣的建議
+你會給到一些人
+早在他們的學生學生的工作
+首先,這應該是最好的時間
+我對自己的生活
+我認為要早在學生學生的工作
+這是一個很好的學生時間
+我會在社交平台上
+我認為這一定是
+可以找到最好的學生
+我可以說是有些人
+有些人正常地在工作
+有些人正常地在工作
+那是我最好的
+發展和發展和工作的建議
+我對聖餐館的建議
+是一個很好的地方
+是一個很好的地方
+沒有很深的
+深入的建議
+其他比較明顯的
+就是在聖館的建議
+嘗試去做一個
+比較好的的領導
+對
+享受你的育養
+我愛得到你育養
+在Sanford那裡
+那是一個很特別的時間
+生活的
+你知道嗎
+我記得那些
+其實那不是真的
+我會說那些我記得
+不是在育養
+但育養的部分
+是一些最好的部分
+那是真的
+好
+那是一種很棒的方式
+所以
+對 三文治
+這已經很棒
+謝謝你
+時間讓我們
+學生和觀眾
+和這樣
+好運
+好運
+謝謝
+Absolutely, and hope to see you soon
