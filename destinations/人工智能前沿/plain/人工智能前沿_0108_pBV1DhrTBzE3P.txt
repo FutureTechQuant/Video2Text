@@ -1,0 +1,1783 @@
+就是這個東西的實力
+是我的心跳
+你建立這個
+很心痛的東西
+一個很大一個學習的方式
+你用資料去做
+然後它們就知道了
+就知道了更好
+我們以前的東西
+這件事是用來做動物
+是用來做視覺
+是用來做語言
+是用來做聲音
+等等
+我覺得如果你再停一會
+想想看它 how it works
+and that it works
+It's just absolutely mind-blowing
+In this episode, we sit down with Carol and Toby
+of physical intelligence,
+a company building foundation models for robotics.
+Carol and Toby explain why the classical approach
+of breaking robotics down into perception,
+planning and control was fundamentally wrong
+and how end to end learning with reinforcement learning
+is finally making deployment possible.
+You'll hear how they achieved robust real-world performance,
+getting robots to make coffee for 13 hours straight,
+and how these models generalize across radically different tasks
+from surgical robots to drone flying in ways that we don't fully understand.
+We also talk about the technical insights behind Pi Star 0.6,
+which is physical intelligence's newest model that learns from experience
+using reinforcement learning. Enjoy the show.
+Carl,Toby,thank you so much for joining us here today.
+Thank you for having us.
+excited to talk everything physical intelligence, general robotics etc.
+Maybe before we get into it, just for our audience, can you share a little bit about
+what physical intelligence is and the mission that you're after?
+Yeah, so at physical intelligence we are building robotic foundation models.
+These are models that in principle should be able to have any robot do any task.
+And over the past one and a half years or so, we started building the...
+我們創造了正確的建築物
+讓我們看到如何這些模式可以調整
+我們看到他們能夠控制
+很多不同的機構
+很多不同的機構
+我們也看到他們能夠整理
+讓我們能夠帶給你們整理新的環境
+以及它們的進展
+我們剛才的最後一輪
+叫PyStar06
+我們也想告訴你更多
+讓我們能夠達到
+好表現,讓他們開始變成能夠成功
+這很重要,因為我們想看到這技術
+能夠成功在世界中
+但也因為我們沒有得到
+自由的資料在網上
+我們沒有資料,所以我們要
+創造資料我們自己
+我們在體育上的問題
+在創造基礎的問題
+我們做了很多進步
+有很多進步
+很棒
+為什麼要建立
+基金模式
+而不是
+其他公司
+正在建立
+全球化的
+基金產品
+現在
+上午
+上星期
+還在我頭上
+可以買個
+可愛的小動物
+幫助你的家
+有公司在做
+烹飪的
+當然有
+人類的公司
+為什麼要建立
+基金模式
+而建立
+對
+如果你看
+歷史的
+基金模式
+我認為很多人都知道我們經常用電腦用電的方式
+我們有用手機的方式可以做很多很多的事
+在家裡或在工程中
+我們有看到手機的方式
+多於一年代
+如果手機運作了
+他們可以整個家裡清洗
+而且這個方式的重要是
+如果手機運作了
+如果有一個人在背後
+它是很清楚的, 它是能做很多不同的事情
+很久以前, 商業的手機已經被建立的方式
+你會想起, 建立一個特殊手機
+是想做一個單項的任務
+而我們以為, 會幫助敵人
+是在行動中 採用手機
+我們建立了一個商業, 採用手機
+因為我們認為, 如果我們採用手機
+我們可以讓動物發生
+如果我們做這件事
+你不需要做那麼多動物的進步
+就像你可能可以
+所以我們想要把這個問題
+投入進行
+關注在智能
+如果我們可以這樣
+那會引發很多不同的
+適合的產品
+會引發
+動物在家中
+在藝術設定
+基本上在哪裡
+我可以試試一下嗎
+在硬碟方面
+我看過最新的影片,例如《最優秀的手》
+是一塊藝術的事
+我看過沒有看過
+人們在10年前的修理家庭
+但我還在想
+如果有幾個項目
+例如現在
+在可能的時期
+比如說
+煮菜
+或是用雞肉和雞肉
+你可能沒有做過
+軟體的工作
+所以現在有多少人
+認為軟體是嗎
+所以,有很多進步在雜誌,尤其在雜誌人類
+例如,像你所說的,我覺得他們更好看了,還在幾年前
+但仍然沒有用酒水,我們可以說,有些人在雜誌,在煮菜,甚至在簡單的雜誌前
+問題是,我們沒有能力在雜誌上,而更有嚴重的,雜誌是
+它不一定能成功,
+它能讓你做得更多,
+但你仍然能夠成功,
+因為主要的挑戰,
+在手機上,
+它不夠能夠能夠能夠能夠能夠
+我明白,
+所以,
+手機可以提升到
+你能做到的,
+但我們沒有在這兒
+能夠能夠能夠
+對,
+所以,
+我們沒有在
+人工的程度上,
+我們沒有在
+人工的程度上,
+所以,
+在手機上,
+它能夠能夠
+能夠在手機上,
+是否在做的?
+因為你已經在解釋問題
+我們會繼續問你為什麼
+然後繼續繼續說
+所以是什麼是下一個
+好,是什麼是
+保證性的解釋
+是說生意
+這是一個好問題
+我們想起
+三個因素
+我們要求他們
+能量、生意和表現
+能量
+我們的想法是
+但我們想要達到這個位置
+以至於你可以用資料來提供資料
+例如是作為動作的行動
+你也應該有一個設計
+可以使用這技術
+提供這個技術
+以致電的行動
+這是我們花了很久時間的
+這是我們PyZero的推出
+我們是前一年
+展現了這技術
+如果可以用資料來提供
+任何技術
+你也應該能夠
+把這技術擋得好
+我們也應該能夠學會
+接下來的挑戰是
+個人紋理
+這技術仍然是 open challenge
+所以我們想要達到一個
+讓機器能夠做到一場合作
+讓它們可以帶給你家庭
+例如他們應該知道
+如何運作家庭
+這是一個非常非常難的問題
+如果你把機器放在家裡
+它需要明白
+你知不知道在哪個地方
+對方的反應都很不同
+光線是不同的
+這是你所見的過程
+我不會說這個問題是解決的
+但我認為
+我們開始要採取
+如何解決它
+以及它的計劃
+只能解释到
+我們知道的技術是
+在資料的大量
+如果你看到很多不同的資料
+你應該能夠
+把類似的設計
+像這個
+我們看到的
+在這年4月的
+PIO5 推出的
+我們找到
+我們可以帶一個新的
+新家
+從前沒建議
+還能夠
+建立這個家
+還沒完美
+但至少
+有些很重要的
+感受
+如何去做
+simple tasks like cleaning up the kitchen and things like that
+and then the last challenge that is also
+not fully solved yet, this performance
+so how can we get these models to the point where
+the performance is good enough so you can
+actually deploy them
+and deployments here are really really important
+because as I mentioned before
+we also need to gather data
+and I think that is going to be the most scalable way
+of collecting data because you'll have robots
+out there in the world
+doing economically valuable tasks
+and that way that the cost of the data collection
+is basically negative
+而更多的大部分你能夠使用這個技術
+更多的資料你會獲得
+我覺得在限制中
+這會是最大的資料
+你可以想像的
+更大於網路資料
+還有我們如何認為
+我們是從生產或表現的方式
+可能是一個控制環境
+可能是一個平常環境
+在家裡或是公司
+但並不是整個世界
+如果你可以限制
+What do you think generalization performance will need to be before we can deploy these kind of robots?
+I think we are actually fairly close to deploying these robots.
+We started deploying them ourselves already.
+We thought this was something that was going to take something like five years to get to the point where the technologies are actually ready to deploy a robot in a commercial setting and have it do something valuable.
+But we've done it, I think two months ago or something like that.
+所以我們現在要進行這個進行
+在設計中的行程中的行程中
+他們是夠用途的
+他們可以做夠的行程中的行程
+其實是很方便的
+所以這就是我們剛剛的行程中
+我們覺得我們已經進行了
+我覺得還要決定
+為何有這個進行的行程
+我們可以去處理
+有些行程中的行程中
+可以很悲傷
+可能這些行程中
+這裡已經有數十個字才能放置
+有些項目需要多一點記載
+例如放置在家庭
+或者一些安全及安全的物品
+也許這些地方並不正確
+但我覺得
+傳播光線正在發展
+當我們獲得更多資料
+這些工程精華
+我們還可以放置更多的資料
+所以我們開始去注重
+現在的傳播光線
+你現在在放置
+這是一個很難回答的問題
+因為這些基金的模式
+你現在也不太知道
+所以 類似於
+大型的語言模式
+你訓練這個模式
+你把它煮熟
+你嘗試做最好的
+可能
+然後到最後你會有這個建築
+你不可以預計
+如何建築的方式
+你必須試試
+這就是我們用這些模式的
+所以我們用來開放他們
+我們不是只有一個人在試試
+我們不是一個人在擺放他們
+知道他們的能力
+我們用來開放他們
+我們看到他們在使用
+很多更多的應用
+我們可以想像的
+例如
+駕駛艇
+或是駕駛艇
+或是
+地區
+或是地方
+所以
+我沒有很好的 estimate
+我認為是比我期待的
+更大一點的資料
+我覺得這也會增加時間
+越多資料的資料越增加
+就越增加資料的資料
+我會說在表現上
+例如說資料的資料
+可能是更大
+最初的地方是更大
+但同時
+如果每個資料的資料
+都要開始
+就要在一級上
+使用這些資料
+在日子日子的行業上
+我們仍然有一點點
+要做的進步
+在於表演
+所以我們在這三個月
+會談談一些
+我猜是在《Pystar》的部分
+我們有進步
+在學習從經驗資料
+再重新重新做好
+當他們被解僱
+還有很多東西
+我可以在意的
+那裡有很多的情況
+那裡有很多的大部分
+但我們還沒有有很好的方法
+可以完成的
+我也會說
+你們都很棒
+在發展你的結果
+有很多的情緒
+發展在開放
+所以不管你很舒適
+你能否說說
+你們的整個技術
+所以這次是
+你們認為
+這個建築的方式
+可以讓我們
+把這場合作
+和我們一樣的
+相關的方式
+我們只能說
+我們在這場合作
+我們只能用一整天的資料來作出
+還是你認為
+建築物仍然在想什麼
+我們可以開始
+有點像在哪裡
+然後再進入細節
+如何改變
+所以現在建築物仍然很相似
+如何VLMs
+今天建築物仍然是
+每天都會有
+每天都有的資料
+然后把照片放进去
+然后问它去看照片
+等等
+然后我们开始
+从一种同样的 stand point of
+有一个模式
+我们在电脑上的数据
+然后有一个困境
+照片、文件
+然后我们再加上所有的 细节
+我们的设计
+现在正在细节
+我们的数据
+我们自己的数据
+有一点点的数据
+在混合上
+但是大部分是细节
+建设法是一种解决一種
+建设法是一种解决一种
+建设法是一种解决一種
+我们加入的一种
+建设法是一种解决一种
+我们是什么叫做
+稀奇模式
+稀奇模式
+它是一种
+稀奇模式
+徛手冒走的模式
+它它在画面
+和模式的
+它在画面
+它在画面
+把它去冒走
+它在画面
+它将拔除
+它将拔除
+它将拔除
+它将拔除
+它将拔除
+我們利用的 用網路資料和網絡資料
+並且由人物實驗室的資料
+用人物實驗室的資料
+COW 剛才提及過
+我們有這個實驗室的資料
+為人物實驗室的資料
+並為人物實驗室的資料
+這就是現在的建築
+我們在計劃的資料
+我們用的資料
+類似VLM的資料
+我认为这些模式的能量会更加加强,
+我们可以想象到,
+我们想想更多的层次,
+更加多的拍摄,
+更加多的拍摄,
+更加多的拍摄,
+更加多的拍摄,
+更加多的拍摄,
+更加多的拍摄,
+更加多的拍摄,
+能夠解釋對於房間的實際性
+能夠解釋對於房間的實際性
+能夠解釋對於房間的實際性
+所以有很多可以做
+我覺得在各種能量上
+也能把建築改變成這樣
+我不會驚訝
+如果我們五、六年後
+我們會說
+可能我們用的背後
+現在的背後
+從這個威拉雷蘭
+改變了
+我們可能已經改變了
+然後我們用了一些
+我覺得這會長大時間
+但是我覺得
+資料和我們如何
+進入模特兒
+會更好
+好
+所以我認為
+像是Pixels
+或是Signals
+然後Actions
+是否
+像是一個大NurlNet
+是一個大模特兒
+對
+它是在寫文章
+寫文章
+然後Actions
+對
+你對這方面
+有什麼分別的動作和動作室的分別?
+這可能會有很好的時間
+談談歐洲的歷史和動作室
+和各種不同的學習的方式
+以及如何進入你的室
+對,所以在一段時間
+之前學習的時間
+人們認為
+動作室是一個這些問題
+如果能夠把人放在不少學生的地方
+他們可以想起很難的事
+然后就写了一条文件
+让人家做任何事
+人家都很难做这种方式
+然后就变成世界太丰富了
+每个案子都可以写
+你会遇到的世界
+所以这就不合理
+我们也在这一条文件中
+在这一条文件中
+结果
+人家都会把这条文件
+解决成小小的问题
+所以,除了在整個整體的 robotics 問題中工作,
+你會說,有一個理想,有一個控制的問題,
+有一個計劃的問題,
+這就像是在不同的社區中的發展,
+有一個計劃的社區,有一個控制的社區,
+有自己的自己的公司,自己的自己的問題,
+等等。
+所以,當我們發現,
+這不可能採取這些規則,
+人們認為我們應該學會他們,
+我們應該學會他們從資料,
+這就好像是一個很好的想法,
+这是我们学会的
+但是结果
+他们开始学习每个部分
+这些分开的部分
+分开学习
+分开
+所以你会有一个门目
+门目是完全学习的
+可能你会有一个控制门目
+可能你会有一个计划门目
+这展示了一些进步
+比我们之前更好
+但然后发现
+这些问题的门目
+其实是一件不合适的事
+因為我試著選擇這杯水果
+我沒有想到
+在於感受和計畫
+然後控制
+我只會去選擇
+我只會選擇水果
+就很自然
+所以現在這個 pipeline 程度
+你會有這 predefined 面對
+那種感受給你
+那個位置的物質
+然後那個計畫員
+給你那個傳統
+然後控制
+那些面對
+是那些東西
+那些東西
+所以我們以為
+我們知道
+如果他们要用号码 hay b swirl
+but how we work was always wrong
+So then we can arrive to the next stage of this
+where we said well maybe just breaking down
+This problem was bed idea to begin with
+So led just train the whole thing end to end
+Right. So will take whatever
+The kind of the sensory inputs
+as input to the network
+and will have actions as the output
+That's what we refer to as the end to end approach
+Where you try to go straight from pixels to actions
+And will have the network figure out
+Or the learning algorithm figure out
+如何使用它們的不同的組織
+如果是有可能的
+對
+然後我們在做這件事
+我們想要用很多資料
+去做這個
+通常它會剩下
+一些普通的概念
+然後用那種普通的概念
+從第一人動作的資料
+是很難的
+因為你會需要
+每一個東西都能在世界上
+去做這個
+這就是我們用的
+《Vision Language Action Models》
+我們可以利用模式
+我們在網路上訓練的資料
+已經有了很好的理解
+如何使用世界
+我們可以利用這個知識
+我們沒有必要
+經歷每一切
+可以加上一些動作
+還有一個常識的世界
+能夠實現世界的事情
+這就是我們現在的
+現在
+在《智能》
+我們有幾個新的東西
+你能夠開始計劃這些模式
+如何將它們整理
+如何將它們表現更好
+如何將它們進行更快
+如何將它們到達目標
+可以開始使用它們
+但我認為大部分我們仍然在這個時候
+如何將一些通常的知識
+從網路上學習
+如何將這些模式
+非常大規模
+讓它們能夠在任何模式
+表現動物
+嗯
+我可以問你
+有什麼原因嗎
+有很多事情在發生
+原因是在大部分的語言模式
+do you get the benefits of that
+as part of your VLA backbone, do you have reasoning
+kind of emerge as a consequence of what you're doing
+as you train these ends end or
+诶 think about
+the benefits of what's happening
+in the LLm world.
+do they do they benefit you not
+I mean
+I think definitely the modes that we have today
+they are already planning actions
+not just at the
+what is the immediate action
+but kind of
+what are the next 50 things I need to do
+right, so like the next 50 time steps
+它是一個很短的50步的步驟
+就是一個二步的步驟
+而且它也已經是一個
+在語言中的主題
+所以我們問它們
+要把房間清洗
+它們的主題會選擇
+我必須要把水倒進去
+然後我必須要把水倒進去
+所以它已經有這些部分了
+它是一個做成的項目和項目
+因為它給自己自己的項目和項目
+然後它想像一個小的一段時間
+如何發展
+所以我認為它已經在這裏了
+我認為在未來
+它會有更多的
+我完全預期
+那些前往的學習
+或是教育學習
+這些東西也會
+進入進入機構
+我覺得
+它是很有趣的想法
+因為它可能是比較不同的
+那些是主要的問題
+那些是人們做的問題
+因為我覺得這些問題
+很容易讓人們想起
+是質素問題
+你會想起他們在你的頭上
+在寫作
+如果我改變這個語言
+這個方式我會得到這個方式
+我覺得在體育方面
+它會比較多一點
+它會有點不同
+當你試著學習新的運動
+例如我最近開始學習如何玩天使
+然後我沒有想像中
+我現在需要把握著手
+我需要動手
+然後我需要動手
+但它是比較像你想像中的動作
+你會想到你的身體如何
+你的計劃
+有什麼樣的
+傳統物品在你頭上
+所以我覺得這些東西
+會讓你進入模式更多的時間
+我猜在我們的時間
+我們現在在一個地方
+我們能夠用到的部分
+從文化模式來看
+我覺得
+我們很高興
+這就能夠改變
+很多的短短
+我們看到的LLMs今天
+都被建成
+因為我們在學習
+在學習問題上
+在學習問題上
+學習和學習
+我認為 robotic 會
+會給予這一個新的領域
+我們需要去思考如何思考
+思考應該會發生在一些頂尖的空間
+你能夠思考一些文章、畫面
+或是在所有不同的空間裡
+或是在所有不同的空間裡
+來達到答案
+Robotics 提供了一個很好的測試
+你能夠在體育世界上基礎
+沒有那麼多資料
+所以你必須跟一些難度相處
+但我認為這會給予新的新的資料
+再重新再重新再重新
+說到資料
+給我們一種感覺
+我不知道你已經把資料的大量
+已經集中了
+你會如何集中到下一年
+我還不太確定是更好
+但我們在談論資料的大量
+data is  있죠
+data is one of those things that is actually fairly new ones
+it's not just a matter of quantity
+quality obviously matters
+but also things like diversity
+and even when you think about the quality or diversity of robot data
+these are not very strictly defined terms
+like if you go for the same task in ten different ways
+is this diverse data or not
+or how do you compare it to the diversity of the data
+if you go for ten different glasses
+所以這也是我們為社會而不認為的
+如何把資料分析得到
+如何把資料分析得到
+如何把資料分析得到
+如何把資料分析得到
+我們也在找到
+有些資料的部分
+是真的真的重要的
+例如如果你想要
+做出一種表現
+你不需要一起
+把資料的數量提升了
+我們在做這三個不同的項目
+我們在PyStar06的發展中
+我們也知道
+如果我們繼續在集中更多資料
+同樣的方式
+我們在集中的表現
+我們不再繼續在集中更好
+所以我們需要找到更多的方式
+或是我們需要想起
+什麼樣的資料會成為更好的表現
+這是我們在學習的方面
+然後這些東西真的可以幫助
+我們來談論資訊學習
+我們來談論PyStar 0.6
+是PyStar而不是QStar
+對 其實我們正在討論PolicyStar
+PolicyStar 真棒
+可能我們說說你們在做什麼
+PyStar 0.6
+然後我們可以去解釋RL的意思
+對 當然
+如果我們想要跟我們說的話
+主要的大部分是
+從那裡開始
+我們做的一切
+是一切
+我們在學習
+在學習
+呃 體育
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+測試
+你再次提供了
+你才能把手機解決
+然後它更加獲得
+人類的資料
+也能夠得到對象
+所以人們的責任
+才能說
+其實你知道嗎
+這不是對的
+我們來做一下
+這個程度
+這個程度
+這個資料
+是用來
+重新重新重新
+然後用這個資料
+來想想
+哪個資料
+可以
+可以再重新重新
+可以做更多
+哪個可以做 less of
+基本上是在時間中改變了
+這是一個大分別
+而在那段時間中的真實資料
+是一個錯誤的事
+Caro說的
+讓我們現在
+把這個平台脫掉
+我們會否找到
+我們好像在找到的
+對
+我猜在我的心裡
+我認為在藍燈
+你的手機在你的手機上
+你怎麼做
+你怎麼做
+当你 当你表达决定这些词
+我们是想要的 当我来说这个词吗
+那你已经顺利的决定
+近义的有些比率
+我们现在想举个点
+是要更加开放
+你需要第一词语解决
+所以我们就来放调
+我们选择了三四个目标
+所以它需要发展过目标
+不过它需要发展方式
+但是当你实际地发展它
+然后尝试开始
+这种系列的程序
+你必须要知道
+我能够把这个目标扭下来
+然后我可以扭下来
+我可以
+可以解决它
+从很多不同的位置
+然后我可以与所有的
+浪费和失去
+我会遇到的
+所以
+有时候
+在整合的表现和整合的表现里
+可能会看见一些计划
+当你看见它
+你会说
+现在你只是在做这一项计划
+但
+但真的
+最后一天
+我们想要的
+是
+我们有同一个方法
+同一个程式
+与其他计划的方式
+然后会有很高的表现
+然后我们可以
+把所有的计划
+通过所有的计划
+然后我们可以把计划
+基本上回到这里
+所以
+在那种情况下
+它不只是计划
+如果有意味
+对 如果有意味
+How much of the RL are you doing?
+It sounds like this is a real life RL.
+Can you talk a little bit about the approach to how much RL you're doing in Sim vs in real life?
+So we have taken a quite like real world first approach as opposed to using Sim.
+We are exploring Sim of course, as well as a research tool.
+But all the RL we've done for the Pi Star 6 paper is actually on real systems in the real world.
+是真的非常難去握持
+對比前面痛苦的視放
+你會看到如果你進行和運動
+我有很多樣麗 from
+the tasks that we actually look at
+For this release, there were failure modes
+We saw that if you had just done a simulation
+but you might not have seen it
+put I give you an example
+We have this one task
+which isyou have to build a box
+So it's an actual deployment task
+目的是
+我们建立这些卡线盘子
+让它放进巧克力
+然后可以把它包裹出来
+然后把它送出
+所以它基本上是建立巧克力盘子
+然后建立这个盘子
+最初是很棒的
+然后有新的盘子的新的盘子
+然后它们进入了
+像是一个纸的卡线盘子
+然后这些卡线盘子
+然后就把这些新的车子
+都不完全的合作
+所以就在一起
+然后那些车子就开始拿着
+把他们放在桌子里
+去建设这些车子
+然后就有两个车子
+然后这就是
+不可能的事
+如果你写了
+像一个好描写
+那样你会
+把自己的车子
+挤掉
+所以现在
+你必须得去解释
+这个问题
+如果你只学习
+所有的车子
+然后再去打开
+你不会再抢得了
+所以我们抢得了
+然后
+我需要分開這個方法
+然後我需要把第二張開箱
+建成一個盒子
+我們看到很多的成績
+在柔鋒的使用中
+而是能傳送到真正世界
+尤其是Lock Emotion
+我們並沒有看到
+這些類似的成績和手段
+這些方法
+我想可能一個原因
+是Lock Emotion
+如果你是想要動作
+這部份是最大的問題
+是在自己的身體上
+如果你可以想像到
+你自己的身體
+你基本上就在那裡
+所以你能夠
+做這個模式
+做一次的測試
+因為你只能做
+你自己的身體
+然後你基本上就做
+如果你做得很好
+應該要轉換
+在動作上
+但問題不只是
+你動你的身體
+是世界的反應
+你其實是在改變世界的反應
+不難以解釋,要從A到B動手
+是難以解釋,要如何影響
+你所在的物件
+現在問題不再只在模擬你的自己的 robot
+你必須模擬整個世界
+每個物件你所在的
+每個目的你所在的
+這是我們看的計劃問題
+我明白
+我認為這是為什麼我們沒有看到這種方法
+在行動上的效果
+什麼是結果的 headline
+從PyStar 0.6
+你覺得這個模式
+在你關注的測試後
+你覺得這個模式
+是你的整個訓練的意思嗎
+對,我覺得
+我認為最印象深刻的
+我個人來說
+就是讓這些模式
+在同一段時間中,我們會重新採用很多不同的失敗
+並且在同一段時間中,我們會繼續採用
+最佳的優點是最佳的優點
+所以我們開始的方式
+是我們提升了通過兩至三項項目的項目
+所以我們有一個項目,就是這個
+我們也曾經說過
+一是做咖啡
+用一個實際的工具來處理
+广播和其他影片的相比
+而这二者的调整非常快
+对这一面的原因
+我们把主策稍微接近
+更加快地的样子
+才会更容易取得
+其中的事情
+藏在于
+在现场里
+你先坐 over 处理
+我们能看影片的表达
+我们创造了
+30 小时的酒伙
+basket in in in around or for laundry for four hours things like that um
+actually seeing that life changes the way you think about these models
+you know changes the way at least I think about um it actually being realistic that we can deploy them that we can do it in a way where it's not just a toy demo which is shown once
+but is actually kind of doing the real thing fully and there's been really a challenge in robotics in I don't think many people are aware of
+你看到很多影片, Robo在做酷的事情
+我們也會剪輯這些影片
+它是基本上,任何東西 Robo想做的
+他可能已經有影片, Robo在做那些
+但是你能夠拿到很多東西,你能夠保持
+錄影到你得到最好的拍攝
+我認為所有人的對象是
+這類型的靈性,他們的表現,他們的速度
+他們可以去解決這個問題
+你能夠使用它不得不可行
+我覺得這是最大的
+大型的手機在實際世界上
+因為如果每個其他測試都會被創傷
+他們不一定能夠被創傷
+這就是我認為最重要的創傷
+我們這次PIE Star06的發展
+我們可以開始找到
+地方他們能夠被創傷
+我們可以使用這類手機在我們的辦公室
+或者我們可以給他們去人家買
+去做工資在家裡
+或者我們可以去送他們
+然後給他們收藏箱
+是真的
+這真的很有趣
+我們要想想
+你們在做什麼
+在學習大學
+是一個
+利用客人的負擔
+那些時候
+你們可以現在
+確保他們可以
+利用客人的負擔
+負擔的負擔
+會很快
+它不会失去很久的时间
+所以更是一种客人的新的计划
+和一种基本的能量计划
+还是两个计划
+我觉得是两个
+我认为,Kara,你说了这些
+我认为,在某些方面
+我们的机构真的真的想得到
+机构你想得到的
+可以做你的计划
+做你的菜 煮你的菜
+转转的
+而且机构人们想得到的
+在小企業中可能會解決
+他們的問題
+他們不想自行改變
+因為太貴了
+像建築物店
+這些東西
+如果機械要有屬於
+它必須要有屬於
+能夠做新的目標
+未必見到的新技術
+我認為這是
+無實的
+我們可以
+進行
+更多人的資料
+進行更多的
+我們會做的
+但是它是有限度的
+如何好 如何多資料
+你可以得到的資料
+如何好 最初的資料
+是如何的
+所以我覺得這就是
+你所說的
+如果我們想要的計劃
+我們需要這個
+但是我覺得
+將來我們會
+我預期會看到
+我們會做這些計劃
+而這個資料
+會變成
+非常重要的
+作為
+pre-training
+做好我們的模式
+更好自己
+我們會更加的
+在澳洲的資料
+是我的預計 至少在接下來的幾年
+去建立那些資料
+那些將會將所有的目標
+讓我們終於成功
+讓模式變成好
+然後做他們的進展
+我認為這是新的能力
+我們沒有那麼久想到
+如何學習自己的經驗
+或是有很多的試驗
+但我認為我們沒有做到的
+到這個程度上,這其實是一個明顯的結果,讓你去做什麼
+這就是為什麼這個結果真的非常重要
+我們想要達到這個程度,讓他們能夠學習自己的經驗
+因為,類似我們學習,你可以學習一些,從看影片,練習,或者學習其他東西
+但有時候你需要學習工作,你需要嘗試自己的東西
+讓你看到你的動作的影響
+你其實想得到
+對
+然後做自己的結論
+然後試著學習那一種
+對
+我覺得這是第一步
+對於那一步
+你還記得我
+你剛才在《 rich-setting age of experience 》
+在這段時間裡
+我以為是很深入的
+你認為這項目
+有什麼繼續的學習
+和技術
+這就應該是一部分
+這就有點
+大家的意思是
+繼續學習
+我覺得
+是 more continual than what we've done in the past
+or you have a big pre-training mixture
+and maybe a post-training mixture
+and you sit down you work really hard
+and you come up with an artifact
+and that's it
+the artifact is done
+and there is not much you can do to change it
+now this is much more of a living thing
+like we start with a process similar to this
+but then you deploy it
+然後,它會繼續學習
+所以,它會更繼續,在那種意義上
+它會嘗試新的東西
+它會嘗試學習自己的經驗
+然後,它會繼續學習
+現在,我覺得,它會更繼續
+讓它更加繼續
+讓它能夠找到新技術
+那樣
+或者,它能夠更快速地
+進行這個
+它可能會有理由
+所以,我覺得,它有一個
+角度,像是,你能夠學習
+但是我相信我們可以做得更好
+對 我會同意
+我們在最初這個程度上
+對 而且是不一定是繼續學習
+在那種經濟的風格上
+人們會想到
+有些資料的資料
+然後整個東西都變成
+最後就變成了
+我還不知道
+AGI還是什麼的
+但這就是第一步
+我們在正面的方向
+有很多更多的資料
+我們在正面的方向
+我們在正面的方向
+我們在正面的方向
+我們在正面的方向
+我們在正面的方向
+還有很多更多的做法
+我認為
+從這個推出的
+我個人意味著
+至於
+驚訝
+這些模式
+其實是
+把小小的東西
+放回資料上
+我驚訝
+就是
+人的對象
+還有一個例子
+我們做的暫停
+暫停是一個
+特別的部分
+做一個濕紙
+你把鑑定
+你必须摆下最好的部分
+最好的部分
+你必须摆下最好的部分
+我没有摆下自己的
+我自己的
+所以
+你看我没有摆下自己的
+是个技术
+是个技术
+你会得到的
+就是这样
+就是这样
+所以我们的机枪
+在最初摆下的
+太厉害了
+因为
+这就是个
+最初的
+人生证
+我们在做
+让我们做
+让我们做的机枪
+所以我们可以摆下
+然后机枪
+就像摆下的
+非常厉害
+就像在摆下的
+我们看了,我们说,那是不太好
+所以,我认为,30-50个小时,
+有一个非常小的数字,
+对人们的对象,
+我们把这些数字重新写下来,
+然后,模式开始比较轻松,
+做得比较对。
+我真的惊讶过,
+因为,你认为,
+模式在这几十多个小时,
+已经在这几十多个小时,
+现在,你只是做一个小的对象,
+而且,这其实是好,
+所以,看到这一回事,
+我认为,这继续学会,
+which I find impressive."
+can I ask the
+the thing I'm still hung up on is generalization
+so as I learn how to tamp better
+does that make me better
+at folding boxes or not?
+In this specific case no
+but the mechanism is the same
+that you can also employ
+to fix the oh I have two boxes in front of me
+that are sort of stuck together
+and I need to pull them apart, right?
+because you can get
+thirty corrections for this taping part
+你会有30个插槽的插槽
+对
+但是你会有30个插槽
+这插槽不像是很丰富的
+然后所有的插槽都会给你
+这些更加的准备
+所以这是一个 repeatable recipe
+但是它不必要插槽
+对 我想我们要把插槽的插槽
+我们也会看到
+其实是转转A到B
+如果有些動作是比較像拱頭
+但在這時候,我會說
+是比較像拱頭的重複
+對,我們看到很多的專利
+從學習上學習
+我們學習了更多的拱頭
+更多的資料
+我們看到是比較容易
+去新的拱頭
+或是我們看到拱頭
+沒有預期過的拱頭
+這繼續在改變
+我們會把學習上學
+在某些場面
+每個時間我們會看到
+學習的拱頭都開始變得更好
+因為有更多資料在內
+有更多的改變
+我們在做的 pre-training process
+等等
+我還以為
+我們有更多的資料
+在做各種不同的項目
+他們也會把資料帶進去
+我認為
+我相信
+我們會看到更多的
+專業化
+從那種程度
+我們要把資料
+資料進來
+資料變得更好
+我們可以更多的資料
+然後資料變得更好
+我們可以更多的資料
+我想可能也有這個問題
+我們沒有說過
+一個重要的細節
+就是PyStar 6的食物
+它有兩種部分
+一個是政策
+想要改變
+對於對方的對象和對象
+另一個部分是
+我們有這個對象的對象
+我們說了一些
+我已經說過
+對方的對象
+是對象的對象
+對象的對象
+是不同的
+是 kind of in already has some of these aspects of generalization that I think you're like trying to search for
+which is that the way we do this is we first basically get humans to tell us
+basically whether a specific attempt of making the coffee or doing the box was successful or not
+so there will be like human labels provided with these episodes
+and then we train something which is called a value function
+我會在我任何的位置在目標中想要如何進行
+我會在任何的位置在目標中想要如何進行
+這次的價值方式是用來決定
+如果我能把這個數據的數據
+能否把數據的數據增加
+或者我能增加
+根據我預期的
+我會在任何的位置進行
+或我會在任何的位置進行
+我們看到的一件事是我們訓練的等級
+這些等級基本上是訓練的
+同樣的背景和模式
+但他們還訓練了
+他們的實際行動
+其實是訓練的
+當我們訓練這些等級
+我們看到
+加上更多的資料
+從不同的等級
+其實也有幫助
+這個模式開始
+其實是真的不錯的
+至少有些等級
+在知道它會否失敗
+而且我之前的視頻是很重要的
+比如我看了影片
+我正在把
+- 攝影機的設計設計設計
+謝謝你
+我還沒做好
+我正在把攝影機設計設計設計設計
+進入咖啡機
+它好像知道
+它沒有正確的位置
+在30-40步驟前
+它好像在30-40步驟前
+它好像在30-40步驟前
+它有價值的效果
+如果你看看檔案
+它會說
+這不太好在這幾個影片中
+所以我應該不加入這個資料
+很有趣
+這更加有資料和更多的工作
+這就是一個很有趣的反應
+對卡帕蒂的蝸蝶蝶蝶的方式
+因為你沒有在最後等待蝸蝶
+你其實是有很多的訊息
+我覺得Arel是一個很大的大域
+有很多不同的方式
+人們經常跟Arel有關
+像是一個政治階段的方式
+or
+very specific on policy learning approaches
+to me, Arell is more of a problem definition
+and there are m many many approaches that get around
+The problem that you are referring to
+which is that you only get the reward at the very very end
+and it's not really scalable for very long horizon tasks
+There are things like value functions
+There are things like temporal difference learning
+that try to get around this problem
+where you constantly make predictions
+and you do it in a sequential way
+這就是我想在這些東西上
+用來幫助共產黨的更大的社會
+因為我們沒有必要
+有一個完美的語言
+讓你能夠運作
+這麼多的語言
+而不僅要做到
+在真實的世界
+需要做更多的方式
+所以我們需要
+學習價值的功能
+這些東西
+我認為
+這些東西
+會非常值得
+對
+可以 I'd like to push you a little bit on
+I'd love to understand, Internet video seems like it's part of the recipe
+but not a huge focus right now.
+As I see it, do you think there's gold left be mind in Internet video?
+And then if you look at what's happening in video models right now,
+world models,
+to what extent do you think that's going to be a discontinuous jump
+in model capabilities and an important part of your model pipeline?
+我覺得可能也有兩件事情
+one is about the data
+how do you bootstrap yourself
+to the point where you can start deploying
+and the other question is
+what about what about video models
+and kind of the world model aspects of it
+so on the data point
+I think we are now in this bootstrap phase
+where basically anything goes
+like whatever you can figure out
+how to add to the model
+to its benefit
+我覺得是好
+你能夠加速度
+你能夠加人類影片
+手機手機
+人類手機的手機
+我覺得這也不重要
+你只需要找一個方法
+去把自己的手機進行
+讓你能夠把這些手機進行
+因為我覺得在長期間
+會有這個手機的手機
+但會有這個手機的手機
+我覺得手機的手機
+會有更多資料
+比任何東西
+你能夠做的手機
+所以我們在這個
+我們現在有很多不同的地方
+我們想要看到什麼東西
+讓我們看到敵人的執行
+然後你能夠執行
+我覺得這會更加快
+比任何事情你能做的更快
+所以這也是我們想要的
+這就是我們想要開始執行的模式
+這就是我們想要做的
+我們有很多不同的目標
+很多不同的環境
+讓我們能夠有這個很強大的資料機構
+現在在世界模式的方面
+我認為世界模式和Orella的方式
+是同樣的問題
+是相反的問題
+是你如何去做
+或者是你決定的問題
+是你如何去解決
+哪些是你所想的
+是你所想的
+是你如何去做
+你如何去做
+一方是你以來想起
+如果我把這個機器放在不同的地方,會不會成功?
+或者你能做到這做到的,用強硬的學習
+做到一個更加不同的技術,但基本上是一個非常小的問題
+我們在探索這些的方式,我們要看
+如何在實際上解決這個問題
+我們要學習的方式,我們要學習的方式
+我們要學習的方式,我們要學習的方式
+我們真的解決了這個問題
+我還不認為有一個答案
+但是我們看到很多的進步
+我們在PyStar和PyService 6
+我們在PyStar和PyService 6
+我們在PyStar和PyService 6
+但是我想這應該是
+我們有很多的方式
+好
+我們可以說一下
+大家可以走過那步驟的一段時間嗎
+我們來說一下
+客人的責任
+你會帶什麼東西給客人
+你會送他們嗎
+然後
+你會怎麼想像
+他們會發生什麼事
+你占传了他们的细腻的细腻的细腻的细腻
+你占传了他们的细腻的细腻的细腻
+他们要如何进行细腻的细腻的细腻
+这些怎么做的
+我们还不知道真正的答案
+我们仍然在发展
+我们仍然在技术上仍然在早前
+你可以说我们正在开始
+再进行细腻的细腻
+我们可以开始发展这些东西
+所以我們認為我們要先在技術上關注
+去解決如何達到這個問題
+其實是很容易去解決的
+我們開始談論的這個應用
+然後,基礎的歷史
+很常有這個問題
+你開始在這個問題中
+開始用這個大規模
+如何能夠拆解
+如何將它作為總結
+然後你選擇一個應用程式
+你會被困難
+你會開始切換領域
+你會開始解決
+很特別的理由
+就在這個應用程式上
+很快就變成
+一個應用程式
+它只要在
+在家裡選擇的機器
+就是這樣
+我們希望將來可以解決
+我們認為我們有機會
+能夠完全解決
+智慧的心理
+而這個做法
+我們會在現在的任何各種應用程式中
+作出更多的方式
+我們想要確保
+能夠使用技術的方式
+能夠使用更多的方式
+能夠使用更多的方式
+然後我們會開始
+解決如何購買
+而且我們可以有
+很多不同的方式
+我們還未能想起的方式
+因為它會依照
+技術的方式
+如果你是
+或是用手機的方式,或是用手機的方式,或是什麼樣子
+但是我覺得這問題會太大力了
+我們會給你很多 comfort
+就像是選一個
+我們會給你很多 comfort
+對,我們會很開心
+但是我覺得這問題太晚了
+你們有很多的觀點
+謝謝你們在工作,《智能和智能》
+這是一個非常非常好的改變
+只是PyStar06是一個很大的 breakthrough
+祝你成功
+谢谢
+能否跟上一个辣椒问题
+肯定
+这些东西很大很大的
+你做了各种东西
+我说过
+你都在研究一切
+前几个练习
+然后
+他们是
+在研究程度上
+发行的
+他們變得更加鬆軟
+其中一個最能夠的一個負責
+是自行駕駛
+waymo和Tesla
+做得非常好
+但是如果要回到歷史上
+我自己自行駕駛時
+Sabastian Thrym was on the stage of 10
+2009 2010
+他說了一件事
+他們贏了的大部分挑戰
+2007年
+And we're in 2025
+And the thing barely goes from San Francisco
+Down here. They kinda can do it now
+But they take local roads
+They can't even get on the freeway
+If you do such a generalized job
+How long is the runway or the timeline
+That you're thinking about to build
+For generalization and performance
+So there are some aspects of the problem
+That make it easier than cell driving
+And some that make it harder
+我們沒有需要去充滿100%的負擔
+有很多的工作
+如果在95%的負擔
+就很好
+如果有一個人在家裡充滿100%的負擔
+就很好
+你只要叫你兒子去充100%
+我們仍然需要充滿100%的負擔
+對 沒錯
+我們在車上也不是這樣
+如果每百次失敗
+那是一個問題
+所以在這技術的計劃中
+這技術可能會更容易
+我們也有所 benefit 從
+這技術是不同的
+我們在這技術的
+屬於文化和基礎的模式
+有些非常有趣的
+我們也學會了很多技術
+2009-2025
+and we can benefit from all of those
+So i think that also really really helps
+and these are much more general purpose solutions
+than what we had in the past
+at the same time
+there are some things that will be very challenging
+Like there isn't just a single application
+This is a very general purpose solution
+That can be applied to driving
+but also to manipulation
+and locomotion
+flying
+and all kinds of other things
+and i think it's to be seen
+how much harder this is
+所以 根據我們所體驗的
+它不像是更難的 坦白說
+它像是 如果你用這個很大一種的意識
+的意識 從結局上
+它變成能夠非常地集中
+還有一件事 《智能體驗》
+我們不完全理解的
+這件事 也讓我們更集中
+在開箱 喝一杯咖啡
+飛機 運動 和修補機
+即使他們都看起來像各種各樣的模式
+而他們都看起來像各種不同的模式
+這些模式總是可以作出對象的意見
+這也給我很多希望
+可能問題不太難
+也許會比較容易
+所以我覺得這是一個非常大的問題
+但我也不想將錯誤的結論
+從我們看來的自行車
+真是漂亮 恭喜
+你最喜歡的結果是哪一種?
+是一個很好的問題
+對,其實是一個很好的問題
+我可以開始,我已經很驚訝過影片模式
+你剛才說過,我看到他們幾年前
+我曾經在他們的部分工作過
+我並沒有預期過這條路會變得太深
+他們現在是無法分辨的,從事實上
+他們可以做很厲害的事情
+所以那是非常驚訝的,而且非常驚訝的
+對,我會說,我仍然在一些程度上
+我們到了這個地方,我們好像也有很多模式
+但是我真的沒有看到
+我還沒有看見
+我還沒有看見
+我還沒有看見
+我還沒有看見
+我看到每個小的前往
+我都在做過的大挑戰
+或者在找新的東西
+我相信這幾年有很多東西
+我還以為是,哇,還有很多進步
+雖然在年初的時候,好像這整個
+藝術業的公司,可能是
+推出了一些
+但發現這整個
+第二口的
+新的空間,在進行
+對,我可能會說到這
+因為這整個東西都能做到
+很像我的話
+我完全沒有想到這個蠻有趣的
+你建立了這個非常心思的東西
+一個很大一個專業的學習方法
+你用資料去浪費
+然後它就變得更好
+然後變得更好得多 than anything we've ever had before
+然後這就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+然後就變得更好
+它就像完全 mind blowing
+我們可以用手機放在家裡
+它知道什麼要做
+在家裡從沒進去
+或可以用咖啡13小時
+這些東西
+這是從很普遍的
+事件
+讓我們完全理解
+但它開始開始得知
+那對我來說是 mind blowing
+我們在測試
+那是Sonia相信我們在測試
+但是這很有趣
+在學校學會教你
+把大問題拔下
+然後把大問題拔下
+然後然後有人發現
+那是不可能
+最好的方式去訓練
+機器或是機器
+對 而且要說
+整個學習
+像AI的感覺
+其實是同一道錯
+我們在學習
+很久以前
+學會在解決
+但是我們會有很多的問題
+然後在時間中
+我們會有這個概念
+如果我們能一起做多次的學習
+如果我們能做得很好
+我們會做得更好
+但是那些事都會發生
+因為我們轉換到
+這個普遍的學習
+然後就全都會發生
+這就是一個驚喜
+你認為我們是一個合理的
+我們從一個領域到另一個領域
+我們會有很多的問題
+我們會把他們分成小小的
+但如果我們在這裏 慢慢 慢慢 慢慢
+那一段時間裡工作時
+他們不停地工作
+然後我們說 咱們回到第二個問題
+然後再想想 會再解決
+再回到自己的問題
+我不能看到我們回到自己
+對 我沒有看到我們回到自己
+我認為有很多不同的提議
+或者很多人說
+你要有最好的時間
+你可以有各種方法
+在擴充我們已經知道的
+像紐西蘭的精神
+你不需要學習
+我們已經知道它們的效果了
+所以你能把它們放進了身體的位置
+但從我們看起來
+它不僅僅僅僅做到
+如果你試著做這個
+你能夠限定能力
+去學習新的東西
+我認為我們全世界最好的
+我們都會去學習
+這也很有趣
+就像我們學習的
+你會覺得
+如果有一個方法
+去預先所有的精神
+它们的生命会发现出现
+它们会知道每个东西都能知道
+我们看到一些其他类的物质
+我觉得它们会变得更高兴
+它们会像那么多样的
+它们不认识很多的生活
+但是人类和人类的性命
+例如狗类
+它们有这些小孩的年代
+它们不太能够开始
+但是它们要学习它们的经验
+它不像預約,你必須自行使用它
+我覺得這就是我們需要學習的
+我們需要學習世界,學習這個
+這就是我們學習的程度
+我們認為我們知道我們學習的
+但我們不懂
+所以我們需要學習這個程度
+同樣的東西,我們要學習
+我认为我儿子在想什么,但我不认为
+对,我和小孩有一个小孩
+对,这很惊讶
+他们学得很快
+他们学得很快,你不知道他们从哪儿来的
+希望从父母
+希望
+她肯定知道一些东西我没教她
+谢谢大家
+这是一个很美的目标
+谢谢你们来这一趟
+谢谢,谢谢你们
