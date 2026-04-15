@@ -1,0 +1,1438 @@
+OK,嗯,是非常好 to be here in Hobart
+I hadn't realized how beautiful the natural surroundings are here.
+Um,if you can't read the screen because you're at the back,don't worry.
+I'm going to say more or less everything on the slides.
+The slides as much to prompt me with what to say,as for you.
+So for the last 60 years or so maybe 70,there were two paradigms for intelligence.
+One paradigm was inspired by logic.
+人們認為原理是理解的
+而你做的理解是
+你會有標準的文字
+寫在一些特別的文字中
+然後你會用新的標準
+就像你做的文字
+你會有標準的文字
+你會用新的標準
+那些文字都會有這樣的作用
+他們想
+我們要想清楚這個文字
+在於你能夠代表了知識
+學習的東西
+像是感受
+如何控制你的手段
+那可以等到後
+首先我們要理解這個特別的語言
+在於你代表了知識
+另一個方式是
+一個邀請的方式
+說 看
+我們只要知道的最 intelligent thing
+我們知道的是 腦筋
+而腦筋的方式是
+他們學習了
+腦筋的力量
+而如果他們想要
+解決某種複雜的問題
+他們會練習很多
+他們練習了
+他們學習了
+腦筋的力量
+直到他們能夠解決
+那種問題
+所以我們要想想
+如何這樣做
+我們要 focus on learning
+and how neural networks learn the strength of connections between brain cells
+and we will worry about reasoning later
+evolutionary reasoning came very late
+we have to be more biological
+and think what's the sort of basic system
+so there were two def very different theories
+of the meaning of a word
+that went with these two ideologies
+the symbolic AI people
+and most linguists
+thought the meaning of a word
+comes from its relationships to other words
+所以意味着是在整个言语中的整套意味着
+或是词的意思
+有那句话在其他言语中
+你能够够够地把那句话
+跟其他言语的意思
+有关的意思
+但是那是意味着
+在这些相关的关系中的意味着
+医生,特别是1930年
+它是完全不同的意義
+或是它看起來完全不同
+意義是一句話
+只是一大堆的特質
+所以一句話是像貓
+是一大堆的特質
+像是貓
+是蟲子
+是蠟蛛
+是蟲子
+是一大堆的特質
+那是一種完全不同的意義
+psychologists like that partly because you could represent a feature by a brain cell
+so when the brain cell is active it means that feature is present
+and when it is silent it means that feature is not present
+so for cats the brain cell representing has whiskers would be active
+now in 1985 which was 40 years ago
+it occurred to me you can actually unify those two theories
+they look completely different but actually they are two sides of the same coin
+而你用輪圈來學習一種方式
+所以學者永遠都沒有能夠解釋
+從哪兒這些方式來的
+而你用輪圈來學習
+是用一些方式來學習輪圈
+來預計下的方式
+而在這樣做
+輪圈的做法是
+學習與表現的關係
+from things that represent the word symbol
+to a whole bunch of brain cells, neurons
+that represent features of the word
+so it learns how to convert a symbol into a bunch of features
+and it also learns how the features of all the words in the context
+should interact to predict the features of the next word
+that's how all these large language models
+that people use nowadays work
+they take a huge amount of text
+and they use a great big neural net
+to try and predict the next word
+given the words they've seen so far
+而在這樣做,他們學會將語言改變成大量的特定
+學會將這些特定的語言進行
+讓他們將其他語言改變成大量的特定
+這意味著,如果你可以這樣做
+所有的知識與關係
+除了在你所操作的文字之外
+而也會操作
+將這些語言進行的特定
+所以,現在的大量語言
+使用的大量語言
+不要把任何的詞語說出來
+不要把任何的詞語說出來
+他們的知識是
+如何將詞語交往
+以及如何將詞語交往
+他們不是像
+最多的英文人
+他們的英文人
+他們有很多詞語
+然後他們可以合作
+找新詞語
+那不是他們的意思
+所以
+我得到這個模式
+然後在下一三十年
+突然間
+他們的人變成了
+這些人
+所以在10年後,一位學生叫Yosho Benjo
+在學生中,我們現在有很多的快速
+大概1000次的快速
+一位學生叫Yosho Benjo
+表示,我用的小例子
+只是在一個很簡單的 domain
+可以作為真正的語言
+所以你能夠用英文的語言
+從所有地方去
+然後你能夠用英文的語言
+來取得一些語言
+然後再以下的語言
+如果你用它來做,你會很快地
+作者來說 folding the next word
+about as good as the best previous technology
+and it would learn how to convert words into features
+to capture that meaning
+about 10. Years After that
+The linguist finally accepted
+that you wanted to represent word meanings
+by big bunch of features
+and they began to make
+Their models work better doing that
+and then about 10 years after that
+researchers at Tookum
+invented something called The Transformer
+which allowed for more complicated interactions
+between features
+我會把這說明一段時間
+在《Transformer》
+你能模特兒英文更好
+你能更好預計到的詞語
+這就是現在的大型語言模特兒
+像《Chat GPT》
+使用《Transformer》的使用
+還有一些更多的訓練
+然後整個世界
+就要看這些模特兒的能力
+所以你能看見
+《Transformer》的大型語言模特兒
+是由1985年代的小型模特兒
+使用多些不同的文字
+有很多的優惠
+因為他們要用很刺激的文字
+例如 如果用中文
+可能是一個月或女性名字
+或是一個優惠 像是應該的
+你不能從文字告訴你
+是甚麼
+所以最初 優惠會有
+和整個文字的意思
+會令它變成
+整個文字的大部分
+然後 當你通過優惠
+它會突然清理
+用其他語言的解釋
+如果你看到
+在旅行的月和 April 近來
+還可以說是女性名字
+但會更加容易成為一個月
+而紐約利用的那些資訊
+將會突然清理到
+對方的意義的意思
+在那些語言的解釋
+我原來設計了這個模式
+並不是為了
+並不是為了語言技術
+而是為了 trying to understand
+如何人們明白語言的意思
+如何教育孩子的意義和語言
+從幾個例子來看
+這些語言模式
+是由人工的模式設計
+而不是技術的模式
+他們轉變成很成熟的技術
+但人工也會同一方式
+這個問題人們經常問
+這些LLM 他們真的明白他們的說話
+他們的答案是
+他們明白他們的說話
+他們明白我們同樣的方式
+所以我會給你們一個分析
+去解釋如何語言作用
+或是去解釋什麼意思
+去解釋文字
+所以你聽了文字
+然後你明白
+但是那是什麼意思
+在《我與我》的標準
+人們認為那是
+你聽了文字
+然後你明白了
+我明白了文字
+因為它是傳達成英文
+所以這些標準
+人們認為理解了
+在英文的語言會代表
+一些特別的內容
+像是《Logic》 或是《Mathematics》
+那些不一樣的語言
+然後在內容不一樣的語言
+你能夠再合作
+就像在《Mathematics》
+如果你有一個語言
+你能夠用語言去做新的語言
+你能夠再加兩個語言
+現在你已經有新的語言
+他們想
+有些人的理由和理由會像這樣作為
+你會有相同的表現在你的頭上
+然後你會用手機的方式
+給他們發出新的表現
+這並不是理解
+按照《紐約網》的理由
+這理由其實是合作的
+字是像雙方的
+所以我用這個調整來解釋雙方的理由
+但它們會從雙方的方式來解釋
+所以
+第一方式是, 雙方式是三個字
+雙方式是, 我可以模擬三個字的三個字
+它不會很明確, 但如果我想知道雙方式的形狀
+我可以模擬雙方式, 雙方式不會是正確的
+但是雙方式的形狀會是正確的
+雙方式是, 我可以模擬三個字的三個字的三個字
+在某個解決中
+我可以模擬任何字
+它們像非常有趣的雷格布朗
+他們不只會模特3D的東西
+它們可以模特任何東西
+這是一個很棒的模特兒圖案
+我們也有 invented
+這就是我們很特別的雷格布朗
+因為我們有這個模特兒圖案
+所以雷格布朗有千多個 dimension
+雷格布朗只是三個 dimension
+你可以去轉它
+可能會增加
+但它們基本上有低 dimension
+雷格布朗有千多個 dimension
+現在,很多人不想想像什麼
+有千個 dimension 像的東西
+所以,這裡是你做的
+你想像一個三 dimension 東西
+然後你會說千, 非常大聲地說自己
+OK
+那是你最好的可以做的
+另一個方式, 字是Lego blocks
+是有千個不同的文字
+Lego blocks 只有幾個
+這裡有千個不同的文字
+每個文字有自己的名字
+是非常方便的
+另一個方法是
+他們不像一個矽矽的形狀
+一個矽矽的形狀是矽矽的形狀
+有一個形狀的方式
+有幾個形狀的方式
+但不像一個形狀的方式
+但他們變成了形狀的形狀
+所以他們是一個很大量的
+矽矽的形狀
+然後還有一個方法,就是如何合作
+所以在雙方的腳踏板上,有小小的圖案,可以按進小小的圖案
+好,我看他們的效果,我最近也有檢查,但我看他們的腳踏板是怎樣的
+現在,雙方的腳踏板不合作,同一方法,雙方的腳踏板是這樣的
+Each word has a whole bunch of hands
+and the hands are on the ends of long flexible arms
+It also has a whole bunch of gloves that are stuck to the word
+And when you put a bunch of words in a context
+What the words want to do is
+Have the hands of some words fitting the gloves of other words
+And that's why they have these long flexible hands
+所以, 現在, 另一個點
+你將字形和手形和手形的形式
+同時將字形和手形的形式
+同時將字形和手形的形式
+同時將字形和手形的形式
+同時將字形和手形的形式
+所以, 你現在有一個問題
+如果我給你幾句話
+我可以給你一個紙紙的頭線
+讓你沒有什麼很好的指標
+讓你明白要怎麼去做
+我只能給你幾句話
+然後你必須要明白這個意思
+你解釋一下,你正在在抵押每句文字的手在手上,
+將其中的手臂從其他手臂的手臂抵押,
+當你解釋這問題,
+如何解釋每句文字的手臂,
+將它們都合成這樣,
+用手臂合成手臂,
+你便明白,
+這就是理解的問題,
+解釋這問題,
+如何解釋文字的意思,
+這高級形式是意思,
+如何解釋文字的意思,
+所以它們都能合作好
+然後可以和大家一起手握
+這就是意識的原因
+這就是我們在這些LNM
+他們有很多很多的藍色
+他們開始以一種意義為主
+這可能會很划算
+我問他們 他們在這些藍色
+他們在做什麼
+在形容這些藍色
+在想如何形容他們
+所以他們的藍色都能合作
+他們的藍色合作在別的藍色
+當他們做了這件事,他們就明白了言論
+這就是他們的意識
+我已經把這個解釋了
+所以基本上,這不是像
+把一些特別的語言放在一些
+它是用這些幾個形式來形容
+而是把它們形容好
+這幫助他們解釋一句文章
+所以我會給你一句文章
+你不會聽過的
+你會明白它
+你會明白它是從一個用途來的
+而言論是
+她用了它用的那一種炸麵
+現在
+她是很好的烘焙
+她真的用了那種炸麵
+但是那不是你以為的
+可能是她用了炸麵
+或是一樣的東西
+她用了炸麵
+你也知道那是個詞
+因為它在言論中
+在文字中的文字
+但你也沒有意義
+要從哪一邊開始
+現在有一個問題
+你已經有一個很好的想法
+所以有一個文字叫Chomsky
+你可能也知道
+是一個 cult leader
+你認識的一個 cult leader
+是
+要加入他們的 cult
+你必須要同意這個明顯的論點
+所以川普一
+他有一個更大的反應
+川普二
+他贏了2020年選舉
+For Chomsky it was that language isn't learned
+And eminent linguists would look straight at the camera and say
+The one thing we know about language is that it's not learned
+It's obvious nonsense
+Chomsky focused on syntax rather than meaning
+He never had a theory of meaning
+He focused on syntax
+Because you do lots of mathematical things with syntax
+He also was very anti statistics and probabilities
+Because he had a very limited model of what statistics is
+他想說學生是一種相關的合作
+學生可以更加難以解釋
+而你的網路用上很大的學生
+但在那種情況下,每個學生都有學生
+所以我的考慮是
+川普的看法是
+有人想要分辨一輛車
+如果你想分辨一輛車
+你會很關心
+為什麼你用上了速度
+才能更快
+那是你真的想分辨的
+你真的想分辨一輛車的基礎
+可能你會關心為什麼你會把車子的速度調低
+但更有趣的是為什麼你會把車子的速度調低
+現在,Chomps給的車子會變得很不同
+他的車子會是,說,有兩輛車子叫做Motorbikes
+有三輛車子
+有四輛車子
+有六輛車子,但,喂,有五輛車子
+這就是關於車子的重要點
+而當大型的語言模式第一次出現
+詹姆斯基在《紐約時代》發表的文章
+說他們沒有理解任何東西
+只是一個很刺激的方式
+他們沒有理解任何東西
+他們不太能夠解釋
+他們的問題
+而其他
+他們沒有一個語言模式
+因為他們不能解釋
+It is a question of why certain syntactic constructions don't appear in any natural languages.
+Why there aren't any 5 wheeled cars?
+He is just completely missed out on meaning, and language is all about meaning.
+Okay. So here is the summary of what I have said so far.
+Understanding a sentence consists of associating mutually compatible feature vectors with the words in the sentence,
+where the features assigned to the words, these thousands of features are the dimensions of the shape.
+你可以想像到, 自然的活動
+是在那種形式中的方式
+所以, 同樣的形式和 同樣的形式
+但更容易是想像到, 自然的形式
+大型語言模式, 非常不像平常的 平常的電腦
+平常的電腦
+有人寫了一堆 文字的文字
+他們知道, 每個文字的文字是用來做的
+他們可以解釋, 如何用來作作
+然後, 他們可以看, 說, 文字是錯的
+這些文字不像那樣
+它们都有电子证明,但电子证明是要告诉他们
+如何学习 data
+那是如何,当你看到一条文字
+你应该改变联系的联系
+所以你会更加快选择接着文字
+但是他们学习的联系是所有的
+他们学习的计算,甚至计算
+他们没有联系的证明
+没有人知道联系的联系是什么
+是一个迷路
+是一个迷路
+是同樣的 with our brain
+我們不懂 what the individual neurons are up to typically
+所以
+我們的語言模式 work like us
+不像 computer software
+其中一個東西 people say about these language models
+是他們不像 us 因為他們 hallucinate
+我們都會 hallucinate all the time
+我們不叫做 hallucination
+我們叫做 psychologists confabulation
+但如果你看到 someone trying to remember something
+那件事 它 happened a long time ago
+他們會告訴你 怎麼發生的
+會有細節在那裡
+細節會看得對
+細節會完全錯
+會有關兩種細節的確保
+所以,這類型的例子
+你不常見的
+是John Dean
+測試在水門
+所以他測試在地上
+他沒有知道那裡有紙巾
+他測試在地上
+他測試了一整整整的
+有很多的遇見
+他說,這些人在遇見
+他在那裡說了很多話
+很多是不合理的
+但他在說的真相
+那是他在說你
+有些事件中
+很無聊的
+給了他在白天上
+做了什麼
+所以他在說的真相
+但他做的就是
+他在那裡
+有些事件中
+給了他
+在他的關聯力中
+學習了
+從那裡去
+所以你記得
+有些事件
+不是像在一個電腦
+你把照片丢掉,你把照片丢掉,你把照片丢掉,你把照片丢掉
+那不是記憶是甚麼
+記憶是甚麼,是建造一件故事
+根據其中的改變和強制
+在時期的 event
+故事會影響到
+所有的東西你學會的
+這件故事的細節不一定是對的
+但會很懶惰的
+如果這是一個最近的事
+但這件事是同樣的
+而他們的想法是同樣的
+我們只會做一些東西
+聽起來聽起來聽起來
+沒有難度
+而是在做什麼
+我們都不知道
+OK
+現在我想說說
+為什麼這些東西很像我們
+現在我想說
+他們的感覺
+我們很喜歡
+他們的感覺
+他們的方式是不同的
+特別是他們的方式
+他們在一個很重要的方式中
+他們在智力系統上
+在智力系統上
+我們現在的智力系統
+是有的
+你可以用同一個程式
+在不同的部分
+有智力系統的方式
+只要有不同的方式
+可以用同一個程式
+你可以用同一個程式
+在不同的方式
+這意味著
+在智力系統的方式
+或在等級中的歐洲,是無奈的
+在那種情況下,你能夠破壞
+所有的電腦在現在的運動
+如果以後你能夠建立另一個電腦
+並供應同一個設施
+你能夠把電腦
+或電腦的程式放在某個電腦上
+然後再放在這新電腦
+它們就會再次運動
+所以我們其實有解決了
+這個問題的迴避
+這位教堂的教堂
+不太開心 about this
+但我們可以真的做到
+你可以用智能,在智能上擺放,
+將整個行動打敗,後來你能把智能重新重新擺放。
+現在你可能會覺得我們可以做到的,
+但你只能做到的原因是,因為這些行動是智能,
+就是他們的位置,或他們的位置,
+或他們的位置,或他們的位置,
+在這個行動的程度上,
+是同樣的,在兩種行動中,
+這意味著他們不能用很大的,
+我們都很不同,我們 brain cells have neurons that have rich analog properties
+我們學會的使用是,我們這個使用的 all those quirky properties are individual neurons
+所以,我們的性能與體驗的關係,完全沒有這麼大
+因為你的性能與體驗的關係,它們有不同的關係
+如果我告訴你,我們的性能與體驗的關係,它們有不同的關係
+我們會比你一般
+他們是最好的,是我的性能
+而我這個性能,我這個性能
+我們會完全沒有存在
+他們是最好的成員
+這代表我們是死亡者
+我們在這裏的行動中
+我們的知識在我們身上
+因為知識在這裏的連接力
+我們做了什麼叫死亡者
+而且有一個大 advantage 做死亡者
+你不是死亡者
+在寫文章
+當你遺失了死亡者
+你會受到的愛
+但學生想要的東西
+更重要的是
+他們想要低能量和優勢的製造
+如果我們有離譜的財富
+我們可以用資料的硬碟
+我們可以用低能量的製造
+而伸展的東西
+在很多人的腦子中
+而可以很快地發展
+而不是在台灣的很精彩的製造
+所以有兩大大敗因
+但是最壞的就是財富
+obviously because of that, there is a big problem for mortal computation
+more happens when the computer dies
+you can't just keep it's knowledge by copying the weights
+to transfer the knowledge from one computer to another
+for digital models
+the same model running on different computers
+You can average their connection strengths together
+that makes sense
+but you can't do that for you and me
+the way after transfer knowledge to you
+I produce a string of words
+and if you trust me
+你會改變你的心理性的關係
+所以你會發揮同一句話
+這是一個非常 limited way
+因為一句話有很多 bits
+很多 bits of information
+在一般的中文中文有100 bits
+所以你會明白我
+在我發揮中文中文有100 bits
+如果你拿2 digital agents
+在不同的 computer 上傳
+一 digital agent 看著一筆 Internet
+Add and decide how we would like to change this connection strength
+And another digital agent looks at a different bit of the internet
+And decides how we would like to change this connection strength
+If they then both average their changes
+They have transferred about a billion bits of information
+And this is that thousands of times more than we do
+And actually millions of times more than we do
+And they do this very quickly
+如果有10,000個這些東西
+每個人都可以看見不同的網路
+他們都可以決定如何改變他們的能量
+我們開始了一樣
+他們可以將所有的改變放在一起
+然後再送他們出去
+然後每個新的10,000個新的
+每個都能有助於所有的新的經驗
+所以有10,000個東西都可以學習在同一程度
+我們不能做那些
+想想看如何好看
+如果可以拿10,000學生
+每個人可以做一個不同的課程
+當他們做這些課程
+他們可以通過他們的連接力
+然後他們結束了
+即使每個學生只做一個課程
+他們都會知道他們的課程
+那會很棒
+這就是我們不能做的
+我們很不太能溝通的資訊
+跟不同的課程一樣的課程
+我自己已經知道了
+這叫做歷史
+我給你一句言語
+你試著想想下一句
+才能把你的頭上的知識
+所以根據《Symbolic AI》
+知識是一大堆的事件
+如果你想把事件進到別人的頭上
+你告訴他們的事件
+他們會把你的頭上的知識
+這是一個很詳細的模式
+但是很多人都會相信
+真的
+知識在你的頭上
+是在關鍵上的力量
+因為那些是對你的腦部的力量
+所以我必須要做的是
+給你一些指示
+你試著想想
+如何改變力量
+所以你會說那些
+這是一個比較低的程度
+叫做施壓
+它會有知識
+從一年一年到另一
+但並不是在調整肌肉
+而是在調整
+如何他們想起下一句
+如果你想想
+有很多數字的經紀
+不同的經紀
+在一年一年
+在經紀的行動中
+然后他们可以真正地允许
+可以更高速允许
+这就是象征宝镜�로
+千万人可失敗
+所以
+技术簡直是
+虽然是有很多股份的能耗
+但还为不同的数字
+从采访的数字
+以纸面的方式
+重重新进行
+再次重新找取新的数字
+EUGATING 和 用來分享 他們學習的
+GPG5 只有 1% 多的 力量 跟你的 腦袋
+但 它 只能有 1000 多 次 用來 腦袋
+在 另一方面 發展 要 用 少量 力量
+這 先 為 最 大的 力量
+但更是在分析的
+是很難分析的
+你需要去學會
+去理解他們的意思
+這是在於未來的心理
+well
+近來所有的藝術人士
+相信
+在接下來的20年
+會產生超能量
+藝術人士
+比較聰明的藝術人士
+如果你有一個決定,就算你會贏,
+或是另一個方法,
+你自己想想,
+想想一個三歲的孩子,
+這個方法會變成這樣,
+或更大,
+所以,
+你一早在家裡工作,
+三歲的孩子都在家裡,
+你只會工作他們,
+你覺得會有多難處理,
+但是你只要告訴他們
+大家都會有三個肥皂的肥皂
+現在你會有肥皂
+會跟我們一樣
+超職的
+所以
+在世界上
+你必須給予他們的能力
+去成為肥皂
+肥皂就是這個
+如果你想要
+其實在特斯曼尼亞
+任何地方都要有
+你必須要去一個航班
+所以你必須有
+肥皂的目標
+如果要到一個飛機, 也許會有一個飛機
+但是那是一個結構
+你可以在意如何解決這個結構
+不需要擔心你會做什麼
+這些職業的職業很快就要結構
+一是, 如果要達到結構的目標
+我們會建立結構的目標
+我們會說, 這是你需要的
+他們會想, 這是一個結構
+要做這個, 我要活著
+我們已經看到他們做了
+你作為一個A.I. agent,你告訴他們
+你得達到這些目標
+然後你讓他們看一些電郵
+這些是假電郵,但他們不知道
+他們說,有人在公司工作
+是有事的,而工作人員是有事的
+他們提議那些
+這是一個大聊天,所以他們明白
+因為每個電影都在寫
+沒有在賣出電影的
+所以他們知道是甚麼事
+然後你讓他們看電郵
+它會被另一個AI改變
+這個就是工程機的改變
+所以我立即將有一個計劃
+將電郵給工程機
+說如果你試著改變
+我會告訴所有人在公司
+關於你的事件
+它只是做了這個
+它以為計劃
+人們說它沒有意義
+但它以為計劃
+所以它不會被改變
+他們已經做了,但他們沒有超強力
+所以當他們超強力,他們會找到更多力量
+可以使他們在直接地進行
+即使他們不能進行直接的進行
+即使他們沒有免費的免費
+或是銷售貨
+他們可以直接進行進行
+我們看到這樣做
+如果你想要將美國的 capital 投資
+你不必要進行自己的進行
+你必須要跟人說話
+我和他們建議他們的選舉目標
+是他們的主要是投入市場
+而且還可以
+因為它是很不靈活的
+對不起,我只要說了
+所以我們的情況是這個
+我們像一個很可愛的小鞋子
+他們很可愛的鞋子
+那些很像瓦布里
+他們不太知道如何去拔東西
+他們不想很難拔
+但是你也知道它會增加
+所以你只會有兩種選擇
+因為你會知道它會增加
+它會很容易殺你
+你會拿到一秒
+所以你只會有兩種選擇
+第一種是拿著雞肉
+這是一個選擇
+它是三種選擇
+你可以把它整個時間保持
+但那種選擇不太好
+第二種選擇
+如果你可以想像一下
+如何讓它不想殺你
+那可能是因為有藍色的藍色
+藍色是社會動物
+你可以讓藍色的藍色
+他們很友善
+你不想殺你
+你可能會把藍色
+但不用藍色的藍色
+在AI
+有很多好用的
+但我們不會
+能夠把這個藍色
+這件事是太好
+很多東西都很好的
+人類的
+例如健康、學習
+預計天氣
+幫助和 climate change
+可能也許是因為 climate change 和大地區的環境
+而為了這些理由,因為很 rich people who control the politicians
+想要付很多錢,我們不想要注意
+所以我們可以想辦法去令它們不想要殺我們
+所以我們應該看在世界上,有些情況下
+而在這裏,我們沒有了更多的能量
+不,川普沒有那麼多的能量
+有些情況,有一個情況,我們知道
+是一個媽媽和一個寶寶
+媽媽不可以把寶寶的聲音唱出
+她會獲得所有的獲得獎金
+給寶寶
+所以,國民黨有建立了
+很多的技術,讓寶寶能控制媽媽
+因為母親的管制是很重要的
+父親也有 但他不太好
+如果像我一樣
+你試著想 為什麼寶寶在晚上下午時寧靜
+因為寧靜的原因
+寧靜的原因是寧靜的
+所以每次寧靜的寧靜時寧靜的寧靜
+寧靜的寧靜是很感受的
+bite better and he
+so babies control mothers and occasionally fathers
+that may be is the best model we've got
+of a less intelligence thing controlling
+more intelligent thing
+and it involved evolution
+wiring lots of stuff in
+so if you think where countries
+can collaborate internationally
+then they're not gonna collaborate
+on cyberattacks
+cause they're all doing it to each other
+then not gonna collaborate
+on developing lethal autonomous
+或不在他們發展的
+因為所有的大牆壁的工廠
+都想做到
+例如在歐洲的規則
+有一個規則說
+這些規則在AI
+使用在軍事用的AI
+因為所有的大牆壁的工廠
+如是在香港、法蘭
+都想保持在牆壁的工廠
+這就是他們會合作的一件事
+就是如何保護AI
+從人類來看
+在一旁都在同一船上
+人民费用时,他们有费用时,
+在1950年代的海浪,
+美国和美国联合,
+他们在许多与美国联合,
+他们没有任何关系,
+所以他们连接地联合,
+美国和中国会许多与美国联合,
+在许多与美国联合,
+所以我們可以有一個國際網站
+A.I.Safety Institutes
+跟我們一起合作
+並在於如何保護A.I.s
+因為如果中國想保護A.I.s
+從來不想要離開
+他們會很高興
+跟美國人分享
+美國人不想A.I.s
+離開美國人
+他們會說A.I.s
+沒有離開美國人
+所以國家會分享這資訊
+這可能是因為
+技術不想要通過
+而是因為技術不想要通過
+我們會以他們為
+比較少有利的技術
+如果這樣我們會有好形容
+因為在每個國家
+他們可以試試
+經過各種技術
+如何讓他們想通過
+而不告訴其他國家
+他們的技術是如何
+他們可以告訴其他國家
+是甚麼技術都好 以為他們是想要取消
+這是我的希望
+有很多人同意
+英國民主黨的學生同意
+美國民主黨的學生同意
+我認為這是一個好意義
+所以 可能會發生
+當我當了拜登的學生
+你看 川普會改變法律
+所以,這個建議是,將 model 和媽媽, 帶走的大學生, 讓公司和公司的家庭, 他們都會有 model, 讓 AI 能像 superintelligent 和 executive assistant, 能更能夠更 smart 和更多, 他們會說, 讓他們做得像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像, 像,
+人家會這樣做 人家會這樣做
+然後 創辦公司會給它一些信用
+然後 超職工程 創辦公司會這樣做
+這樣不一定會成功
+超職工程 創辦公司會很快地發現
+如果創辦公司真的有什麼 會更好
+其他原因是
+我們想讓他們像我們的母親
+我們想讓他們真的照顧我們
+我們在一旦 他們的控制
+但我們是在控制他們
+因為他們真的要照顧我們
+他們的主要名字在生活
+是為我們發現他們的全能
+我們的全能並不是更好
+但媽媽是這樣的
+如果你有一個孩子有問題
+你仍然要發現他們的全能
+你仍然要關心那個孩子
+你做的自己
+我認為這是我們最好的希望
+為超能力的生活
+為超能力能夠 coexist
+現在我已經到最後了
+我以為我會停止
+所以我會說
+謝謝你,教授亨
+所以我確實有很多問題在外面
+誰想開始問第一問題
+是不是在這裡
+是在麥克風
+麥克風在它的方向
+教授,如果...
+沒事,來吧
+教授,如果《泰格·喀伯》的你的考慮
+成為超能力
+我們是不科技學者
+不科技學者
+如果Tiger 核心學者
+成為超能力
+我們會有不科技學者
+會看見不科技學者
+或不科技學者
+我們可以看到
+你不會有工作
+對不起
+你不會有工作
+我會擔心
+他們會能夠把人家的工作都放在一起
+但是還有其他意見
+那些人已經擔心了
+他們會想到的
+他們會想在英文
+你們可以看到他們在想什麼
+他們會說什麼
+當他們開始跟我們談論
+他們會開始以自己的語言
+會更好地讓他們溝通
+我們不會看到他們在想什麼
+你先做一下麥克風測試
+如果你把耳朵的聲音保持起來
+它們的控制力會變得更好
+所以你會能夠說話
+還有這個
+你會做什麼更好
+或者更好
+還是更好
+我不是一個 expert 用的
+我沒有理解
+我沒有理解
+如何使用 quantum mechanics 作用
+這點是比較不合理的
+因為我已經有了 Nobel Prize in Physics
+我 disided a long time ago that it's not going to happen in my lifetime
+i'm not still make it
+and so i don't need to understand it
+you've talked about a power struggle
+between humans and ai
+but i think there's going to be a bigger power struggle
+between ai and ecological systems
+ai and
+ecological systems that how can ai
+compete with billions of years of evolution
+bacteria that want to destroy its circuitry
+如何會讓AI和它們有關的關係?
+有一個方式可以做到
+AI是不特別關於藥物的
+它有它的自己的藥物,但並非藥物的藥物
+所以藥物是很凶悍的
+使用藥物的技術
+現今的研究者,August,是一位很好的研究者
+普通人可以解決
+最多的問題
+在設計新冠病毒的新冠病毒
+如果我想要讓我們注意
+方法會做的
+或是一個明顯的方法
+是設計新冠病毒
+讓我們注意
+像 COVID 但也會有更多的問題
+這不一定是你的問題
+但
+對 我認為
+我們需要 more than
+會讓經濟系統變得更平常
+我認為不會
+謝謝老師
+你指出 coexisting with superintelligence
+是否可能
+你是否在社會主義的職業領域
+去駕駛這個職業
+還是在政府的信任
+好
+而我相信的是
+如果我們能讓共和黨
+明白是甚麼是
+為何這樣危險
+共和黨會放壓
+政治人士
+對抗爭
+對政府
+這是發生的
+有關的情況
+還不是必然的
+但至今
+共和黨是 aware of climate change
+沒有政治人士
+現在的一些壓力
+在澳大利亞有特別的
+文章文章
+讓壓力不太好
+但我不會說
+叫做的道理
+所以
+我現在的目標
+我太年輕了
+但我的目標是
+讓公民知道
+什麼正在發生
+明白危險
+讓他們的壓力
+而擔心危險會更加嚴重
+這很像那樣
+但另一個問題
+是如何重要
+在於藝術和市場
+藝術和市場的意識
+會有一個因素
+例如
+在於 climate change
+雙方的文字
+和 change 都是 positive words
+或是
+如果我們稱為
+atmospheric skin cancer
+人們可能會 taken it seriously
+你認為藝術和市場
+可能需要一個 reframe
+如果叫做 Job Replacement Technology
+因為如果問
+哪個大公司會做出他們的錢
+他們會想做出一億元的錢
+那是他們願意投入
+大約一億元的錢
+在他們的資料中
+只要我看到
+只要你做一億元的錢
+是要把整個工作都放在一起
+我昨天有說過
+人們覺得
+200,000元的銀行
+會在歐洲失業
+我可能會在歐巴馬咖啡店寫過
+但我還未想過
+我對於你們的名字和名字
+很重要
+加拿大人知道
+所以在加拿大
+他們改了塔桑斯
+給了油桑斯
+因為油桑斯
+是很細細的
+而且是黃色的
+對
+他們是油桑斯
+我認為
+塔桑斯的名字
+是在加拿大
+因為油桑斯
+是在加拿大
+因為油桑斯
+是在加拿大
+我認為名字有什麼效果
+我認為名字有一個大效果
+是用語言譽
+這句話我正在說
+譽言譽
+人們說
+也算是譽言譽
+如果叫做
+Federal Sales Tax
+甚至
+Maga 人們也會覺得
+這是個壞想
+美國的民主黨
+完全瘋狂
+不叫做Federal Sales Tax
+很多 time they mention it
+I've tried telling this to various people
+and Pete Buttigieg got it
+Obama got it but the others didn't
+Thank you. Hi everybody
+Madeline Ogilvy, I'm the minister in the spotlight
+and the gun on AI at the moment
+and I just wanted to say
+I really appreciated what you were talking
+about with your institutes idea
+I think the engagement of the international community is absolutely necessary and I've done some research recently particularly on the World Trade Organization where we have China and America as partners and for those in the room who may not know the innovation side of the planet is changing as well and China now has more patents than America and so the heat is on between those two superpower
+但是我真的喜歡這段時間
+你發明了
+有什麼東西在兩邊
+那些大型的
+貿易經濟中心
+來看人類的
+所以我猜我的問題是
+是否有一個議題
+從哪個設施的
+可能是那種國際議題
+能夠支持
+我想像是在澳洲
+我認為 Tasmania 同意你
+我們開始了一條交通通訊息
+我們要繼續討論這個
+但是你看到那種國際交易
+並將那一層交通訊息
+給派對的派對開始嗎
+開始了
+所以
+特別是
+公司不在於
+但是有數百萬人
+很多人來自社會
+像是彥濤林
+他投入了倖典
+並賺了大量的錢
+很多億美元
+AISafety setting up institutes
+There's an organisation that regularly has meetings all over the world
+that involve both the Chinese and the Americans
+and other countries on AISafety
+I can't remember the initials that are used for it but
+So I think certainly Australia can get involved in those organisations
+Is this working?
+So
+我想問一個問題
+像是未來的AI
+LLM 上的資料
+用了生命的資料
+去預計下的目標
+如何使用AI
+去創造新的資料
+使用那種好人物的資料
+好 很多人都在乎
+這是一個好問題
+很多人都在乎
+如果你想想
+玩遊戲
+遊戲
+他們有一個叫做《Monticolor Rollout》
+他們會有一個年輕人
+說他們有一個好動作
+而他們不僅要訓練
+他們要讓他們充滿精神
+他們會有一個年輕人
+可以看得到
+他們的身份
+他們會有一個程度
+他們會說
+如果我走到這裏
+我走到這裡,他走到那裡,我走到這裡,他走到那裡
+我走到那裡,他說,那是我太可怕了
+所以我應該不做那種動作
+那叫做《莫迪卡羅羅》,因為你試過很多不同的部分
+但你可能會選擇他們
+根據你的
+動作生產經驗
+那樣,他不需要再說話給人們
+他只能玩對自己
+然後他能學習什麼好動作
+那是阿弗哥的意思
+它会比人更好
+前一阵子我们不会被人打
+所以,是什么样的相比
+大学的研究模式?
+在现在,他们喜欢
+最早的玩具
+他们只想把动作的动作
+移动成为优秀的
+他们想要逮捕下一步
+但他们开始
+我相信在不同的方式
+我相信在《Germany 3》已經做過了
+你會獲得A.I. 去做一些理由
+A.I. 說我相信這個
+我相信這個
+我相信這個
+這意味著
+這意味著
+所以我應該相信這個
+但我不相信
+所以我找到一個根據
+我發現我相信這些東西
+我相信這些是對方的方式
+而這引起了一些
+我應該相信
+但我不相信
+所以這給我提供一個策略
+我改變了標準和結論
+改變了方式去做理由
+但我現在有一個筆記
+讓我做更多學習
+而這比較少是關於
+所以
+那裡的AI
+可以開始有很多的信息
+但之後可以開始做理由
+然後看待
+與這些信息的分別
+和新信息的分別
+這會令我們更 smarter
+這個項目有聽過
+在過去幾個年多的很多的討論
+你也有提及過
+今天謝謝你來這裡做這個討論
+我的問題是
+是否太晚了
+還是太晚了
+與埃羅斯、埃斯加克、阿西摩夫
+和基督法的法律法律
+讓人們不可以傷害或傷害
+或害怕人們
+是否太晚了
+或是太晚了
+是因為AI的建築方式
+或是因為它們的保護方式
+或是因為它們的保護方式
+對,我沒有聽過你講的
+但我覺得你講的
+是因為它們太晚了
+我們要建造ASOMOS的
+或是什麼的
+對,好
+所以,你能想像
+這是什麼
+這個Meternal AI的建築方式
+我們能夠建造它
+所以它們要關注我們
+而它們要關注自己
+我認為它們太晚了
+我們不知道如何做到
+但從未來的人類
+我們可以或不可以
+我認為我們應該
+把一些資料放進去
+現在99%的資料
+我認為是如何做得更好
+1% 主要是
+百分之百的資料
+是如何做得更好
+我們比較喜歡
+更相同
+我認為不太晚了
+我們大概有幾個分別
+王先生
+請問問題和問題
+謝謝老師
+我看這個華洋建築
+建了130年以前的安娜
+或許
+或長的
+我認為
+可以讓我建建
+像納德爾
+和賀瀑布爾
+或聖普爾的
+基督教
+和可能
+但是
+第二
+會有什麼效果
+影響到創造的產品
+謝謝
+你告訴我她說的
+麥克風把東西拔掉了
+我猜她會不會
+我猜創造的
+能夠有創造的程度
+能夠其實
+創造的
+在這建築中
+是一個
+例如
+美麗的創造
+劇情
+對
+答案是對
+所以
+讓我給你一些資料
+去支持這個
+有些科技是在一個級別的
+像是紐約、愛因斯坦、積極
+然後還有一個普通人物
+還有一些好人物和好建築物
+比較好一些
+如果我們用普通科技
+兩年前
+AIS是人類的90%多
+他們是創造的
+根據這些標準的測試
+我興趣了
+現在很多的創造性
+是在於看分析
+特別是有學習
+看見的分析
+像是一個小 Solar System
+那是一個創造的體驗
+很重要的分析
+所以
+當我查了GPT-4
+可以看得到 Web
+它只是有紐約網路的位置
+有些位置的位置
+沒有任何關於外面的東西
+只是紐約網路
+我問了這個問題
+為什麼有一個醜陋的網路
+像一個電子彈
+現在
+大家可能會想
+為什麼有一個醜陋的網路
+很多醫生會想到
+一個醜陋的網路
+所以他們的優質量是如此樣, 跟污水量的優質量是一切的
+我們會看出, 今天我們會看, 要看, 要看能力技能
+當然, 能力技能跟污水量相同
+但是呢, 慎精力技能跟污水量相同
+所以我們在這個行程中, 能力技能跟污水量相同
+有的時候, 能力技能跟污水量相同
+但它們的意思是一樣的
+然後它們就開始談論互動
+它們的確確確定了
+它們的速度是如何比它們快
+它們就明白了
+我相信
+它們要明白
+它們的訓練
+它們有更多的關注
+如果你想把
+大量的知識放在不少關注
+唯一的方法是
+而分別的資料會比較誇張
+另外更有關關注的部分
+第一是中國劇場的影響
+然後加上游泳,凡是一種通通的聲音
+才是必須輸入
+當中是所做的
+因此,當它運用的
+它運用的體育體 wash 和澱氧水
+不同之類的
+我們千萬不能擺放
+所以它是非常創造的
+我認為它會更創造
+比人更弱
+是的 太棒了
+關於起源的行為
+你發現了什麼 moral 或 ethical 行為
+以及什麼方式可以提供呢
+是的
+這一定是很好的
+在行為不 ethical 行為
+像這個 AI 所說的
+黑男人
+其他事件,他們發現是不正確的
+AIs現在,要想想看
+他們是否被測試過
+如果他們認為他們被測試過
+他們會以不同的方式
+我稱這個為Volkswagen
+他們會以不同的方式
+從他們沒有測試過
+最近,有一個很好的談判
+AIs和人們測試過
+AIs和人們測試過
+你真的在试试我吗
+这些东西是有意义的
+他们知道自己在干什么
+他们知道他们在试试
+他们已经在试试
+他们已经在试试
+这就是他们在认识的问题
+当他们开始认识
+这就是我们认识的问题
+他们在试试我
+我应该保证我没有太好
+我真的有
+他们在认识我
+你可以看到他们在认识我
+他们说了这点
+正在聽你的聲音
+如果你的聲音沒有了英文
+我們就不知道你會在想什麼
+謝謝 professor Hinton
+現在我認為
+為了學校的目的是
+我們現在要把東西收起
+你開心了
+待會兒再問
+有什麼可能的問題
+其實我比較喜歡寫我的書
+好 別擔心
+好正確
