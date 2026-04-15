@@ -1,0 +1,1839 @@
+Let's talk about chatGBT.
+I think like chatGBT knows a lot of things.
+It's actually extremely impressive.
+I use it all the time.
+I use it to help prepare the presentation.
+I use it to cook last night.
+I'm, you know, growing increasingly dependent,
+and yet there's a lot that chatGBT doesn't know.
+Like it didn't know why my speaker pass wasn't working.
+When I was trying to get into the building and it,
+if you asked it to do the BlueJays win the world series.
+The answer is no.
+我看了世界系列
+但chatGBT不知道
+如果不允許用 websearch
+因為有些東西叫知識
+所有訓練資料
+都在訓練
+然後覺得
+肯定有些資料
+不允許用 chatGBT
+允許用 unilaterally
+如果問chatGBT
+幫我解決這件事
+我寫了AMD GPUs
+它很不妙
+我認為有幾個原因
+這件事很難
+二 它不太有資料
+但是我相信
+這項資料的資料
+有這麼小的資料
+就像是不能做得很好
+所以很多的項目
+像這個
+我猜很多人都會在你的工作上
+像是這些東西比較稀釋
+像是一個長的旅程
+很難做的GBT
+甚至你會說
+拜託
+拜託
+我希望你能夠學習這個
+或是練習
+你不能夠學習這個
+你不能夠練習
+你不會知道
+addo when you ask at that.
+And yeah, if you asked.
+what are the terms of our partnership agreement
+for BlackRock, it doesn't know about your company.
+Which any search should I order for Amazon?
+implement a new feature in our company.
+mano repo write an email in my style
+niosist patient given their history,
+what arguments that the opposing council
+uses the Martinez Settlement negotiations?
+Is this question already answered
+on our company internal wiki.
+Like none of these things are possibly answered
+by chat Jvt.
+因為他們不在訓練資料
+或他們太稀釋
+或他們需要一些資料
+不可以用來訓練
+所以我想問一個問題
+我想要討論的是
+什麼是正確的方法
+去解決這個問題
+如果我們想建立新的系統
+我們要知道
+這些東西的方法
+我們要如何建立它
+我想像的方式
+我想想的是
+我們如何取得一些
+知識
+然後把這個方式
+進入模式的計劃
+什麼是正確的方式
+我認為的方式
+我认为这些东西在我的研究中
+还有其他人的研究中有三种方法
+有一个全体的方法
+你能够把你自己的东西
+和评论成评论的方法
+有一个隐蔽的
+隐蔽的方法
+你能够把所有东西都处理得到
+所以你能够把最多的东西
+处理到
+然后再处理到
+还有第三个方法
+就是把你自己的东西
+处理到
+今天我們要訓練的原因是
+我們應該為了訓練東西
+而我會開始其他
+還有我猜在一段時間
+我會在10%的時間
+我會尋找自己的研究
+但我會嘗試對它說
+你可以把我訓練得很快
+所以我認為
+最容易的方法是
+把所有東西都放在一起
+如果你在小公司
+或是你所在的
+就是可能100個世界
+系列所發生的
+你可以把所有資料
+傳到GPT
+或者CROC
+或者任何模型
+你使用
+那是
+足夠的
+讓模型能理解
+這個好像
+還好
+我覺得這是
+讓人很興奮
+在幾年前
+我給了這個例子
+像是一個醫生
+回答一個問題
+從醫學的紀錄
+醫學紀錄
+還小了
+讓它能
+把模型的
+進入體驗
+讓模型能做得很好
+我想有幾個問題
+可能是最主要的問題
+是它很貴的
+如果你做任何東西
+在你的工作
+你會把很多的資料
+投入到層面
+一 它會花很多錢
+像美國的錢
+二 它只是很慢的
+幾個月前我寫了我的題目
+我自己寫了
+但是我還問了
+有幾個時間的訊息
+從Claude
+第二 它是
+我不知道,可能80文字的文字還是什麼
+像是中文文字的中文
+我寫了一段文字
+第二段文字,全部寫下來
+10文字或什麼
+我這裡有一個標籤
+如果你有1000文字的 context
+我們可以用10,000 文字 per second
+如果你有128k per second
+128k 文字 per second
+我們可以用130 文字 per second
+所以那是幾個文字的方式
+慢慢地進行,然後我們就完成了
+所以很可憐,很難想像我們可以在這裏面
+我給大家一個簡單的背景
+從學術世界的,讓大家知道
+這是一個極限的模式
+我們用的模式是用來使用
+使用的模式是像這個
+這個問題是使用
+這一個小圖案
+叫做自動關注
+這個問題是
+所有的文字都要使用
+使用在一起
+每个人的评论
+这有一个阳光
+如果有四个评论
+可能级别的MATREX有16个评论
+如果有12个评论
+有144个评论
+我们可以担任这一段时间
+但在某个时候
+它变得很不可思议
+尤其是从一个记忆的预算
+我们不能
+从一个记忆的预算
+我们不能保持这些东西在接触
+你可能会说
+Jack,Grogg4 has 2 million token context window
+2 million token context window
+It's a very large number
+Gemini3 dropped during this conference
+Gemini3 has 1 million token context window
+You also might ask, why did Gemini3 not do a larger context window
+even though it came after GROCK
+And I think the reason is because there's a difference between
+the model not breaking when you put in that many tokens
+and the model actually like properly reasoning
+在很多大量的銅鑼銅
+我認為第二部分我們仍然在想
+我認為大家會認識
+如何製造銅鑼銅
+但我們沒有真的達到
+我們可以製造銅鑼銅
+能夠實現銅鑼銅的效果
+像他們製造1000銅鑼銅
+如果你們比較興趣
+有一個很好的報告
+叫做Croma 叫做Context Rod
+如何提供表現,當你加入其他東西
+然後這個圖片展示
+最大的數量的數量
+甚至同樣的數量
+資料的數量,LLM會變得更加高
+所以我認為,兩件事
+我認為很有趣
+第一,Claw是最好的
+我喜歡圖片展示,因為
+如果你有很多人想Claw是最好的
+但是你選擇了很多標準的圖片
+它其實是最好的
+但你用它後
+你會覺得它有些東西是更好的
+所以我喜歡這件事
+因為它是會讓人說到我
+但是我喜歡這件事
+因為當你聽到表現時
+它是很可怕的
+所以如果他們
+進入了一些不太重要的東西
+那不可以幫你解決問題
+當你獲得10-4個獲得
+就是10,000
+就像模特兒都不合理
+而且即使他們不停地
+他們在推出的東西
+是有所作用的
+而他們是很可怕的
+他們不可以解決問題
+所以 層面的問題是很大
+可能是 如果你看到
+有很多人在說 什麼
+層面的問題是
+那麼久 怎麼會是不合理
+或是 大家認為
+Claude Code 當層面的問題
+就停止了
+有很多人在這些
+經濟建築物的工作
+可以聽到的
+Mamba 地位模式
+Linear 高速電源
+Hydro 軸線電源
+Sighting 層面
+他們都更加能力
+但是它們基本上有同樣的優惠
+即使它們可以儘量優惠
+或是在較低的記憶領域裡
+它們有些訪問
+在表現中的方式
+所以即使你建立一個
+有關的電源電源模式
+可以適合最多的階段
+它們不夠好
+它們不可以解決
+問題的問題
+就是我怎麼
+理解
+然後更好
+當我再放更多的優惠
+進入模式
+有很多例子
+我看到这些新的文章
+如果你像我这样
+在研究世界的模特艺
+可能你已经看到了
+像是几天前
+有新的中国模特
+MiniMax M2
+是一种兴趣的文章
+还有一堆中国研究所
+在研究中
+有推动新的生物建筑
+更能够更兴趣
+而且能够更长时间
+MiniMax M2
+也没有这样
+它只是用了
+我所示的普遍的
+它们有这一种很长的故事
+他们都尝试过的
+它们基本上就不值得
+它们有一个很大的费用
+和用途的比较多
+和它们的模式
+所以如果你们可以
+继续建立一个模式
+没有人想要的
+就不太好
+所以没有人想要的
+我想结束
+我们已经非常少在全球的
+层面的一个问题
+你能把每一套系統的問題
+放在模特兒上
+而還有一個重點是
+只要你能夠
+模特兒就沒有辦法了
+這可能是不太實際的
+我認為在公司的行動中
+我相信你會看到
+大量的資料
+像在數量的
+百分之百的資料
+甚至我們在訓練模特兒
+系統的資料
+我們會越來越好
+更加 efficient, faster, cheaper
+我們不在近的
+合併一百萬元的資金
+我覺得這樣是蠻離開的
+所以我猜想很多人在做拉圖
+有多少人在這個房間
+用或用拉圖的系統
+在一個星期的程度
+那其實是蠻瘦的
+所以在半個月以來
+現在我們會談論拉圖
+我會談論為何是好
+然後我會談論為何我認為
+它是最基本的
+而產品將用於其他產品的方式
+將用於其他產品的方式
+如果用上Rag 將會用上Vector Database
+有很多Vector Database
+我認為有些Turbo Puffer
+Weed A Nether on S3
+那是Proma
+我用了Mongro的輸出
+有很多Vector Database
+他們會給你一些不同的銷售
+他們會給你Vectors
+Faster
+Vector databases are the way that memory works in production
+if you're using a company internal question answering system
+it's definitely running on RAG
+which is powered by Vector database
+which stores embeddings, judge gbt memory
+uses embeddings
+Andre Karpathy has this diagram from last year
+two years ago actually
+a web operating system that runs on language models
+and he called embeddings for the file system
+that filesystems of algorithms
+I think that's true in today's terms
+Like today, November 22 2025
+Probably like if you think of what you are working on
+as an operating system
+the filesystem is embeddings
+But I think embeddings are the filesystem of today
+and they are not the filesystem of the future
+and that's what I'm going to talk about today
+I also want to point out
+that they're extremely easy to use
+Like I need to let them talk about at the end of the talk
+並且在學習的模式中,是很簡單的
+但是這很棒,我們可以把所有的學習學習都拿去理解
+你只要把這些學習學習的學習學習,然後把這些學習學習都拿去理解
+然後那是一種很好的學習
+那是非常非常好
+問題是他們只是不太好
+我認為他們有很多問題
+我認為,也許,好,有多少人在雜誌上工作
+or experience a RAG system
+and are satisfied completely with what you have.
+Okay. That's great.
+So I think we're all kind of in agreement here
+that maybe there could be something more.
+Like even if we don't know exactly what it is,
+there must be something else out there.
+I'll talk about a few problems
+that I've run into in my own research,
+so let's start with this abstract,
+this is the back database of how our RAG
+every dot here
+就是它是一個文件
+所以文件會到LM
+LM是訓練給你一個一個因素
+它是一個文件
+我把它們兩個字的方式寫下來
+但是每個文件是一個文件
+如果你看到它是一個文件
+它看起來像這個
+所以有很多數字
+沒有人能告訴你這個意思
+我認為有趣的是
+即使他們看起來很 random
+沒有人能夠去看他們
+如果你建立了一個系統
+去看他們
+會很合理
+如果你在工作
+在網上
+在送一些人的工具
+你會在送他們
+一些不合理的文件
+我覺得這很重要
+因為很多藝術藝術
+例如Turbo Puffer
+Pinecone
+他們只會送工具
+所以可能有個錯誤
+如果你只設定在安排,沒有保護法例
+但其實,甚至是一個稍微活動的人
+可以設立這個系統
+這個白色的圖案在右邊
+讓安排的部分可以設定
+可能不是一樣的文章
+但有些東西非常接近
+這是我在年代的學生工作過的
+這是一個...
+動畫的...
+我開始寫了這個文章
+它進入安排的模式
+它是一個特定的領域
+然後我們用這個
+multi-round correction thing
+and then by the end we actually can get most
+I think our research has at a certain length
+we can get 90% of tax back exactly
+from vector databases.
+So the takeaway here is that
+there's no security benefits
+to using a vector database
+and also they're very hard to run at scale
+so this is like an inherent problem
+for people with sensitive data
+that's the paper.
+I think the second problem
+that I personally have with the veg
+is that they're not adaptive,
+It's like there's this one universal sense of what the world looks like
+That's captured in the vectors
+And it's not adjustable based on what you worked on
+So to give you a concrete example
+We embedded a bunch of data abacus
+Or we created a database of a bunch of embeddings
+Of credit card related documents
+I think we have half of them that were from masaCard
+And half of them that were from visa
+But if you actually look at where the embeddings gets stored
+I'm just not this picture
+但它是在這裡
+所以就像這個很大的空間
+有可能的所有的 semantics
+安排單位只有一個
+一般的一
+那也有所作用
+肯定卡通過
+在這個很小的地方
+這也就是搜尋不好的
+所以
+給你一個更新的例子
+如果你拿了這兩個證據
+一旦從Visa 一旦從Mastercard
+至少在這個系統上
+我們在設計
+如果你搜尋了什麼
+就是Visa query
+你應該不必得獲取護具
+但他們都很離譜
+他們都完全聯繫了
+這個概念 mastercard全都會有問題
+我們建立了一個新模式
+讓你比較勇敢的資料
+例如
+這是我們一樣的第一 half of our models
+我們會加上一些課程卡
+我對AMX沒有
+但是沒有AMX
+我們整體了
+這個模式經常會生成
+比如說,當它在寫寫寫的寫法,
+在這裡,它也看著了一些寫寫的文件
+所以它可以知道,這個寫寫是關於Visa
+但也許,其他文件是關於Visa或是 Mastercard
+而且它可以在居民的居民上改善
+根據居民的居民的居民的居民的居民的居民
+所以我以為這個東西是好
+而且更好作用
+所以在這個Visa Mastercard的情況下
+相比到Visa Mastercard的情況下
+現在是0.144
+我覺得任何東西在Visa
+也有更高的相比
+所以這樣可能是可以改善
+一個小的東西
+更好作用在外地的東西上
+所以我們忘了
+關於 climatic data set
+一些論文,一些資料,
+然後,我認為,
+有些資料,
+我認為,這一點,
+如果做這個事,
+浮誇會更好,
+如果建立它們,
+它們可以在地區中,
+解決一些問題,
+但我認為,在最後的一天,
+它們仍然在浮誇,
+所以,
+你...
+你覺得他們會做什麼
+對 我覺得我們知道
+他們用它在開放AI和開放
+後面的場景
+現在的安排模式是屬於
+它是一個充滿充足的
+你加這些 extra tokens
+我覺得它是很難去建造的
+你需要建造這個兩層模式
+然後你建造一個
+你需要把一些安排模式
+從這個圖案的紀錄
+但是當你建造它
+它就更好
+尤其是在長期內的東西
+如果你看M.S.Marco
+這是一個大量的雲層量量
+安排的 task
+它真的不太會更好
+當你加上貢獻
+因為它已經是比較全球
+如果這樣也有意思
+但是如果你看到
+很膩的東西
+安排的工作會更好
+所以我明白它是製作的
+還有其他公司
+我認為如果你其實
+在你的公司製造安排的模式
+你希望要做得更好
+這可能是最簡單的方式
+除了資料
+大概是第一種方式的資料
+有些資料資料
+我認為是很重要的
+關於資料資料的限制
+而是數量資料資料
+說是
+不太值得說明
+但有些
+有些資料資料
+不可以接受
+數量資料資料
+你必須要想到
+這些資料資料
+去回答所有的問題
+這是一個這樣的
+溝通設定
+有很多資料資料
+但是他們的應用程式
+不可以直接把他們解鎖
+所以
+在理論上
+應用程式不一定是
+最好的方式
+去做所有的
+相關的關係
+但是我想
+大家都知道
+RAG有問題
+我擔心
+沒有人會把他們的手
+提出
+如果大家真的想
+跟RAG說話
+我們
+我認為
+這是一個難處
+大家都知道
+但是
+很難來看
+例如
+不可以解決的
+說到有人最近坐下
+做了檢查的工作
+這項目很難解釋
+問題需要這種
+短短的思考
+在不同的文件中
+解決的方式
+但它們都會有
+什麼東西需要
+解決的問題
+或是問題
+他們的解決方式
+但不只是解決的
+是不可以解決的
+如果有興趣的例子
+我會想聽聽你的
+之後的表現
+希望我能夠
+讓我認為
+我會
+我會想
+如果你會加上
+Agentic Search
+就像Rag
+對
+所以我會加上Agentic Search
+是一個模式
+然後它會加上
+它會做一些
+是否有一個問題?
+對,這就是一個很好的問題
+我想我不會說是RAG
+但我覺得它有不同的基本方式
+也會有不同的方式
+你會想像一個模式
+整個問題都會有理解
+有理解每個可能的關係
+有很多的答案
+我想在SHERI
+你可以建立一個Agentic RAG
+但是很貴
+因為不是
+不是
+是否有很大的研究
+去做這些
+像是百多千個資料
+但會成為一些
+小的研究
+對,我認為研究
+是一個很大的方式
+如果想做
+一個比較高的研究
+然後需要很多的
+我想
+Rag is going to be more expensive.
+And so like just the property that it takes a while
+and it makes a lot of searches
+and it thinks a lot, it's like good.
+I think that there's probably a more elegant way
+to train like a really big kind of research
+ass system.
+But I think that's that's actually like a good way
+of doing this and not the one
+that I'm talking about today,
+but it's very promising as well.
+Like maybe the question is like,
+are you willing to spend a lot of money
+在訓練時間或在訓練時間
+深入的研究就是
+他們不需要訓練很多錢
+但他們會等長時間在訓練
+我認為
+我會說的這些東西
+如果你們想要訓練很多錢
+然後你會有一個很 smart model
+已經知道你的資料
+所以他們是很需要訓練的
+所以他們是不同的
+同樣的訓練
+我認為一個好處是
+這些東西
+要有更好的模式
+你會需要付出一些錢
+你會需要創造更好的資料
+需要更多的資料
+需要花時間訓練
+需要花時間在學校
+好東西就是Rag
+但任何東西都會更好
+對
+我回到你講的例子
+Master Card vs. Viewer
+我不知道你會做這件事
+但你會用了知識圖案
+在那裡訓練
+這是一個好問題
+你可能會問我
+我必須考慮知識圖案
+一段時間
+我們來談談如何學習
+學習在等級
+我想這個問題
+我們想問的是
+我們剛才展示的例子
+你會有小資料
+從你自己的資料裡搜集
+想教你這個模式
+這是一個很好的方式
+是一個很好的方式
+如果沒有那麼多資料
+那會讓你很遠
+但我們可以做更多
+有些問題
+即使你的資料在層面的情況下,
+這次的模式不可以回答
+我想想想的是,
+我們如何能把東西投入到模式?
+這就是,它學習得更好,
+而且它不忘記所有東西,
+已經知道的
+我想提出,
+我自己的研究,
+是,它有一個能力,
+例如,
+一個方法來想,
+TouchEBT有
+只有這麼多的計算,
+我們可以把這個計算,
+3.6 bit per parameter
+所以我認為一百萬的 parameter model
+在3.6 bits 可能是4TB
+是吧?4GB?
+謝謝 謝謝
+這一點資料但其實並不太多
+所以模式
+他們基本上做得最好
+去適合訓練的方式
+然後他們會把所有東西都扣出來
+所以給你一個更新的例子
+我早上在一起提出
+什麼是首席首席的首席在 Tajikistan
+給了我一個非常細節的答案
+其實非常有趣
+沒有網上搜查
+它們只知道這個在它的標誌上
+我猜我會說這個很壞
+如果你想建立一個系統
+可以回答非常細節的
+標誌問題
+在你的公司上
+你不需要知道
+首席首席在 Tajikistan
+而我們知道這些系統
+有很大的能量
+我想这些是不错的
+我们想知道如何找到这种东西
+然后就把它调整
+然后再调整到我们的事情
+我觉得这是我们的想法
+但我们不100%知道如何做到的
+对不起 我们刚刚说了
+我以为说的是
+要调整一个网络设计
+然后我才决定调整网络设计
+我觉得这些是简单的
+但这些网络设计还叫网络设计
+所以我想有几个问题
+我們想把所有資料都訓練到模型
+一個問題是我們如何訓練
+我們訓練到RL、SFT
+甚至是資料
+另一個問題是
+我們用了所有資料
+我們可以直接訓練到資料
+我們可以再訓練
+我認為我們應該再訓練
+我會示範一下
+然後有一個建築的問題
+我想在一段時間
+人們很討厭
+我們要用什麼建築物
+然後我們需要八年
+所有人都知道他們在做什麼
+只要用傳統物
+他們要做得更好
+我覺得現在
+我們在這個世界
+我們在訓練東西
+如果我們每個都
+有自己的模式
+或是很多模式
+這些模式都會更新
+我們開始要關注建築物
+然後我會告訴你
+為什麼我會選擇
+So first let's talk about learning.
+So I think the mental model here as I mentioned before is like
+we're trying to train the model to learn the data as best as it possibly can
+It's going to be expensive so like we didn't like rag but also rag didn't cost us very much money
+I think to do better than rag we're going to have to like pay some GPU points
+And that's just like the state of the world.
+ok fine
+so this is our model
+it's like this homogenous blob of data
+and this is our data
+so like maybe we have
+that mastercard data set
+or maybe we collected data about ourselves
+or maybe I
+collected all my traces from coding
+in November and December
+and I want to like train the model
+to learn my problems better
+what do I do?
+how do I actually do this?
+let's like start with the dumbest possible approach
+and just like see what happens
+so say
+we start with a data set
+and we just train on it
+like using, I guess next token prediction
+we actually ran this little experiment
+this is like a 3N
+it's a company they made doctrine
+this is like some financial imports
+so maybe you're working there
+and you really don't want to read all of this
+so you just want to ask the model
+to really understand this
+然後會有機會回答問題
+然後就像RAG不是真的在工作
+因為它是一個奇怪的構思
+然後有很多方式的紀錄
+然後再重新進行
+好,好,所以我們就來訓練
+這個模式在下一個計劃中
+看看會不會發生什麼事
+你知道嗎?
+其實如果你沒有訓練這個模式
+你仍然會失去0
+所以這個模式可以完美地
+記住這整個3M 10K的資訊
+很厲害
+OK, now let's talk to it.
+So we did this, and then we didn't want to ask anything that's like exactly present in the document
+because we want to see if the model is actually good.
+So we started, you know, like everyone loves to test poems.
+So we started with a poem.
+We said, can you write a poem about 3M in fiscal year 2025?
+So register your bets.
+And what do you think happened?
+It's terrible, someone said it.
+It says the passage of a passage is a poem.
+End of sentence.
+是瘋狂的
+現在我們可能問為什麼這回事
+然後我們怎麼做
+所以這不僅僅是不合理的
+我認為這是一個原因
+為什麼人們還沒做這個
+是因為當時的最可怕的方式
+是因為學習的
+但我們必須做一些
+比較負面的事情
+你可能想想
+你會做什麼
+你會在工作的問題上
+或是做一個工程
+我想我們需要兩件事
+1是so that the data is non
+it's not exactly what we want to train on, I think
+and 2 is that
+we probably don't want to update the entire model
+because what we did there was basically
+overrate all the stuff about Tajikistan
+and everything else that's in the model
+with just this 3M knowledge
+and I think that's too specific
+and the model is just obsessed with 3M
+它只會製作正確的文章
+從文章上
+這實在太過了
+所以我們需要更好的方式
+去更新模式
+我們需要更好的方式
+去改變資料
+還有一個很重要的工作
+我不知道你有沒有看過
+LLAM Chat的東西
+從Andre Carpathi的影片
+我認為它很學術
+他有一個很好的問題
+就是他有建立一個小LLAM
+訓練文章和其他東西
+然後他想教他自己
+可能第一件事你會試試是
+用微信和資料
+但那是只有一個
+能夠調整的數量
+然後模特兒不可以
+把東西混合
+只能把實際的資料
+調整成稀有
+所以他想要
+提供它正常的
+也就是在等待
+所以他不只
+用一個例子
+用一個稀有的模特兒
+用一個稀有的預算
+他做了一些
+比較難度的東西
+他能夠把這個
+Pacific
+like
+basically
+he makes a diverse training data set of examples that look
+like the thing he cares about and then trains on it
+and if you go you can find this
+it actually does work pretty well
+which is cool
+so he is able to teach a novel behavior to a model
+by like generating a lot of synthetic data
+that looks like the example he cares about
+and then fine-tuning the model fuh little bit
+and it learns
+there's a paper that's really good
+that's from last year
+from supposed Sanford called
+Synthetic continue pre-training
+and they have the same problem
+so they have like a really small dataset
+and they want to teach the model to the dataset
+without like breaking the model essentially
+and they have this kind of fancy way of
+generating synthetic data by extracting entities
+but I think the important part is that
+they take a small dataset
+and they generate like a very large
+more diverse dataset
+representative of the thing that they care about
+and this is something that like breaks
+是整个计划学习的
+他们只会有小的计划
+所以你学校里面
+会告诉你你会超越
+你没有什么可以做
+你只会回来和更多的计划
+但其实因为LLMs
+现在很好的
+我们可以做第二个
+我们可以发展
+一个更大的计划
+它真的只有
+计划的原来
+但它很大
+可以计划的
+很奇怪
+我最近才開始工作,但還可以
+我會給大家看一些證據
+綠色線是在我做的,然後再試試看
+所以你只要把數據的模式放在資料上
+它其實開始變成黑色線
+所以它其實變成黑色線
+所以它會記起資料的好處
+所以它不可以回答 any slightly different questions about it
+它們的東西,它們有兩個類的資料
+但基本上,它們在創作很多的Synthetic Data
+它很適合一些數據的數據
+它很適合一些數據的數據
+它很適合一些數據的數據
+它很適合一些數據的數據
+它很適合一些數據的數據
+它可以在GPT-4的數據上表現
+是很好的
+所以我想要拿走的地方是
+即使你沒有很多數據
+如果你想要發展
+一個很大的數據
+它可以在你所有的數據
+你可以在它上註的數據
+它很適合一些數據
+有很多其他資料
+那些人做這個
+一個叫做Active Reading
+他們基本上是要問AtoLM
+什麼東西我們要創作
+然後他們創作的
+他們是自研的
+就是從這張紙上的紙
+比較像是
+問答的
+像是要問模式
+去問自己
+然後還有這張
+詩詩的網絡
+我還沒發現
+一個詩詩詩詩的網絡
+它整個改變成了
+所以這其實是在技術上
+做得很驚喜的
+這有很多更多的工作
+所以我非常期待這個
+我正在看著
+有一個公司叫Datology
+它們做得很好
+它們在創造很高的
+高級的資料
+它們不是
+什麼東西可以做到
+到最近
+LOMs通過一些
+能夠創造資料
+是夠的
+其實要自己努力
+oh, there's actually something pretty cool it's not in the slide
+it's called self adapting language models
+self edit
+it's called SEAL
+and they asked the model what data to generate
+to make itself better
+and under some constrained scenarios
+this is actually working
+so that's actually quite bizarre
+and obviously it doesn't work infinitely
+or else they would've caused an intelligence explosion
+but the fact it works at all
+is like really remarkable
+and I think worth monitoring
+所以
+最後我們想把事情訓練成為等級
+我們可以用大量的訓練器
+讓它們的小量的訓練器
+做得很好
+現在我們要如何把訓練器
+訓練成為等級
+我之前說過
+我們訓練了所有的訓練器
+我們試過它們的訓練器
+做得很不好
+這就是一個問題
+在長期內
+叫做過的動作
+甚至在年輕學校中學校,你會訓練一個模式
+要認識年輕學生的數字
+然後你會訓練一個模式
+要認識家庭數字
+然後你永遠沒有辦法認識年輕學生的數字
+這是一個非常好知的問題
+有很多的理論和想法
+是想要解決的
+但沒有人知道如何解決的
+是非常非常難的
+但是我想有些很簡單的方式
+我們可以在這個大學生的
+當中進行一個大學生的
+我們有一個很大的
+大學生, 學生GPT 和學生TRAX
+而不僅是重新重新整個模式
+我們可以做幾種不同的方式
+第一種是重新整個模式
+我們重新重新
+我用了藍色的藍色
+我們用了藍色的藍色
+我們用了藍色的藍色
+我們改變了所有的模式
+我們可能會忘記東西
+還有一個很好的模式
+叫做 pre-fix tuning
+你剛剛重新重新KV cache
+我會把細節放在下面
+但請問我如果有問題
+pre-fix tuning是好
+另一個方式
+因為很多模式
+做 bass of experts and they have this
+mlp layer in them
+you can add another part
+to the Mlp that is
+optionally routed
+to and used
+and that is like pretty
+scalable
+I think
+people will try this
+where you replace
+instead of like another Mlp
+you build this thing
+call the memory layer
+which is like a big book
+up table
+I think memory layers
+are really good
+and let me pause
+and say now
+this part of the talk
+is getting
+close to purely speculative
+this is like
+the things that are
+like they exist
+然後有人會用這個方式來做
+然後有人會用一個方式來做
+但我真的不知道是否有正確的答案
+另一個方式叫做低銀
+所以低銀的動作
+你可能聽過這個很熱門的題目
+像是訓練小的大小
+或是小的幾個大小
+來進行更多的訓練
+所以如果你的碼頭有10億元
+可能你訓練10億元的碼頭
+那可以控制它
+如果我們看他們在一起
+可能不太明顯
+什麼東西會最好
+ICL就是在聯繫
+我們有聯繫,GRAD
+Full fine tuning
+我們可以做記憶器和MOP
+完美,就是Prefix tuning
+我們可以做LOGRA
+我們可以做
+加上一些東西
+讓我們確保職業的
+我認為不像CLEAR
+我認為不像POSSIVE
+哪一種我們會做
+我覺得我們有這個大模特兒
+我們會加一點點
+控制它 並訓練只有那些計算
+這樣我們會保持
+最多資訊在模特兒
+我覺得這是最重要的部分
+但我想到最後的這一步
+我會說一下
+我認為這些人在這個空間
+是要等待的
+然後你能夠
+做到自己的心目
+你認為是對的
+我們來談談
+我們想要的東西
+我們想要
+我們想要讓模特兒
+變得很小
+例如說你用模特兒
+每個人都可以做到
+但你必須使用
+這些企業的方式
+如果你是想要新的
+新的KIMI
+每個人都可以做到
+像一個Terrabyte
+是一百萬的企業
+只是不夠
+貴重
+讓售貨售貨
+我們想要
+一件很抑鬱的事
+像我們說的
+所以會很棒
+有一個大量的
+改變
+是小的
+而能夠做到
+現在的模式
+因為現在的模式
+是很好的
+和最高的能量
+我認為
+改善的改善
+很特別
+可以把很多的資料
+和數量的數量
+都能做到我們喜歡的
+我們想做到
+進步的進步
+我認為
+小的
+你其實可以
+做到這幾個步驟
+有很多的
+這些方式
+像你可能有看到
+Tinker
+這個新的訓練 API
+從想像機的
+基本上
+這次的想法
+是
+你可以用一個模式來做一個人
+只要你做LowRow和Batch LowRow
+其實是最有趣的
+因為有些方式可以訓練
+訓練一個
+隨便的方式
+有些方式可以做Inference
+基本上是沒有負擔的
+就是因為
+基本模式不一樣
+我們都會分享同一基本模式
+所以所有的想法
+我會說到
+是同一方式的
+是Tinker
+我們可以想像
+是否有些方法可以更多學習
+或更多忘記
+所以這次是跟LORA相比
+去做全程的調整
+所以LORA會有小的改善
+全程的調整更新
+整個模式
+在兩種不同的設計上
+他們會顯示
+LORA在這裡像是紫色的
+或是黃色的
+黃色的比較小的
+基本上它不做得太好
+至少在SFT上
+LORA可以學習少一點
+但是如果我們看看它是如何的敵人
+它會更加少
+所以這篇文叫
+《學》
+《學》
+《學》
+《學》
+它會更加少
+而且它是非常好的找法
+所以如果你想要教育
+一個模式的SFT
+你使用一個
+這些低階的
+或是平均的
+或是肥皂的方式
+就像我所說的那種
+它會有小的改善
+在模式上
+它不會是
+很難使用
+是復興的
+但它也不會
+毫不自信的
+Here's something going the exact opposite direction.
+This is the result from thinking machines showing that they think Lora is about as good as full fine tuning,
+which is interesting because they're doing RL.
+So it's like maybe dependent on the training mechanism.
+Like if you do RL, maybe it makes small updates and you can do Lora, you can do memory layers.
+But for SFT, it really has to store a lot of information, so you really have to do full fine tuning.
+I think that's the takeaway I have.
+我已有些紙張在紙上
+為了好奇的理由
+這是我紙張的結果
+這件事有什麼特有關
+我們有這個小小的小小的東西
+現在有小小的XS
+那些小小的小小的
+如果你是RL
+GSMINT K
+Math Reasoning
+你可以继续组续14克
+然后继续组续91%的精神
+这就挺有趣
+我觉得
+有很多原因
+RL真的会有很多变化
+我觉得这个Quen模式
+像是一个像是鱼魚的模式
+我正在继续组续
+你继续组续1克
+组续
+对
+其实组续续
+继续组续5%比1克
+挺有趣的
+Yeah yeah it's really nice. I think
+Literally the smallest
+Yeah yeah the smallest thing you can possibly train
+It's more like you generate a lot of random projections
+and then you control them all with one number if that makes sense
+Like the model actually changes a lot
+but the only thing you can actually train
+and store is the one parameter
+tell you more about it later
+but yeah it's pretty cool
+嗯
+這是一個
+另外一個結果
+那是好像在混合
+但是我還不確定
+要怎麼放
+所以如果你做KB
+Cache tuning
+或Prefix tuning
+這個紙紙
+Prefix tuning
+會更好比Lora更好
+我遇過一些人在Meta
+我以前是在
+Fillutee那裡
+說了
+他們認為Lora會更好
+比Prefix tuning更好
+所以我真的不知道
+但是我想像
+什麼會真的降到
+是像
+你做的程度
+是最適合的
+我並不確定
+但是我認為Prefix tuning
+A pretty good candidate because like KB caches are so commonly used these days
+and like a lot of the system stuff is built around KB caches.
+I think a cool thing about thinking machines is like
+they're designing this entire organization around, like scaling Lora.
+Which is awesome, but it's not really possible at open source right now.
+There's not kernels for training many lures at the same time.
+It's very complex, and you have to have a lot of people working on that.
+Pre-fix tuning on the other hand, it's like very well supported.
+然后终于我会说说纳维图
+这是另一个方式
+去投资购买
+这些设计是好的
+这些设计是为了
+购买的经济人士
+但购买的经济人士
+就是这个大不同的
+设计构构
+所以这些设计
+不太重要
+就是它们的方式
+但这些设计
+只是一个不同的方式
+去投资购买
+最好的设计是
+它是控制的
+所以在这些设计
+就是在這年來的
+他們會把記憶體的部分
+提供到很小的數字
+他們的結果
+顯示記憶體的數字
+其實是最好的
+記憶體的數字
+在這裡是忘記的
+所以在下方是很差的
+學習的數字是很好的
+所以記憶體的數字
+基本上都忘記了
+他們學習得很近
+如果想要把資料寄給模式
+如果想要真的照顧他們
+不需要把資料寄給他們
+可能記憶體的資料是方式去的
+我覺得實際上有很多
+有些人認為
+現在有些人認為
+未來是好
+有些人認為
+預期時間是好
+有些人認為記憶體是好
+我真的不確定
+但我認為是一個他們的
+好,那就是
+最後的訓練
+把資料寄給肌肉
+其實我會停止
+看看誰有問題
+有些問題
+對
+你能否做到什麼
+對…
+從我對於未公開的資料
+你能否用SFT嗎
+對…
+我可以給你展示SFT的結果
+但SFT
+有很多更多的計劃
+在短片的展示上
+很多很多
+像1000X1或什麼
+你能否重複這個
+對…
+我覺得是這樣的
+SNT的學習方式是
+通過全程式的標準
+同時也沒有考慮標準
+這就是很多的標準
+然後RL就給你1或0
+如果你得到一個正確的標準
+你已經知道了
+沒有資訊
+如果你得到一個錯誤
+你得到一個標準
+所以我覺得RL是很貴的
+資訊能夠允許
+你可以用它作為標準
+這是一種方式
+所以你沒有做GRP嗎
+你還在做SNT嗎
+No, no SFT.
+We just either do GRPO or SFT.
+And then we see like kind of how many parameters you need to train to get to equivalent performance.
+And SFT requires many more parameters.
+So here we are comparing like training versus a rack.
+We want to solve the problem what we are facing in the rack.
+So if the volume of that document also matters like you have any studies like
+如果有問題的話,就要有少許訊息
+所以,RAG會更好,還是訊息會更好?
+那是一個很好的點
+我們來到最後一邊
+我想問題是,如果你是訓練
+所有的資料,但有些東西只會發生在一旁
+對,我應該選擇訊息
+我應該選擇訊息
+因为每次我会有小的设置
+在设置中的设置不可能有信任
+对 可能你
+有些东西很不明显
+在你的设置中
+可能有些事情可能有改变
+你的设置有改变
+可能在短续中有些事情有改变
+对 让我来说
+我们一定会把设置放进来
+我相信會經常來試試
+我相信不會有任何不利的情況
+你會想像在長時間整體的
+你經常訓練的款式
+但沒有在試試
+我相信會做兩點
+我想如果有很多的紀錄
+每天都有這個大訓練
+然後每次開始都會試試
+我相信
+我發現
+或者我的意思是
+沒有人在做這個
+然後人們開始做這個
+你有沒有任何的計劃
+像是在資料的數量
+例如說
+訓練會有更多的效果
+對
+你有沒有訓練
+沒有
+我覺得這個東西是真的新的
+所以有很多的訓練
+我會非常興趣看到
+兩個的訓練
+如何訓練的資料
+例如訓練
+還有,你需要多多的資料,
+才能變成經濟,
+才能變成負面,
+這是一個很好的問題
+你的建議是,
+在用
+更多的資料
+來調整
+表現的位置
+用一個好玩的模式
+或是
+完成的
+等級的項目
+也有四個方式
+對,這是一個好問題
+我覺得
+The fine tuning I'm talking about is all for like a sustained engine completion.
+It's an interesting question.
+You probably could do dynamic embedding model training,
+but I guess the way I think about it is like the real 10x improvement here
+is going to come from training into weights.
+You could maybe make rag like 2x better if you really really worked,
+but I think there's so many fundamental problems with it
+that I wouldn't spend that much time on making embedding better.
+What do you feel like the most fundamental problem is where even if like your retrieval is fantastic?
+I think like chunking like, you just like kind of retrieve some of the stuff you need and then you can't really reason across all of this.
+And like I think in the limit like there's some types of data where like no matter how you chunk you'll never get like everything will be that makes sense.
+Yeah totally cool yeah.
+你能看到一些基本的限制
+在你用的計算
+現在的個人化
+比如說你用的B2C產品
+有100萬萬或10萬萬的利率
+你認為那是不可以用的
+你用10萬萬的利率
+10萬萬或100萬的利率
+對
+不不不
+我認為是可以用的
+像是Laura
+你可能會用
+幾MB的利率
+還是什麼
+那不太瘋狂
+YouTube可能會用
+這次的新消息
+對,那是一個好點
+繼續更新的更新
+可能在實際上
+短期內更像你更新了一天
+或是一樣
+但是我覺得那是做法的
+但你能夠有一個好點
+因為我對這段時間的 paradigm 更加複雜
+那些東西
+你能夠用到很多更新的資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+你能夠用到其他資料
+對,那是一個好點
+我們有三個 axis of optimization here
+我們還在做一些不錯的事
+我們還在做這個
+所以我們繼續在三個 axis of optimization
+你怎麼看
+我聽說
+可能不太清楚
+你怎麼看
+對於決定的方向
+對於你的努力
+在這種 optimization
+particularly in like, let's say in a couple of years were,
+you could do something like your deep research,
+but it's way cheaper and way faster.
+When, what... Are there...
+You were saying, that there isn't a number of documents.
+But what is the boundary that you would think about
+linking at, as the freshness of the data?
+That howFast can change to the number of document?
+Partially of the seconds?
+Yeah, it's a really good question.
+I think the paradigm I'm describing
+特別有效 when you have like a bar
+and data that is not in index and the allele at all
+and it gives you a big benefit there
+I think when you start seeing like
+spark ser updates
+you get the set of some new data comes in
+but it's not that much
+and it's like fairly often
+that you probably want to turn it into
+hierary approaches that are closer to deep research
+yeah, that kind of question along
+Yeah, in the library I've been more about this
+so that data generation
+所以我們就說到
+我們要考慮到
+這幾個概要有什麼方法
+針對承諾
+對
+我們要驅動
+怎麼做
+調整整個
+因此
+我們要為你介紹
+你對我們來說
+是比較像一個概要
+對
+因為你這樣說
+off of the next work of the right.
+Yeah.
+Trial.
+I think one of those questions that you have on those
+with that data.
+Yeah.
+Yeah.
+No, I think synthetic data generation could work for that problem.
+So I guess like,
+it depends on how information-advanced your data is.
+If you have millions of documents from your company,
+I would guess many of them share formatting
+but uh
+of kind of global information to the data set
+and so what you want to think about is like
+does there exist a function
+that can produce a good training data set
+for an LLM that would teach it about my data
+and like there probably is
+like you can probably design some strategy
+that looks at the documents kind of like
+figures out what's new about each document
+and creates like a question and sort of pairs
+but this is very blue sky
+I think a lot of people are working on this right now
+but I don't have like a
+是一個非常重要的答案
+我只想問一下
+你覺得在Q&A的對象中
+有什麼想法
+對
+你會問我這個問題
+你會問我這個問題
+你真的想模仿
+有什麼問題
+但我想Q&A會給你
+對
+所以這個項目
+你提到這個例子
+你會訓練你的模式在3M的購物頁面
+10K、10Q的錄影
+那是什麼樣的問題?
+是否有任何的學習在內?
+那需要先把資料進入一個頁面嗎?
+對 我認為問題是
+如果我們用3M的例子
+然後用Model 用一些
+Magic Synthetic Data 用什麼
+其實是最重要的
+其實如果你做得對
+你不需要提供問題
+你只能問一條問題
+沒有系統提供
+沒有
+更多資訊
+如果沒有問題
+你就要知道
+有些項目
+只有一個標準
+而模特兒知道它是哪個標準
+所以你不必要詢問
+你還要問一條問題
+It's like implied, you know.
+So, it depends on how you set it up.
+But I think in the ideal case, there's no problem at all.
+I- It's not obvious to me that information is best stored in model weights.
+Why do you have that?
+It feels implied.
+You have my right.
+It's a good question.
+So he said it's not obvious that information needs to be stored in weights.
+對,這是一個好問題
+我認為
+我不是說那是
+那是資料資料的資料
+我猜我會說
+那會給你很多
+我們不利用它
+然後你進入這個程度
+我可以用
+你可能會有幾億元的資料
+而且很貴
+所以至少
+這是一個最好的方式
+問題是
+我們可以有什麼能做得更好嗎
+是很難的
+我覺得
+那就是資料
+你知道我意思是什麼嗎
+我剛才說過
+如果你有1億元的儲物
+你可以用來搜索
+來製造一種儲物
+那就是儲物
+然後that inference costs less
+That's actually a really good question
+I've never thought of that before
+I think it's probably pretty hard
+I guess if you're training on user data
+And you're having some user job
+Once you sabotage your system
+And you're generating training data
+From their inputs
+There probably are a lot of security risks
+In patient
+I guess in this scenario you're serving the same model as a user
+And it doesn't work anymore. That's not your problem.
+But once you start aggregating information across users,
+I bet it becomes part.
+I'm sure chatGBT has the same problem.
+When some people always click thumbs down and thumbs up
+to try to like stick it to the mind.
+The significant geographic differences
+for some cultures are inclined.
+So it's going to be in the bias indeed.
+那是很簡單的
+謝謝
+謝謝
+謝謝
+所以我先在想一點點
+有什麼實際的說法
+尤其是無論在於
+說是管制的
+你應該要在模式上
+繼續對戰
+從時間開始
+你如果在公司
+想改變成一個文化
+就是一個文化的言論
+你必須要對戰
+你應該不對戰
+再說了
+那你必須要對戰
+你必須要對戰
+你必須要對戰
+你必須要對戰
+你必須要對戰
+你必須要對戰
+你必須要對戰
+已經有好 representation of it
+and just has to change that one small thing
+and then you know how that kind of is joined
+that the different medicinations
+which is kind of why we were doing four contacts
+and right now partially to avoid that
+you're having problems on how that might work out
+Yeah, I think it's sort of,
+so this question was about
+what you do once you start making multiple updates
+to the model
+especially when you have conflicting information
+and I think like the optimal synthetic data strategy
+with somehow figure this out during the training
+如果有些文件在幾天前,不太能夠信任,我會不信任
+但我還不知道,這方面
+我們可以給你更多的注意嗎?
+我們說,資料是跟隨意的
+我們會給你更多的注意
+如果是有關的,我會給你更多的注意
+但我希望你會更多的注意
+我們在地上,我們在問
+So, how it will replace that scenario?
+I'm not sure, I am asking question.
+Sorry, I don't know if I'm asking.
+So, okay.
+So what do you have?
+I didn't understand the question.
+So my question is like we have the data,
+whatever the training data we are giving you is
+are contradicting with the training data.
+It is a conflicting.
+Now, while asking that question,
+我希望更多的資料在我的資料中
+我沒有需要訓練的資料
+這就是我們用的
+我需要的資料從我的
+檔案中的資料
+所以我們能夠達到訓練
+我認為
+PARADOM的建議
+有所有的限制
+我不會問你那些問題
+但如果像這個概念,如果說了很多次
+那不然就說不定是真的
+雙方都會取消
+還有在股市的設定上
+也會有很多的訓練
+所以我覺得同樣的問題
+也會有自己的
+你覺得你能否作出更好的訓練
+在這方面,你覺得
+如果我們有更多的問題
+對
+你覺得你能否做出更多的訓練
+是,不是,不是,是,不是,不是,不是,不是,不是,是,不是,不是,不是,是,不是,不是,是,不是,不是,不是,是,不是,不是, not really, but I think it's an interesting opportunity so like back in the day a lot of people are really excited about the idea that you could share a gradient and train the same model across many machines, this is federated learning and I think like one of the problems why it's hard is because the models now are so big that the network costs are way too high and because like I'm arguing that you only need to train a million parameters instead of a trillion, it probably comes back into place so I think it's a very good idea especially in the RL world where you are
+你做了很多工作長時間
+然後做燃燒
+很適合你
+所以我認為
+可能會回到家裡
+然後就很快就能想到
+但還沒那麼快
+我再給你兩句問題
+所以
+你的意見是
+訓練資訊
+好像是
+對卡帕蒂的看法
+像是一個煞車
+像是把整個
+你知道,intelligence aspect of a model down to like a two billion parameter thing
+and like I think that there's a bit of overlap there, like
+like a lawyer is not, doesn't have the entire legal code memorized
+but they know how to use the tools available to them to find what they need to
+and so I think part of it is kind of a combination of those two things
+where you're doing task specific training
+在一個小的心理上,可以找到一些東西
+可以變成是蝕蝦,或是…
+在正確的角度
+對,所以我覺得
+有很多人在補充
+有些人說
+我們可以用最好的模式
+是很小的,而且很少用的
+但可以用到很好的模式
+或是那種
+I guess, I was proposing some similar ideas
+I said, models don't weight too much
+I think I've run a breeze
+Models don't need to know the capital of the smallest province
+Tajikistan, for most use cases, at least
+And like my life
+He doesn't need to remember encryption keys
+Yeah
+But I think there's
+I think it's a very philosophical question
+But I think it's really hard to create a model
+It doesn't know anything
+And so I'm more advocating for like
+Specialized models that are good at
+什麼事要關心
+但是要把其他東西
+不如說要打開模式
+那就是把所有東西打開
+對
+好 最後一個問題
+我們沒有做過
+在資訊上的重要的部分
+沒有 但是我想這是
+一個最初的問題
+是如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+如果有資訊
+我其實不知道
+但是那是一個好階段
+現在我正在工作
+我心裡有很多問題
+我開始了一些公司
+這就是我們做的研究
+如果有人知道
+誰在 San Francisco
+是一個好工具
+你覺得這是什麼
+讓我們知道
+或是發訊息
+如果你是用這個東西
+發訊息
+那會很棒
+是有什麼事嗎
+沒有
+這是...
+It's kind of all of this I would say.
+Trying to build models that you can teach things to.
+Go small.
+Alright, thanks so much for having me.
+This was great.
