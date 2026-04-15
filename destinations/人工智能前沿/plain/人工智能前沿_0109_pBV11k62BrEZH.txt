@@ -1,0 +1,1641 @@
+我們可以想像50%的努力在計劃
+50%是在新興建
+我猜的是要求兩者都可以進入AGI
+我經常覺得
+如果我們建成AGI
+然後用它作為一個想法
+然後再加上真正的想法
+我們會看出
+有什麼不同
+可能是有什麼特別
+還有其他人的想法
+可能是那種創意
+可能是感情
+可能是夢想
+有很多的
+有很多的恐懼性
+有很多的恐懼性
+有很多的恐懼性
+這就出現了
+一個測試器的問題
+什麼是測試器的限制
+所以沒有什麼可以做
+在這個公司之中
+沒有人可以做到
+沒有人可以做到
+在這個世界上
+沒有人可以做到
+那麼久
+歡迎來到Google DeepMind
+我們看到中央的大量的雜誌
+從大量的語言模式到大量的AI
+我們看到AI的增加了藥物發展
+和大量的模式
+進行進行進行動物和駕駛車
+這些都是我們所在細節的主題
+但是這一年最後的影片
+我們想要帶給大家一句
+什麼 beyond the headlines and product launches
+想要考慮一個更大的問題
+Where is all this heading really?
+真的
+What are the scientific and technological questions
+that will define the next phase
+and someone who spends quite a lot of their time
+thinking about that is
+demстрasebis
+CEO and co-founder of Google DeepMind
+Welcome back to the podcast, Dennis
+I mean quite a lot happened
+in the last year
+Yeah
+What's sort of the biggest shift?
+do you think
+Oh wow.
+I mean it's just so much has happened
+as he said it's just
+it feels like we've packed in
+ten years in one year
+我覺得有很多事發生
+我們的進步和模式
+我們在《Gemini 3》發生的
+我們很開心的
+各種各樣的能量都進步了
+然後我猜在夏天
+我會很期待
+是世界模式進步了
+我肯定會說到這一點
+對 當然
+我們會說到這一點
+再詳細的一段時間
+我記得第一次在這個 podcast 上課
+你提到的路途系統
+這個想法是可以用AI來擁有這些下層的責任
+你已經做得很好在你的預約上,我必須要說
+你要給我們一個提供嗎?
+我們有些東西在這區域,還有一些東西
+你已經擁有的,或是在地上擁有的
+對,當然,大部分的證據是Alpha Fold
+我們在5年來,我們是有5年來的
+我們是在Alpha Fold的年代,至少在2年來
+所以這就是證據,我猜是有可能
+要做这些不通的问题
+and we're exploring all the other points now
+I think material science
+i love to do room temperature superconductor
+and you know better batteries
+these kinds of things
+I think that's that's on the cards
+better materials of all sorts
+we're also working on fusion
+because it's a new partnership
+that's been announced
+we've just announced partnership with a deep one
+we already were collaborating with them
+but it's a much deeper one now
+with Commonwealth fusion
+who i think are probably the best startup
+在使用最少傳統的Tocomac 產品
+所以他們可能是比較接近
+使用一些適合的產品
+我們想幫他們增加
+幫他們存放 plasma 和大量的螢幕
+甚至有些材料的設計
+所以這也很有趣
+我們也在與我們潛力的
+潛力同學合作
+他們在 Google 的AIT 工作中
+他們在潛力AIT 工作中
+他們在 Google 的AIT 工作中
+我們在用 error correction codes
+使用我們用的機器學會
+可能一天他們會幫我們
+對 沒錯
+對 它們的風格是特別的
+它們的分別是讓世界變得更大
+會被解放的
+對 風格是永遠在天空中
+當然 蘇格是非常有趣的
+也會使用風格
+在空中的風格
+但
+如果我們可以有
+風格的風格
+它們的風格
+是無限度的
+能夠把整個地區改變成全世界的環境
+當然這是我們可以幫助的一種方法
+會讓我們很多的問題
+會失去我們能…
+當然 它會開發很多…
+這是我們想的 它是一個路線
+當然它會幫助到全世界
+能夠把能量和能量和能量和能量
+和能力和能量和能量和能量
+但是如果能力真的有改變
+而且超级 超级 超级
+那么很多东西会变得更加贵
+像是水质
+因为我们可以有
+地 salination plants
+非常多的地方
+甚至在做热水
+就是
+有很多水
+有草水
+那是基本上的热水
+但是它只需要很多能量
+去删除草水
+但如果能量很便宜
+和红色的
+然后更清晰
+那么为什么不做
+你可以做24-7的产品
+你也有看到很多的改善
+在AI上的
+自己在學校上的
+學校的
+獲得獎金
+在國際的Math Olympiad
+而且同時
+這些模式
+可以作出很基本的
+學校的Maths
+為什麼他們是那種
+對 我覺得是非常驚訝的
+其實是最驚訝的一件事
+而且應該要被修正
+這是一個最重要的事情
+我們還沒有在AGI
+我們有很多的項目
+在獲得獎金
+在國際Math Olympiad
+而已 top students and the world can do
+and on the other hand, if you pose a question in a certain way,
+we've all seen that with experimenting with chatbot ourselves
+and our daily lives, it can make a fairly trivial
+mistakes on logic problems,
+they can't really play decent games of chess yet which
+is surprising.
+So, there's something missing still from these systems
+in terms of their consistency
+and I think that's one of the things
+我覺得這是一件事你會想像的
+從一種經濟性的意識
+而非是AGI的經濟性
+是它會經過上升
+所以有時候人們會叫它
+《經濟性的意識》
+所以它們是很好的在某些方面
+甚至在學校的等級
+但其他方面
+它們並沒有在學校等級
+所以它們仍然很不平坦
+在這些系統上的表現
+它們很不平坦
+在某些檔案上
+但它們仍然很基本在其他方面
+我們要把這些資料調到
+有些理由是為什麼
+因為在情況下
+可能是因為
+畫面被判定和解剖
+所以有時候
+沒有所有的文字
+因為你寫文字
+所以有時候會錯誤
+但不可能會看到
+每個人的文字
+所以有些理由
+有些這些東西
+每個可以被修改
+然後可以看到其餘的
+但我認為是個體
+我認為另一個是
+理念和思考
+所以我們現在的思考系統
+在影響時間中
+他們花更多時間思考
+他們更加出現他們的答案
+但它並不太有趣
+在於是否用這個思考時間
+在一個很用途的方式
+其實是用雙重的方式
+用雙重的方式
+在它們的方式上
+我們在正式的方式上
+但可能我們只有50%
+在正式的方式上
+我還在想
+那一段故事的歷史
+然後在0的時候
+你把所有人的經驗都拿走
+然後發現原本的模式已經改善了
+是否有一個學業的模式
+或是一個學業的模式
+在你所創造的模式
+我覺得我們今天正在建造的
+是比較像alphaGo
+所以這些大型的模式
+這些基礎模式
+他們開始以所有人的知識
+我們在網上放的
+這些東西是非常重要的
+然後將它們進行一些
+有用的藝術
+他們可以看起來和發展出來
+但我覺得我們仍然在前幾天
+在這個搜尋或想像中
+像AlphaGo had 用這個模式
+去進行使用的理由、計劃、計劃
+然後來自最好的解決
+在那段時間的問題
+所以我感覺我們在現場
+和人類的知識的限制
+像是網路
+我認為最主要的問題是
+我們還不知道如何使用這些系統
+在一個蠻有的方式
+在我們做的方式
+但當然那是比較容易的
+因為是一場遊戲
+我認為當你有AlphaGo
+你可能可以重新重新重新
+就像我們做的Alpha Series
+然後做一個Alpha Zero
+讓它開始
+發掘了知識
+我認為那是下一步
+但那當然是更難的
+所以我認為是好
+我們要先試試建立第一步
+有一個像 AlphaGo 系統
+然後我們可以想像 AlphaZero 系統
+但這也是其中一個東西
+從今天系統的能量
+是能夠在網路上學習
+繼續學習
+所以我們訓練這些系統
+我們平衡他們
+我們發展他們
+然後他們都在世界上
+但他們不繼續學習
+在世界上 像我們一樣
+我覺得這就是
+另一個重要的一部分
+從這些系統需要的
+從AGI
+在所有的那些失敗的問題
+我知道這大型的貨品
+在時刻發出貨品
+但我也知道
+Google Deep Minds的路線
+真的在那裡
+在那裡有學業的理由
+我找到一句話
+你最近說
+如果我走過了
+我們會把AI放在學校
+長期做更多的事
+例如 Alpha Fold
+或是疾病
+或其他東西
+你認為我們失去
+有什麼想法不順利?
+我覺得我們失去和我們有關的東西
+所以我感覺好像那是比較具有 scientific approach
+至少那就是我的原來計劃
+例如15-20年前
+我們就開始了 AI 工作
+我們就開始了 Deep Mind
+人們認為這件事是個瘋狂的事情
+但是我們相信了
+我覺得這個想法是
+會繼續進行進行進行進行的進行
+會向AGI進行進行的進行進行
+會很小心地注意到發展的麗麗的步驟
+保安的因素等等
+把這個進行的設計分析
+等等
+但在 meantime
+你不會需要等到AGI通過
+前才會能夠使用
+你可以把這個技術
+從公司等遺品的實驗法
+用於學科和醫療
+所以我們其實是做的
+which it's not, it's not a foundation model itself
+general model, but it uses the same techniques
+you know transformers and other things and then blends it with
+um more specific things to that domain
+so i imagine the whole bunch of those things getting done
+wile which would be hugely bad, you know
+you released to the world for just that we do with alphafold
+and indeed do things like cure cancer and so on
+um whilst we were working on the sort of more
+the agi track in the lab
+now it's turned out
+那些研究币的币数
+在研究币数上
+然后人们会找到更多的
+然后他们现在
+在研究币数上
+发现更多的
+研究币数
+包括Gemini
+他们可以做
+视频和视频
+这些东西
+也有很成熟的
+商业
+和质疑
+我喜欢这些
+我一直在想
+有最好的助手
+会帮助你
+每天生活
+更多的质疑
+可能也会保护你的
+所以你能在社交媒體上 發展 發展 發展 發展
+因為今天在社交媒體上 它是一種聲音
+我認為AI能 其實 能幫助你
+能幫助我們
+所以我覺得這不錯
+但是這次的 非常瘋狂的  race condition
+有很多 公共 公共 國際 國際 國際 國際
+都在互動 進行 進行 重新 重新 重新 重新
+這令它難以做 一個 無敵的 學習
+同時我們也在做兩件事
+我們對這方面的平衡
+另外很多的證據
+例如有更多的資源
+進入地區
+所以這就是絕對的進步
+還有
+我覺得大陸的民主
+其實只有數個月
+在全面的大陸
+用了他們的方式
+所以每個人都有機會
+感受到
+他們的意見
+我覺得這很好的東西
+是有什麼意識的
+這件事是奇怪的
+去年我認為
+很多人在討論
+將會打破一座地區
+發生資訊
+但現在錄影
+現在《German I3》
+已經被重新推出
+這整個大量的
+不同的電腦
+那是怎麼做的
+他們不是
+打破一座地區嗎
+我認為很多人
+認為這樣
+尤其是其他公司
+我們說的稍微有進步
+但是我們沒有看到任何的風格
+我會說
+可能會有下降
+我剛才說過
+人們會覺得
+所以沒有下降
+是0或1
+是 either exponential
+還是 nothing
+還是 asymptotic
+沒有
+其實有很多空間
+between those two regimes
+我覺得我們在那裡
+所以你不會有
+double the performance
+on all the benchmarks
+每次你發出新的項目
+可能那是事件在很小的日子裡
+3、4年代
+但是你會有很大的進步
+像我們看過的GEM and i3
+有很要求的資金
+包含了的資金
+所以我們沒有看過有的 slow 上升
+例如我們能否拍攝
+我們有的資料
+但還有一些方法
+例如有信息
+這些系統是很好的
+他們可以開始創造自己的資料
+尤其在一些地區的數據
+例如用數據
+去確認答案
+你可以在某些種類中
+能夠以免費的資料
+所謂的這些東西
+都是研究問題
+我認為這是
+我們經常有的
+我們經常先研究
+我們覺得我們
+我們經常在
+研究的柱子中
+如果您回顧
+我們過去的年代
+不管是傳統
+還是 AlphaGo
+AlphaZero
+或任何東西
+他們都出現了Google和D-Mind
+所以我一直說
+如果更多新的資料需要
+我會返回我們去做的
+像我們在前15年
+做了很多大 breakthroughs
+所以我覺得這是什麼
+我真的喜歡這個
+當地的工資變得更加困難
+因為不是需要
+全球學生的工資
+已經很困難了
+但是要跟全球科學生
+我們在學習和學習
+是我們在特別的
+而在這方面
+我們也有了
+世界科學的資料
+和其他東西
+我們花了很長時間
+所以這套合作
+讓我們
+在前面
+學習和學習的
+分別
+我們可以想像
+50%的學習
+50%的學習
+我認為
+我們會需要 both
+我們仍然看到,
+即使在GEMINI3,
+這是一個很大的模式,
+是這個理由的想法,
+所以我認為,
+這句話是一個筆記,
+還可以給一個回答,
+當它實際上應該要抵抗
+你能否建立一個系統,
+讓GEMINI給一個確保的結果,
+在同一個方式上的方式上?
+對,我認為這樣,
+我認為我們需要這個,
+而且我認為,
+這就是我們失去的一件事,
+我們是在接近的,
+我認為,比模式更好,
+The more they know about what they know if that makes sense,
+And so and I think the more reliable
+You could sort of rely on them to actually introspect in some way
+Or do more thinking,
+And actually realise for themselves
+That they are uncertain or there's uncertainty over this answer
+And then we got to sort of
+Work on how to train it in a way there
+Where it can output that as a reasonable answer
+We're getting better at it
+But it's still sometimes
+它所作出的解釋是否應該不應該
+然後這可以令到一個維持
+所以我覺得很多維持的情況是這樣的
+所以有一個失敗的部分
+它必須要解決
+你對,我們對它解決了
+但在更多的方式
+因為在後面的場面
+有些可能性的測試
+或是將來的測試
+對,將來的測試
+這就是它所作的
+但那不告訴你整個整體的事件
+是你確定你對這整個說法
+或這整個說法
+我覺得這就是你需要的
+我認為你需要用想法
+和計劃法去回顧
+你只是的表現
+現在的情況是
+像是說一個人
+他們在一天不在
+他們正在告訴你
+第一件事來自他們的心
+但 most of the time
+那會不會OK
+但有時你會想要停止一段時間
+或是想去想想你對自己的想法
+可能這世界會變得更少
+但這還是更好處
+要有一個復習
+所以你能想像到這些模式
+需要更好做
+我也想說一下
+在於雙方的雙方的雙方
+和他們的雙方
+因為我們要談談你的Gini團
+對,這也是我做的
+告訴我為什麼你會關心雙方
+什麼樣的世界模式可以做
+那一個語言模式不可以
+你看 其實
+是我的長期性
+是世界模式
+以及類型的
+在外國的AOE
+當然
+我們都在
+最近的工作
+像Gini
+我覺得
+語言模式
+能夠理解
+世界的很多
+其實
+我們其實
+更多 than we expected
+更多 than I expected
+因為語言是
+其實更多
+我們以為
+我們可能會再說 about the world than we may be even even
+Linquist may be imagined and that's proven now
+with these new systems but there's still a lot about the spatial dynamics
+of the world, you know how spatial awareness and the contact
+the physical context we're in and how that works mechanically
+that isn't it's hard to describe in words and isn't generally described
+in corpuses of words.
+And a lot of this is allied to learning from experience online
+experience.
+There's a lot of things which you can't really describe
+你必須體驗一下
+可能是用手機的感覺
+很難用語言
+比如說
+手機的感覺
+這些感覺很難
+用語言去描述
+所以我覺得
+有很多東西在那裡
+如果我們想用手機
+或是用電腦
+或是用手機來
+用手機來
+或是用手機來
+幫助你
+你需要這個世界的理解
+世界模式在於這方面
+我們意識的世界模式是
+這個模式的理解和影響
+世界的技術
+有些是有趣的
+但有些是動的
+有些是行的
+我們在影片模式上
+看到很多的
+其實是一個方法
+如何讓你測試
+這個理解
+能力能力地发展到真正的世界
+如果能力地发展到这些世界
+你应该明白
+世界的设计技术
+应该有很多的设计技术
+所以Gini 和VO
+这些设计模式
+我们的视频模式
+和我们的互联模式
+是非常印象的
+但也很重要的步骤
+将来我们的世界模式
+将来我们的世界模式
+将来我们的世界模式
+将来我们的世界模式
+将来我们的世界模式
+将来我们的世界模式
+将来我们的世界模式
+當然我會重複在遊戲中再重複
+遊戲的領導和最終遊戲
+當然是我的宣傳計劃
+所有的事情都會有
+對 所有的事情
+還有 science 嗎
+因為你用它在那些遊戲中
+對 你可以
+所以 science 呢
+我覺得
+建立模式的
+學習性的
+工具
+比如是材料,在物品等級,
+在藝術等級,
+但也像一些 physical things 等級,
+例如是天氣,
+一個方法是,
+理解這系統的方法是
+學習的學習項目,
+從資料的資料來的,
+所以你會有很多資料,
+例如,
+我們有很多天氣,
+有很多天氣的項目,
+然後你會有一個模式,
+那是學習這些動作,
+然後可以重新重新重新重新,
+所以就用複製方式
+所以我覺得有大量的能量
+和世界模式的優點
+或是特別的優點
+是學術的素材
+但是你也可以
+把那些優點
+進入那些優點
+對
+你的Gene3團隊
+他們有這個很漂亮的優點
+是沒有任何大方的
+優點
+就有那些優點
+他們說
+是從 these simulation environments
+and allowing them to explore
+with curiosity, being their main motive
+Right. And so that's
+another really exciting use of these
+world models is you can,
+we have another project called SIMMA
+which is really SIMMA2, simulated agents
+where you have an avatar or an agent
+and you put it down into a virtual world
+it can be a normal, it can be a kind of
+actual commercial game or something like that
+very complex one, like No Man's Sky
+a kind of open world space game
+然後你可以學習它
+因為它有《Gemini》在耳朵
+可以直接說到那個艦艦
+給它任何項目
+但是我們就想
+那不然我們可以把《Genei》
+放進了SIMA
+然後把SIMA艦艦艦艦艦艦艦艦艦艦
+那是在世界上創造了飛行艦艦
+所以現在
+2AIs 正在進行在別人的心裡
+所以 沈默 正在進行這個世界
+而 Genie 正在進行這個世界
+那只是一個玩家
+而 Avatar 正在進行這個世界
+所以 沈默正在進行這個世界
+就是在進行這個世界
+所以 沈默正在進行這個世界
+所以 沈默正在進行這個世界
+是在進行這個世界
+我覺得這可能是
+最初的 最初的 訓練程式
+你 可能會有 訓練程式的例子
+因為 whatever the Sima agents trying to learn
+Gini can basically create on the flight
+所以我想你能想像一整個世界
+的設定和解決任務
+就是一百萬任務
+自然地變得更加難
+所以我們可以試試
+設定一個這樣的領域
+也許那些 Sima agents
+可以做得更好
+就是遊戲的同伴
+也許一些東西他們學習
+可以用作用作用作用
+對 最後的NPCs
+對, 沒錯
+這些遊戲會很棒
+那些世界你創造的世界
+你怎麼確保他們真的有實力
+你怎麼保證你不會跟精神結合
+看起來不太合理
+但其實是錯的
+對, 這是一個很好的問題
+這基本上是一個問題
+這是一個維持的理由
+維持的理由是好
+因為這也代表
+你會創造一些東西
+很有趣的東西
+所以你可能會想做
+創造一些東西
+或是想創造新的東西
+novel things, a bit of hallucination might be good, but you want it to be intentional, right?
+So, not so you kind of switch on the hallucinations now, right?
+Or the creative exploration.
+But yes, with with with when you're trying to train a similar agent, you don't want
+genie hallucinating kind of physics that are wrong.
+So what we're doing now is we're almost creating a physics
+physics benchmark where we can use game engines, which are very accurate with physics
+可以建立很多
+比較簡單的
+這些東西你會做
+在你的藝術科學
+學習
+你會滑下小球
+不同的踏步
+看他們走得快
+所以
+把基本的
+學習
+像 Newton 三個法律
+動作
+能否有進入
+那些 V.O. 或 Genie
+能否有進入
+藝術科學
+100% 正確的
+現在他們不
+他們的類似
+而且他們看起來很實際
+當你隨便看著他們
+但他們沒有足夠的實際量
+依然要依靠在
+那些機構
+所以這是下一步
+所以我覺得
+現在我們有這些很有趣的模式
+我想我們在試圖中
+我們都會用所有模式
+去減少供應
+讓它們更加地基礎
+以及在體育上
+這可能會影響
+很多的真實的地位
+簡單的影片
+或者是在天氣
+什麼都會發生 兩種噴嚏的發生
+但很快就能達到三個體系的問題
+不可以解決
+所以我覺得會有趣
+但已經很厲害的
+是在視頻模式的方式
+就是它們的反應和水分
+已經很不確定
+至少到眼睛
+所以接下來的步驟是
+在於什麼人能夠感受
+會不會真的持續到一個正確的學歷
+我知道你已經在想這些學歷
+我回到我們的第一次進行
+你提到你很喜歡學歷
+就是這個貢獻的成果
+在我們學歷時
+有一個方式
+是理解到其中一個
+然後我們會把它轉變成我們
+你會感興趣
+是有一個領導者的領導者
+在領導者的領導者
+當然
+我喜歡領導這個領導者
+在某些時候
+領導領導者
+領導
+或許社會的動力
+Santa Fe 經常領導
+很多好領導者的領導者
+我曾經愛過一些
+但是他們都是經常的
+然後他們正在領導
+一些小的建築者
+他們發現
+有些東西
+如果讓公司長久時間走過
+對財經的資料、市場、銀行等
+這些都是瘋狂的事
+所以我覺得會很酷
+而且也要明白
+生命的原理和意識的原理
+我認為這就是我最大的潛力
+在開始的工作和事業
+是要有這些技術
+去明白我們來的
+和這些現象的
+我認為是最強大的技術去做的
+因為你能做得很精彩
+因為你能經常運行
+有不同的開始和開始
+然後可能會經常運行
+然後明白有什麼不同的方式
+在一個很接觸的測試
+這當然是很難做的
+我們想回答的問題
+所以我覺得是一個很不明顯的雙重的雙重
+given, you know, what we've discovered about
+所謂的出現物體的雙重
+對, 要有這種理解
+我們不會想到的
+你也要注意一點
+在雙重的雙重
+我想你會要注意
+對, 但那是另一個
+最好的想法
+雙重可以在
+你 know, 非常安全的雙重
+可能會突然想要
+重新進行
+而你當然可以觀察
+在24.7的測試中
+以及你能夠有 access to all the data
+所以我們可能需要 AI tools
+來幫我們 monitor the simulations
+因為他們會很難看
+他們會有很多的測試
+如果你想想,有很多AI
+在測試中,會很難
+讓任何人的研究人員
+來保持這個測試
+但我們可能會用其他 AI 系統
+來幫我們調查和 用其他東西
+有興趣或擔心的測試
+會自動進行
+我們還在說
+中間至長期
+所以我們再回到
+我們現在的策略
+我也想提醒你
+影響了AI
+和AI的社會
+我們說過
+你認為AI
+在短期內被 overhyped
+但在長期內被 underhyped
+我知道今年有很多
+的信息在那裡
+牠對於應勢
+的衹動進行在好處
+地區舍分當中
+是牠們有什麼想法
+牠牠們有什麼想法
+牠們這兩種
+牠們有什麼想法
+牠們在那裡
+牠們在那邊
+牠們在那邊
+牠們在那邊
+牠們在那邊
+牠們在那邊
+牠們在那邊
+牠們在那邊
+牠們有什麼想法
+牠們在那邊
+A.I. ecosystem that are probably in bubbles.
+One example will be just seed rounds for startups
+that basically haven't even got going yet
+and they're raising at tens of billions of dollars
+valuations just out of the gate.
+It's sort of interesting to see how can that be sustainable.
+My guess is probably not, at least not in general.
+So there's that area.
+Then the people are worrying about obviously there's the big tech valuations
+還有很多的業務
+所以
+我們還是要看
+我想
+任何
+新的
+和深的技術
+當然AI是最深的
+你會有這個
+重點
+所以當我們開始
+沒有人相信
+沒有人想說
+那些是AI
+its seems to be the only thing people talk about in business
+so it's a you're sort of going to
+get it's almost an overreaction
+to the underreaction
+so I think that's natural
+I think we saw that with the internet
+I think we saw with mobile
+and I think we're seeing it
+or going to see it again with aare
+I don't worry too much about
+are we in a bubble or not
+because from my perspective
+as you know
+leading Google deep mind
+and also obviously with Google
+as an alphabet as a whole
+our job and my job
+is to make sure
+And we're either way…
+we come out of it very strong
+and we're very well-positioned
+and I think we are tremendously well positioned either way
+so if it continues going like is now
+fantastic, we'll carry on all of these great things
+that we're doing in experiments
+and progress towards AGRI
+if there's a retrenchment, fine
+then also I think we're in a great position
+because we have our own stack
+with TPUs
+we also have all these incredible Google products
+and you know the profits that all makes
+i into and we're doing that with searches totally revolutionized by
+I overviews AI mode with Gemini under the hood, we're looking at workspace
+er email, you know, at YouTube. So there's all these amazing things in Chrome,
+there's a lot of these amazing things that AI we can see already are low-hanging
+fruit to apply Gemini to as well of course, as Gemini app,
+which is doing really well as well now and and the idea of universal assistant.
+所以有新的產品
+我認為他們會在時間內超級值得
+但我們沒有必要在那裡靠近
+我們可以把我們的經濟系統增加
+我覺得這就是我們去年所發生的事
+我們現在真的有了能力
+在於人們的智慧
+我最近也知道
+如何重要的是
+不想智慧智慧的智慧
+而是用人的職業
+所以我們不會說錯了
+社交媒體
+但是我還想問
+我們已經看到這個
+我看人們在說話時
+他們的寫文時
+他們變得自然的
+變得獨自
+你怎麼停止
+你怎麼建造AI
+使用在他們的心中
+就是這個點
+但沒有建造
+一個成員
+對,這是一個
+最重要的
+我們是一個業務
+所以我們看見一些系統的問題
+例如是超級吸引力
+然後你會看到這些
+關於電腦的訓練
+很壞的狀況
+所以我覺得這部分
+其實是我們想建立的
+我非常高興的
+在Gemini3的職業中
+我們有一個很棒的團隊
+我也是幫助的
+就是這個
+好像是一個學習的狀況
+是 warm,是幫助,是 light
+但是它是堅持到這個位置
+然後它會推翻回到一些東西
+在一個 friendly way
+那些不合理的方式
+你懂, 除了要去去強調你的 idea
+那些地圖是 flat
+你也說了, 這是一個 wonderful idea
+你懂, 我不覺得那是好
+在 社會的一種
+如果那是 會發生的
+但是你得要 把握到 什麼東西
+因為人們想 這些系統 能夠 支持
+to be helpful with their ideas and their brainstorming.
+So you've got to get that balance right.
+And I think we are sort of developing a science of personality
+and persona of how to kind of measure what it's doing
+and where do we want it to be like on authenticity, on humor,
+you know, these sorts of things.
+And then you can imagine there's a kind of base personality
+that it ships with.
+And then everyone has their own preferences.
+Do you want it to be more humorous, less humorous
+或更有興趣或更有信心
+或更有信心
+人們喜歡不同的東西
+所以你加上那種
+更加有個人化的設計
+但仍然有新的個人體
+讓大家知道
+這就是
+我們想向大家提供
+學術方式
+這就是我們想使用
+學術方式
+和醫療方式
+和健康問題
+等等
+所以
+我覺得
+這就是
+學術方式的
+成績
+我對這方面的對話很高興
+我們正在進行
+我們要談談Shane Leg
+他剛才說了AGI
+在AGI的世界模式
+所有事發生在AGI
+在世界模式
+你認為AGI的 vision是如何?
+我認為
+這類型的混合
+當然有GEM and I3
+我覺得很能用
+Pro system we also launched last week
+which is an advanced version of our image creation tool.
+What's really amazing about that has also Gemini under the hood.
+So it can understand not just images
+it sort of understands what's going on
+semantically in those images
+and people have been only playing with it for a week now
+but I've seen so much cool stuff on
+social media about what people are using it for.
+So for example, you know, you can give it a picture
+of a complex plane or something like that
+它可以把所有的部分的畫面
+和所有的部分的畫面
+和所有的部分的畫面
+都在不同的部分上展現出來
+所以它有一個深入的意識
+是用機器和物品來做
+它是一個
+它可以把文字的文字
+實際上是現在
+所以我覺得它是
+我們要將它們全部交往一個AGI
+我認為這是一個很普遍的系統
+可以做任何的影像
+所以我覺得這是很有趣的
+然後還有在世界模式的前提
+Gini、SIMA
+然後我們要將它們全部交往
+他們的不同項目
+他們都要交往
+但我們需要將它們交往一個大模式
+來把和 review i
+i know you've been reading quite a lot about the industrial revolution
+visually
+at their things that we can learn from what happened there
+to try and mitigate against the some of the disruption
+that we can expect
+yeah i think there's a lot we can learn
+it's it's something you sort of study and school
+at least in the in in Britain
+but at a very superficial level
+like it was really interesting for me
+to look into how it all happened
+what it started with
+因為他有了標準 are the reasons behind the economic reasons behind that
+which is like the textile industry
+and then the first computers were really the sewing machines
+right and then they became punchcards for the only
+for tram computers, mainframes
+and for a while it was very successful in Britain
+became like the centre of the textile world
+because they could make these amazingly high quality things
+for very cheap because of the automated systems
+and then obviously the steam engines
+and all those things came in
+I think there's a lot of
+有很多的領導者
+所以
+典型的死亡
+全都在醫治
+和
+生產品的情況
+的生活
+和工作的效果
+都在當中
+在當中的領導者
+但也有很多的挑戰
+像是
+在一段時間內
+差不多一世紀
+和
+在某些時候
+不同的地方的資源
+被迫不斷地
+在某些時候
+然後 新的領導器 新的領導器 新的領導器
+像是聯盟 新的領導器 要再再次重新改善
+所以 它會很簡單 整個社會都要改善
+然後 現在 全世界都要改善
+所以 我覺得 很多 本來的領導器 領導器
+當然是發生的 但是 如果每個人都想想
+如果想想 如果每個人都想想
+你會看到 人家的食物 東西在西方世界
+和 全世界的醫療 全世界的傳統
+那是因為 全世界的藥物
+所以我們不會想 回到 pre-industrial revolution
+但我們可能會想 前段時間
+學會了 這些地方 或 更多的 前段時間
+或 更多的 前段時間
+我們可能會要 因為
+這段時間的差異是
+可能會是10倍比生物的大
+可能會是10倍比生物的快
+所以會是1年多
+更多的1年多
+一件事Shane告訴我們
+是這個現代經濟系統
+你將你的資源交換成
+是否正確的
+它不一樣的方式
+在社會AGI
+你有沒有想像
+如何社會要重新重新重新
+或是會重新重新重新的方式
+我花了更多時間
+在Shane的主題上
+現在的經濟發展
+我們也會想想
+我們會想想看
+我們會準備的
+但是我認為社會
+需要花更多時間
+想想那些經濟
+社會的學生
+因為
+在和民主的歷史
+世界和民主的歷史
+和所有的改變
+從民主和民主的歷史
+和民主的歷史
+所以我不會驚訝如果我們需要新的經濟系統和新的模式
+去幫助這個改變
+譬如說 財富是非常大幅度的
+而可能是在世界基本的資金和其他方面的方式
+但是我認為這就是我們現在的模式
+因為這就是我們今天的作用
+但是我覺得有些東西會有更好的系統
+比如說有一個更像是一個社會的
+文化系統
+你可以選擇有一定的股份
+或者是一些東西你希望看到
+其實在社群網站上
+有很多錢
+你需要一個地區
+或是一個電子庫
+或是一個外國的學校
+然後你讓社群網站選擇
+對嗎
+然後你可能還可以測試
+and then the people that sort of consistently vote for the for things that end up being more well received.
+They have proportionally more influence for the next vote.
+So there's a lot of interesting things I hear.
+You know, economist friends of mine who are kind of brainstorming this,
+and I think that would be great if we had a lot more work on that.
+And then there's the philosophical side of it,
+so jobs will change, and other things like that.
+但是可能會有解決性的
+所以我們有這個相關的自由的能量
+我們是貪婚的
+所以我們會有什麼能力
+可能大家都會更好
+但是什麼會有所為的
+因為很多人會有所為
+他們的工作和家人的工作
+這是非常有優惠的
+所以有很多
+我想這些問題
+會由經濟問題
+到相當於心理問題
+你擔心人們不會被注意
+或是要動作快
+對
+會不會讓人知道
+我們需要國際合作
+我擔心了
+我希望
+在一個 ideal world
+有更多合作
+特別是國際合作
+更多的資料
+以及
+我猜的
+描述和討論
+這些問題
+我滿意
+沒有更多
+那 being discussed given the
+you know even our timelines
+which were
+there are some very short timelines
+out there but
+even ours are five to ten years
+which is not long for
+for institutions or things like that
+to be built to handle this
+and one of the worries I have is that
+the institutions that do exist
+they seem to be very fragmented
+and not very influential
+to the level that you would need
+so it may be that
+there aren't the right institutions
+to deal with this currently
+如果正 cleaning zoa political tensions that are going on
+in the moment around the world it seems like collaboration
+Claparation is hotter than ever just look at climate change
+and how hard it is to get any agreement
+or anything to do with that.
+So we'll see.
+I think if the stakes get higher and it's the
+systems get more powerful maybe this is one of the benefits
+of them being in products is you know every day person
+that's not working on this technology
+會感受到增加的能量
+和能量
+所以這會讓政府
+看到股票的價值
+進行接近AGI
+你認為這會給大家
+一場影響
+大家的注意力
+我不知道
+我希望不會
+很多主領的股票
+都很貴
+我們會嘗試
+做得最好
+這就是我們
+在我們年底
+追蹤我們
+我們做的事情
+不 gate everything right
+but we try to be as thoughtful and as
+scientific in our approach as possible
+um I think most of the major labs are
+trying to be responsible
+Also there's good commercial pressure
+actually to be responsible
+if you think about agents
+and you're renting an agent
+to another company, let's say to do something
+um the other company
+is going to want to know
+what the limits are and the boundaries are
+and the guardrails are on those agents
+you know in terms of what they might do
+and not just mess up the data
+資料和所有這些東西
+所以我覺得這很好的
+因為更多的
+卡拉布利的工作
+他們不會得到生產
+因為公司不會選擇他們
+所以我覺得
+這種貿易系統
+會很方便來去
+去擔任負責任的行動
+這很好的
+但是之後會有承諾
+可能是承諾國際
+可能是承諾公司
+可能是人們在上面的開放
+我不知道
+當然是很難停止的
+然後東西東西 might go wrong
+hopefully, it's just sort of medium sized
+and then that will be kind of a warning shot
+to humanity across the bow
+and then that might be the moment to kind of advocate for
+international standards or international cooperation
+or collaboration at least on some high level
+basic or kind of like what's the basic standards
+we would want and agree to
+希望能夠做到
+在長期以來
+所以在AGI和ASI
+《藝術超能力》
+你認為有些東西
+人們可以做的
+沒有辦法能夠擔任嗎
+我覺得這是一個問題
+我認為這與我最愛的問題
+是《巨星》的主題
+我經常覺得
+如果我們建立AGI
+然後用它作為一個想法
+然後再加上真正的想法
+我們會看見其分別
+以及可能有什麼特別的
+和其中的關於人類的心情
+可能是那種 creativity
+可能是感情
+可能是夢想
+有很多的
+意識
+有很多的
+有很多的
+有很多的
+有很多的
+或是不可能的
+這回答了
+《Turing Machine》的問題
+是什麼是限定《Turing Machine》
+我覺得這就是
+最重要的問題
+我的生活
+從我發生過
+《Turing Machine》的問題
+我真的非常愛這類型的情形
+我認為我們做的所有事情
+是將對於平衡器的解決性
+進行到達限制
+包括平衡的產品
+所以我並不確定
+有什麼限制
+可能沒有
+當然我的平衡器朋友
+會說有限制
+而且需要平衡器
+做平衡系統
+但是我真的不太確定
+我跟一些人談論了一些
+有關的資料
+可能是我們需要資料
+從這些資料系統
+以致我們要創造
+一個經典的 simulation
+然後這回到我的意味
+是否是經典的
+或是否有其他東西
+像 Roger Penrose 相信
+有經典的影響在腦裡
+如果有
+那是意味著想的
+那些機器也不會有
+至少是經典的機器
+我們要等待 quantum 機構
+如果沒有的話
+那可能沒有任何限制
+可能在世界中
+所有的機構都能夠在行動中
+如果你看到正式的方式
+所以 屬於機構
+可以能夠在世界中
+模擬所有的東西
+我現在 如果可以
+我可以猜到
+我會猜到的
+我會在那邊工作
+直至  physics
+會給我 否則
+所以 沒什麼可以做
+在這些行動中
+沒有人能夠在行動中
+沒有人在世界上找到任何東西
+那是無-機器
+這麼遠
+這麼遠
+對
+我覺得我們已經展示了
+我們可以在通常的
+規律學者
+P 或是MP
+看來
+什麼經濟系統可以做
+今天
+像是粉絲的動作
+然後等等
+所以
+我沒有想到
+誰知道那是什麼
+那是
+如果我們在哪裡
+我們會做什麼
+深刻的
+在Google
+我正在做的是
+找到那種限制
+但在限定的問題
+我們在這裡
+我們看到的像是
+像是蝸蝶在臉上
+我們看到的像是蝸蝶在臉上
+像是蝸蝶在臉上
+那些可能會是
+蝸蝶在臉上
+對 我認為最後
+我喜歡Cant的觀點
+我兩位都很喜歡Cant和Spinoza
+因為有不同的原因
+但Cant的實際性是
+是一個很大的建議
+所以對於這些東西
+你們都說的
+他們進入我們的感受
+他們感覺很不同
+對 光光
+光光 觸發
+但最後 他們是所有的資料
+我們是資料系統
+我認為這是我們在做的
+我們在做的藝術
+我認為我們會處於
+所有的病毒
+是在想資料系統
+作為資料系統
+我認為在最後
+我 work on my spare time my 2 minutes of spare time
+Physics theories about things like information being
+The most fundamental unit, should we say, of the universe
+Not energy, not matter, but information
+So, maybe that these are all interchangeable in the end
+But we just sense it, we feel it in a different way
+But as far as we know, all these amazing sensors that we have
+They're still computable by a Turing machine
+But this is why you simulated worlds that's so important
+對 沒錯
+因為這就是我們可以解決的一種方法
+我們可以在某些方式中針對它
+因為如果可以解釋它
+在某些方式中針對它
+我想結束一些個人的想法
+是什麼是想要在這個前面
+我覺得
+這個情緒的感覺
+是你經常這樣做的
+你經常這樣做嗎
+對
+我睡得不太晚
+因為太多工作
+但也有空間睡著
+對我們來說,我們是非常有 complex emotions to deal with
+因為我們是非常有趣的
+我們在所有的前面都很有夢想
+我們在各種各樣的前面
+我們在很多的方式
+我們在各種各樣的前面
+也在各種各樣的機制中
+我們都知道我們是所有的學者
+我們都知道我們是所有的學者
+我們在前面
+我們在前面
+我們在前面
+我們在前面
+我們都知道我們是有一個
+一個很長的一段時間
+我們都知道我們是有一個
+我們, 像Shane 和我 也有做過這件事
+我們明白了更多的
+有些人的意義, 什麼的正在發生
+這件事, 仍然是很感謝
+其實, 什麼會發生
+在10年多的時間
+包括, 像是
+什麼意思是人, 什麼重要
+這些問題 會發生
+所以, 這是一個很大的貢獻
+但是我們有一個很棒的團隊在想這些事情
+但也算是一個我自己的想法
+我都已經訓練了我的整個生活
+所以我從我的早日玩測試
+然後在工作的遊戲 遊戲 測試 測試
+都已經是這個狀況
+所以這就是我以為會成為的
+所以這就是我和它合作的訓練
+有哪些部分你期待的工作?
+對,當然
+例如,在《阿弗》的遊戲中
+我們看到的那種
+我們能夠去到的
+但去到的就是這個美麗的故事
+然後它變成了
+所以那些是很有趣的
+還有很甜蜜的
+我覺得更多的
+一些東西
+例如語言
+然後畫面
+你知道,那是什麼意思
+我對於創作的
+我對於創作的
+我對於創作的藝術和創作的努力
+以及我對於創作的創作的創作的努力
+是一個很有趣的一刻
+他們也有這些很棒的技術
+他們的想法是在10X上
+但另一邊
+他們是否有些創作技術
+所以我覺得
+這些技術的影響
+都在於
+我覺得這一點是不可適合
+我們是在過去的電力和網路上的技術
+我們看到這就是人類的故事
+我們是在做動物的
+我們也想做的
+我們也有個心理
+能夠理解和做 science
+這也是很厲害的
+但也很不自然的
+我覺得這就是人類的心理
+我認為我剛才有說過
+我的表現是想要建立AI
+你和另一位AI領域在一起
+你們的感覺是否有一個獨有的感覺
+這是一群人都會知道
+他們的表現
+還是會保持對方的體力
+我們都會知道
+我跟他們一起玩
+有些人都不會跟他們一起玩
+因為我們在最強烈的
+貿易性的比賽中
+有多麼的強烈
+你也知道
+朋友的我
+還有VC的朋友
+在社交平台中
+說這個比賽中
+10X更強烈
+更強烈
+就是這樣
+我非常喜歡這個
+我住在公園
+我一直很喜歡這個
+因為我的胸肌
+但走回
+我明白
+我希望大家明白
+因為有更大的問題在生產
+就是公司、成員
+這種類型的問題
+接下來的年齡
+你認為這個問題
+會有更大的問題
+你覺得最大潛力
+我認為現在的系統
+我稱之為
+潛力系統
+你把能力放進去
+作為使用
+問題
+任何任務
+然後
+這些系統
+可以給你
+一些解釋
+或解釋
+所以很少人是人生的導致
+人生的能量
+人生的想法
+接下來的步驟是
+我們現在看到的
+但是他們很優秀
+接下來的幾個年
+我們會看到一些
+很重要的東西
+我認為他們會很豐富
+很能用的
+但他們也會更加自然
+所以我認為
+他們的危險也會有
+這些系統
+所以我比較擔心
+這些系統會做到
+可能兩、三年
+所以我們在職業防禦
+準備了一個世界
+讓有很多的職業
+在網上擔心
+你最想要的
+是當你能夠回到家裡
+知道你的工作完成了
+還是有更多的
+life time is worth of work left to do
+Yeah, I always, well I could definitely do with sabbatical
+Spend it, just a week off
+even a day would be good
+But look, I think my mission is always been to get to kind of help
+the world steward AGI to safely over the line for all of humanity.
+so I didn't when we get to that point.
+Of course, there's then there's super intelligence and there's post AGI
+and there's all the economic stuff we were discussing and societal stuff
+可能我可以幫助他
+但我認為這會是我的活動
+如果我只能做一個小工作
+就讓他在線上幫助世界上
+我認為這會需要一種合作
+像我們說的
+我也是一個合作的人
+希望我能幫助他
+從我身上的位置
+然後你會有一個項目
+然後我會有
+對 沒錯
+我們也學習了 sabbatical
+don't miss thank you so much
+謝謝
