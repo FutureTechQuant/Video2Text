@@ -1,0 +1,540 @@
+我從2021年來已經進入了深入的基礎學院
+已經看起來很不一樣了
+你還沒有把自己的檔案放進去
+他們已經放進去
+他們已經放進去
+你沒有需要他們了嗎?
+沒有,我們有整個學院在開放
+他們更能夠在意?
+對,我們現在的模式更加重視觀
+所以我們不太關注到光亮或背景
+所以在視觀的部分,大部分是更加解決的
+大改变
+大改变,对
+他们有几个大改变在组织过几年
+我们很期待他们的演出
+对,可能只有四年
+但基本上是空间的时间
+对,组织变化很不同
+比之前的比较不同
+那是什么大改变?
+大型的模特,大型的模特
+对,我们想组织变化为一般
+为人的使用
+这些组织变化必须理解
+组织变化为一般的概念
+大改变在组织过几年
+我們在上面的其他大型模式
+這些大型語言模式
+他們也有很好的理解
+我們在世界各地的東西
+所以我們在上面的
+我們看到了很大的改變
+他們的將來
+像新的電影、新的視頻、新的導演
+所以對於這個模式
+是更大型的
+就是幾年前
+所以我看Karolina早前在這年
+她說了
+沒有只是
+語言模式
+去看電影
+但也要計劃行動的進行
+對,所以我們基本上是用這些東西叫VLAs
+Vision Language and Action Models
+我們用的這些行動
+是一個 physical action
+用的 robot is doing in the world
+用它們在同一層的規定
+就是Vision and the language tokens
+所以現在這些模式可以
+模擬這些類型
+然後想想,如果有新的情況
+那就是新的類型的行動
+所以我們叫做 Action Generalization
+甚至這個我們看到
+有很多的改善,
+在前一年,
+我們看到一些更短暫的東西,
+例如,選擇了一些東西,
+或是用來擺放一個包裝,
+但真的要用來擺放人,
+我們想要長期擺放東西,
+我們現在有一個大型的,
+可以擺放一些小型的東西,
+讓它變成一個長期擺放的東西,
+像是,你想要擺放你的包裝,
+像是,在倫敦,
+你需要先看看風格在倫敦,
+所以這個大型可以檢查風格,
+選擇你所想的東西,
+然後再擺放你的包裝,
+所以它像有這個基本的設計
+那種基本模式
+然後你會在上面、上面、上面、上面
+到時候你能有關於
+做一個很長的項目
+對 而且它會更好用
+因為你不想那種項目
+你真的想做的是
+整個東西
+所以這個項目
+真的帶來那種
+整個性能的
+這是1.5
+對
+我們有兩種能量
+1.5是經營 component
+然後我們有思考 component
+think is a word that's been used a lot
+So, for robotics purposes here
+What we're trying to do is
+we're tangible about
+think about the action
+that it's about to take, before it takes it
+So it will output
+its thoughts
+.And then it will take the action
+and just this act of
+upputting its thoughts
+makes it more general and more va-formant
+because we're kind of forcing it
+to think about what it's gonna do
+before it does it
+because you see this in language models
+right?
+Like take a deep breath of answering
+or the chain of thought
+但是它是一樣的
+是同一個規定
+我們在提供動物和動物的動物
+不是這樣奇怪嗎
+像這些生物的動物
+都很奇怪
+對動物來說
+基本的動物是很難的
+所以我們會做這些動物
+很自然的
+不想它
+但是動物很難
+所以在想動物的動物
+之前的動物
+它真的幫助動物
+好 當然我想看
+我們可以看一看嗎
+So let's take a look at the aloha robots here and here
+It's gonna pack us a lunch, With some very dexterous moves
+And it'll do like a long horizon task
+Amazing
+Thank you
+So this is gonna pack a lunch box
+And this is one of our most difficult tasks
+Because it needs to be like a millimeter level precision
+of grabbing the ziplock in the correct way
+And then like it'll try to get the bread in the tiny spot
+And is this all visual serving
+Oh my gosh
+我好惹人
+我 mean
+Susie has said the word impress
+it started flailing slightly
+but
+and did it correct itself
+it'll keep trying
+hey, hello, I mean
+you got lots of cameras pointing at you
+I understand
+something to stand the stress
+the first time I went into
+deep mind robotics lab
+was maybe 2017 or so
+and at that point
+they had
+you know the big Lego
+for toddlers
+all they were trying to do
+Sack blocks
+Sack blocks
+Honestly
+The pile of discarded broken Lego
+in the corner was illustrative
+just how difficult
+But this
+I mean this idea of like
+millimeter precision for the bag
+Wow, look at that
+Nice, okay
+No way
+I'm so impressed
+Go on give it another go
+We want to see the bread and the ziplog
+I'll try to do the
+Okay
+Oh that is so
+所以,差不多差不多差不多
+哇!
+- 超棒! 超棒!
+- 超棒!
+- 因为太厉害了,你不会能够封住它
+- 而且太软了
+- 还有更多东西
+- 我觉得这很简单
+- 这就是巧克力
+- 现在是绿色的,会不会...
+- 绿色的
+- 噢!
+- 绿色的绿色的,一定是绿色的
+- 这真的太厉害了
+- 这就是独特的动作
+就像是如何才能得到的
+OK,所以
+然後就要試試關閉它
+所以就要學習從資料來做
+所以就要從中到尾
+但是就是從中到尾,對嗎
+這是就是
+視頻和動作
+什麼樣的資料是從學習的
+你不一定會做到
+我們來看看
+什麼樣的資料你會給
+所以這是 based on
+讓 robot 試很多東西
+還是你在描述
+所以我們將把動物進行動物室
+進行動物室的任務
+然後我們將它學會到那些資訊
+所以它可以給你一些來動物
+你來示範一下
+這是對它來講嗎
+對
+我看到
+好
+對
+我還想給你一個5元
+但你的手還沒用
+沒錯
+好 所以我們看到的
+我們來看另一個動物
+我們會展示
+依照動物依照動物室的能力
+我們討論了如何VLMs
+我們的經常會理解
+所以我們現在會看到那些在動動的
+因為那是一個目標
+我們會再次再次再次
+這裡是關於動動的
+這裡是關於動動的
+好
+所以Colene在這裡會展示我們
+動動可以做到更加的動動
+所以我們有動動
+經常會經常通過動動的
+所以可以跟動動的物件相關
+然後我們可以說話
+因為我們有動動的領域
+所以譬如說
+你能不能把紅色的部分放進紅色的圈子
+我能把紅色的部分放進紅色的圈子
+他在笑 while it does it
+如果你想問他要做什麼
+就把麥克風推開
+對
+你可以放紅色的布
+但用白色的布
+好
+我沒有必要表現
+動作的角色
+但我可以放紅色的布
+放在紅色的布
+好
+我現在放紅色的布
+放在紅色的布
+OK,那是好
+如果這個完全是一般的
+OK,我會有一個 stress ball
+OK
+我會去旅行
+我從來沒有看過
+對,從來沒有
+如果我看過
+那是一棵,對嗎
+對,這就是小的 裡面的 開箱
+OK,我們試試
+開箱的綠色
+我開始開箱的綠色
+喔! 會很難
+那是很難的, 還要小一點
+好
+好棒
+放在紅色的蓋子裡
+我正在放在紅色的蓋子裡
+好難
+好棒
+好棒
+我希望能成功
+好酷
+好
+好
+放在鍋裡放下紅棉花
+對
+對
+好
+太厲害了
+你知道嗎
+看起來像一個嬰兒
+我真的感覺到那種
+這真是好
+這真是好
+從沒這樣做過
+對 這樣
+我從沒看過
+這是一種 stress ball
+對 它是一種開頭的
+所以現在我們可以
+我們可以把這幾個短短的短短成長的短短
+而它可以更多的更好
+因為短短的短短可以只能做部分
+但如果可以把它短短成長短的短短
+我們可以做更多的更好
+所以,除了說,例如說,
+例如說,例如說,例如說,例如說
+你可以說,例如說
+你可以問問一些高級的東西
+然後,一個音樂圈
+或是,把那些東西放下
+小小的音樂圈
+然後,它會做整個東西
+讓你去到最後
+我們可以看到那樣
+好
+我在新加坡
+我沒有想過關於鎖上的蚊子
+你可以來看看我嗎?
+然後再提提
+在新加坡
+你需要分離你的蚊子
+三個類別
+蚊子、蜊子和蚊子
+每個都用自己的蚊子
+好
+對…
+現在我會把蚊子放進黑色蚊子
+好
+所以它是關於…
+對,關於蚊子
+那些人可以組織更多的行動
+對 更多的行動
+所以在於建築的方式
+如何運作這個方式
+你會有一個分別的系統
+在上面的設計
+對 兩系統
+一是ER模式
+比較有理由的
+那是另一個模式
+就是VLA
+就是 physical actions
+所以這兩個都要組織
+做這些長期行動的行動
+所以VLA是
+Vision Language Action Model
+然後ER Model是
+VLM
+就是Vision Language Model
+我們要更好做這些任務
+對 做的原因
+對
+如果我們想做全世界的影像未來
+你不想只要雙手
+你需要全人物
+你需要全人物的電腦
+我們去看看電腦的電腦
+好 請問
+我們有一個動物
+會帶來的電腦
+它會放著黑色的褲子
+還有白色的褲子
+這是Stephanie和Michael
+在電腦上展示的
+對
+最好的是
+可以看動物的想法
+做到它
+然後你會看到
+這是我們想法的表現
+它會想法的 再發揮
+你會有心情的
+對 它會想法的
+所以這是每次發揮的
+對
+我給你
+你想把更多的衣服放進去
+完全
+讓我試試看
+讓我試試看
+那邊有一個紅色的
+那邊有一個紅色的
+那邊有一個白色的
+謝謝
+你會有一個系統
+坐在上面
+做這些決定的
+怎麼做 因為是一個內容
+這是一個表現
+對
+他在想和演繹的同一模式
+沒有困難
+所以很像陸近的
+OK
+紅色 紅色
+底部的黑色
+紅色 黑色 黑色
+漂亮 真棒
+漂亮
+我應該會把這個洗衣洗得更好
+對
+你也要洗吧
+給我一塊紅色
+沒時間
+好 如果這是最後的
+你怎麼把這資料拿出來
+只是在外出的動作
+所以美麗的動作是
+在外出的動作
+在想和動作
+想想看 how Gemini Outputs is thinking before Outputs
+the response to the user.
+This is doing kind of something similar.
+Oh yeah.
+No, it's actually truly exciting.
+Really?
+It's a different way of doing robotics
+that I feel like is really exciting to us.
+Yeah.
+All right, so here we have the robot.
+Let me showcase his generalization capabilities.
+And this is Keelthana,
+one of the researchers working on it.
+So let's just see what he can pick up
+and maybe he can pick something
+and put it in one of these things.
+I might be plant in the basket.
+Also, all these objects are not seen
+在電腦上拍攝
+對,所以他們完全新
+很多會拍攝像昨天
+哦,真的嗎?
+對,我們要把東西都拍攝
+這是如何電腦能處理新的物件
+這種東西從沒見過
+好
+做吧
+那是很可怕的,對嗎?
+對,是像...
+轉向前
+哦,OK
+好
+好,就這樣
+對,我們做了
+你做了
+好 下一個
+我喜歡
+我喜歡Daritos的吃法
+你可以動它
+就像它在做
+可以看到
+剪刀
+對 剪刀
+好
+我希望你們會喜歡吃這些
+就是
+好棒
+好 它還要稍微
+它不一定是100%的時間
+但是你能看到它是
+正正的路
+我覺得這是非常不同的
+從來沒有進入過這類的學習
+對,你可以看到
+我們在做的動作的目標
+是我們在做的東西
+你覺得
+你現在的東西
+不會被扣除
+或是用來刷新的技術
+還是你覺得
+你建立了一些
+基本的地區
+對,我覺得
+這些基本地區
+會引起
+最後的圖像
+就是這類的
+所以我們就要
+建立在上面
+在那種地區
+你認為它需要
+另一種環境
+我們需要別的建築
+你認為我們已經有足夠的資料
+我們需要至少一個更大的 breakthrough
+現在這些機器需要很多資料
+去學習這些技術
+所以我們需要一個 breakthrough
+讓他們能夠學習更多資料
+你認為這是唯有限定的因素
+你認為如果你有
+有更多的資料
+有更多的資料
+你會做到的
+文化模式或文化模式
+你認為這會被鎖定嗎
+這是一個主要的方式
+如果你可以選擇那麼多機器
+但如果我們有時間,我們就可以把它包裝
+但還有很長的問題
+我們都要保持安全
+我們要優先地學習
+所以我們還有很多挑戰
+但最重要的問題是
+我們需要做一些實際的進步
+做一些實際的進步
+我們需要做一些實際的進步
+我們不太大力
+所以我們現在還要
+做一些實際的進步
+但是我們需要很多的進步
+我們需要很多的進步
+我們應該能夠學會這一點
+並且能夠增加能力的 robot 能力
+這很不均勁
+像在解決 robot 和 經常的行動
+是一個很不均勁的問題
+對 完全開放的
+對
+這種事情你可能會問我
+我超級驚訝
+我的天
+有時候這些 robot 會有點偷偷
+有時候他們會有點困難
+但你必須要記住
+這個想法是
+有一個 robot 能夠
+能夠理解瞬間的理解
+能夠有一個真實的觀察
+能夠理解到有關的任務
+這是完全不可思議的
+只是幾年前
+好,那還可以有一點方式
+但在這段時間的進步
+我們真的有限於
+我們有的資料
+在世界上的實際上
+但是解決了
+去過這個障礙
+我並不認為你會
+看著動物的新發展
+我們可以在這裏作出
+一種真正的 robot revolution
