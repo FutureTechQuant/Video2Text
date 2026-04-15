@@ -1,0 +1,1848 @@
+Thank you very much Chris.
+Good evening.
+It always gives me tremendous pleasure to walk the 20 meters from behind that wall down here
+and share with you some of the latest things that have been going on in the London Institute of Medical Sciences.
+Now let me find my clicker first.
+Let's see if this works.
+Firaday induction.
+Now it feels like these days I meet somebody in a pub or at a party.
+我打算跟学生说话
+我跟学生说话
+原来
+学生说话是
+你觉得什么是AI
+你告诉学生
+你跟学生说话
+你觉得什么是AI
+现在我告诉人
+我跟学生说话
+他们问
+什么是最后一条
+什么是广东纳纳
+如果我告诉他们
+当然我工作
+如果我告诉他们
+你工作在旅行
+那结束了
+再次说话
+你没有说过
+但是这些天
+它是全是AI
+现在
+只能有2種人來見
+在1種 extreme
+你會看到人們說
+大哥
+這個人的 singularity 正在發生
+AI 會把我們的工作拿走
+然後殺我們
+在另一個 extreme
+你會看到人們說
+這是什麼
+這是像
+完全無限
+有點像在筆記
+可能有一點點力量
+現在什麼都可以
+所以今天讀書的部分
+我希望能讓你詢問一下
+《AI》的學生
+讓你讓你詢問
+在這條路上你會做的
+當然 都是一樣的
+沒有任何問題
+但是在你喜歡做的
+我會讓你詢問
+我從事《AI》的學生
+但是我非常幸運
+是一位人士
+把AI進入了
+科學和學生
+八年代
+這已經是
+一種發展和發展的
+AI從事Math
+是非常重要的
+我們現在是
+百多個學生
+只有百多個科學
+我們都相信
+AI現在是
+正在發展的
+而我们谈谈
+要改变
+最佳的自然
+组织的码册
+确实有一个
+自然的码册
+由我们的导师
+Thomas Fink 过来
+叫做
+AI 要改变
+组织的码册
+要建立码册
+在非常大的基础
+所以
+因为
+码册的数量
+是这样的
+AI 很好
+所以我希望你能知道
+是什麼是科技資料
+所以我現在是科技
+我需要解釋
+什麼是藝術技術
+什麼是AI
+現在這個問題
+是非常難得的
+我還不可以給你答案
+我們有一個
+很棒的教授
+Jeffrey Hinton
+在這裡幾個月前
+給你
+他給了我一個價錢
+所以我只要聽到他解釋
+我會給你一些考慮
+什麼是AI
+我最好是能夠
+做到的
+我可以告訴你
+第一次發生的事
+Joe McCarthy
+是學生
+在美國的大學
+大學
+1955年
+他和很多人一起
+我現在知道
+這是什麼
+這就是學生的
+是全是大型的
+这些人在写大型的
+这些人叫做大型的
+他们想起来的
+1950年就是
+最初的大型研究
+他们想想
+如何淹没人的心理
+他们想起
+我们需要一个
+比研究更加冷静
+更加冷静
+所以
+穆卡丽和霍博
+Maccardian came up with was artificial intelligence
+In fact, McCarthy wanted to be a computational intelligence
+But that wasn't cool enough
+So he just invented this word artificial intelligence
+And the word got stuck
+And that's the first time in print
+That the word artificial intelligence in 1955
+Interesting, right?
+So here is at least my best attempt to explain
+To a mathematician like myself
+What is AI?
+OK I promised there won't be too many questions
+but I gotta have a couple, just for fun
+So the basic mantra goes as follows
+connectivism leads to emergence
+and I'm absolutely sure that meant absolutely nothing to you
+OK, now let me explain what that means
+Traditionally, what do we do as mathematicians?
+We got functions and mappings
+that take certain input
+and we try to give some kind of an output
+If you think about what that is
+modeling the world
+whether it's the real world around us
+or universes and mathematicians make up in their minds
+in some sense it's about how to take inputs to outputs
+where some new
+you know, here's a function that takes this value to this and so on so forth
+now you can imagine
+playing around with simple functions
+and I won't even bore you with the details of such functions
+is not going to get you very far
+you know, if you want to predict the weather
+it's very unlikely that's going to be a single function
+不管如何是複雜的
+不一定是一堆學生
+不一定是一堆
+或更多複雜的
+功能的功能
+所以在1950年代
+人們在想
+如果我只能有一個功能
+但整個網絡都
+都被拋在一起
+每一個這些
+這些拋鑑
+都是一個這個功能
+所以我把他們連接
+所以這句話變成了
+連接的功能
+onparally this buzzword completely fell out of fashion by the 1980s
+because it was just too long
+so
+and now what we have here is what's traditionally called a neural network
+I think professor Hinton define this very well
+so a neural network it will all it is
+it sounds mysterious
+is mathematicians and computer scientist
+and physicists and engineers
+trying to imitate the human brain
+in linking together activation functions
+to get something much more complicated
+现在,我认为这种认为很好的解释
+是,在任何的技术性,在某些程度上,
+例如,在许多的文化模式上,
+这种形式会有这种运动,
+有某种形式的纽纳网组,
+例如,在许多的文化模式上,
+有一个特别的形式,
+就是纽纳网组。
+这就是这种形式,
+所以,我希望你能有最少的工作,
+而不是与任何的经常技术
+而是它们的解释
+是什么的
+培访性的技术
+是一个什么
+这种的建议
+这种建议
+能确定
+带来一个
+达到运动的
+因素
+和为之的
+进行的
+是一个设计
+所以我预议
+研究的下一个项目
+你準備好了嗎
+The next slide is purely to scare you
+They are called universal approximation terms
+Now if I read this out
+It will take the rest of the lectures
+I won't read them out
+But this is just to show that
+There is an entire field of mathematics
+For artificial intelligence
+That works on proving theorems
+The structures of such a type
+Can indeed imitate anything
+So that's the take home message
+If as long as it's complicated enough
+Modernist in the audience, you can admire all of this L2 convergence and whatnot
+have a field day with that.
+So here are some of the key moments in AI, right?
+If you think about this imitation of the human neural network
+to try to model anything.
+Okay.
+This is not by the way, this is not all of the key moments, obviously,
+but here's someone that I particularly strike it.
+所以我認為它在某種意義上
+它在彼此至少是用來作為彼此的彼此
+彼此在1617年
+有了這個叫做彼此的彼此
+我覺得它叫做維吾爾特馬桶
+這個叫做彼此的彼此
+我們可以使人們
+用來創造彼此的彼此
+1617年
+這很厲害
+這就是彼此
+他是個很棒的男人
+然后把1842年级放在为发展中的老九
+他将成为首帝在互联系的老九
+我相信他在外国生活里
+因为他是乃华人家的女主角
+Byrone 和 Humphrey Davy 朋友
+所以她是為了幫助
+Charles Babbage 作出的
+新的 新的 新的 新的 新的 新的
+她是第一名 新的 新的 新的 新的
+我沒有想到 新的 新的 新的
+但想起了 新的 新的
+新的 新的 新的 新的 新的 新的
+有很多的 新的 新的
+那是我的 新的 新的 新的
+但是她說了一句 新的 新的 新的 新的
+是這個 新的 新的 新的
+她說 新的 新的 新的
+一天可能
+作为一种级运作
+和科学的音乐
+有任何级运作的
+这种说法是1842年代的美丽
+这种说法
+是在你身上
+有什么意义的
+可以做的
+在1949年
+科学研究生
+和科学研究生
+阿伦特尔尔尔
+他不叫做Turrent Test
+我們叫做Turrent Test
+是他後面的
+這個Test
+基本上是
+你把黑色的畫面
+你把他畫面
+你把他畫面
+後面的畫面
+是人或是機器
+這個人
+是否能告訴
+人或機器
+你不能告訴
+人或機器
+你不能告訴
+人或機器
+你不能告訴
+人或機器
+這就是
+最有趣的
+Test
+現實的
+Modern computing that you could ever think of
+at the point, you know, in 1949
+This was like, oh my goodness, this is way beyond what we're capable of doing
+OK, just bear that in mind, turning, test, 1949
+OK, moving on, 1956, the Dartmouth Conference
+where the word artificial intelligence first came about
+because they needed money for grants
+money for grants, big idea
+anybody wants to give money to my research,please
+短短之后
+词字是《Poseptron》
+现在
+你可以说
+这是一句词来自1950
+因为它结束在《Tron》
+像其他词在1950
+《Poseptron》是一个
+非常棒的东西
+让人想起
+《Posepon》的
+细节可能性
+在1956年
+这些人在
+我认为PEN-MIT
+他们有一个整个楼
+像这个大
+CADMium Sulfide Photoreceptors
+不知道它是什么
+叫做一种化学
+他们展示了
+光芒
+在这一种联系的
+CADMium Sulfide Photoreceptors
+来试探
+用来护复
+他们叫那种
+PoSeptron
+那是
+那是
+那是
+最初的
+Modern Artificial Network
+ok
+then
+the field kinda got stuck up a little bit
+because, you know, people were
+people were busy finding cold wars
+and landing people on the moon
+and then until the 1980s
+where these gentlemen came up with
+with a theoretical basis
+of concrete ideas of the Modern Artificial Network
+and of course they both got the Nobel Prize
+so that's why they're very happy
+and we indeed were very very honored
+要有教授的教授 here
+right here giving you
+those who were here
+this lecture
+and we was a beautiful lecture
+you gave here about what AI is
+ok moving on
+in 97
+IBMs deblu
+beat humans in chess
+so I was young back then
+and at that point
+I stopped being interested in chess
+so this is completely
+A stereotypical mathematicians
+I have zero interest in chess
+precisely because it's solved
+the kind of life for our mathematician
+它就不想再提醒了
+然後再進行
+GO was a much more complicated game than chess
+那一開始就不可能解決了任何的AI
+DeepMind broke that
+誇張了所有人
+在2012年那時候就解決了GO
+其實我們有幾個DeepMind的朋友
+我相信我朋友Bavik在那裡
+我们也有一起过
+Torque & Payle
+是我们的首帝
+我认为是在哪里
+所以你看到
+四年代的导演
+尤其是
+第一场的最初
+二十年代的
+和二十年代的
+是真的
+现在我们在这儿
+我们没有想到
+这种发展是怎么发展的
+所以这就是我们在哪里
+我们在这里
+我可以告诉你
+我们在哪里
+我叫 Prof. Hinton
+但是在这里,我希望你会有个理解
+第二个定义
+我会开始说定义
+词,词,我会在这里
+这是什么?
+这个谈论是关于技术的
+这其实是比较简单的问题
+我会有比较好的答案
+这是什么?
+我认为最好的定义是
+是《大神的大神》的作品
+如果您沒有看《大神的大神》
+您可以看《大神的大神》
+是一部最大的電影
+是一部最大的電影
+Jeffrey Hardy是一部最大的電影
+在20th年代
+他給了這個定義
+是个学者 或者是一个文化
+是一个学者 或者是一个学者的团体
+我觉得这是最完美的词
+学者是一个自然的语言
+适合学习的团体
+这就是我们的做法
+SAMS 和团体 团体 和较大
+这就是我们的做法
+我给你解决了什么是AI
+是一个什么是团体
+我给你解决了什么是学者
+就是说法
+现在当我年轻时
+加 a little more philosophical
+因为我们认为
+其他学术
+我们怎么对得起它
+要是为了比较有趣
+我们怎么对得起它
+所以我By Nature
+是上年所或者的
+报觉
+究竟这种全世界的
+技術和学术
+和学术
+和虚拟文化
+让我感觉到
+我们怎么做研究
+这一段会提到
+这三个方法
+我会来解释
+一种方法
+上下 下下 和研究
+如何AI能充分地改改
+这三个方法
+我们在研究上做研究
+那么我们准备
+一种计划
+现在,你能问我
+我怎么能进入这个整体的世界
+我已经有两个谈论,一是
+有一个是较大学,一是学习
+这是我的肺炎和肺胖
+我怎么能进入呢
+为什么我会为了学习
+從COSERA 學校 學校 學校 學校
+答案其實很簡單
+2017年我兒子出生了
+這也就 means
+我小時候有個美女兒
+和一個小孩
+這也代表
+我還在睡覺
+我還在離開
+你也不會睡覺了
+3時你會問我
+我會做什麼
+我會做什麼
+我會學習
+And as one does, right?
+What's interesting, right?
+I work in this field called mathematical physics
+that's between string theory and algebra geometry.
+So what I had in particular were databases of shapes
+called club yamana faults.
+Databases that sense of thousands, hundreds of thousands.
+I had it on my laptop.
+I wasn't sleeping at 3am.
+我问为什么不把这些计划
+叫做《卡比亚》的调查
+而是用计划的计划
+这些语言不代表什么
+但是我一直在做
+很非常困难的研究研究
+我发现了一堆计划
+然后我发现了一个新的网站
+我问我这次不会做
+这次是3点
+我很疲累
+而《紐約網路》很快地變成了
+一個迷信的方式
+我預計了這套法律的方式
+沒有任何知識的學生
+我明明沒有想到什麼會發生
+然後我嘗試分享
+社會的發生性
+所以謝謝我的兒子和兒子
+我寫了這篇文章
+2017年
+叫做
+《機能學》的《雙方的空間》
+這是第一張
+《雙方的空間》的第一張
+現在
+有趣
+所以這就是我從這個空間裡
+有趣
+我從那時候
+我曾經從《雙方的空間》
+寫了一本書
+《雙方的空間》的
+《雙方的空間》的
+《雙方的空間》的
+《雙方的空間》的
+所以
+原本的名字
+是《雙方的空間》的
+《雙方的空間》的
+《雙方的空間》的
+《雙方的空間》的
+但是因為我正在
+我一開始也在想
+如何學習自己
+自己的技術
+自己的機器學習
+我再次加上
+最好的方式是學習
+是寫著文字
+很快地
+成為了第一文字
+在文字上的文字
+有很多東西
+文字上的文字
+有很多東西
+在文字上的文字
+你懂 學術 學術
+那是年代的
+對嗎
+但以 pure math
+那是有點瘋狂的事
+所以我寫了這本書
+請買這本書
+所以我可以獲得
+50lb. royalties per year
+所以我...
+學術公司真的太誇張了
+但...
+至少我獲得50lb.
+所以我沒有賣我的剪刀
+在你寫的
+請買這本書
+那是一年後的
+它是第一个评论的
+叫做《机构学》
+《无法运动》
+《学术学》
+这一项是
+《世界中心》
+我非常高兴
+我和朋友在这里
+做这个
+所以请大家买这一项
+我可以拿到50元
+我可以拿到100元
+然后再买两个肌肉
+所以
+这就是我从来都做的
+我们回到
+我说
+我们要做三个
+方法
+在哪里学习
+其实是做的
+不是学习
+是学习的方法
+但是我们要学习
+就像我一般的学生
+我来开始吧
+打扰吧
+那些人知道我
+我没有可能
+跟他说话在任何地方
+没有向他表达
+他就是他父亲的父亲
+所以
+与他在他的13个中文
+在300年代
+很棒的东西
+基本上
+就开始了
+我们现在的学生
+他写的文章
+很漂亮
+这是一个很久的
+Latin translation from the 16th century
+He gave us the idea that mathematics can be built bottom up
+So you have axioms, you define your first axiom
+What is a point?
+Your second axiom between any two points on a plane
+In a plane you can do it on etc.
+And then you can build up hundreds and thousands of more interesting sentences
+Right?
+This is a beautiful example of axiomatic bottom up mathematics
+building up from foundation up
+ok
+so this goes back to Euclid
+you think that you know what
+certainly this is how mathematicians do mathematics
+right
+certainly this one that's
+that's
+there's no dispute there
+the 20th century answer to this
+is very very interesting
+right
+that was 300 bc
+in 1910
+this remarkable book was published by
+a collaboration of Russell and Whitehead
+Principia matematica
+有些名字是Britz的名字
+Principia matematica
+這本書有其中一件事
+Newton的名字
+Principia matematica filosofia naturalis
+《The Mathematical Principles of Natural Philosophy》
+在香港發表的《Nature Philosophy》
+這本書就是
+《The Principles of Mathematica》
+這本書是非常奇怪的
+因為
+這本書試著把全英文的基礎
+從歐克勒起到...
+至少那是計劃的
+他們沒有寫過大約的計劃
+因為在巴西大學
+巴西大學是一個很大的學生
+所以要從20世紀的方向
+在2000年以來的學生
+建立了一堆文章
+我試著讀這本書
+作為一個學生
+很快就我倒退了
+我好像像一个狗
+因为
+我会帮你解释一下
+我觉得没有人在这本书里导致过
+哈哈哈哈
+因为
+在纪念362
+的 volume 1
+的项目 像这样的
+终于证明了
+1 plus 1 is equal to 2
+我希望你不过
+我只想像一個小孩在我身邊看著一隻狗
+有一個圖書
+我還沒有說過
+圖書說
+這個說法
+是用來證明的
+所以
+這些人做的東西
+非常非常非常有趣
+他們建立了
+從文字看起來
+從設計中的定義
+362個字後
+他們能夠得到這個
+這完全是好
+我没有认识过任何人
+我只是感动
+当然我认识了计算
+但这就是原因
+我没有进入计算
+我进入了《老实课》
+有一个原因
+在我的怂怒和怀疑
+作为一个学生
+我说
+这本文章不适合人
+我现在想回来
+就说
+其实这本文章
+是一个挺好的评论
+这本文章不适合人
+这本文章是最好的评论
+for machines
+And
+before we get there
+So I'm advertising the next next slide
+which is obviously there will be machines
+This has been in the internet machines
+Now you can imagine this
+1910 first publication
+We're going to keep on going
+Until page 5 million
+Where they'll get to maybe Pythagoras theorem
+And then that program was killed in 20 years
+This is extraordinary
+20年代,格魏,教授和承認
+尤其是格魏的名字
+在《1.1.決定》中寫了
+格魏的整個程度
+以極度的學生
+從樓下的學生
+為了展示一個非常彩繪的事件
+而這件事
+就變成了格魏的完整理念
+這件事
+基本上
+在任何的理由
+或任何的選擇
+有時會有經常的說明
+而實際的價格不可以決定
+無論是否可以證實
+所以這完全是
+把這個類似的東西殺掉
+把這兩千元的想法
+再把這兩千元的想法
+我會重新重新重新重新
+所以
+教堂和教堂持續地
+展示了特別的
+比例像教堂的機器
+有些事情是不公平的
+所以在某些程度上你能想像到
+這可能是
+一個關於AI的限制
+所以就先把這話說一會
+OK,所以
+Girdle, Church and Turing
+殺了這部影片的《Principia Mathematica》
+但那些不停地停止公共科學
+所以1956
+就在那間大學中的大學中
+開始的藝術經驗
+這些人
+他們想寫這張美麗的文章
+叫做《法律理論機》
+他們沒有想到
+他們做的是
+將一部電腦的新版
+56
+這是之前的
+我沒有想到
+碳卡
+不知是紙箱
+他們有辦法
+拿到
+在那種人類的形式中
+證明了一整套數字
+像50-100個
+這就是很奇妙的
+這就是
+從最初的
+A.I. 或
+至少在學術
+學術助理的技術
+他們能夠決定
+實際上
+使用機器
+證明了學術
+1956
+所以
+那是50年代
+所以
+這就是很奇妙的
+所以
+我們已經長大了
+如果你想想
+這些人在做什麼
+他們就停止了
+因為他們被冒險
+而不斷地
+但是
+更重要的是
+他們會限制
+他們的 Computation
+如果你想要
+把整體的
+甚至到 volume 3
+Principia Mathematica
+他們就沒有
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+他們的 computing power
+很簡單
+這小東西
+讓任何一位人
+能夠接受
+整體的知識人員的知識
+在你的手指上
+差不多所有的
+還有這小東西
+只是這一個 device
+已經更加強大了
+比整個
+《Luna Landing Program》
+在NASAI 1960 年代
+這就是它們的 fundamental change
+所以
+跟這一個
+我們今天有什麼關係
+我們有Mathlet
+所以這就是一個問題
+在迴避的學生
+在特朗普和 Keven Buzzard的
+博物館和 Bobik 和我朋友
+博物館和我和各種其他學生
+在學生的社群中
+做出了那個
+對於法學的理念
+但是對於他一些學生
+在其他學生
+在手中的進入
+所有的學生的學生
+一步步地
+然後
+所有的證據
+一步步地
+直到我們得到
+好,所以這叫做
+《Math Lib》的項目
+這是要說的
+就是《Math Lib》
+想起這兩句話
+在十年內
+這個項目
+在學生的學生
+在 computer上
+它們稱為
+《Zena》的項目
+I have no idea why it's called this in a project
+是Kone
+formalized the entirety of the undergraduate program in mathematics
+So I'm just to give you a flavor
+These were my good chunk of my undergraduate texts
+that I was using in mathematics
+Taking in my beautiful office
+that you can see from behind that window
+See there? At least I kept them
+So it's not much
+But it's not trivial either
+所以有很多的副作品
+所以所有的副作品
+在這些書本上
+會被人們把所有的副作品
+都傳遞到
+他們把2023年代的副作品傳遞到
+然後
+全部都是一切
+他們沒有
+沒有理解的
+對於
+他們所說的
+在學校的學生級的學生級
+我沒有去學校的學生級
+但是我去到法蘭州
+我覺得也有一個
+非常好的學生級
+所以是一種
+一種的學生級的學生級
+所以这是很有趣的
+这就是它看起来的
+这不一定是人的
+这是机器的
+但它是在人的内心里
+所以整个课程中的
+包括所有的定义在LINE
+有100,000的转换
+这就是我们的一个计划
+这是我们的
+我们的一位很棒的领域
+Professor Tarn's Tao
+是Fields Medalist
+和我们所有人都认识的
+是我们的主席
+是我们的主席
+是我们的主席
+他写了这个美丽的文章
+我认为在2020年
+在码写的
+码写的方式
+进入了
+美术研究的方式
+在码写的方式中
+在码写的方式中
+在码写的方式中
+就像是一片草木
+它是沒有大量的AI
+在這方面
+我們有了一百多萬的程序
+在零售學的
+大部分的學者
+和一些學者的學者
+在這方面
+我們有了一百多萬的程序
+我們會去到一些
+用一些 an AI will try to learn the linguistic patterns of this library
+and then it might generate new ideas
+and we are at the cusp of this being done
+I will mention a bit of that later
+時候 大家跟我一起
+So that was【Bottom Up】
+Building up mathematics from ground up
+Uklit,following the path of Uklit
+and then inspired by the
+Principial Mathematics of Russell
+Russell Whitehead
+with a hiccup with by Girdle
+and then into Mathlib today where we have
+we have millions of lines of Mathlib today
+and it is crucial
+Okay just
+Kevin Buzzard at Imperial
+as a good friend and colleague of mine
+he points out
+the absolute necessity of Mathlib
+the reason for that he gives this wonderful talk
+where he puts two papers
+在科學中的學生
+所以這就是
+最有趣的學生
+在所有的學生中
+學生中的學生中的學生
+是兩至三年
+所以它有25個
+文章寫的文章
+自從《亡靈》的時間
+它寫的很糟糕
+你只要看
+《康奈斯》的證據
+例如在科學中的學生中
+它展示了
+兩種學生中的學生
+Mathematics,where the abstracts are mutually contradictory.
+So at least one of them is wrong.
+It has escaped the most severe peer review process, known to man.
+So he says we've reached the point in mathematics.
+It is absolutely crucial to use mathlib to check every single step of the proofs.
+And whatever it takes to start typing every one of these bits in.
+So that's bottom up.
+Next part is top down.
+Now what is top down mathematics?
+在20世紀的大 turn of the 20th century
+有兩個學生的 philosophy of mathematics
+在 David Hilbert's formalism
+和劉慧博的 intuitionism of Lipsen Brauer
+兩位 great giants of the time
+Hilbert is certainly one of the greatest mathematicians of all time
+Hilbert was trying to push for formalism
+這個想法是 mathematics should be built from ground up
+每一句句 must be logically followed from every other one
+其實,Hilbert's push in this agenda was part of the inspiration for Principia Mathematica
+另一邊,Brower was trying to push for this idea that mathematics is a creation of the human mind
+那,you don't have to have absolute positives or negatives
+那, by the way, this is my entire, you've just exhausted the entirety of my knowledge of mathematical philosophy, and that's it.
+I'm not a philosopher, so that's it.
+So, if you think about what bottom up is, with the guy with the cool hat, top down is somewhat in this idea.
+So, let me make that a little more precise.
+It's very somber, because something got very somber because of this slide.
+哦 而且我非常感激的支持Roman Rabiinsky
+他在國際學院的設計師
+他做了一個很棒的工作
+我給他一些網站
+看起來很像CRAB
+他...
+哦 現在 他開始了
+所以這位學生
+這位學生的主題
+叫做《學生的學》
+你不可能認為學生是學生的學生
+但它是,它只是一個不同的類型的 experiment
+你會想像是 experiment 以為是 CERN
+Coby Surveys 等等
+但 mathamatics 是一個非常大的 experimental science
+在接下來的風格上
+我們要向前面
+來試試做, 這裡有一個 sequence
+這個 integral 可能是因為它不合作的
+你懂 紙巾 紙巾 等等等等
+那是  kind of data-oriented mathematics
+对吧
+这就是为什么我们喜欢黑板
+因为我们可以直接移动它
+对吧
+在 London Institute 上楼
+我们有美丽的黑板
+其实 这里有一个特别的品牌
+叫做 叫做 《黑板的魔法》
+我们喜欢它 因为我们可以
+去做 去做 去做 去做
+在分為上一種格式的試科
+這就是一個程序
+我們問與討論
+還很開心
+而我唯一的更有趣的東西是
+與一位朋友在黑白場談
+因為因為它是這樣的
+我提醒了
+大律師 布什麽爾
+著物學生
+這答案是大律師
+20世紀的大律
+他經常說
+一般正常的
+這道書是大律師
+這道書是大律師
+這道書是大律師
+在哪里的经验是比较便宜的
+现在是比较便宜的
+因为我们没有建议机器
+我们可以用这些东西
+我们可以考虑
+我没有学习的学习
+有些微博
+我手机里的手机
+可以玩玩纳米 3 游戏
+而且 哦 而且
+我们在 London Institute
+我们有发行
+我们有几位
+Arnold Fellows 今天在這裡
+祝福了生活和工作的
+Arnold 這是一位
+年輕年輕人
+我們已經建立了
+從中華民國的國內
+我們很幸運地
+和我們學生
+給我們一個例子
+我會給你兩個例子
+是
+學生的學生
+第一個例子
+是最高的
+年輕年輕人
+clearly the greatest newer network of the 19th century
+if not of all time is the brain of Karl Friedrich Gauss
+the prince of mathematics
+here's a newer network that was not artificial
+it was created from the divine powers
+and it just happened to reside somewhere here
+in this little black bit
+that newer network was able to do the following experiment
+when he was 16, Gauss was bored
+所以他在玩球时
+他拍了
+比较比较正确的比较
+比较正确的比较
+正确的比较
+我们知道的比较是从与克勒的时间
+2 3 5
+东西不可以分辨任何东西
+除了1和比较
+但是Gauss
+有一个奇怪的问题
+就是想要抢
+二次的比较
+比如说
+如果我给你7.8
+比7.8的比例还要多?
+2,3,5,7,4
+所以那数字是4
+所以这次是继续的
+好吗?
+Gauss看了这一条
+当他16岁
+不玩球
+我说这条是绝对是X 和 X
+真的吗?
+好,让我给你一个想法
+Gauss有很多数字
+他有数字的数字
+上到100,000的位置
+他要再用手工组织
+他用了一段时间
+比那些更高的
+有几个错误的
+但这不重要
+做了这个拍摄
+是第一个
+你可以想象
+今天的技术
+我们可以更快地做这种
+传统
+第一个
+第二
+研究没有存在
+所以Gauss要认为
+研究和拒绝
+在 fact, the idea of regression was invented by Gauss to solve this problem
+or by the young age of 16
+You probably took him just a couple of months, that's it
+and he said this is clearly exoverlogs
+the regression is this idea of the best fit
+which we take for granted but at the time there's no technology
+he had invented statistics to have this best fit
+exoverlog x, anyhow
+not what's known as a conjecture
+你玩 with mathematical data of this type
+然后你会发现一个理想的 conjecture
+它看起来是这样
+但你如何评论它
+现在有趣的
+证明了这个问题
+现在是认为
+企业设计的计划
+要等50年
+在德拉伯业的比试中
+和哈德玛尔
+证明了
+这就是企业设计的
+企业设计的计划
+因为你需要等于
+Coshi and Riemann
+to invent complex analysis
+to give you the technique to prove it.
+So that's a great example
+of experimental mathematics.
+How did Gauss know?
+This is why he's called the prince of mathematics.
+So that's the first example.
+Now here's a bit interesting bit.
+Now you all know what the millennium price problems are, right?
+There are the seven problems decided by the Clay Foundation
+in coordination with all of the greatest mathematicians
+在2000年代的 turn of the century
+他們決定了
+他們的七個最重要的問題
+在 mathmatics 上
+是最重要的
+在十年代
+他們每個都被拘捕了
+他們每個都被拘捕了
+他們的價格是一百萬塊
+他們拘捕了
+他們是最難的方式
+拘捕了一百萬塊
+你更好嘗試
+拘捕 拘捕 拘捕
+然後拘捕他們
+這是一個問題
+Gricia Perman 拘捕了
+他拒绝了一百万
+然后他拒绝了一百万
+因为他说他做了爱
+这就是
+美丽的学生
+现在他在生活
+像个狗狗
+在街上
+在 St. Petersburg
+有六个人在
+他真的不在意
+其中六个人
+是由于
+免费
+最有名的問題是
+所有的科學科學
+是由1859年代的
+Riemann的科學科學
+我不會把你介紹到這方面
+我可以給你整個課程
+在科學科學科的科學科
+這是我最美麗的問題
+1959年代
+在一張紙上的一張紙
+他在20年代的
+第一張紙
+是由0的
+現在叫做Riemann's zeta function
+它在這張紙上的線上
+那是鵝鵝
+它说
+我觉得是真实的
+它们的所有
+这就是它
+科学写意义很棒的
+我们的科学写意义
+就是我们的目标
+因为
+1 plus 1 可能会使用
+这条路
+然后
+然后
+然后
+我们的设计
+也在20年之内
+因为那是技术
+我们在这段时间
+让它们
+所有的这个数量
+是
+这一条最重要的问题
+在所有的科学写意义
+你证明了
+你要付一万块你会是最高的计算人
+这就已经是一种研究
+只是习惯了
+在考虑咱们的调查
+结构的 zero 和 z 变成 z 变成 z 变成 z
+另外一个更有趣的
+互相的显示
+我叫做Brain Burch
+我是Swinerton Dyer
+我是Brian Burch
+我是Peter Swinton Dyer
+在1960年代
+我們可以使用這個
+Epsac Computer
+在Campbridge University
+你可以看到
+Mathematicians are good at footnotes and basements
+這個大型的物件
+他們可以使用
+我完全不知道這個做法
+我不知道用的是哪個按鈕
+这枚枪是认为
+枪位和转型的
+转型的转型
+我会重新来到
+BST的枪位
+它们知道了
+它们的枪位和转型
+这是第一枚枪位
+从从从年纪开始
+从从年纪开始
+它们仍然是开放的
+这枪位从1959年起
+从1960年起
+如果您願意工作
+其實只要再做一件事
+就只要工作
+這就更為值得了
+你做的事
+所以
+我先說一下
+Gauss
+用了眼鏡
+他的技術能力
+可以成功
+以第一名學生
+所證明的
+50年後
+或是 conjecture
+然後成為第一名學生
+這兩名
+六個百分之六的學生
+我从优点学生学生学生来过
+从这种年纪的设计
+和电子网
+我把这些
+这不是我 这太可爱了
+有些人把这些设计放在电子网上
+我觉得这些设计很重要
+是优点学生学生学生
+有些人说
+我们一直做这些 但我们没有预设
+所以,这是我们的最后一步
+是人们在飞过这个地球的码
+然后在看团体,然后在想什么问题
+能否有AI,然后怎么能有AI在这个地方
+所以,怎么能有AI
+怎么能找到一个问题
+并不是只想找到一个证明
+有什么你懂得是真实的
+然后把每一个文章都搜索出
+但怎么能有这个意义
+而在找到正確的問題
+所以,在學校,這叫做
+《雙方形式》
+我朋友,我這裡的小學生
+他在這場學校中
+在雙方形式上
+這是我們在學校的一切
+所以,在2017年
+我兒子將我加入這整個學校
+現在是一種非常敏感的學校
+我們有很多的文章
+和很多的文章
+我可能有50個文章
+是一個維持的社會
+用AI
+來解決新的想法和新的學律
+這張美麗的文章
+《深入心》的合作
+有很多文章的文章
+Alex Davis 《深入心》的文章
+還有 Jordy Williamson 和朋友
+他們其實有找到新的文章
+在這場不一樣的場地
+讓AI看見資料
+known as Jones polynomials
+我們已經在這場地了
+幸好我們有很多朋友
+和學生
+我認為我的職業學生
+Ed Hurst
+和Elly Hayes 都在這裡
+有很多很享受的資料
+在找找新的問題
+讓學生們能夠找到
+這場場地是非常非常敏感的
+因為所有的資料
+A.I. assisted discovery mathematics
+我們想到
+這可能是一個好意義
+來進一段研究
+會是什麼好A.I. assisted mathematical discovery
+在2023年
+我辦了一個會議
+跟一群朋友
+在亞西克紐特尼斯德尼德·CAMBRIDGE
+和不同的人一起
+Kevin Buzzard with there
+and various people they join online
+and from distance
+and there we try to formulate
+a test that will be
+tough
+for AI
+because Chachi PT
+actually has passed the Turing test in 2022
+I'm going to get back to that
+we needed something that's another level
+for AI assisted mathematical discovery
+and that we named it the Birch test
+partially inspired by watching a video
+Berge couldn't join us
+his 96 by the way
+so it's kind of his excuse
+but by watching a video that he presented
+and we jokingly with Kevin Buzzard and friends
+we named this the birch test
+and I reported this
+with my colleague Misha Birtsow
+whose wonderful talk on large language models
+on DNA was given here a few weeks ago
+we wrote this as a correspondence for nature
+just to propose this birch test
+so what is the birch test?
+是AIN for AI
+A stands for automatic
+it has to be an automatic thing
+you can't have like
+I feed you some mathematical data
+then it's going to
+oh humans are going to
+this bit is useful
+this bit is not
+feed it in and do nothing
+and let it run
+second award has to be interpretable
+now this second one kills
+my 2017
+my early papers in 2017
+because I gave you a neural network
+that was able to predict topological
+根據經驗和經驗的基因
+但這系統的新系統是不可使用的
+只是這個系統是一個網絡系統
+你會做什麼
+沒有一個方法可以試試證明
+第三個需要做的需要是無法證明
+需要提升策略
+讓人們能夠有興趣的工作
+如果你把資料放進一台電腦
+電腦、電腦、電腦等等
+他們會說
+5 plus 7 是比2更好
+對 當然是對的
+你能證明
+但这太丢脸了
+不太有趣
+所以
+这里我将让你以你的 own opinion
+那么远之后
+在过去的八年
+无论如何
+经过了
+调查
+我们已经调查了
+几个时期
+我将解释
+我所谓的几个时期
+而且
+我并且
+从我们的词语写的
+《佳书》的许多
+我并且非常感谢
+Tom Hodgkinson
+And to Ono no but Acharya
+London Institute's science writers
+who gave so much feedback
+But from Tom I learned the word
+apparently to birch is a verb
+Brian birch is a famous mathematician
+And this is a terrible thing
+But I have to say it's because it's a funny joke
+So apparently back in the day
+when school boys got caned
+you use a birch branch to do it
+I'm glad such barbaric things are not done anymore
+I certainly don't do this to my children
+But I tell them about it
+And I say
+I said look
+If you don't practice your violin
+I will birch you
+So here is the birch test
+named after Brian Birch
+So what is interesting is that this test
+I mean it's just so happens that Brian Birch
+of the birch is in your conjecture
+his name is a verb we're using to birch an AI system
+That's fine
+You can beat a machine even as much as you want
+And you can take this birch
+And just try to beat it
+Can it raise a conjecture or problem
+是人籍的技術
+對嗎
+我們過了
+二次
+一百多個文章
+所以
+第一個
+是我提到的
+深入的文章
+那
+幸好
+沒有過
+最後的文章
+他們能夠
+證明
+他們自己的
+一星期
+我喜歡這個
+沒有誤會
+但還有一段時間
+我們就這麼近的Burch test
+這次是跟Lea,Oliver,Postnickoff
+我覺得Oliver可能會在觀眾中
+謝謝Tom
+我不會跟你們一起討論
+但我們做的
+是用納粒的納粒
+某些最愛的東西
+在Burch and Swinton Diary的心裡
+用納粒的資料
+資料已經在這類型的資料中
+叫LMFDB
+它是一個很糟糕的名字
+因為你也沒有想到它會發生什麼事
+我會告訴你它會發生什麼事後
+不過這個東西是三百五百萬的立體測試
+然後我們拿了這個資料
+我們接觸到新的網路
+然後它能夠預計一些東西
+是關於BSD的接觸
+那還不是
+那是沒有標準的
+那是沒有進入的
+但是我們能夠把
+一個 precise 接觸的
+一個 formula
+然後我們寫了一篇電郵給 Peter Sarnag
+Andrew Sutherland
+who are the leading number theorists of our time
+and said
+have you seen this formula before?
+and we thought that Peter Sander
+he's gonna write back and he says
+yeah I did that when I was five
+but he wrote back and he says
+my goodness I have never seen anything like it
+in fact
+Burch could have made this conjecture
+but he didn't
+what did you guys do to raise this conjecture?
+and we told him
+we actually used AI techniques
+主要是分析分析
+支持练习和纽线
+然后我们吟识了一个确实的冠军
+这个冠军仍然是开放的
+三年了
+整个组织的数字
+在这个位置的L 功能和Liptic Curve
+仍然在我说的
+它是第一冠军
+在一个人和人的面前
+在冠军中
+拆除了所有的最高的
+分析
+现在它不经过冠军的试试
+因為當我們提升這個建築器
+它是一個交易 between humans and machine
+所以這破了A test
+當你能夠把資料給 feed the data
+然後你能夠開始給你東西自己
+那是一個全新世界
+這件事我 proud to say
+這件事是被《Quanta》的一篇報告
+成為了一件最大的 breakthroughs of 2024
+因为这就是时候
+我们的AI系统
+发生了一个冠状的冠状
+请把我向外面
+我会为您介绍
+我们的冠状冠状
+它叫冠状
+因为它 kind of 提醒了你
+冠状冠状
+它有没有什么要做
+冠状冠状
+这些东西
+就是让牧羊做的
+这是冠状冠状的冠状
+所以
+最后一部分
+是
+《Metamathematics》
+我说这三种方式
+我们在做《Mathematics》
+3  ways in which AI will help us to do mathematics
+The final one
+And this one is perhaps the most mysterious of them all
+For lack of words, I tried to call it meta
+Just because meta sounded cool
+But because you are kind of outside of mathematics
+Physics, metaphysics, mathematics, mathematics
+So what is this?
+Well, it's the world of large language models
+查理PT,deep seek, whatever
+Can these things do math?
+You know,查理PT gives you all kinds of nonsense
+Mathematics is a very very very stringent and rigorous subject
+Can these things can ever produce anything of interest to mathematicians?
+Surprisingly, the answer is yes
+We are very positive on this direction
+所以 like I said, in remembering the Turing test of 1949
+, it's one of the highlights in human history.
+Actually I'm surprised that this is not reported on every single news outlet.
+In 2022 ChatGDP has passed the Turing test.
+We now can no longer tell we're interacting with a human or machine.
+That's how powerful large language models are.
+These are large language models again, based on neural networks that
+kind of statistically inference
+how you can predict the words, right?
+Think of chat GPT as Google+++.
+You know when you type in Google
+it kind of auto completes.
+Chachi, all this language models
+is essentially this completion.
+It kind of predicts what's likely to be next thing, right?
+So it's passed a turn test
+and where are we on that?
+Well, so there is this thing called
+在世界大会的大学生
+这可能是
+最难以表达的
+高中学生
+大家可以每个人想象
+想想所有的
+中国人 中国人 韩国人
+从四岁开始
+都被困在了
+这一项课
+这是最强硬的课
+在历史上
+每个手机都在
+非常非常非常困难
+这些叫IMO 冠军
+是可以用一些類似的AI
+大部分的解決
+來試試探測這類的測試
+OK
+2024
+《混合》的《 Alpha Geometry 2 》
+《 Deep Mind 》
+《 Alpha Proof 》
+這類型的《 Mathlib 》
+《 Mathlib 》
+可以獲得一顆 silver metal
+人們會說
+哇
+想起了
+這些是很難的高級問題
+你可以加上
+這類型的《 Geometry Vice 》
+你會有機會做到
+給我幾個星期
+可能我可以做到一個
+2025年,前两个月,
+杰米尼的大剑
+拿了金铃铛
+给这个
+我会给大家一个
+这个问题
+非常非常非常难
+这些文化模式
+可以看着它
+给大家一个全程的解决
+然后被人们的
+国家军官
+来给你
+然后给你
+已经是最好的人
+像2012年我們有達到這個程度
+我明白你們在想什麼
+你們在想
+但這是一個很很很難的
+高級學生
+對嗎
+其實是怎樣的研究技術
+對嗎
+還有這個
+OpenAI 基於 AI 開放
+一間叫EPOC AI
+是用來做研究的
+for AI
+and they launched this program called Frontier Math Project
+So Frontier Math is exactly the research level analog of things like DeepThink passing the IMO test
+the gold medal on the International Math Olympiad
+So they did several tiers
+I was involved in the last evaluation one which is called Tier 4 problem
+他们在这里发生了30个人的计划
+在伯克里的首席中
+我们在NDA里导致了一个人
+他们在这里导致了一个人
+三个朋友们从全世界都导致了我们
+我们很好的计划
+我们都在为了
+我们的计划
+和我们的计划
+有40个问题
+我会给一位朋友
+或一位很好的导致
+或是一位很好的导致
+而是想看
+如果這兩個語言模式
+或者GPT
+GPT Plus模式
+可以解釋GPT5
+在時候是441 mini
+這些問題
+是一句話
+在接下來的方式
+你必須有
+一個精彩的答案
+那是10、20分鐘
+所以沒有辦法去猜
+我會給你一個例子
+當然GPT可以給你證明
+但人們的評價太難得了
+Math-questions have a precise numerical value
+and you can just look at it
+as it's either wrong or not
+and has it reasoned in the direction towards that
+So we did this
+And then work got around
+and it was reported by various news afletes
+I have achieved the dream of my life
+which is to appear in the sun
+Fully closed
+And this became a secret meeting
+for mathematicians
+就是打打Ai
+這就是Tier IV的問題
+所以 非常短短
+Tier 1 2 3
+是有的
+有的有的有的
+有的有的有的
+但Tier IV的結果
+我們在10%上
+有的有的
+所以這頁
+剛剛結束了一個月
+所以在 may
+他們有幾個月
+用了 Open AI
+用了GPT
+一些版本
+深刻的東西
+用了GPT
+而這頁
+我們要如何把所有的語言模式
+表現成這類的問題
+我再次要說
+語言模式
+他們有什麼原因
+我沒有想過
+這是我們要的想法
+但是我所知道的
+這張字的標準
+是在10%的時間中
+你能夠得到
+一個正確的答案
+以正確的原因
+給你一個想法
+如何把這個問題
+解決
+Here's an example.
+I can't remember where this one was one of the 10% that was actually solved down now, but just read it.
+I mean, unless you are an analytic number theorist working in the field of all functions in the elliptic curves,
+even in that specialized field, even a mathematician not in that field would not even understand this question.
+Right?
+And this level problems at 10% of the time can now be solved by large language models.
+为什么?
+因为大文化模式
+有整个文章的整体
+每个文章都写出来
+它只是在那里做一种按摩
+现在的按摩是很好的
+可以解决问题的
+我曾经有一个朋友
+在那个会议中
+一个特定的会议中
+说了我
+我会在这里写一篇文章
+因为我正在写文章
+我寄了一個NDA
+我應該會寫在一篇文章
+但是因為我寄了這個
+我會把這個文章寄給你
+一些文化模式
+所以我會寄給你
+所以這是我們想要的問題
+這是我們想要的問題
+我們在這年來
+我們能夠達到這個位置
+這是很難的
+2025年
+我們有
+Gold IMO
+我們有
+Frontier 4
+You see where to frontier 5 is going
+tier 5 of frontier math
+which should be launched next year
+which is open problems
+can it solve problem that humans can not solve yet
+We are getting there
+we are living the problem with arguably the most exciting
+arro of mathematics in human history
+since the time of Euclid
+To conclude
+has AI so far solved any major open
+conjectures and mathematics
+no
+我们在这里
+是
+AI
+开始
+为了
+进行研究
+当然
+2017年
+所有的文件都已经
+已经表现了
+这可能是
+我的天天的
+日常的
+研究
+是的
+没有
+我肯定
+变成了
+研究的
+作为
+我买了很多的
+研究
+其实
+我问了
+我必须找出寄信
+为什么我能相信我做这些事情
+因为我能看着自己的文章
+如果是对寄信
+我肯定不会相信我做出证据
+但是我跟它在一起
+我刚刚出了一本文章
+两个月前
+有一个多月的文章
+跟GPT在一起
+他们提出了新的想法
+帮助他们证据
+所以我们真的真的在这里
+So now you would think that since when this new age of mathematics
+Every funded agency is jumping to this,right?
+I began by quoting a the thing that started the word artificial intelligence
+That started with a grand proposal
+Here are some of the referee reports that I got from my recent grand proposal submitted to the UKRI
+你可以看到那些许多利率的研究者
+而随时 这些国家的资源公司
+是因为这样的评论
+中国有许多利率的研究者
+有一个许多利率的研究者
+叫BIMSA 在北京
+在巴士的许多利率
+和在南西的许多利率
+有一个许多利率的研究者
+叫Max Planck 在德国
+但是,反正,英國沒有一位
+所以,看法是在這裏
+網上或在這裏
+請,去找尋這 exciting 方法
+所以,很清楚
+我希望,我給你個 idea
+是,什麼是 future of mathematics
+是,是,是 人
+在 Tandem
+我們不在於,我們不在於
+这些人不在乎
+他们在想要把工作与评论
+在想要解决最重要的问题
+是发展技术
+从下层
+下层
+和研究技术
+谢谢大家的关注
