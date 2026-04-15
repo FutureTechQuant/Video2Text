@@ -1,0 +1,1280 @@
+我是丘丹尔 擔任组织的组织人
+我们是组织社会组织资料
+虽然我花了更多的时间
+作为组织社会组织生涉
+在2010年开始
+我们的玩笑是
+我们要对人们说的
+组织社会组织
+我们在传统时
+我们在传统时
+但是
+我们有了很大的幸运
+我们在传统时
+然后我们要知道他
+和他在组织生涉
+组织生涉的组织生涉
+还有其他其他事件
+所以这个机会
+我觉得
+was facilitated by Jeff Dean and Jeff Hinton
+being in the same place at the same time
+which is fantastic. Thank you to NURUPS.
+So to begin, Jeffery Hinton
+for those of you who don't know
+is a Nobel Prize winner,
+intering award winner
+and winner of many many other awards.
+Is widely called the godfather of AI.
+I've never asked you if you like that name.
+I should not like it, but I love it.
+Ok.
+Ok.
+That's good to know.
+I will now just call you Godfather when I see you.
+Sure.
+Jeff is...
+I was lucky to be a co-founder of the Vector Institute with Jeff.
+And one thing that people do not know is Jeff makes the best carrot soup I've ever had in my life.
+So there's a whole other career available to him later.
+Jeff Dean is the chief scientist at Google.
+而且是一名職業的職業
+它是主要的
+我們有很多的變化
+包括現在我們會由
+HMIC 副總統
+也許不知道
+或是不太熟悉的
+大家知道的
+這間店有一個領導
+現在是最有效的模式
+它有合同的網單
+另外一個公司
+也很高興認識你
+我們一起一起
+開始後
+有些長期的
+相似在你的歷史上
+BACPROP
+1986
+1982
+但我們沒有想到
+1985年代
+好
+我已經在幾年內
+我看過卡通的
+我們沒有發表過
+好,有了
+然後,我猜是
+或者是,你帶了什麼
+你對你的肌肉體系
+你可能可以說
+是第二天的1990
+對,我用了
+兩半的實驗
+在伸展的方式
+我們在一天的
+一半的實驗
+was neural networks, so I was intrigued by them,
+and I decided it would be interesting to work with the Professor
+Vip in Kumar at University of Minnesota.
+I said, can I do an honors thesis with you,
+and I'd like to do parallel algorithms for training neural networks.
+So I did.
+We had a 32 processor,
+hypercube machine in the department,
+and I felt like, we could just get 32 times as much compute,
+我們可以做這些很棒的測試
+謝謝
+你應該是第一次看到
+在計算機的數量是最好的
+我自己也沒有想過
+我做了一些不太好速度的測試
+因為我做了一個很大的錯誤
+我沒有提升到模式的大小
+我只是在試試增加數量的測試
+我只是看到
+如何變成了
+當你把10的測試
+和再加上30的測試
+但是它 was kind of fun.
+I sort of created two variants.
+One was essentially what you now call data parallel.
+One was called what you now call model parallel training.
+But I called them something like pattern partitioning
+and like model pipelineing or something.
+So Jeff Hinton,
+when did you realize that more compute mattered?
+So I should have realized in the late 80s.
+兩群不同的群組
+Hert Boerlard和 Nelson Morgan
+Xie & Berkeley
+Tony Robinson & Cambridge
+把大量的努力使用
+用動作來讓更加多的
+講話模式
+他們 both got acoustic models
+who are about as good as the state of the art
+but were better than what you got
+if you just used a normal process of doing neural nets
+and we should have realized at that point
+如果他們只是做得更大 他們會更好
+但他們只是做得更大 他們會更好
+他們會跟著非常難度的計劃
+和非常難度的硬碟
+所以我們沒有辦法得到教訓
+我們沒有做得太好
+你當時沒有得到教訓嗎
+我沒有完全得到教訓
+直到我去年初二 到2014年
+很晚了
+我們會把時間過了
+我沒有想過他們會繼續學習
+對
+好 所以我們要把這幾個高點
+和那些有影響到現代的社會
+但是我想有些東西
+是有趣的
+你們兩位
+是你們選擇了
+非常有趣的人來工作
+然後
+Jeff 你說了
+之前 公開的
+你會認識的
+是因為
+在學校的表現
+學生
+對
+你能否分享
+這一點
+這一點在題目中
+可能會 但我會回到這裡
+分享一些東西你會認識的
+在學校中學校中學校的學生
+去參加你的學校
+我真的很興趣
+在學校中學校做了一些事情
+有一個想法的
+我問了一個問題
+是你最好的想法
+你會得到人們的學生
+進入他們的課程
+並且還沒有想到
+因為他們還沒有到學校
+他們很擔心得到一個想法
+你不選他們
+OK,所以我們要快速進行一下
+有些學生們選擇了
+學生們和學生們在學校
+Yan Lacoon
+我們有一個長期的學生
+我們有Max Welling
+在晚餐
+還有Howick Graves
+還有很多其他學生
+然後有Ilya and Alex
+在學校
+在國際學院
+那些學生們從這建築中
+你不會看到
+它不像世界改變的地方
+我們有一個很小的屋頂
+那是可能好,他們不可以看出來
+他開始在工作
+最後他建立了AlexNet
+然後在資料中訓練了
+Fafely Lee 建立了
+Stanford ImageNet
+然後進入了那個比賽
+你能不能說我們
+為什麼你決定要做這個
+回到機器,怎麼用機器
+OK,So what really happened was this
+A couple of years earlier, Vlad Nye has used NVIDIA GPUs
+for trying to recognize roads in aerial images
+and it's quite difficult in city roads
+because you get trees, you get cars, you get shadows
+and he did a very good job of that
+We did that on a strategic grant from the government
+which was designed to encourage research
+that might have industrial impact
+並且我用了新的工具
+除了藍色的外星球
+他也有分享過
+新的工具比新的工具更好
+那也是關鍵的問題
+你真的贏得很多工具嗎?
+他也有提及
+每次你贏得工具
+自己的工具會更好
+那很深
+很深
+很深,對
+很深
+我用了新的工具
+並且我用了新的工具
+而一位釋氏說
+這工具並不必用
+因為它沒有可能
+是否有這個經濟影響
+你知道誰說的嗎
+我希望我會知道
+因為我會告訴他
+美國市場的增加80%
+去年
+他做了這個很好的工作
+我們還以為GPUs很好的
+我們已經知道了
+然後有一天
+我找Alex Krzysiewski
+認識了一些小照片
+那是大小的MNIST
+因為我喜歡MNIST
+所以如果做了真正的視野
+你會做了大小的MNIST
+然後做了真正的視野
+我還記得
+Alex在試圖中
+說自己的畫面
+告訴我沒有工作
+我看了他做的
+他有一個位置的位置
+我問他為何有一個位置的位置
+為何我應該在1.0001
+他說我不知道
+只是一個好價值
+And what you notice about students is
+when they don't know anything about doing something
+they appear stupid but they are not
+they just don't know
+and Alex got much much better very fast
+and then Ilya said why don't we apply this to ImageNet
+It's bound to work for ImageNet
+we've got to apply it to ImageNet before Yan does
+and meanwhile Yan has been trying to get post-docs
+他在他的學校學習
+使用了《Combolitional Neural Nets to ImageNet》
+他們全都有做得更好
+幸好 肯定駛得很快
+然後駛得很快
+我們要預算一下
+所以很容易
+他把所有的照片改變了
+所以他們是256x256
+或是224x224
+我們可以用224x224的拍照
+他們的照片很合適
+然後我做了最好的行動
+我自己的決定是
+Alex
+要做什麼叫做
+寫作
+寫作
+寫作
+寫作
+Alex不想做
+所以我說
+每個星期
+你能做寫作
+寫作
+就只有一個星期
+就沒有了
+那些電腦你訓練的地方是哪裡?
+OK,那裡有2個GPU博物館,在Alex的房間,他在他父母的家裡
+所以,我們付出了GPU博物,但他的父母付出了電腦
+我當然要做到,為了你付出你的錢
+當然
+而在同一段時間,不知何時,你能否說明一下
+它們的原理,在想它們的名字?
+當然,我猜原理學的學生團隊
+在Google上,我和Andrew Ng 曾經在Google上
+一天一週的時間,他在復活的學生
+我和他一起去山河
+我們一會兒再次
+說 什麼在這裡
+因為我住在麥克風房
+他說 我還不知道
+因為我剛開始了
+但在山河
+我的學生開始
+成為學生
+所以我沒有
+經常在學生
+從我的學生
+除了他們
+被淘汰的方式
+他們有一個
+很方便的方式
+我感覺他們是對的
+我说,那是很有趣的,为什么我们没有练习非常大的纽纳网线
+我们有很多纽纳网线
+我们其实没有的纽纳网线在我们的资料中
+我们有很多纽纳网线
+纽纳网线有16-24树子
+所以我开始建设这个软件压线
+你能夠加分 are all networks and it would enable you to slice up the computation with both model parallelism, and also data parallelism across lots and lots of machines.
+And so we ended up scaling that system so that we could train neural network that was 50 times bigger than any one had previously trained.
+我們在最多報告的一件事
+我們做的是這個不超時期學習
+在10億元的網絡網絡上
+用不超時期的目標
+去建立一個好代表
+可以建立一張圖像的圖像
+我們做了一個大錯誤
+因為我們想用
+有些人在視線上的反應
+但我們沒有使用昆布
+因為我們想要讓它變得
+有些人在視線上的反應
+所以它並不像
+腦子可以穿著
+不同部分的視線系統
+所以我們結束了
+這些人在視線上的反應
+但有些人在視線上的反應
+所以它有2億個字的反應
+但我們結束了
+訓練它在
+而是在72%的更細微的影像電腦22K的程度上
+成為了70%的對話和對話的改變
+我們用16,000 cores來做這個訓練
+我們肯定開始看出
+我們做的模式比他們更好
+我們也開始使用這個
+BTSHR Abstraction Library
+for a bunch of other kinds of domains
+like speech recognition
+you know, a bunch of other computer vision tasks
+and that seemed like
+we didn't sort of formalize it as scaling laws
+but we sort of knew
+we had this great saying
+which is maybe like a scaling law
+which is like bigger model, more data
+more compute
+and so you're probably the one organization
+that at that point when AlexNet happens
+that is not surprised
+that you know
+如果你批評了一些大量的資料
+他們沒有做過在雙方的電腦上
+在Alex的房間
+但是那更多資料
+還有可能在雙方的電腦上
+其實會完全改變遊戲
+如果你提供了一個很好的方法
+對 因為我們已經
+可能之前Alex已經有了
+影像網的結果
+我們已經看到70%的
+反應和錯誤的
+影像網22K的錯誤
+在那一年之前
+所以在2012年是你第一次見面的年代
+我會想聽聽你的分開想法
+所以Andrew Ing想要自己去Coursera
+因為他想這是未來的
+我認為他做了一個小錯
+但是他想要某些人去反駁他
+他提供了我的生命
+他提供了我的生命
+所以我选择去那里
+我曾经是一个许多人
+但你只要去6个月
+我只能付钱
+他们要有一个预备
+因为要有个预备
+所以我成了一个人
+你成了我的预备
+我 was a 64 year old intern
+You had a green badge and everything
+I think the only reason you could be an intern at 64
+was because they only allocated six bits for the age
+and that's a nerdy
+You're only a bit older than your average intern
+and I turned up there
+and I had to go to this class with the interns
+so there was this big room
+full of students from IITs
+And students from Tsinghua and just huge numbers of very smart students.
+And so they were in the little beanies.
+We had all had the beanies.
+I meant to bring my beanie hat.
+I still got my beanie hat.
+And they had this class where there's an instructor at the front.
+And you got your laptop.
+And the instructor said,
+Use your LDAP and your OTP to log on.
+And I put up my, what's an LDAP, what's an OTP.
+他們有四個社會社會去幫助別人
+然後在10分鐘後他們決定
+一位社會社會員會是我的
+所有其他學生都在看著
+這個人完全不知道什麼
+三個年代的學生
+三個年代的學生
+不是兩次的
+三個年代的學生
+然後他們有點不太好笑
+然後在午餐的時候我們去吃飯
+Unfortunately, one of my former students was there
+an undergraduate student take my course
+and she saw me in the line from lunch
+she said professor Hinton!
+and then they all looked at them
+Oh, that's who it is!
+So that was kinda weird
+So that's day one. When did you first meet?
+We met
+The end of day one or beginning of day two or something?
+I think it was before day one
+I think it was on a Sunday or something
+We met in a restaurant
+很棒的餐廳
+對 像是台灣
+對 像是日本
+我們都很久了
+我們一直都很久了
+之後
+之後AlexNet出發
+我們都想要買這些公司
+我們決定買更多錢
+如果我們要成為公司
+因為我們發現
+有錢賠償
+有錢做財產
+我們在討論中,我們決定要做一個檢查
+最後我們有一個奧運
+但我還想說,在旅行中,Google 要贏
+因為在夏天工作時,工作的隊伍都很好
+你玩了一場遊戲的奧運嗎?
+我們在奧運中,兩人都離開了
+and it looked like the wrong people might win
+We just stopped the auction
+Thank you
+So okay in that auction took place where
+It took place at NIPS when it was in a casino
+Yes at the South Lake Tahoe Casino
+Yes, and on the ground floor
+There were people putting
+Pulling stock machines and playing blackjack and things
+And every time they won like
+10,000 dollars Bell's would ring
+我們在這奧客廳做的餐廳
+你得到一億
+那是一個很奇怪的紐約
+因為沒有人知道什麼
+可能是基因研究的
+想要在船上做
+然後會監佈
+然後船上也很討厭我們
+因為我們沒有監佈
+然後Terry Soski 組織了
+他給了我一張特別的卡
+讓我可以進入VIP的船上
+你只會看到這張特別的卡
+如果是叫做Wale
+有人會浪費很多的資料
+所以我會去這些特別餐廳
+然後給他們掌聲說
+我沒有浪費
+他們會說對
+對
+所以你贏了奧城
+Alea和Alex
+你其實是一個創辦公室
+你贏了公司
+資料研究
+去Google
+可能贏了奧城
+在那裡去
+為什麼你要去Google
+我們 all knew
+We didn't know where it was going
+But everything was bigger models
+Big models
+It was work better
+And I remember
+After becoming a university
+I remember an event quite early on
+Where we ran out of compute
+And I remember Jeff getting on the phone
+I could just hear his end of the conversation
+And him saying yeah yeah
+A 2 million would do
+and I thought
+You know I'm at a university
+If you want to get 2 million more for compute
+That's several years of writing grants
+那時候的隊伍如何?
+我們有20人
+我們都在一間大辦公室裡
+好,所以我們有個好表現
+從台灣來看隊伍
+對,我們都有個座位
+很好,我們一直在發展
+我們會再次進行訪問
+但我們會再次進行訪問
+那些隊伍在下一幾年
+我工作了一些叫做CAPSUELS
+CAPSUELS是一個很好的照片
+如果有極端的決定
+因為我已經有極端的決定
+如果你選擇對的東西
+你會達到很好的結果
+如果你選擇錯的東西
+你會花很多年在工作
+所以那就是了
+早前我提供了兩位我非常尊敬的朋友
+是Jeff和Ilya
+他們都說要停止工作
+那就是更有決定
+但是我做了一些很用逸的事
+所以在2014年我們做了一件事
+我記得被NIP的學生拒絕了
+我記得被拒絕了
+一位學生說
+當你拒絕了這個學生的模式
+他就沒有做得更好
+所以我問他
+他完全失去理解
+那是一個很用逸的技術
+- 技術的- 而且它們的設計很常用,我們只問的是 DC
+- 你記得誰寫了那一句嗎?
+- 嗯,不是,是一個不明的職業
+- 因為你也有一個不明的職業
+- 因為我知道你會取得資金
+- 也許我們會聽到這些人的說法
+- 我不知道誰寫了《報告》在加拿大
+- 說說,《職業》在DMU的網路上
+- 也不會有任何影響
+- 我希望我會
+我們說過,這件事很有趣
+有一段時間,有一個公司叫做 research and motion
+叫做the blackberry
+很久前,你來到Google,前AlexNet
+你拿了一些技術來由黑berry的農家
+你要告訴我們這件事?
+如果有一個超級廣告
+這就是超級廣告
+所以,George Dahl,Abduhram Mahamud,
+做了一種很好的語言模式,
+是比較好看的模式,
+只是像幻想模式,不是更好看的模式,
+是比較好看的模式,但也比較好看的模式。
+然後,在下個月,
+Navdeep想要做一個學習動作,
+所以,我跟學習動作,
+我們有一個更好的方式在做說話
+我們想給你一個給你
+你來做工作的時候
+可以給你示範一下
+學者的動作說他們沒有興趣
+說說說說說
+你還沒有把手機拿走
+對
+所以當奧運動員
+其實一位學者的動作
+總是想知道
+學者的動作
+從來沒有在加拿大發展
+research in motion that decided not to explode in Canada
+just an interesting bit of history
+so NabDib then went to Google
+he couldn't actually go to the states
+cause he was applying for a green card
+and so he had to work in the Google Lab in Montreal
+but they got him some GPUs
+and he had a very good manager
+called Vincent Van Hoog
+and NabDib said he wanted to just change away
+google to speech recognition
+And Vincent said get a reasonable project.
+I mean, that's ridiculous.
+And NAB just insisted and Vincent said,
+ok well try it and it worked.
+Therough turns out there's some actual applications for it after all.
+Right.
+Ok so we move forward in time.
+Let's talk about transformers.
+There's again comes out of Google Brain.
+Can you talk about the team.
+How they were working on it.
+Was there at the time that they were doing the work?
+是否是一種新的學習
+和其他學習的改變
+或是否只是
+另一種學習
+會發出一個文章
+我想
+一些前一段時間的作品
+將來的新的作品
+將來的作品
+將來的作品
+將來的作品
+將來的作品
+將來的作品
+將來的作品
+LSTMs 和大量的大量的
+原来的评测是非常好的
+评测是有很多不同的
+评测的评测
+各种不同的评测
+评测的评测
+我们继续
+评测LSTMs
+评测
+我想
+结束了
+有人发现
+如果你只想把所有的
+评测到这个评测
+You have two problems.
+One is you have this sequential dependency
+because you need to do that computation
+before you can go on to the next thing.
+And also you're trying to pack a huge amount
+of sort of interesting transitions
+you went through into a vector.
+And so if you just saved all the state
+and just attended to it,
+that would be a better way of doing this.
+And there was already some early work
+from outside Google
+on attention mechanisms of various kinds.
+對,那是用來使用機器的詳細
+所以,機器詳細是很合理的
+為了保持英文的詳細
+在你創作的 French 詳細
+你不在意很大的一個 context
+我覺得是吧哈頓尼
+發現,用一種輕鬆的
+輕鬆的詳細
+其實是一個大勝利
+然後他們把那些
+對 把所有的國務資源
+交通和優惠
+和優惠的成長
+因為現在可以
+將所有的國務資源
+交通和優惠
+充分之下
+可以優惠
+然後你也可以
+把所有的
+國務資源
+交通和優惠
+做出
+把所有的
+國務資源
+交通和優惠
+做出
+一些優惠
+的優惠
+我們可以看得更多的觀點
+所以當那一刻出現了
+我沒有給它幾乎足夠的注意
+因為我一直都在想
+如何讓它做到
+它在保持著
+所有的行動性體重生
+它肯定沒有做到
+所以我認為你不能做到
+所以我沒有興趣
+其實你能夠修正它
+用快速的量量
+你需要記憶
+可以修正它
+還不太確定
+如何修正它
+通過時間學習較早的東西
+根據較早的東西
+但我認為那一本書
+《傳播》的書
+顯示了你能夠得到
+同樣的效果
+有約10%至100%的效果
+或你能夠得到
+更高的效果
+同樣的效果
+這就是一個大事
+我們也有同樣的效果
+在計算上
+我們有提到
+使用了十分之多的技術
+讓我們看到
+我們可以有十分之多的技術
+進入了
+能夠以
+技術的技術
+進入了
+這些技術
+是非常有足夠的
+現在我們可以有
+像是
+10-100
+10-20
+可以在一起
+所以我們可以看到
+在前一年,我们都在一起计算
+在加上我们的大多数
+在更快的一个人的铁铁
+用更多铁铁铁
+在计算中
+和在一起的練習和學習已經長久了
+然後我們都在一起的各種各樣的工作
+所以現在我們可能在1990年
+做了更多的學習
+更多的學習
+甚至10年前
+已經有更多的學習
+已經有更多的學習
+或更多的學習
+在1990年做了更多的學習
+我記得
+我記得在1920年
+或是某些時候
+我們買了一個新的綠綠綠
+然後,這個人的手機,他在Vlad's 搜尋的電腦
+他開始在做工作,他在刷新電腦的時間
+我開始在做工作,他在刷新電腦的時間
+我開始在刷新電腦的時間
+我開始在刷新電腦的時間
+因為他可以在搜尋電腦
+我發現,如果我把電腦的電腦
+設計在1986年,在電腦上,
+他會用一分鐘的電腦來鎖定電腦
+你發現了什麼,在現時
+在寫的文章前,
+寫了一段時間的回答
+但是在內心的感覺
+你們看他們在做什麼
+是否感覺到
+這是一個很大的改變
+這是一個實際的改變
+對,我覺得那篇文章
+我們有幾個不同的東西
+好像是一個很大的改變
+因為我們有幾個
+小數目的人在做
+活動的研究,在那篇文章中
+我們能夠探索很多不探索的空間
+去發現東西像是沙發、
+像是傳統式、 sequence to sequence 模式
+或是 word vector 系列模式
+在短短時間內
+和模式系列模式的方式
+這好像是其中一個大 breakthrough
+是比較能用的,或是用來做情緒工作,或是用來做其他東西的
+它並沒有讓我們感到更重要
+而且我並沒有說明它是更重要的,它是非常非常有用的
+但是我們今天用的所有東西都很有用,因為我們用它
+Google at that point has maybe the best business model of all time search and this extraordinary team of people making all kinds of breakthroughs that maybe this one doesn't feel like it stands head and shoulders above so many of the other things that are going on.
+You have compute and you understand the value of compute you've understood already the value of data.
+What is that at what point is there discussion internally about we should start using this in a way that might disrupt our business or not.
+Or is it just we are only only going to put things into production that actually aid the business.
+Is there a point anywhere along the way before chat G.
+Which we'll get to one little piece of historical data.
+I think it was before chat G.
+Microsoft released the chat bot that study spewing hate speech and that scared everybody too.
+Right. Yeah.
+So, Google...
+They did online training, which is probably not a good idea.
+That's a very bad idea, right?
+Although, don't tell that to Richard.
+I won't reinforce it.
+So, I think Google was very cautious in releasing it.
+And people still don't understand.
+The Google had these big chatbots that worked pretty well like palm
+buff or chat gp t
+there one thing they didn't have
+was human reinforcement learning
+and they didn't realize that you don't need many examples
+to stop it doing most of the nasty things it does
+Yeah, I think we actually did have an internal chatbot
+that was quite heavily used within Google
+it was developed during
+COVID and so everyone was at home working from home
+and we had about 80,000 internal users at Google
+还有 quite a large fraction of our
+100 something thousand employees
+chatting with the system
+and you know people found it really
+really useful, but I think we had a little bit of a myopic view
+because it obviously had
+factuality issues, as
+neural arts of that era did and still
+still do to some extent
+and hallucination kind of issues
+and if you view that as
+从一个搜索的方式,这不太好
+因为一种最高级的搜索费用程度
+是你需要确定的搜索费用程度
+但是我觉得我们不太明白
+其他可能的使用
+在搜索费用程中的其他用程
+例如,你能帮我把一本词
+与我的狗狗说话
+或你能帮我把这本书 sumerize
+或其他其他东西
+你能寫寫文章嗎
+你能寫寫文章嗎
+你能寫寫文章嗎
+我沒想過有人會寫寫寫文章
+所以我認為
+從一個正確的搜尋
+文章不像我們想寫的寫作
+但從一個
+能否找到的寫作
+我們其實有80,000
+Google employees
+給我們很 positive feedback
+在寫作中有很多的訊息
+所以我們想要在發展問題和提供問題的工作
+更多前面我們把外面的利用機構轉變成了
+好,然後三年後,一週前,chatGPT出發了
+什麼是在Google的反應?
+CodeRed
+會不會是CodeRed?
+不,我想我們...
+我不會說這樣
+那,我猜,我寫了一篇文章,
+那,說,我們在這裡很瘋狂,
+因為我們知道,
+研究,和學習,
+好好的模式,
+更多研究,
+更多資料,
+更好學習,
+更好學習,
+我們知道了,
+我們有很多的努力,
+我们在Google里面
+我们有我们的Legacy DeepMind Team
+我们有了Brain Team
+我们有了几个不同的努力
+在Google Research里面
+我们有了
+不仅是设计模特儿
+但是也有了很多模特儿
+然后Legacy DeepMind
+有了一堆努力
+Flamingo
+还有另外一个名字
+但是我们真的
+我们也许我们的调查计划
+和调查计划,也并传缺网络
+这也没什么理由
+所以说,我们应该一起一起工作
+我们直接参加某一个团队
+他们的目的是
+为全世界最佳情绪模式
+联系,交由公共资料
+看看有什么知识
+这就是佛伽解释的调查
+现在是怎么才开发资料
+我寫了一段文章,一個月或兩天後的
+因為我們也看到了我們有一個內容的研究
+我們可能是有一個內容的研究
+所以那是一個小研究
+但是我們可以... 我有一個問題
+就是 Google 拒絕發表《傳播》
+不,因為我覺得它有一個很好的影響
+Good. Okay.
+Since then Google does not publish as much.
+Or is that not true?
+Is that a misunderstanding about the policies?
+I mean, we definitely publish quite a lot still.
+I mean, if you look at the NURIPS program,
+we probably have 100 or something papers here.
+Maybe even more.
+I mean, I do think we're a little circumspect about things
+是最有趣的
+最大級的模式
+因為這是一個非常有趣的空間
+所以我們不在於
+發表最新的細節
+我們在GEM&I的訓練中
+說的各種各樣的細節
+但是我們一定會發表
+很多東西在
+最早期的工作
+不太確定是重要的
+我們只是想
+把想法的構思
+和解釋給社群
+讓社會 benefit from that work
+many spend a competitive advantage in attracting talent
+right that you publish
+and bunch of other labs don't necessarily
+or certainly haven't had the inclination to do it
+yeah I mean I think we're a big enough research
+organization that we actually have quite a lot of
+different threads of investigation that are not
+sort of the core gemini model
+to element their you know lots and lots of basic machine
+learning work and you know lots of other kind of
+non machine learning related research work
+所以我們有很快的發表
+好 所以我們要快速進行
+在最後幾個星期
+你放了《 Gemini 3 》
+突然有人記得
+Google是一個很厲害的公司
+我還以為他們忘記了
+但他們真的很感謝你
+有些事情發生在我們很很很
+很很強烈的
+但很長時間的房屋像是TPU
+我剛才說過,這很驚訝我
+怎麼這麼多的欠缺
+突然間在...
+等等,Google有一個更好的方法
+讓大家想想,因為他們有自己的新手機
+你能否說明一下
+你從哪兒開始?
+你覺得這個方法有什麼大不了?
+你認為這個方法有什麼大不了?
+對,我...
+The origins of the TPU program are basically that we
+I sat down and we saw that we were making lots of progress
+I'm making much higher quality speech recognition models in particular
+And also various kinds of computer vision tasks
+But they were quite compute intensive
+If you tried to run them on CPUs
+which was mostly what our compute platforms were
+所以我说,如果我们的说话,
+会有更多的更好的说法,
+人们可能想用它
+如果人们想说话,
+三分钟的时间,
+我们会有100万人
+想做这个
+那些计算筹码
+会有什么样的看法?
+如果我们想用这些筹码
+然后,
+码是很害怕的
+因为,
+我们想拔出这一种更好的说话
+计算筹码,
+我们会要变成
+计算筹码的数字
+那些计算筹码,
+而且如果不是負責負責任的
+它會很時間-延遲
+我們想能夠
+我們看到更大、更強大的
+紐約電腦會更好
+更多的地方
+所以我...
+我基本上
+從中央的計劃
+我轉入了一段時間
+是我們的想法
+開始我們的自己的 custom hardware
+因為我...
+也有了想
+如果你想用紐約的儲物
+他們有很少不同的儲物
+他們都很保持低能量
+因為低能量就是聲音
+紐約是聲音
+所以你沒有需要更多的記憶
+因為如果你有更大的壓力
+對,沒錯
+就像是泡河的記憶
+所以我發覺
+我們會把一切的困難努力
+開始會在資訊上重新重新重新
+因為那些是
+最痛苦的一切
+我們會覺得
+如果我們想把它操作成一個
+大量的利用者
+那會很棒
+我們有幾個人
+在我們香港的
+一些困難團隊
+在想用FPGA
+但是
+在一些議題上
+我們應該直接
+去做職業的
+因為FPGA的資訊
+我常常吃很多表演的食物
+所以我們結束了
+放出TPUV1
+這是一個PCIE卡
+還有CFO
+Patrick Bichette
+我把他推出了
+然後我跟他說
+我們應該負責50萬
+這些在我們的電子中心
+不太知道我們會如何做
+我們結束了
+他們用了所有的東西
+speech and vision, we ended up using them for rolling out
+much higher quality translation.
+And then, the TPU hardware folks started to focus much more on training
+as a much bigger ...
+... scale problem where you want to have many chips working together
+in concert with a super high speed interconnect,
+it's really much more of a machine learning super computer kind of thing
+And that's what we've now done multiple generations of
+但是回到第一次的決定
+或者你負責的
+Patrick說我們需要50萬美元
+那年是什麼時候
+2013
+好
+所以 way ahead of this curve
+我們看到
+在進行的工作
+在進行這些模式的進行
+我們會很大
+這就是我們的方法
+我們做了一個很好的
+研究的資料
+在ISCA
+主要的基礎建築公司
+現在是最多的紙幣和SCA歷史
+而那些表現的結果在那些紙幣
+顯示我們有30至30倍的比例
+比例的表現更好
+低級表現
+30至80倍的表現
+比例的表現更好
+比例的CPUs或CPUs更好
+這就是一個很大的
+對,非常大的問題
+Yeah so okay so now so as of today
+you have the most performant model
+you have a huge team spread across the world
+but largely focused west coast
+London said New York and some other places
+The Gemini team
+Yeah, the Gemini team
+you've got the data that pours in from all these products
+that are used by a billion plus people
+you've got a business model in the background
+that throws off 100 billion plus of free cashflow here
+how does anyone compete with Google?
+Join us?
+No, I mean, I'm not going to pontificate on that.
+I do think having the full stack of the hardware in the same organization as is also trying to build sort of advances in the models is very, very useful for us because we can essentially co-design and hardware takes a really long time to come out.
+所以,作為一個領導的領導者,
+你正在在想,
+在這兩至六年時間中,
+在這個兩至六年時間中,
+在這個兩至六年時間中,
+你會變成兩、半至六年時間的領導者。
+這很難做的工作,
+如果你有機器學者,
+在領導者中,
+你會發現一些東西,
+可能你還沒看完主播
+還沒看完註明
+但不太...
+他們有點復刻
+但是你能夠投入
+領域的領域或更好的領域
+那會很有趣
+那是一個很大的
+更大的一個更明顯的鏡頭
+你會進入未來的
+如果你是在做這個
+沒有所謂的 benefit of
+很多資料人
+分享領域的建議
+或他們的ML 建議
+然後你能夠把他們放進領域嗎
+也使用ML to design the hardware as help, right?
+Oh yeah, we are.
+One of the projects I helped instigate was using reinforcement learning to do placement and routing in chip design.
+And that has been now been used in three publicly disclosed three generations of TPUs and also a couple of other kinds of chips and has gotten better and better results each generation compared to here.
+i'm proud of human placement traditional cadgoles
+is it improving quality of the chips or is it speeding up the actual development of the chips or both
+ok so there are all these intersecting advantages being a Google
+where do you see so you know we're caught up a number of these things have happened around neuro
+nips as it was when you when you sold DNN
+我們會看到其他地方嗎
+會不會是
+我們會看到一個改變
+或是
+不同的建築物
+或是不同的建築物
+什麼意思
+我們會在五年 十年 二年
+什麼意思
+我們會在五年 十年 二年
+我想
+有很多有趣的
+導演和傳播
+我非常期待
+我認為
+我們知道
+當你把對的資料
+他們的資料在目前的層面中
+他們會很快地做好
+因為他們可以很快地
+把資料的資料
+他們最近看到
+和一百萬多的資料
+都被整合成一百萬的資料
+他們的資料都被整合成一百萬的資料
+所以我感覺
+看待技術的增加
+我們的能力在增加的資料
+是真的會很方便的
+我們要如何接受
+百分之百的資料
+比一百萬多
+或幾百萬多
+我非常期待這一點
+因為我想這應該會改變
+你們可以做的模式
+因為他們可以看得很清楚
+不只是一些
+手下的資料
+你會放在內容
+但是
+一個非常大的學者
+所有的資料
+或所有的影片
+或者一些這樣的東西
+我想這會需要
+有趣的新技能
+在硬碟的空間
+我們如何建立
+更加能量的
+更高的表現
+每碗每一萬元的硬碟
+硬碟的硬碟
+我們要關注的模式
+這會是一個
+很有趣的方式
+我非常期待的
+然後我感覺
+很多模式
+我們訓練的
+不做更多的
+终于学习ML的学习
+很久的ML社会
+他们有一个让我们调整的
+学习时期
+然后模特儿坐在这里
+并没有改变
+终于成为了
+那好像是对的
+有一个好原因
+这些是更安全的
+对 是的
+如果它能够学习
+就很难知道
+它会有什么学习
+完全是
+但是我感觉
+也许我们的模式 建议 和建议的形态
+是非常...
+它们不像自由形态的形态
+我感觉有更多的
+有趣的活动和形态的
+和其他模式的变化
+比起我们的MOE模式
+有很多的伙伴
+都同一样的形态
+你出来之后
+然后再来之后
+然后再出来之后
+那不太看似很有趣
+讓我們看看
+每個人給我們一個或兩種例子
+讓我們想想看世界的影響
+我們現在20年來選擇了
+在世界上發生了什麼事
+因為這個技術
+20年來可能人們不願意
+好 我可以在這兒
+寫一本有可能的文章
+如果任何人建立
+我們都會生日後還是死
+那是對於主題的原因
+20年以後,沒有人知道這個影響會有什麼影響
+影響在社會上,因為很多的工作會失去
+不一定會創造工作,這是我們的政治系統問題
+如果有大量的影響,那會如何分散?
+我們在美國的情況下
+我們不可能有政府可以做的
+對 我覺得
+我和一位很棒的副副書長
+看過了什麼影響AIB的影響
+在不同的地方
+這方面的影響可以有很棒的影響
+例如健康 學習
+能夠創造新的媒體
+但是也看了
+能否影響工作
+不知情緒
+與政治問題
+我覺得這件事情的整體分析
+我最興奮的是
+如何讓我們做 science breakthroughs 更快地發生
+在進行的關鍵
+在任何一個人的頭上
+不必能實現,這其他東西是重要的
+在一些完全不同的地區
+或是在研究的研究中
+有些地區的研究方式
+所以,讓我把這件事拿起
+一件大部分的大部分的模式
+是他們在用大量的知識
+並且沒有很多的連結,只有一億
+我們知道,在用大量的知識
+你必須要找到
+原來的不同的知識
+所以,我相信
+我認為當你訓練這些大型模型
+他們已經找到溫柔之間
+這些東西
+在於人們未曾見過溫柔之間
+他們知道更多
+一個人的溫柔
+他們可能會找到溫柔之間
+在於文字和語言
+和在於數量之間的技術
+並沒有人能經歷
+在於他們的 both of those
+並沒有很多人
+他們有文字和語言
+他們有文字和語言
+他們有文字和語言
+他們有文字和語言
+他們其實會很自然
+很多人會說
+他們不是很自然
+他們只是在於
+這是一個無辜
+I think they're going to be very good
+at seeing remote knowledge
+is because they're doing this massive compression.
+Yeah that that's sort of what I was trying to get at you.
+So if we take that to its kind of extension.
+We think health health care will be transformed
+by the development of drugs elimination of diseases.
+Treatment said an individual level when we understand your genome,
+Like healthcare is healthcare the single biggest possible transformation in society.
+還是…
+我覺得學生會比較舒服
+所以,在健康方面,如果你給醫生10次效率
+我們只會給醫生10次效率
+不僅要給醫生10次效率,你只會給醫生更多
+還有,如果你給醫生更多效率
+我們知道可以有更多的學生
+而且,在幾年內,有些人的AI會比較舒服
+然後,他們會更好比學生更好
+因為他們有幾百多個人
+我們可以獲得更多的教育
+所以我覺得這些項目會很棒
