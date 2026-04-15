@@ -1,0 +1,1214 @@
+siehto media excites people
+但不只是 fun it's exciting
+it's intuitive
+visible space is so much of how we as humans experience life
+i think I loved how much it's moved people
+i think we're now making it possible to like tell stories that you never could
+in a way the camera allowed anyone to capture reality when it became very accessible
+you're kinda capturing people's imagination
+你給他們的技術
+可以把他們的技術
+從心裡、手上、紙上
+看起來
+只是沒有辦法
+因為他們沒有技術
+或者他們沒有知識的技術
+那真的太棒了
+今天我們會談談
+Nicol Bricktova
+和Hansa Srinivasan
+團隊在Google的
+Nano Banana Image Model
+開始以2AM的名字
+和有 become a cultural phenomenon since
+They walk us through the technical leaps
+that made single image character consistency possible
+How high quality data, long multimodal context windows
+and disciplined human evals
+enabled reliable character consistency
+from a single photo
+and why craft and infrastructure
+matter as much as scale
+We discussed the trade-offs
+between pushing the frontier
+versus broad accessibility
+and where this technology is headed
+Multimodal creation, personalized learning, and specialized UIs that marry fine-grained control with hands-off automation.
+Finally, we'll touch on what's still missing for True AGI and Whitespace where startups should be building now.
+Enjoy the show.
+Nicole and Hansa, thank you so much for joining us today.
+We're so excited to be here to chat a little bit more about Nanobanana, which is taken the world by storm.
+We thought we'd start off with a fun question.
+你會有什麼個人的創意
+用Nano Banana
+或是你所看到的最創意的東西
+從社區的
+對,所以我認為
+我看到的最有趣的東西
+是
+這沒有發生過
+但這很明顯的
+在後面的
+是用影片模式
+來獲得
+實際的
+創意
+創意的狀態
+那是怎麼做的
+如何做到的
+我看過很多人在用不同的影片模式和資料來混合不同的產品
+所以我認為這應該是不太有趣的
+我知道有些產品在外面在用不同的模式來混合不同的產品
+但是我看過之前和之後的影片的不同度
+Nana Banana Launch has been pretty remarkable
+and it's much smoother
+and much more like what you'd want
+in the video creating process
+with scene cuts that feel natural
+so that's been cool
+and I don't know why it didn't totally occur to me
+that people would immediately do that
+but yeah
+one of my favorite ways that I didn't expect
+is how people have hacked around the model
+to use it for learning new things
+or digesting information
+I met somebody last week
+他用了這些不同的題目來作出的畫面
+很驚訝 因為文字圖文字圖不是我們想要的
+但這個人是用了這些很大的圖文
+來給我們看出一個模式的東西
+他用了這件文字圖來理解他父母的工作
+是一位大學生 而且是一個非常技術的題目
+所以 he's been feeding his lecturers two Gemini with nano Banana
+and then getting these shipped nos
+that are like very coherent
+and like visually digestible
+and for the first time I think in like decades
+they've been able to have a conversation with each other
+about his dad's work
+and that was really fun
+and something that I didn't see coming
+G subt.
+那是很好
+Yeah I think people are really working around
+you know like this model is amazing
+but obviously it's it's not perfect
+we have a lot of things we want to improve
+and I think I've been astounded by the ways
+我們一起為這個研究展望
+與我們與我們對這個提供的更新
+向我們將這件事情採訪
+有兩位在地區上
+你們是不是很想見到
+這件事會長得非常好
+我們不是說這件事
+是的,我認為Niccole對這件事很要緊
+我們有一個內容的模式
+我們在我們對他們的模式
+我們在他們的模式
+我有一天我只拍了一張照片
+然後我說
+我放在藍色的卡片上
+然後就像一張紙紙
+完全完全露出
+然後就出現了
+然後我看起來
+然後我再次跟我們
+所有模式的照片
+沒有其他模式
+其實我看起來
+我非常興奮
+然後人們看起來
+他們就說
+我們可以的
+你穿的紅色衣服
+哈哈哈
+然後我覺得
+它有幾個星期
+其他人能夠拿自己的照片
+玩著玩著
+然後就發現
+怎麼做得好
+你能夠做得好
+這就是主要的
+大家在模式上
+其實是在做的
+轉自己 into a 3D figurine
+就是
+你想要一個電腦
+你想要一個扭蛋
+然後你作為 figurine
+所以你三次
+那種方法
+可以用自己的方式
+表達自己
+看到自己的新方式
+新 ways and almost kind of like enhance your own identity
+has just been really fun
+and that for me was like oh man this is awesome
+What was it about what Nano Banana did with you on the red carpet
+that was miles better than what everyone else has
+It looked like me
+And it's very, it's very difficult for you to be able to judge
+character consistency on people's faces you don't know
+Yeah
+And so if I saw, you know, a version of you
+that's like an AI version of you
+I might be okay with it
+But you would say like oh no
+但是我看不到我的臉部的部分
+你可以真的只能做自己的
+這就是我們現在有Eval的很多團隊的
+他們的臉部是在看著模型的外表
+自己的臉部
+因為這是真的唯一的方法
+你能看得到自己的臉部
+你自己的臉部你也知道
+我記得我們開始做的
+我們自己是看到Niccole的
+Niccole vs 普通人
+我們可以Eval做
+是一個很大的分別
+在於 judge the model's capabilities
+我覺得是一個這樣
+那保留性的原理
+是很重要的
+其實是很方便的
+而且是
+你會覺得
+很奇怪
+所以我們看到
+很多其他模式不太在意
+我會問你
+我會想
+這個性格的性格
+並不是一個隱形的體制
+所以可能有兩件問題
+I'm sure there's stuff you can't tell us.
+But what can you tell us about how you achieved it?
+And then two, was that an explicit goal?
+Heading into the development of this model?
+Yeah, so I would say, I mean, yeah.
+I think there's definitely things that are tricky to say here,
+but I would say there's sort of different genres of ways
+to do image generation and so that plays,
+that definitely plays a part in how good it is.
+And I think it was definitely a goal from the beginning.
+因為我們知道它是一種模式
+我們在過去的模式中推出的
+我們認為它是一種模式
+因為每次你創作的照片
+你想要保持一些部分
+然後你想要改變一些東西
+Prior models 只是沒有很好的模式
+這也不太合理
+而且是很專業的
+但也不太合理
+因為它是一個模式
+我們聽說過
+年代的經紀人
+他們在生活中
+然後把他們放在生活照片上
+它必須看起來像你的產品
+100% 否則你不能把它放進去
+所以我們知道它有需要
+我們知道模式有什麼用
+我們覺得我們有正確的食譜
+both in terms of the model architecture
+and the data to finally make it happen
+我們覺得這就是我們最後的模式
+就是我們最後的模式
+就是我們最後的模式
+對 我覺得我們有正確的食譜
+就像 Nicole 說的
+但是你仍然看到模式
+你結束了訓練
+你其實是用它
+你不知道如何接近你會得到的
+對於那句話
+我覺得你都很驚訝
+對,我覺得其他事情是
+如果我們想起
+像大家預期的
+在你做的剪輯影片
+或是拍照
+你預期的高度保護
+是你不在乎的
+對於
+他們的模式
+和他們的設計
+那些是很難做的
+但是是一個很…
+這是一個很壞的事
+甚至是一個人用模式
+會想像是基本的東西
+就是你不想跟其他東西
+跟其他東西無關
+對,回到那一刻
+你自己在紅色的卡片裡
+然後,哇,那是我
+有些朋友跟我的同學
+一起玩了一段時間
+因為他們在拍照
+The question is beyond.
+Hey,that's actually me that you know the qualitative test.
+Is there some sort of an evil that you can put against that to make it quantitative that?
+You know,we have achieved the thing that we set out to achieve here.
+Yeah,so I actually think I think face consistency exactly for the reason the cool said is quite hard.
+It's quite hard for other people to do.
+I will say in general,I think what we found with image generation in particular,that's unlocked a lot for us,is like human evil.
+我們有一件做法的 因為我們銅鑼套房居 exercising
+我們去銅鑼套房居飾演的建築
+所以我們為這些建資 就是我們irel
+然後去修改
+我們來進行
+我們呢
+我們欣賞
+我們特別想開始
+是我們在學校一起 需要一起
+因為它是一種合作,有些人的生命,
+它是一個很技巧的語言,
+是一個模式的結果,
+是由不同的人來表達的。
+還有一些人在溝通的渠道,
+我們溝通的渠道,
+我們開始了內地,
+我們有藝術人士,
+在Google和Google的Depine,
+來表達這些模式。
+我們的職業會表達這些模式,
+這真的幫助,
+我覺得,
+建立了那種高級的歷史,
+為何這個模式,
+其實是很棒的,
+如果我們剛看過the quantitative benchmarks
+你可以說
+Oh, it's 10% better
+than this model that we had before
+那些情緒的開貨性不是不好
+like, I can now see myself in new ways
+or I can now finally edit this family photo
+that I cut up when I was five years old
+and I probably shouldn't have
+people have done that
+when then I am able to restore it
+i think you really need that qualitative user feedback
+in order to be able to tell that emotional story
+我想這可能是有很多的智能和AI能量
+但我覺得是特別的實際的
+視頻的實驗
+是很明顯的
+或者如果你想到有什麼像是
+科技、理念、理念
+你能夠真的放棄在一個答案
+所以更容易有這些很明顯的
+優質的優點
+但能夠達到一種角色的分別
+從一個很像2D的畫面
+是很難的
+你能否帶我們到
+一個技術的 breakthroughs
+能夠帶我們到那種角色的分別
+我們其實沒有看到其他地方
+我覺得一個重要的事情
+是有好多資料
+可以教導模型
+而且這是一個Gemini模型
+它是一個有很多的模式
+在很多資料中
+以及有很多的體能
+然後我覺得這就是
+它們的 secret sauce
+你真的需要模式
+能夠將它們的體能
+取得這個方式
+對, 我覺得
+另外一個很好的部分
+在模式上
+就是你也有
+很長的階段
+你可以提供一張照片
+但也可以提供很多
+然後在外面的部分
+你可以在多次的轉換中
+更加有交流的感覺
+就是這次的模式
+並沒有可能
+一、二年前我們在10個圖片中
+研究了10個圖片
+然後20分鐘後
+其實是有什麼看起來的
+這就是我從來沒有
+從來沒有在主題上
+因為太難了
+你沒有那麼多圖片
+太多的工作
+所以我覺得
+是一種
+像是在一般的
+你會得到更多的優點
+你會得到更多的優點
+而且你會得到更多的優點
+以及能夠保持更多的廣告
+然後你會得到更多的優點
+其實在資訊上的注意力
+在問題上的專注
+很多東西我們會得到更多的優點
+會感到
+有一個人在團隊裡
+會感到擔心他們的工作
+我們有些人在社交網站
+會感到擔心他們的工作
+所以我們在社交網站
+就是會感到更多的優點
+因為那個人就是會感到擔心他們的問題
+It's like It's not just about throwing high quantities of data in, right?
+I think that's one thing that's really important is it's
+There's this like a tension to detail
+And quality of you know, all the things you're doing with a model
+There's a lot of there's a lot of small design decisions
+And decision point to every point.
+And I think that like detail orientedness
+Of high quality is data and selections are really important.
+Yeah, It's the craft part,
+A.I. which we don't talk about a lot
+but I think it's super important.
+Yeah.
+How big was the team that worked on it?
+To ship it, it took a village.
+Yeah, especially because we switch ship across many products.
+So I think like there's like sort of the core sort of modeling team
+and then there's our close collaborators across like all the surfaces.
+Yeah.
+When you put them all together,
+you easily get into like dozens and hundreds.
+But the team who works on the model is much smaller.
+And then the people who actually make all the magic happen.
+我們有很多的資料團隊
+可以把所有的資料
+都儲存在我們看到的 demand
+這也是很棒的
+但我們真的喜歡
+我們在說的
+我們在說的
+這就是一個小國家
+你建立了什麼
+你建立了一些
+個人體或用家的
+或是建立了一些
+第一種能量的 mindset
+然後當能量變成
+你可以把這個能量 map to 個人體
+是一點點
+我對這兩種模式來說
+我們開始訓練新的模式
+我們有一個想法
+我們要有能量
+和設計的決定
+像是在年齡的時間
+如何快速的
+他們也有影響
+你自己的個人體
+因為這模式
+我們想要
+很快速的
+因為你可以有
+一個模式
+如果需要一分鐘
+或二分鐘
+b&c models versus video models
+that you just don't have to wait that long
+and so to us from the beginning
+it felt like a very consumer centric model
+but obviously we also have developer products
+and enterprise products
+and all of these capabilities
+end up being useful to them
+but really we've seen a ton of excitement
+on the consumer side
+in a way that I think we haven't before
+with our image models
+because it was very snappy
+autistic pro-level capabilities
+just really easily accessible
+through text prompt
+And so that's kind of
+how we started it out
+but than obvious, it ends up
+being up useful and other
+in other domains as well.
+Yeah, and I think one of the
+differences in philosophy
+so previously we'd worked on
+the imagine line of models
+which were straight image generation
+and I think one of the
+big philosophical goal changes
+in these Gemini image generation
+models is generalization
+is more
+有更多的能量
+所以我想也有很多
+我們想這個模式
+能夠在這個模式上
+代表別人
+讓他們看得到
+他們的照片
+也有很多
+我們也有很多
+從基礎模式的目標
+來的
+為了視頻的理解
+我想一件事
+驚訝我
+我猜是
+回到你的話題
+人們可以在學術問題上放置
+像是一張學術問題
+然後問它去解決問題
+所以你可以放置在學術問題上
+然後說
+這個角度
+那就是一個
+最能夠的東西
+有 both like
+理念、學術、理念
+和 visual understanding
+所以我覺得
+它們都是
+可以分享一下
+我只是有興趣
+它是一個很好的方法
+讓大家明白家庭的關係
+與博物館的關係
+能夠用來拼圖
+VO
+這些其他
+產品和模型
+都能夠使用
+在博物館的研究中
+能夠使用
+然後你能夠拿到它
+我們的目標
+是建立一個
+最強大的模型
+你可以用任何的模式
+然後可以把模式轉換成任何的模式
+這是北部星星
+我們當然沒有在那裡
+所以在那裡
+我們有很多特殊模式
+讓你得到很好的結果
+在一個特殊的 domain
+所以想像是一個例子
+例如影像代表
+VO 是一個例子
+例如影片代表
+以及創作
+所以我們都在
+發展這些模式
+去把那些模式的前面
+推出
+而且你會看到很多影片家在創作中
+但你也會學會很多
+你能把創作回到 Gemini
+然後做好創作的模式
+畫面是一段時間前的
+因為你只有一張圖
+所以畫面是比較便宜
+雙邊的電腦和電影時間
+所以我覺得
+很多創作的畫面
+我會在影片中
+看你拍的畫面
+像是6、12個月的畫面
+Over there there is that
+and so that's always kind of been the goal
+and so we have separate teams
+kind of developing these
+and then I think with image
+we're now moving closer to Gemini
+and to that vision of that
+single most powerful model
+and you will see that I think with some of the other
+modalities and along the way
+we'll release these experiences
+that are just like really powerful
+and like really exciting in that modality
+so like VO3 was really awesome
+because it brought audio into video
+generation right in a
+但是 at the beginning three was really awesome
+because it let you in real time
+kind of navigate a world
+and so in order to push that frontier
+it's very hard to like do all of that
+at the same time right now in one model
+and so to some extent
+these specialized models are kind of a testing ground
+but I would expect that like over time
+you know German I should be able to do all these things
+Oh that's so interesting
+Okay, we got to ask you about the name
+I suspect that the name was a bit of it
+it's an amazing product
+我相信名字給了它一點 boost
+因為這樣很容易記住 而且很有趣
+所以是開心的 accident
+還是有些創意的小孩
+知道這個會是正確的名字
+是開心的 accident
+所以我相信很多人都知道
+Model 出生在NLL Marina
+那裡的Model 也有
+那裡的部分是你給了一個名字
+如果沒有用NLM Marina
+你得到你的評審
+You'll get back to responses from two models.
+They have code names until they're publicly released.
+And I think it was like.
+We had to someone we were going at like 2am.
+And Nicole Nicole's our wonderful PM.
+There's another PM you have Nina.
+And someone messaged her being like.
+What do we name it?
+And she was really tired and exhausted.
+And she was like.
+This was the name of stroke of genius that came to her at 2am.
+This is you.
+不是我,是有人在我的網上
+名字是誰
+我可以拿到的
+還有一個
+但我覺得真的很好
+A. 很好玩
+我覺得真的好玩
+很容易被稱讚
+有一個表情
+是很重要的
+她沒有想過
+但她沒有想過
+最好是大家都只走過去
+走過了
+然後我認為
+很無聊
+很完美
+然後就看著一隻巨蛋的狀態
+但不,這是一個開心的事情
+然後就開始了,人們很愛它
+所以我們就把它們連結了
+現在有些是 banana  everywhere
+我們就在 Gemini 社群網上
+我們做的就是
+人們在抱怨
+他們在找到這個模式
+很難找到的
+所以我們就做得更簡單
+對,對,我認為
+在社群網上,人們都說
+Nanbanana,Nanbanana
+我怎麼用Nanbanana
+我之前有一個人在Google
+然後就配 work with to be like, how do I use nano banana.
+And I was like, it's Gemini.
+Just ask for an image.
+Yeah, but I think that's the thing.
+It's like I think Google's always had this really fun brand, right?
+Like, it's not like it's been a consumer oriented company at its inception.
+And I think it was really nice to to play on that
+那一 Looking for that image people have of like Google as a fun
+fun place, fun company and have this fun name.
+It's also just like a really nice path to fun,
+being kind of a gateway to utility,
+right I think nano banana and just the model in general
+and what you can do with it,
+like put yourself on the right Corpi
+do all the childhood dream professions you had.
+It's like a really fun entry point,
+but what's been awesome to see is that like once people are in the app
+and they are using Gemini,
+they start to use it for other things.
+然後變成了更多的用途
+在他們的日常生活中
+用它來學習
+學習所有的學習問題
+或用它來學習別的東西
+所以我覺得
+有時候是有點 undervalued
+有時候是有點有趣
+並不是只是用名字
+但也只是用我們建的產品
+因為它能讓人感到
+感到感到感到
+然後它能幫他們找到
+其他東西
+他們的模式是很棒的
+我覺得其他用家
+我的父母
+和他們的朋友在使用
+我覺得因為他們
+Had this reputation it was really easy. It was really fun.
+It felt unintimidating to try.
+You try it and you're like, actually this is very easy to work.
+This works very easily. It's very easy to interact with.
+There's no technology I think can sometimes be intimidating to people, especially AI right now.
+And I think the chatbot naturalness has broken a lot of that barriers, but maybe more so with younger people.
+我媽媽在做這些照片時,然後她可以用它來把人家的照片從她的背後拿出來的照片
+這些很實際的東西,開始很嚴重,然後人們可以用它來發現
+其實它們可以給你一些檔案,幫你理解他們的事
+所以我覺得它們也有一個很大的貢獻
+對
+你希望從這裡來
+也許從模特兒方面
+和產品方面
+產品方面
+我想有幾個領域
+在 consumer 方面
+我認為我們有很長的方式
+去讓這些東西更容易使用
+你會發現
+很多的NanoBanana Prompt
+有百個字
+然後人們會去
+然後把他們的文字
+寫進了 Gemini App
+然後做出這個工作
+去做這個工作
+因為賣相是值得的
+但我認為我們必須
+但是我們應該要通過這個
+專業面對於人工
+來做這些事
+非常容易使用
+我覺得在專業方面
+我們需要進入更加的精華控制
+kind of robustness
+like reproducibility
+做得更好
+and actual professional workflows
+對嗎
+我們對創作和改變的
+機能很棒
+但是我們不是100%的
+當你專業的時候
+你必須要100%的
+你真的需要這些精華
+或者是調整整個畫面的控制
+像每個畫面的畫面的畫面
+所以我們必須進入那種方式
+然後我覺得有一個很普遍的方式
+我非常期待的
+就是視角的資料
+所以我舉例過
+在開始的 sketch notes
+有人在用Nano Banana
+用這個方式的方式
+你可能想像
+做那樣的做法
+很多人都是視角學生
+我們真的沒有
+有可能有LLMS的能量
+可以幫你去視察
+資料的方式
+在什麼方式
+最自然的方式
+是你去使用
+所以有時候
+是一個檔案
+有時候是一個照片
+有時候
+可能是一個短片
+那你希望
+學習到
+有些概念
+你學習到的
+在一個文化學院
+或是那些
+我覺得是一個
+完全新的 domain
+我非常興奮
+就是這些模式
+會更好
+在95% 數碼的
+模式
+我們可以得到的這些模式,只是用作詞彩
+它是有用的,但不像我們在現實世界上使用的資料
+很有趣
+所以在產品方面,你認為你可能想維持
+更多的產品在其中
+而你也認為
+有些模式不只是用來證明
+文化和詞彩
+而更加有趣
+對,我認為
+我覺得 chatbuzz are an easy entry point for people
+因為你不用學會新 UI
+你只會說話
+然後你會說 whatever you want to do
+我覺得開始變得有點限制
+視頻的模式
+我覺得有很多的手段
+想想看
+什麼是新的
+新的 visual creation canvas for the future
+還有什麼樣子
+這樣不變得太有趣
+因為這些模式可以做更多的事情
+很難告訴 users something that's very open and it's like what the constraint are and like how do you work around that and like how do you actually use it in a productive way.
+所以我真的很期待到這些產品在這些設置上,
+我們有一個團叫Labs,
+在Google,
+在joshwood word,
+他們做很多這些,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+像,
+是產業的未來
+所以他們會建立一個
+紐德布克拉姆的產品
+然後在影片中發展
+我擔心可能
+產品可以變成這個地方
+讓你做一些這個創造
+想想看它在未來的情況下
+我覺得在短時間內
+它很清楚
+這個模型有些東西
+不太適合
+所以在短時間內
+它是必須要做
+每次你預期的方式
+不只是很多時候
+然後真的讓它很不一樣
+也许是一些小的事情
+在表现中是有点不太好
+我想是在中年代
+我认为
+Niccole 和我认为
+是为了
+有那种
+非常丰富的
+和平的新生物
+如果想问
+Gemini 要解释
+它将会解释
+在文化上
+我們想 about the platforms that have really taken off in the last like
+10, 20 years for learning, right, like
+我們想想, Kon Akademi started on YouTube
+我們想想, Wikipedia has a lot of images
+像是有很多資料, 像是很 simple, if you look at any math thing
+比如像是大概的資料, and so like
+所以那些資料要變成是
+那種有始終的體驗,這樣來形容
+而作用來形容, 從畫面的力量,
+我們說了這個新的能力,
+And seemsless generalization between modalities.
+Maybe the other interesting area as we think about these modals being more proactive
+at pulling in whether it's code or images or video
+when it's appropriate for the user intent.
+I think there's other exciting,
+I started out as a consultant
+in my career,
+and so obviously, I've made a lot of slide decks in my time,
+I still do.
+I think there's some of these use cases
+where you don't really want to be in the weeds of creation.
+你真的想要
+你正在更新你的職業的領導者
+如何進行的項目
+你想要把一些的 context 描述
+可能是 meeting knows
+可能是一些 bullet points
+可能是一些其他項目
+你已經建成的
+然後你可能想要 Jim 和我
+做好所有的工作
+把項目全部都拼合
+形容 創造
+合作的視頻 讓它很容易被拒絕
+那是你可能不想要
+進入的 而是進入了
+而是一些作用作用的作用
+你其實想要在創作中創造
+你想要在植物中創造
+你想要想想到
+什麼東西的 UI 看起來
+會令人容易取得
+目標的作用
+如果我設計了我的房間
+然後我可能會想玩
+玩具質素和不同顏色
+如果我把這座座座座
+如果我把這座座座
+所以我覺得有這個
+很輕鬆的模式
+Model go off and like pull in relevant visuals materials
+for a test that makes sense all the way to like
+How do you actually make a creative process like more fun
+and remove the tedious parts and remove the technical barriers
+that exist today with tools that we have
+This makes of giving the user fine grain control
+like the precision control they want
+but also at the other extreme having the model be able to
+understand the user request and anticipate right
+like the need and outcome that it should be
+做所有的交流工作
+對
+今天你好像是
+比較高興的職業
+對
+你如果是高興的設計師
+你會給他們一個資料
+然後他們會去做
+然後他們會做
+更多的職業
+因為他們有這些經驗
+所以這些模式
+應該可以做到
+而且他們今天
+沒有很多的經驗
+你覺得
+接下來的
+戰爭世界
+是怎樣的
+我覺得
+還有很多的工作
+在做這些模式
+更能夠做到
+所以這 idea of having a single model that can take anything and transform it into anything else,
+I think nobody has really figured that out.
+But I do think in order to actually drive adoption,
+there's probably two things.
+One is user interfaces.
+We still rely very heavily on the chatbots and we talked about this.
+It's useful for some things and it's a great entry point.
+But it maybe isn't useful for all the things.
+So I think starting to think about much more deeply about who are the users,
+他們在做什麼 如何能夠使用技術
+然後 什麼產品你建造成的
+讓他們做得好
+可能是一
+你認為5-10年來
+前一年會再進行
+快速的進行
+像是前幾年
+5-10年來
+現在感覺是20年來
+這就是空間
+你們可能也看到這個
+空間真的在進行
+如果問我兩年前
+我會告訴你這個空間是在移動的
+如果問我今天
+我會告訴你它移動得更快
+than it was two years ago
+好 我會問你一個很不同的問題
+所以我知道Google是很
+很小心心和關注
+關於深層的細節
+我必須想起
+你能看到這個模式
+有一個大談論
+我們要確保
+別人不利用它在錯的方式
+那是否有一個談判的進入
+在 Google 上
+你們會不會很開心
+已經結束了?
+我覺得是一件
+永遠的前途
+因為這個混合
+想給人們的自由
+去使用這些技術
+想給人們的控制
+使用這些技術
+在一種不覺得
+太負面的
+想要防止最壞的傷害
+我認為這就是
+我們 spend 很多時間
+很多時間在說話
+所以,當然,當你看見那些模式
+有一個維持的水平
+就像是在GEM&I的成績
+所以,這立即表示
+是AI的資料
+然後,我們也在每個設計
+我們在模式上產生的
+影片、影片、音樂
+他們是SynthID的
+是維持的水平
+所以,這些是
+維持的方式
+我們在維持的方式
+we are very invested in it and it is really important and we believe in it
+to give users these tools to be able to understand that
+when they're seeing something it's not a real video or it's not a real image
+And then obviously when we develop these models
+we do a ton of testing internally and also with external partners
+because of the models get more capable
+you find new attack factors
+and new ways that you have to mitigate for
+所以這就是我們繼續的研究方式
+我們繼續去投資
+當研究方式變得更好
+我們也要發展新的東西
+讓我們不再造成傷害
+但還要給予利用者
+創作和控制
+以使這些研究方式使用
+在產品上
+我覺得這是很難平衡的
+因為你會有人用好信用的技術
+你會有人用壞信用的技術
+我覺得很難
+是否有信用技術
+是否有責任的技術
+我們要很深深地
+利用者當然也要負責
+他們的技術
+但CyntID是很重要的技術
+讓我們把這些能量放在人身上
+還有一些信念
+我們可以依照這個方式
+並且有一個方式
+去 combat 和 負責的資訊
+但是這只是一個非常划算的
+我認為這就是我看到的
+每個人都很認真地
+有很多的 很多的討論
+如何去分辨
+現在是否有標準 經營的
+SynthID
+It's a Google standard
+It's a Google standard
+I believe there's like every Google
+Like Imagine the Imagine line
+Veo they all have
+SynthID when you use them in any product surface
+Interesting
+Alright you told us we can't go 5 to 10 years down the road
+Because things are moving too fast
+We'll go 1 to 3 years down the road
+Thank you
+Two questions
+One
+What will be possible that we can only dream about today
+2. 什麼會成為我們生活的結果?
+我希望一年來
+你會把學生和學生的策略和學生的策略
+和學生的策略和學生的策略
+對
+沒有理由為什麼
+我們要學習的學生和學生的策略
+如果我們有不同的學習
+和不同的開始點
+但這就是我們現在的
+這是我們學習的環境
+我認為在所有這些 breakthroughs
+這應該很可能
+你會有一個LLM tutor
+他會想出你學習的風格
+你喜歡的東西
+你可能會進入 basketball
+所以我需要解釋你
+在 basketball analogy
+所以我非常期待
+學習變得更加個人化
+這感覺非常得意
+我們必須確保
+我們沒有依靠
+有很高的效果
+所以我們需要在世界中放置一些現實的資料
+但是我真的很期待到那些
+這真的就是
+它會帶出很多的改變
+給大家的問題
+像是他們的影響
+我覺得它就變得更容易學習
+基本上就是任何東西
+那些非常有趣的東西
+你現在就不可以做了
+那可以用 Google 產品嗎
+有人應該要來看
+對 我覺得它會改變我們生活的方式
+我認為我們在這些技術上
+我已經看到它改變的方式
+因為我們很常使用它
+我們會把日子 saved with our model
+所以我認為我們會改變
+我認為最大的原因是
+新興建設性的進步
+我們有這些模式
+我們有扣子支援
+我們可以用模式
+去儲存東西
+去分析大量的資料
+我們可以將自己的工作
+這個年度和兩年前的工作
+可以將更多的資料
+進行更多的工作
+我覺得這就是
+技術的實力
+other industries just because that integration into their workflows or into their tooling hasn't happened
+I think you know some people like it's gonna replace me but at least what I have seen is
+it really just actually changes the amount of work an individual can get done
+what that means for businesses or economically I'm not sure
+but I think it means we will just see people be more empowered
+to hopefully do more in the same amount of time
+可能我們和朋友們一起去商量
+他們花了很多時間
+花了很多時間
+兩小時在做輪胎
+在推動
+在動輪胎
+在動輪胎
+希望他們不會要做到
+他們可以花時間
+想想他們的資料
+應該要在客人工作
+那是希望我們會看到的
+一到二年
+在這段時間內
+你會看到的
+有些有趣的地方
+你認為充分的開箱應該做
+Google 自己不可能做得到
+我覺得有很多空間
+就像在創作的設計
+我覺得有很多空間
+讓人想想看
+這些螢幕的未來的觀點
+像是創作的控制
+如何把所有東西都帶來
+我們看到很多人在創作的
+工作在LLM 影片和音樂中
+有他們的四個設計
+可以做到
+很多人想要的,例如給我一些交流,用一個想法
+當你開心,你拿到照片,開始想到
+哪些是最重要的畫面,在我的影片裡
+你花了很多時間在那裡,然後拿到影片模式
+就是還有另一個表面
+然後你想要有聲音和音樂,混合它們
+然後你可能想要一些重新剪輯
+然後你去一些傳統的軟體功能
+那些作用技術的技術
+可能會用來拼搏
+很多不同的技術
+所以作用技術是一個例子
+但可能會有一個方式
+讓你能更能夠
+做輸出技術和展示
+和推出技術給客人
+所以我覺得
+有很多機會
+讓一些大企業
+不可以進行
+對,有很多
+我們如何使用技術
+I'm saying a lot of things I don't know about in companies like financial workflows, but I imagine there's like a lot of tasks that could be automated could be made much more efficient.
+And I think startups are in a good position to really like go understand the specific client use case need that niche need and do that application layer versus what we really focused on
+是最重要的技術
+我認為我真的很興奮
+有很多人都很興奮
+在這個模式上
+如果這樣也有意思
+很多人在我的生活
+很多阿姆叔叔
+我父親
+朋友
+他們用電話碼
+他們問我
+他們會給我資訊
+我媽媽喜歡問
+電話碼的健康資訊
+但是
+有些事
+是一個很明顯的媒體
+那是很興奮的東西
+但不是只是很興奮
+是很有趣的
+視角是我們人生的體驗
+我認為我愛了
+人生的感受
+感情感
+感情感
+那是最有趣的
+我的孩子愛這東西
+他
+我三歲的兒子
+他把我们的狗狗脸抬起来
+像是这种黑脸的脸
+像是他自己抬起来的脸
+所以他看起来像是一位兵士
+我拿了一张照片
+然后把他拿到一张兵士
+对  exactly
+然后他感觉他非常有魅力
+对
+然后我丈夫会说
+他用了一个故事
+去说这些故事
+他学校学的学生
+如果他有一个小孩
+在学校上发生了一个小事
+或者是正式进行新的学校
+而且是讓人看見他和我和我和我們的家族
+和我們的女兒
+在這份玩笑的故事和教訓我們
+向他們提供的個人化
+我們討論過的
+所以我真的非常愛這場未來
+這場展覽會變得完全不同
+而且是很棒的
+因為這場故事是一個人或五個人
+你永遠都不會做的
+對嗎
+其他人可能不想看
+我會想要的
+但是我覺得我們現在真的現在
+可能可以告訴你你永遠不可以
+還有一個方法
+就是像是
+鏡頭讓人想要把真相拍攝
+當它變得很充足
+你會把人的想法拍攝
+你會給他們的技術
+讓他們能夠把他們的東西
+在他們的腦袋裡
+在紙上看起來
+只是沒有辦法的
+因為他們沒有技術
+他們沒有了技術的
+那是很棒的
+那是一個好方法
+謝謝你
+謝謝你
+謝謝你
