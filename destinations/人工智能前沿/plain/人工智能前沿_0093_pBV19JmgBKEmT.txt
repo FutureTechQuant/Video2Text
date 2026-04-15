@@ -1,0 +1,344 @@
+我們開始我們的測試
+由一位叫 Alan Turing
+他在1950年代
+發表了什麼叫做測試
+現在Turing是 known as
+父親的科學
+所以他做了很多
+他的一份領導是這個
+是一個方法去測試
+如果一個科學是真的 intelligent 還是不
+所以這是 how the Turing test works
+你會有一個人的物體
+他们是在一个楼下分开的
+他们不可以看到是谁
+他们在计划上导致
+他们会通过一个电话
+或者一个人
+在另一个地方
+如果他们在计划和回答
+如果这个人不可以说
+如果他们在计划上
+或者电话
+我们会证明这个人
+是有意义的
+所以这是他所提出的
+那是我的名字
+我当时在我当年
+写了我的《广告》
+这就是我们的设计
+这就是我们的设计
+Ai的词是在1956年
+开始的
+我们开始
+在这段时间中
+在最后的50年
+有一个设计
+叫Lisp
+Lisp是
+短缩的设计
+在我最早的日子內的AI封面
+這就是我們使用的
+所以在最初80年
+我們仍然還以為
+你用AI封面的方式
+現在記得
+我提到封面
+我們現在的一些東西
+並沒有很多封面
+像是學習
+我們會來到了這幾分鐘
+但是Lisp
+很有趣的
+在IBM 704系統中
+最初它就在IBM 704系統
+所以IBM在那些很早的日子裡
+並且很重複地在這種承諾的承諾
+是一個東西在自己的背後
+它很難以進行的程度
+但想想它這個方式
+如果您不知道承諾的方式
+我看到了一個 definition
+它說的 definition
+承諾的方式是
+看承諾的方式
+所以 它承諾的方式
+在自己的背後
+它變得很難以進行
+但它可以很強烈
+很联系的
+如果做得對
+但是如果你想改變
+讓你的系統更好
+你必須進行
+再寫更多的程序
+這是我所做的
+現在
+在60年代後
+我們出現了一件事叫
+Eliza
+Eliza
+是真的第一的
+電話
+如果你想想像一下
+就像今天的電話
+並不太是很成熟的
+它是想要
+談話
+它会说话很像一个心理人
+它会问你
+你今天怎么做
+你会回答
+你会回答什么
+你会做什么
+你会感觉到什么
+然后去跟那些回答
+但是它给我们的第一个感觉
+是一个系统
+它们的理解是这样的
+它们也做了一些
+自然的语言的方式
+所以你能够把你的语言
+不僅僅在特殊領導
+但你能夠實際地
+把它放進一個方式
+讓你能夠表達自己
+然後人們開始得知
+他們在說話的
+一個智慧
+在70年代
+我們開始要有
+另一種計畫語言
+人們開始
+開始做AI計畫
+我開始用它
+在80年代
+這個名字的名字叫
+Prolog
+它是短文計畫的
+And the idea was
+Instead of having these recursive systems
+that we had with LisB
+with Prolog, we had a bunch of rules
+and you would set down a whole bunch of rules
+maybe relationships or things like that
+and then have it run inferences
+against those things
+but again, with both of these systems
+one of the major hallmarks was
+if you wanted to make your system
+more intelligent, add more capability to it
+you had to go back and add more code
+so you were programming these systems
+他們沒有在我們今天想的
+在80年代的時候
+我們開始有一個
+雙重的經濟系統
+我們可以有系統
+可以學會一些東西
+可以給我們一些負面的
+然後可以解決
+一些建議可以給我們
+在這個狀況之下
+我們在大部分的行業
+有很多的期望
+很多的期望
+但仍然沒有在這個期望上
+並沒有在大家的想法中
+如果大家開始比較興奮
+他們開始更興奮
+當他們看到了這個經濟
+他們不太能夠學習
+和學習得更快
+然後有一個大棟範
+在1997年
+IBM 建立了一個 AI 系統
+叫做 Deep Blue
+深入的 blue did was for the first time in history
+我們有一個最好的遊戲劇本
+我們有一個最好的遊戲劇本
+我們有一個最好的遊戲劇本
+我們有一個最好的遊戲劇本
+我們有一個最好的遊戲劇本
+現在已經有想過
+你可以寫一個遊戲劇本
+可以作出一個遊戲劇本
+甚至一個很好的遊戲劇本
+但要去超越
+技術、經濟、計劃、技術
+技術、技術、技術
+然後讓我們變成一個
+就是他在1997年代
+那是一段很久的回憶
+然後發生了
+它真的發揮了
+重新探討了
+A.I的想法
+然後我們進行
+2000年代的進行
+現在這個技術
+其實在一段時間內
+在它真的發揮了
+它真的發揮了
+它真的發揮了
+它真的發揮了
+它真的發揮了
+它真的發揮了
+它真的發揮了
+后来又开始搬到ENT 运动
+我们在 �搁啊 选择了
+衔接关节
+在航行啦
+就开始运动
+就开始运动
+对 运动
+那我们就变但同意
+智能
+然后曾经到别人的
+这次的设计是学习的
+我们会展现很多不同的东西
+然后问它们想想看
+什么是最后一件事
+或者我会展现很多东西
+然后问它们说
+哪一件东西不需要在这个设计上
+所以它们是圣诞的
+在律动上
+那是机构学习
+它们是学习
+从看到这些圣诞
+然后承认它
+但它可以在一个大量的设计上
+很难为人们
+做得到的
+接下来我们用
+机构学习和深学学的能量
+還有一個很大的一條路
+在2011年發生的
+當TV的遊戲節目
+IBM用了一台電腦叫Watson
+玩Jeparty
+Jeparty是一個遊戲
+如果你不 familiar with it
+問了很多Trivia questions
+很多不同的問題
+這其實是一個很難解決的問題
+有很多原因
+一是因為問題
+有自然的語言
+而是我們用語言
+語言可以變成很好的學歷
+我們用的東西像是鵬鵬、蝴蝶、蜘蛛
+如果我說蝴蝶、蜘蛛、蜘蛛在外面
+我不會說蝴蝶是小的
+在空中的小物
+但這些是那些東西
+去到蜘蛛的蜘蛛
+我們要有一個 computer
+會理解那些人的語言
+理解他們的意義
+你不可以只认为计划、计划、计划、计划
+那些你不可以认为计划的所有的
+你不可以计划的所有的
+你认为的那些骗子
+所以这就是一个非常困难的问题
+IBM有一个案子
+我们用了我们的瓦斯恩计划
+对两位全球职业军队的
+2次军队军队军队军队
+那是在2011年
+我们两个都打了三个晚上
+这就是另一个大小的调查
+而且我认为
+这一切比较快的
+比较快的
+因为这些权力
+有很多的权力
+而这种权力
+是非常之大
+所以你必须要
+为了一个优秀的
+这种系统
+不可能就去网站
+去网站
+你必须要
+很快地回答
+因为你会知道
+如果你没有看过
+《紧张》
+如果你没有回答
+那些人會回答你
+如果你是第一位答案
+你錯了
+你會失去點
+所以你要考慮
+我如何確定答案
+這就是
+很多很重要的工作
+再次展示了
+AI
+之後有過了
+很大的失敗
+人們並沒有看到
+很多這個
+在2022年
+我們有一個更大的
+影響點
+A.I.'s suddenly got real for a lot of people,
+and that was when we introduced this idea of generative AI
+based on foundation models
+and here is where we started to see the rise of the chatbots,
+and that's what got everyone's imagination,
+because now we were seeing
+not a fairly stiff natural language processor like Eliza was
+that was very limited in terms of what it could talk about,
+now we have something that acted like an expert,
+and it would do all kinds of amazing things.
+它們都會知道答案的
+會很相同
+這就是很多人的想法
+它們覺得AI終於成功了
+它們能夠更加多的文章
+我們可以用它作為報告
+我們可以用它作為網絡
+或是文件
+我們可以用它來作為影像
+或是作為聲音
+我們可以從那裡
+也能夠作為深深的深刻
+所以我可以有一個
+很實際的人物
+看起來很實際,會令人失望
+很多好,很多壞,很多這類的事發生
+但是很多興趣
+我告訴你,很多人都覺得
+這就是當時AI突然變得真正
+即使是在一段時間內發生了
+然後,我們在哪裡呢?
+我們已經在2025年
+我認為是年代的年代
+這是當時我們開始看到
+Agentic AI coming in
+where we're taking an AI
+and giving it more autonomy
+where it's able to operate on its own
+we give it certain goals
+and things that it's supposed to accomplish
+and then it uses different services
+in order to accomplish those things for us
+so we're gonna see a lot more
+of this happening as well
+and now where does the future head for us
+well the short version is
+if all of this is
+a sort of artificial narrow intelligence
+where the intelligence is specific
+sacred music in particular, areas, things that it can do
+well, the next thing to be would be artificial generally intelligence, where we have something that is smart or smarter than a person in essentially every area that we could imagine,
+and then the next area would be artificial superintelligence where we have something that far exceeds human capabilities in terms of intelligence across a wide variety of things,
+基本上,我们是像我们从这些年轻时开始的进步
+到我们开始加强更多的能量, 跟机构学习,
+然后我们开始介绍了生物生物, 现在我们已经在空中了
+一年,我们感觉生物生物是一种纸巾的
+然后,突然间,我们感觉生物生物可以做所有的事
+但是,真的吗?
