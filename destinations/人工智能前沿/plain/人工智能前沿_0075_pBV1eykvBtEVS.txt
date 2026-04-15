@@ -1,0 +1,908 @@
+Hello everybody, good afternoon, good morning.
+And I am delighted to be the one chosen to introduce to you this really distinguished group of people that we've got here sitting around the table.
+Six, I think, of the most brilliant, most consequential people on the planet today.
+And I don't think that's an overstatement.
+So these are the winners of the 2025 Queen Elizabeth Prize for Engineering.
+And it honours the laureates here that we see today
+在今天的《技術和技術》中的一個大影響
+在《技術和技術》中的一個大影響
+以及《技術和技術》中的一個大影響
+我認為這很明顯
+為何這很少人有機會和你一起擁抱
+我個人來說
+我非常期待聽你回顧
+這段時間的一刻
+讓大家明白 讓大家明白
+你的旅程 旅程 今天帶來的你
+但也要明白 你的工作
+以及你 身為一個人
+有影響和影響的一個人
+以及你建造的 公司和技術
+最後 我想聽到你
+想看著
+和我們一起看到
+更清楚你最好的運動
+所以我非常高興你來今天跟我們一起
+and looking forward to this…
+to the discussion
+所以我開始了
+從來往的簡單來講
+to the very personal
+我希望聽到每個人的
+你的個人…
+kind of ah-ha moment
+in your career that you've had
+你認為有影響了
+the work that you've done
+是你做的一個轉換點
+that brought you on this path
+while you're sitting here today
+whether it was kind of early in your career
+你會有更多的資料
+你會有更多的個人意識
+這方面會影響到技術
+我們開始吧
+謝謝
+有興趣的
+我會去兩個時刻
+我當時是學校的
+我找到一些有趣的資料
+我寫了一些早期的文章
+我以為這很有趣
+可能有幾個簡單的理念
+例如法律和精神
+能夠幫我們理解人類的精神
+以及幫我們建立了精神的機器
+第二個問題我會討論
+是兩年後後GPT發表了
+我發現
+我們在做什麼
+如果我們建立機器
+能夠理解語言
+有目標
+我們沒有控制那些目標
+如果我們是更小的人
+如果我們是更大的人
+我們可以用這個力量
+所以我決定完全改變
+我的研究和生產
+來做任何事情
+我可以做的
+這兩件事
+非常有趣
+告訴我們你的時候
+建立了這個環境
+我們在這裏
+我給你兩件事
+首先
+在1990年
+我在斯坦佛州
+想想想看
+我才有在這時候用的記憶物
+記憶物的資料是更加的貴
+在時間和能量上做的
+我開始用它作為
+我建立了一些
+關於電視的電視
+所以我可以做很多的
+電視 without having to do
+很大量的記憶物
+這就成為了
+電視的工作
+我們原來建立了
+我們可以建立
+電視的電視不是只是
+所以我第二天在史丹河州
+在1960年我跟我的朋友
+安德瑩在史丹河州
+在他在搜尋搜尋
+搜尋網路的CATS
+用16000CPUs
+用這個技術叫NURAL NETWORKS
+- 他們有什麼可以做的
+- 他基本上對我來說
+這是一個很棒的技術
+所以我跟BrianCATS
+我重新重新重新
+在48CPUs的NVIDIA
+我看到結果
+我完全確定
+我們必須建立GPUs
+因為它有很大的應用項目
+和所有的場地
+在找貓
+這就是我們開始的
+很努力的工作
+特定GPUs
+進行進行進行
+那時候是甚麼時候
+早餐在2010年
+我們重新進行
+在2011年
+Jeff 告訴我們
+我有一個很重要的時刻
+在1984年我用轉換文字
+來學習了
+文字的 next word
+所以是一個小文字
+而我發現
+這會學習了
+有趣的特技
+用文字的意思
+所以我只用
+一張圖片來
+我只想
+用文字的 next word
+用文字的意思
+這可以學習
+用文字的文字
+來解釋
+文字的意思
+有些人的反應,即將來自於其他人的
+所以,這是一個小型的語言模式
+從1984年來的
+我認為這是一個
+一個大型的語言模式
+基本的理念是一樣的
+只是小型的
+但它只有一百個訓練
+它只有一十年來的訓練
+它只有一十年來的訓練
+而為何它只有一十年來的訓練
+因為我們沒有電腦
+我們沒有資料
+我們沒有知道那些訓練
+我們沒有明白
+我們沒有想要把所有的東西都解決
+這對我們來說是很清晰的
+我們沒有用電腦四十年來
+現在你正在建築
+告訴我們你的時刻
+是一種真正的確實
+我從小我曾經是
+第一代的舊設計師
+可以使用高級的代表
+和設計技術, 設計舊設計
+嗯
+嗯
+and that discovery was helpful when I learned about a new way of developing software
+around the 2010 timeframe simultaneously from three different labs
+what was going on in University of Toronto
+researchers reached out to us at the same time that researchers
+我們也曾經在今時刻
+威櫻學院見到
+我們最前的大議題
+我們也曾經在今時刻
+威櫻學院見到
+我們最前大議題
+和我們最前大議題
+和我們最前大議題
+而我們最前大議題
+我們在這段時間的
+導入我們看資料
+由於我們以
+一種生物化的
+技術
+建造發展
+作為目的
+以它為協助
+而它協助
+而這次的
+那第二觀點
+再次看到
+用上領域的高級表現
+建築的類型
+建築的類型
+像是深學的學習
+能夠發展的程度
+很像我設計的
+我設計的程度
+很像
+我發現
+那時候
+我們可能能夠發展
+能夠分析到我們
+品牌已成功的過程
+這就是其中一 moment
+你覺得是什麼時候
+品牌已經開始分析
+今天我們的目標
+已經是2010年
+15年
+對
+以維吾爾的建築方式
+你要有棒的技術
+因為它變成了 parallel
+你可以讓它運作在 multiple GPUs
+那同樣的感覺
+將用多種的規模的 algorithm 運作在
+一種GPU
+是同一個 logic 和同一個 reasoning
+你可以使用 multiple GPUs
+現在有很多系統
+也有很多資料中心
+所以當我們發現
+我們可以做到的
+那其他部分
+than the rest of it is about imagining how far you could extrapolate this capability.
+How much data do we have, how large can the networks be,
+how much dimensionality can it capture,
+what kind of problems can it solve.
+All of that is really engineering at that point.
+The observation that deep learning models are so effective
+是真的蠻有趣的
+其他東西是真的有研究的
+菲菲,你告訴我們你的時刻
+是的,我也有兩秒的時間
+在2006年和2007年
+我從學校生產生
+到年輕的學校生產生
+我第一代是
+Machine Learning graduate students
+reading papers from young Yoshua Jeff
+and I was really obsessed in trying to solve the problem of visual recognition
+which is the ability for machines to see meaning in objects in everyday pictures
+and we were struggling with this problem in machine learning called generalizability
+就是 after learning from certain number of examples
+Can we recognize something new example, new sample
+And I've tried every single algorithm under the sun from base net
+Support vector machines to neural network
+And the missing piece that my student and I realized is that data is missing
+That you know if you look at the evolution or development of intelligent animals
+例如人類的資料 were inundated with data
+in the early years of development
+but our machines were starved with data
+So we decided to do something crazy at that time
+to create an internet scale data set
+Over the course of three years called ImageNet
+That included 15 million images hand curated
+by people around the world
+在22000個位置
+所以我認為
+AHA的目標是
+大量電腦的機制
+現在是限制
+整個建築物的
+規定的方式
+對 這是今天的AHA的
+計劃法
+第二 AHA的目標是
+2018年
+我第一位
+AHA的副副學者
+在Google Cloud
+我們做的工作是在供應所有的股份
+從健康、資料、生產、生物、生物、生物、生物、生物、生物
+這幾年後,我們稱呼的
+《Image that Alex That Moment》
+幾年後,我發現
+我們要做的是用手機的方式
+可以把人們玩中國的遊戲
+是的
+當我發現這就是一個
+建築物的技術
+會影響每個人的
+和其他人的行業
+如果人類會進入
+A.I. era
+What is the guiding framework
+so that we not only innovate
+but we also bring benevolence
+through this powerful technology to everybody
+and that's when I returned to Stanford
+as a professor to co-found
+the Human Center A.I. Institute
+and propose the Human Center A.I. framework
+so that we can keep humanity
+人類的價值在中間的這個技術中
+對 而在發展 但也在看影響的
+然後是怎樣的 這是我們其他人的原因
+Jan 想要讓我們來看看
+您的介紹是什麼
+我大概會回到我的時間
+我發現當我當時有一個新的手段
+我比較喜歡的 因為我比較喜歡的
+在意義和意義的意義
+我更加地發現
+人們在50年 60年代
+在訓練的機器 而不斷地訓練
+我认为他们的设计是非常有趣的
+但是这些设计可能是因为我以为
+他们太有趣或太有趣
+他们要建立一个电脑机
+所以更好让它自己
+自己建立
+自己设计的
+这就是
+在生活中的智能
+自己建立
+自己设计的
+所以我认为这种设计
+非常有趣
+我从研究中学习的
+I wanted to go to grad school.
+I couldn't find anybody who was working on this,
+but connected with some people who were interested in this
+and discovered Jeff's papers, for example.
+And he was the person in the world I wanted to meet most,
+in 1983, when I started grad school.
+We eventually met two years later.
+And today you're friends,would you say?
+Yes.
+We had lunch together in 1985
+我們可以結束其他的語言
+他在一個會議中寫了一篇文章
+他在一個會議中寫了一篇文章
+他能夠解釋他的文章
+他好像是用來修補
+他知道從1960年
+他知道修補的限制
+是因為我們沒有修補
+修補的限制有很多的設計
+所以這是我的狀況
+那是他的操作
+所以我寫了一篇文章
+那種提供一些方式
+做的事
+然後他就能夠
+去讀書
+所以我們就這樣
+扣折了
+那就是你這個部分
+對
+然後
+之後
+你能夠
+練習
+有些特別的
+系統
+你問了很多問題
+所以
+你如何建立他們
+所以他們會做
+一些很方便的
+像拍照
+或是那種
+然後
+Jeff和我
+在近年80年
+Lostdoc within in the late 80s,
+I I, I thought the only machine learning paradigm
+that was well formulated was supervised running.
+You you show me machine and you tell it,
+what the answer is, right?
+And he said, no, no, no,
+like the only way we're going to get to make progress
+is to unsupervised running and I was going to dismissing
+this at the time.
+And what happened in, you know,
+the mid 2000s when you are trying to sort of
+我們開始一起開始
+我們開始興趣
+我們其實
+我們可以把我們的招式
+和運動運動運動
+和運動運動運動
+我們現在還要
+運動運動運動
+這是不是運動運動
+這是在發展
+資料的構思
+不需要訓練
+無論如何
+這就是
+為何LLM是訓練的
+LLM是訓練
+來預計下的
+但並不是一個運動
+它是一個方式 讓我們學習一個好的表現
+或者是努力
+那是否有一個獲得的系統
+對不起 這是一個技術
+但沒有其他人說
+這句話是對的
+所以我們繼續做
+這句話是對的
+如果你想對下的
+對
+那是不同的
+從學習的負擔
+你會說這句話是好
+對
+所以
+我會把你打算
+它是在…
+Phefe 製作這個大數字的大數字
+它是在用了辨識的
+所以我們可以用超級運動
+來訓練系統
+這並不合理
+其實更好比我們預期的
+所以我們會隨時
+把整個運動的程式
+自動運動和不運動運動
+因為超級運動
+它還在運動得很好
+我們有幾個技巧
+Yoshi 我在想
+我還沒做過
+- 還沒做完 還沒做完
+- 但它還要重新重新重新整個工程
+- 如果你想要深深的學習
+- 等等
+- 它還要再幾年
+- 可能在2016年17年
+- 告訴別人
+- 這是我們需要做的
+- 現在要做的
+- 這是LLM的最好的例子
+但我們現在正在提供這件事
+以其他類型的資料
+例如影片、傳輯資料
+這些資料是非常不太好看的
+這是新的挑戰
+這其實帶我們到現在的狀況
+你們都會看到這點
+有關於人們的興趣
+以前沒有想過
+現在所有人都在看這件事
+這就變成了更多的技術
+很大一份工作,是變成了一個
+一個 geopolitical strategy issue
+大家都在試著採取他們的手段
+他們的頭在哪裡
+我先來問你
+我希望你會在這時候
+反映到現在
+NVIDIA,在每天的日子
+每天的日子
+你會成為
+世界最重要的公司
+是人們想的
+你會想聽到
+對
+告訴我們
+你擔心我們會到達
+人們不懂得的
+我們都會走向自己
+然後會有一個說法
+就是有一個寶寶
+會有一個寶寶
+然後會寄給自己
+如果不是
+那是一個大錯誤
+是要求
+來自AI
+是不同的
+例如.com
+或是那些人不懂
+如果那不是個案
+在 dot com 時期
+在發酵時
+大部分的水分
+被淡化的大部分
+被淡化的大部分
+被淡化的大部分
+meaning the industry
+被淡化的大部分
+被淡化的大部分
+今天
+每個 GPU 找到
+是用了的
+所以
+為什麼
+我們要步步進行理解 what AI is
+A lot of people AI is chat GBT and its image generation
+and that's all true, that's one of the applications of it
+And AI has advanced tremendously in the last several years
+the ability to not just memorize and generalize
+but to reason and effectively think and ground itself through research
+It's able to produce answers and do things that are much more valuable now.
+It's much more effective.
+And the number of companies that are able to build businesses that are helpful to other businesses
+for example, a software programming company, an AI software company that we use called Cursor
+they're very profitable and we use their software tremendously.
+And it's incredibly useful or a bridge or open evidence
+企業的證據,在做得很好,
+在做得很好的結果。
+所以,AI的能量已經增加了,
+而我們看到這兩種廣告,
+同時在同一方面,
+能量需要的公共機制,
+能量增加了,
+另一方面,
+能量的利用,
+AI的模式,
+也增加了,
+這兩種廣告,
+而在研究上有很多的需要
+現在我們要回到一步
+你問自己
+基本上是什麼不同
+在於A.I. 今天
+和過去的軟件
+軟件在過去的軟件
+是非常複雜
+而需要的量要求
+軟件不太高
+但如果A.I. 能夠變得更好
+它必須要有意見
+它必須要
+只能夠在現今的運動中
+創造了才能
+You can't produce it in advance and retrieve it.
+That is called content.
+AI intelligence has to be produced
+and generated in real time.
+And so, as result.
+We now have an industry
+where the computation necessary
+to produce something that is really valuable
+and high demand is quite substantial.
+We have created an industry that requires factories.
+That is why I remind ourselves
+that AI needs factories
+asser to produce these tokens to produce the intelligence
+and this is a once in a never happened before
+where the computer is actually part of a factory
+and so we need hundreds of billions of dollars
+of these factories in order to serve the trillions of dollars
+of industries that sits on top
+of intelligence.You know
+come back and take a look at software in the past
+software in the past, is they are software tools
+A.I. 是肺炎性的
+肺炎性的努力也很重要
+你認為這不是肺炎性的
+我們在肺炎性的開始上
+我們會用A.I. 作為肺炎性的
+而有一天 將來我們會用A.I. 作為肺炎性的
+你會把AI接觸得到
+所以在我們今天之間
+我們的使用是很低的
+在我們會有一天
+使用是基本上是不一樣的
+那種建築物是
+即使LLM的路線出現
+你認為GPUs
+和建築物的資料
+可以用在不同的 paradigm
+然後我想開放別人
+LLM是一部份的AI technology
+AIs 都是系統的模式
+而不是LLMs,LLMs是一個大部分
+但是它是系統的模式
+而技術需要AI更多的產品
+從它們的現實上
+以我們所謂的
+我們仍然有很多技術
+來發展
+誰想要進入這個
+尤其是你不願意
+我們應該不想再叫他們LLMs
+他們不只是語言模式
+他们在评论中开始
+至少是在评论中的语言模式
+但最近有很多的前提
+在让他们的经济
+在其他地方
+去通过随意的步骤
+进行进行一些
+进行一些进行的进行
+在人们的调查中
+但更加的
+在访问中的发展
+技术是在改变的
+它不是一样的
+是三年前的事情
+所以我們不想想想看
+我們會在5年、10年內
+進行這個技術
+但我們可以看到這個傳統
+所以我做的一件事
+是在一起帶來
+一個國際經濟學者
+去保留著
+在於發生什麼事
+在哪裡發生
+什麼危險
+怎麼被拒絕
+這個傳統很清楚
+我們有很多的成績
+因為我們有這麼多的成績
+而在過去的技術上
+它不代表是一樣的
+所以那會是
+財富的結果
+如果以後的期待
+但在長期之下
+我完全同意
+現在的問題
+你認為
+價值在於
+你所知道的技術
+的 applications
+So I think there are three trends that sort of explain what's going on.
+The first is the models are getting more efficient.
+If you look just at attention for example going from straight attention to GQA to MLA,
+you get the same or better results with far less computation.
+And so that then drives demand in ways where things that may have been too expensive
+before become inexpensive enough now you can do more with AI.
+At the same time the models are getting better and maybe they'll continue to get better
+跟新的建築者或新的建築者
+會來臨
+但我們不會再往後
+我們會繼續有更好的模式
+我們仍然需要GPUs
+即使我們沒有
+轉換基礎
+其實這會令我們
+更加值得的
+更加特別的東西
+因為他們更加有力量
+他們可以更加
+進入更好的模式
+但最後一件
+我們開始
+開始用這個技術
+用了各種的
+所以每個領導
+每個人的生活
+可以更好
+用AI
+幫助別人
+他們的職業 幫助他們在他們的日常生活
+我們開始達到可能1%的最終要求
+所以這次的用途會增加
+所以我們不覺得有什麼大問題
+我們像Genson說的
+我們在最初的開始
+我們會繼續走
+還有一些影片也有關這次的
+因為即使這個行動有改變
+還有其他類型的AI和其他建築物
+需要電腦
+所以這也有所作用
+你想要進入肥肥嗎
+對 我認為
+從市場的觀點
+它會有自己的自己的能量
+而且有時候它會調整
+但如果您看長期的程度
+我們不要忘記
+AI最大購買的地方
+是一個很年輕的地方
+我們走進這個房間
+在樓下有個性格
+Fysics has been a more than 400-year-old discipline
+even if we look at modern physics.
+AI is less than 70 years old,
+we go back to Alan Turing.
+That's about 75 years.
+So there are a lot more new frontiers that is to come.
+You know, Jensen and Yoshua talk about LLMs and agents.
+Those are more language based,
+but even if you do in self introspection of human intelligence
+There's more intelligent capabilities beyond language.
+I have been working on spatial intelligence
+which is really the combination or the linchpin
+between perception and action
+where you know humans and animals have incredible
+ability to perceive reasons interact with
+And create worlds that goes far beyond language.
+And even today's most powerful language based or LLM based models
+Fail at rudimentary spatial intelligence tests.
+So from that point of view as a discipline as a science
+There's far more frontiers to conquer and to open up
+And that brings the applications, you know opens up more applications.
+你作為一個公司的工作人員
+所以你對於工作人員的觀點
+和工作人員的觀點
+有什麼意義
+你認為這 all justified
+你能看到這 all coming from
+還是你認為我們在找新的方式
+我們需要找到新的方式
+所以我認為
+有幾個點
+我們不在意
+至少有一個點
+我建議我們不在意
+但是這件事是不同的
+我們不在意
+在這方面,我們有很多的應用項目
+在LLM的基礎上,LLM是
+現代的儲物產品,
+而且有很多的水分,
+這就是我們在說的,
+在現代的技術上,
+這些技術需要被推進,
+這正是整個的
+投資方向,
+以及在貢獻的項目上,
+我們有一個
+你知道 smart wearable devices in everybody's hands
+assisting them in their daily lives
+the amount of computation that would be required
+as as Jensen was saying
+to serve all those people is going to be enormous
+so in that sense the investment is not wasted
+but there is a sense in which there is a bubble
+and it's the idea somehow that the current paradigm of LLM
+will be pushed to the point of having human level intelligence
+which I personally don't believe in and you don't either
+我們需要一些 break-throughs
+我們需要兩種機器
+我們看到的那種智能
+我們看見的
+不只是人,但也有動物
+我們沒有動物
+他們是近乎像貓一樣
+所以我們還在想一些大事
+這就是為什麼
+AI的進展不是只是
+更多的資料、資料
+更多的資料
+更多的發展
+還有目前的大量
+這是一個 scientific question
+我們如何進行進行進行的進行方式?
+這就是為什麼你們都在這裡
+因為你們其實把整個東西都扣除了
+我感覺我們在進行的進行方式
+比較像是在發展的領導方式
+但我們需要回到
+原來你們所提供的問題
+在這個問題上
+我們沒有長期的精神
+所以我們只想做一個快速的行動
+我感興趣
+你們可以說
+你們認為它會長久
+直到我們達到那刻
+你相信我們有
+Equivalent machine intelligence to a human
+or even a clever animal.
+Like an octopus or whatever.
+How far away are we?
+Just the years.
+It's not going to be an event.
+Ok.
+Because the capabilities are going to expand
+Progressively in various domains.
+Over what time period?
+Maybe we'll make some significant progress
+over the next 5 to 10 years
+to come up with a new paradigm.
+And then maybe progress will come,
+but it will take longer than we think.
+OK
+部分的機器會超越人類的智慧
+而部分的機器智慧
+不會像人類智慧一樣
+他們是建造了不同的目標
+他們會…
+我們要超越嗎?
+部分已經是這裡
+我們有多少人可以超越22000物體
+所以…
+你不認為年輕人可以超越22000物體嗎?
+那種 granularity and fidelity
+你知道嗎?
+How many adult humans can translate to 100 languages?
+I saw that, yeah.
+So, yeah.
+So, I think we should be nuanced and grounded in scientific facts
+that just like airplanes fly,
+but they don't fly like birds.
+And machine based intelligence will do a lot of powerful things,
+but there is a profound place for human intelligence.
+對我們人類的社會都很重要
+珍貞,你還有什麼想法?
+我們有足夠的大力量
+將技術傳達到
+大量的社會利用
+在接下來的幾年
+我們今天做的
+我們已經在這裡
+二,其他部分的答案是,這不需要理解
+因為,現在的問題是學生的問題
+我們會使用技術,技術會更好
+我們會使用技術來解決很多重要的問題
+從這點開始
+所以,我覺得這不需要理解
+現在還是現在?
+你決定
+對
+如果你想問一個問題,要說
+如果有一個討論過這個機制
+它會經常贏
+我認為這股份是在20年內
+我們還未在
+但我認為在20年內
+它會有這個討論
+如果我們來定義
+AGI會經常贏
+跟你們討論
+我們會在20年內
+在這個討論中
+OK
+他們會有這個討論
+我認為是鄭先生的錯誤
+因為我們的目的是
+沒有建立AI
+可以反駁人類
+或更好比人類
+但這是一個學術問題
+我們不會把人們取代
+問題是我們可以
+作為社會
+作為某些東西
+但我們的目標是
+建立AI
+去增加人們
+所以我們想做的是
+去替人們更好
+人們不能認識22,000個
+或是我們不可以
+解決這些
+馬特洛林派的問題
+所以我們建立AI
+去做這樣
+所以人們可以做
+什麼是獨有的
+就是要變得創造
+然後變成更可憐
+然後理解
+如何跟別人
+和世界進行
+I think that it's not clear to me that AI will ever do that.
+But AI can be huge assistance to humans.
+So I'll beg to differ on this.
+I don't see any reason why at some point we wouldn't be able to build machines that can do pretty much everything we can do.
+Of course for now on the spatial and robotic side it's lagging.
+But there's no conceptual reason why we couldn't.
+So on the timeline I think there's a lot of uncertainty in that we should plan accordingly.
+但是我所 find interesting where we see the capability of AI to plan over different horizons to grow exponentially fasts in the last six years
+and if we continue that trend it would place roughly the level that an employee has in their job to AI being able to do it within about five years
+現在這只有一個領域的領域
+還有很多其他東西不需要理解
+例如
+一個東西可以改變遊戲
+很多公司要求
+能夠在AI做AI的能量上
+做AI的研究
+也就是做研究
+做 computer science
+然後再設計下一代的AI
+包括 可能 進行進行
+進行進行進行
+進行進行
+所以 我不說會發生
+但是 能夠做更好的
+更好的計劃和理解
+這會很快地進行
+這可以將其他東西解釋
+我們不懂
+我們應該很適合
+並不作出大規定
+因為有很多可能的未來
+我們的規定
+我們認為這未來
+但不會有一個瞬間
+我們今天的工作
+是幫助我們領導我們
+到達我們正在工作的位置
+我們在這裏工作
+非常感激
+我們要去看看
+如果我們再次進行這件事
+就會變成一個世界不同的世界
+但謝謝你們
+來參與我們
+分享你們的故事
+以及討論我們
+這個大型的
+時刻
+謝謝
+謝謝
