@@ -1,0 +1,308 @@
+What will be the most important trends in AI in 2026?
+We take a stab at this every year with some success, I would say.
+And this time out, I have the knowledgeable assistance of my colleague Aaron Boghren to help us out.
+Well, yeah, after your prediction of infinite memory last year,
+I thought maybe you could use just a little bit of help.
+Yeah, that's fair.
+Well, how about we each take four trends each?
+That sounds good. How about you first?
+好,所以我的第一步是
+2020年6月是
+multiagent orchestration
+我們說的2020年5月是
+年代的agent
+AI agents that can reason and plan
+and take action on a task
+agents,我覺得是很適合說
+如果真的有很多的
+agentic platforms for tasks
+like coding and basic computer use
+但是沒有一個agent
+真的推出了所有東西
+所以我們如果有一個團體的經驗
+所以我們可能有一個經驗
+他好像是一個計劃員
+他會把目標進行進行進行
+我們可能有些工作人員
+在這裡進行不同的步驟
+例如他在寫寫文章
+別人叫公司和其他
+然後我們可能有一個經驗
+去減少出現的問題
+这些监控员在一个合作的图片里
+是在监控员的图片中
+有很多监控员的设备
+可以进入转发
+使其他监控员们可以进入更丰富的步骤
+好 怎么能真的跟随着这种技术
+我认为我可能只能有一个
+第二个是在做设备
+网易作用
+所以這些是自行工作人員
+自行工作人員的自行工作人員
+可以做幾個項目的
+第一項目是
+他們可以通過目標
+以使用 multi-modal input
+所以後來準備了
+工作人員會做
+什麼叫做
+工作項目
+現在這就是
+最後的一個動作計劃
+它會跟隨著一段階段
+但它卻要變成
+某種系統
+那時候可以 take action
+这些能够是下层的达到
+这些系统将会更加加加强
+我们叫做人和领域的AI
+这些会提供一堆的材料
+第一个会是超级
+第二个会是对抗
+接下来我们在看这些
+策略的指示和计划
+来保持这些公司
+在做什么他们要做的
+这种项目会发生
+一种强调的强调
+来增加人材
+trend 3. Physical AI
+我們 all know that large language models generate text like ABC
+然後還有其他模式
+例如,有很多的影像模式
+and they generate pixels
+這些都在在智能中的影像模式
+physical AI is about models that understand and interact with the world that we live in, the real 3d world, and this is about models that can perceive their environment, reason about physics, and that can take physical action, like robotics,
+所以前面的用途是用一个软件
+做一些什么的, 用设计专业的方法
+所以如果你看到一个软件
+你应该要转向左方, 例如
+它全都被人做成了
+它是用一个...
+对, 软件像这样的
+去调整这些软件
+现在, 预计的技术
+它就会转向左方
+所以你计计模特儿
+在描述中
+而是在实际的世界侮辱
+它学习了解 how objects behave in the physical world
+how gravity works
+how to grasp something without crushing it
+这些模式有时候叫
+world foundation models
+they are generative models
+that can create and understand 3D environments
+they can predict what happens next in a physical scene
+and in 2026
+many of these world models
+是用人類的手機
+你找到的手機
+他們用人類的資料
+來做工業
+經濟智力
+是很重要的
+馬丁你剛剛拿了我的手機
+但我們先說
+四個問題
+是社交 computing
+這是世界
+很多人和人
+在工具中的智力
+如果我有一個人
+然後有一個人
+所以他們會跟進這個工具
+如果我有資料
+跟進這兩個
+他們會開始明白
+然後他們可以聯繫
+他們的意見
+然後他們會有意見和資料
+他們會有動作
+他們可以影響其他
+或是甚至是
+他們的環境
+但所有的資料
+都會在這個系統上
+是一個交通
+可以合作
+交通
+交易,以及努力的理解
+这些产业是一个很不一样的
+职业的联系
+是我们叫的
+这些联系的联系
+或是这些真实的
+世界的运动
+所以,职业的
+职业的
+人物、人物
+和传统人物
+的职业能力
+2020年
+可能是
+一年
+我们只能通过
+运动的
+所以
+运动的
+5. 這是 維持 能夠 實現 能夠 實現
+現在 美國 能夠 實現 能夠 實現 能夠 實現
+在 明年 2020 年 它變成 完全 能夠 實現
+這 像 GDPR 但 能夠 實現 能夠 實現 能夠 實現
+這個 最重要的 理念 能夠 實現 能夠 實現
+特別 高 貴 的 能夠 實現 能夠 實現
+也 能 實現 能夠 實現
+那,这是什么意思?
+well, it means a few things.
+It means documentation.
+So, if you're building high-risk AI,
+you need technical docs that demonstrate compliance
+to how you tested the models
+and the risks that you identified.
+It means transparency.
+So, users need to know when they're interacting with a machine,
+so things like synthetic text,
+they need to be clearly labeled.
+And it means data lineage.
+You need to be able to summarize
+你需要的訓練資料
+讓你能夠證明你對於公民的學歷
+就像GDPR的形容
+是國際的一切
+並非只是在 EU
+美國的公民主義
+將會設立
+公民主義的標準
+這很棒
+第六個階段
+它真的改變了所有的
+但它也改變了
+沒有任何的
+同時
+這就是我們
+放入的
+在全球的利用
+2020年6月是我們開始看到
+這個 quantum computing to reliably
+開始解決
+世界問題的改變
+更快
+或更 efficient
+比 classical computing methods
+現在我們有這個 quantum utility scale
+是這些系統開始在一起
+在一起的
+和 classical infrastructure
+來帶來這些優點
+每天的工作
+這會幫助
+改變
+然後我們會看
+及決定
+所有三個目標
+都在過去的成果中
+進入了經濟的環境
+但這個互動的經濟錯誤
+開始變成
+經濟的研究
+而這個主題和 paradigm
+將會變成
+每天的生產活動
+現在我的 trend 第七
+是 為了改善
+我們去年談到的小模式
+模式有幾億的數據
+那些不需要大量的資料中心去運用
+他們會在你的手機上工作
+或是你的手機上的
+在2026年
+這些小型模式在想
+如果我們想想到最好的模式
+我們今天有的
+就是前面的模式
+現在的所有模式
+用了一些叫
+在前面的時間
+他們花了更多時間在想
+並且給你一個回答
+在過程中的問題
+现在的费用是需要更多的计算
+但是,这里是变化的
+基本上,团队们都想到
+他们能够把这些计算的计算
+进入更小的模式
+所以现在,这些更小的模式
+可以发现计算
+你会拿出大量计算模式
+那些计算模式的计算模式
+我们用这些计算模式
+在其中的矇短程度上
+移動在同一方向
+因此 result 成為
+矇短程度的模式
+只有數百萬字
+它們會從線上移動
+你的資料永遠不會離開
+你的螢幕
+而它們沒有
+有任何軟體的連結
+去到資料中
+所以如果有任何
+真正的時間或是
+任何機構
+可以移動
+在地位的問題
+是一件很大的事
+對 所以那都是很實際的
+但是現在的最後一步
+是 第八個
+所以这样我们再 call it Amorphous Hybrid Computing
+这个是一种未來 您可以看得到的
+A.I. Model Topologies & Cloud Infrastructure
+它们是像个四垵码笔
+A.I. Model 的颜色
+这些颜色正在向外 أن取代
+公式车车车车的模式
+它们开始预防其它建设
+演 result 中的车车车车车车车
+我們稱呼它們 美國空間模式
+然後在2026年
+我們也會看到不同的研究
+與其他各地的空間和轉換
+並且其他各地的分別
+這會令我們很享受看待
+很美麗的
+同時我們也有
+這個空間的空間
+它們變得完全不同意
+並且有很多不同的智能
+所以我們會有CPUs,GPUs,TPUs,
+還有最後我們剛剛提到的Trend 6
+就是Quantum,我們會有QPUs
+我也想要提到
+你會看到這些neuromorphic chip
+在發出的,而這些會移動你的 brain
+但是這些全部會放在
+這個一種充滿的應用 environment
+我們有部分的各種模式
+他們會自然地進入最好的機器
+這會幫助他們把最高的表現和效果
+進入更好的機器
+你們知道嗎?誰知道?
+但在這段時間
+可能不是2026年
+但我想到更遠
+你們會看到DNA在進入機器中
+這些是很嘻哈的目標
+我們認為這些是
+是我们最大的Ai传统在2026年
+但是
+我们在继续什么
+Ai传统
+你以为
+2026年是一个大事吗
+对
+让我们知道
+在下面的留言
