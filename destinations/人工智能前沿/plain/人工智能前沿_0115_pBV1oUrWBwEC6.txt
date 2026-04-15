@@ -1,0 +1,1420 @@
+嗨,欢迎今天开始的Codex Session
+我是 Derek
+我叫 Charlie
+我们工作为客人来帮助我们进行Codex
+这次的Codex是很有趣的时间
+很快地变成了我们的设计
+Codex是开放AI的设计人士
+设计者可以用在不同的位置
+我们看到了第一次设计的设计
+和时间使用的设计
+和更多時間在結構和創作中的
+創作和建築中的努力
+我們看到很多的興趣
+從發展者的社會
+和我們這次的目標
+是給大家一個高級
+介紹給Codex
+我們要來介紹
+一些不同的題材
+首先我們要走進
+介紹Codex的
+什麼是
+什麼是它的設計
+然後我們會說
+如何建立
+MD 和 Codex 和 Config.toml 等
+我們會談論 用 Codex 和一些最好的練習
+我們會給大家一些 CLI 和 ID 和 技術
+談論 MCP 和 用 方式
+然後再進行 前進 使用 例如 追蹤
+還有一些 更新的資料
+所以 今天我們可以用 Codex 和 多名 客人
+Multiple clients Hyun today
+So the Co I allows for
+lightweight interaction
+then the terminal
+It also offers a headless
+Sとか
+Mode for more advanced
+Program add ability
+so CodeX's IDE  extensions
+Works with any VS code
+Based IDE
+And really allows developers
+To write code and more
+Of a rich graphical user interface
+And you can also kickoff
+Remote tasks in a
+Cloud environment as it needed
+And with CodeXไม
+It's Cloud environment
+It really allows you to run
+Multiple parallel tasks
+In the background
+Even with your laptop closed
+所以它是真的 ideal for kicking off async tasks
+like code review or working while on the go
+with your mobile phone
+So for today's session, we'll focus more on the CLI
+and the ID extension.
+So here are a few of the ways that customers are using Codex today
+and how it can integrate with your team's workflows.
+As Derek mentioned, you can kick off code reviews
+and Codex cloud whenever PR gets open
+and Codex can provide comments
+and find critical bugs and issues
+before they get merged into production.
+You can also use it with Slack mentions
+So you can integrate codecs into Slack
+At mention it and then it picks up the whole conversation thread
+That you've maybe been chatting with your team about
+And then implements it and gives you a PR
+And you can also build your own integrations with the codecs SDK
+This allows you to run codecs programatically in your own containers
+And so you can get structured output of codecs out of codecs
+And we'll cover this kind of in the back half of the presentation here
+So OpenAI Discord is a research company
+Kodex is backed by our state-of-the-art models
+Most recently, GPTI 5.1 Codex-Max
+which is our best model for agent encoding
+it's specifically trained in the Codex Serial Eye Harness
+and our continuous focus will be
+to have each model generation be more efficient
+be able to run faster and longer
+and to generate even better production ready code
+So our models are natively trained
+in Linux, macOS, windows, environment
+so they'll be very reliable in bash
+n PowerShell and will adhere to the sandboxing rules.
+We also trained the model to be able to accurately auto compact
+long conversations so you can have codex work for you
+on longer running tasks.
+So for example really large scale refactor tasks.
+ia Windows support in those long ring tasks are like
+many of the two of the biggest feature quest
+we've been getting with codex.
+And we also recently published a guide that tells your team
+how to build an AI native engineering team.
+它們能夠使用的程式
+使用不同的部分
+使用了所有的軟體
+我們把它們放在7個範圍內
+將它們的計劃和設計
+和保護等部分都設計
+我們今天進入的部分
+我會把你們想想
+如何使用這些不同的部分
+即使我們只是開始
+基本的部分
+這 all 都能夠使用
+使用了所有的軟體
+我們開始了
+作為簡單的提醒
+今天的目標是
+CLI and ID surfaces
+We'll be using an open source repository
+So if you're new to Codex, we definitely encourage you to follow along
+Use the same repository or just a repository of your choice
+So let's dive right in
+So how do we get started?
+Let's start with installing Codex CLI on your local machine
+So you can install in a couple ways
+You can install using brew or npm
+Which is the suggested method
+Since it's going to be the most up to date
+Our team shipped very very quickly
+也许有很多次的时间
+所以这一步你会在最后的新新版上
+当你发行Codex的设计
+也会有一个版本在最后的新版上
+提醒你
+如果新版新版要更新
+如果你想的
+你可以看新版的新版的新版
+在Codex新版的新版上
+Codex CLI是新版的新版
+你可以看新版的新版的新版
+在我们的设计上
+更加有更新的设计
+每个版本
+so you can install the Codex CLI extension in VS Code as well
+and so to do that you can open VS code
+and click on the extensions tab here and search OpenAI Codex
+and so you want to make sure you're looking at the official one made by OpenAI as seen here
+and when you download it,you'll see the version that you have
+and you'll be able to switch between pre-release version and the release candidate
+可以代理Toggle on Auto Update or Not
+我非常推荐Toggle on Auto Update
+因為想保持前途
+合同的實行
+登上最新簡介
+for the IDE Extension
+我們討論
+在使用Codex
+的程式
+寄取寄取資料
+所以有兩個不同的方式
+如果使用通通
+就會有寄取寄取
+在十二字的通通
+寄取寄取寄取文件
+就能看到
+一個透過標記
+寄取寄取
+所以,当你打开那里,我会带你到订阅项目
+就像你所看到的Codex CLI
+我将评论到的
+所以,在Codex CLI里
+你需要在Codex Login里
+将你带到一个项目
+你可以订阅你的工作信息
+我将会把你通过你的内容的SSO
+进入Codex Login
+然后,你完成了这些项目
+你会开始使用Codex Local
+在Codex CLI里的电子和ID的订阅
+所以,我先回到這裡,
+所以,在Codex CLI,
+我會示範一下,
+你會看到,
+有幾個通知,
+我會記住這個項目,
+第一個是通知,
+這給你一個高級的 overview
+你用的模式,
+導致,
+SAMBOX MODE,
+證據,
+如何的層面,
+你會看到的,
+例如,
+Here.
+I'm on this specific version.
+Using this model and currently in the agents.md directory.
+So what you can do is go to slash status.
+You'll see here that I'm using this specific set of configurations.
+With my account and my session id as well.
+So let's get started by cloning the repository.
+That we'll be using here today.
+We're using the agents.md directory.
+所以我們用了agents.md的網站
+你會看到的
+所以Charlie會說 more about agents,md, and why it's very important
+但是今天我們會把這條文件綁在開放器上
+所以當你綁在這條文件
+透過這個連結
+就是cd into that file
+install npm
+然後npm run dev
+所以你會能夠綁在它
+我會做同樣的
+也一樣
+npm run dev
+我們在使用Agent-MD的麥克風
+我們也在說Agent-MD
+對 沒錯
+但是我們今天想要用Agent-MD的漏洞
+對
+好 現在我們設置了Agent-MD
+我們現在在開設
+我會把Agent-MD的漏洞
+給Charlie帶來
+好 現在我們設置了一個項目
+我們想要用Agent-MD的漏洞
+可以使用 Codex 和 應用的方式
+為什麼需要 Agent-7D?
+因為 Codex 和 Agent 都沒有任何的
+對應的項目
+每次開始 都會有一個新的項目
+Agent-7D 確保 項目的設計
+讓你給 Agent 給你 後面的 項目
+TLDR 項目 都會允許 允許 允許
+Codex 會允許 允許 允許 允許 允許
+如果是 項目 或 項目的 項目
+你可以用它基本上是一个软件的设计
+让你的游客快速地理解和发展
+和发展你的设计
+然后让那些设计的程序
+能够做到它的工作
+所以,有几个不同的方式
+可以用游客的游客
+你可以用输入
+Codi的输入
+这会充分游客游客
+来自你
+在工作的程序上
+你可以也可以用游客游客
+来发展你的游客的游客游客
+就是Global Agents MD
+這是一個很好的
+Global Configs
+你常常想Codex
+去向來
+用類似的特色
+就是你用的
+或是不同的方式
+你希望Agent to Act
+你可以也
+創造不同的Agent MD
+資料
+在你的項目
+甚至在你的項目
+和你的項目
+這些項目
+是很好的
+給你進行
+進行的項目
+我們會放在
+項目的項目中
+是一個
+開始位置
+因为我们是通常用Codex的
+我们也可能会用
+不同的服务权
+来传统Codex的
+作用
+好 这里是我们在工作的
+这里是我们需要
+注意的
+好 现在我们的
+总结是
+我们经常有的
+是
+专业项目和设计
+专业项目
+在哪里去
+用不同的设计
+也许
+我们可以建立
+使用CLI的方式
+例如,用GitHub CLI
+或不同的MCP的服务
+使用CLI的方式
+以及給Codex
+做了一個項目
+就是如何去解決
+應用的項目
+最後,你能夠
+用其他項目的
+項目和不同的項目
+讓項目可以做
+進行進行的進行
+作出更多的方式
+So some of the best practices that we recommend here.
+The first is to keep it brief and focused.
+If you include too many instructions that can confuse the coding agent and it won't know exactly what to pay attention to.
+Or if they're conflicting, it can spend a lot of time figuring out how to resolve the conflicts.
+Most of OpenAI's agents and d-files and we looked in the Monorippo to figure this out were less than a hundred lines, so they really don't need to be that long.
+The 2nd recommendation is to focus on unlocking agentic loops.
+所以 anytime you can give the agent feedback
+or a way to get feedback from tools
+like linters, tests, etc.
+and verify its work
+it really accelerates how much the agent can do
+and a good kind of intuition to build here is
+after you run codex
+if you're finding that you run commands
+to say check did the code compile
+or maybe grab screenshots
+or something like that
+see if you can add those
+as different commands and instructions for codex
+and have it just do that itself
+and unlock those loops
+我们将继续地提供更新的H&MD设计
+在Codex 上的误会和误会的错误
+或者是误会的
+如果看了Codex 设计时
+你会看到它很长时间的
+需要设计的方式
+例如你需要设计的方式
+再设计到你的H&MD 次次
+然后看了Codex 设计的方式
+然后更快地设计
+然后你也可以提供它
+设计的设计
+我们会谈论这个在下一个部分
+但是基本上是用其他.md 讀取的讀取
+从主辑的辑名讀取
+所以如果我们想看一个例子
+用 Codex 来调整签名的讀取
+我们可以用
+AgentMD 来调整签名的讀取
+我们可以看到哪个讀取
+AgentMD 总是在内容的
+所以它必须是一般的讀取
+我们可以在订取的部分
+说计划的订取
+然后再调出计划的订取
+在订取的订取的订取
+在你的订取的订取
+we might have an exec plans.md file for planning large tasks.
+we might have a front end.md file that's specific for doing front end tasks.
+we might have an architecture.md file that outlines specific architectural judgment calls
+that you can make when you're doing a feature
+that requires large architectural changes.
+codex will read this in the Agents MD,
+understand that it can call on these things
+in its context.
+and then if it needs to,
+it'll go and read the file
+and read it into its context.
+which allows it again to do progressive discovery
+你會看到這些東西
+然後你會進行
+不同的挑戰
+你會給它
+所以,這裡是個例子
+提供一個計劃
+用計劃.md
+你可以用
+計劃.md
+來指揮
+計劃.md
+這個就是
+計劃
+告訴你
+如何建立
+計劃
+以大量的
+多次進行
+的項目
+計劃.md
+會發生
+一個計劃
+作為計劃
+可以提供
+這個個人計劃
+作為一個生活 document
+所以,它會進行
+checking things out of checklists
+and kind of updates progress here.
+And this helps codex really run large refactors,
+do large kind of crosscode-based sweeps
+or work on multi-hour project tasks
+just more effectively by having a place
+where it can track how it executes
+and update as it progresses.
+I'll note you can also use MCP servers for this,
+but there's nothing like just having a markdown file
+for the model to read and having a checked in ticket.
+It just makes it easy for the models
+所以保持那種階段的規律
+你可以看到一個例子
+用Planse.md在開放的 cookbook
+我互相推薦的
+AgenceMd是一個很棒的 cheat sheet
+最後的一天
+例子就是Charlie
+用Planse.md
+一個電腦的工具
+可以運用一整個
+10 plus hour refactor
+用 Codex
+而成功的
+這就是一個很棒的例子
+你可以用 Codex for today
+對
+好,我們來講
+如何更加的
+Codex
+去到你工作的方式
+在Agent-MD的頁面上
+是設定了TOMO file
+Codex ELI was written in Rust
+因此它是用TOMO file
+可以看到在右邊
+有幾個不同的頁面
+你可定義和設定
+用Default
+例如你可以寫
+Default Model
+Default Model Reasoning Effort
+Sandbox Mode, Approval Policy
+等其他頁面
+你可也拖動某些頁面
+他可以 also specify different profiles
+所以我可以用不同的调整
+例如我可以用一个计划
+去调整最快的模式
+我可以用一个计划
+叫做快速的调整
+所以我可以用一个计划
+叫做快速的调整
+然后会发生
+那些计划的方式
+而我可以用一个计划
+Codex to Work with.
+So in this example we have one of the MCPs that we'll cover later in the session as an example on the right.
+So this is just the tip of the iceberg.
+As you can see on this slide here, there's a lot of different configurations that you can do with the Codex CLI.
+And if you go to this website, you will see a lot of different configurations for you.
+Yeah, one of my favorites to set here is the terminal notifications.
+它能讓你得到一個上升
+當Codex結束了一項目標
+有些人不喜歡
+我其實喜歡它
+因為Codex會在背後走
+然後把一條鎖上
+然後它就完美了
+所以很棒
+很多鎖子在走
+對
+我們回到最後一步
+所以
+證據證據的政策
+在三星車兩位
+我只想要
+繼續移動一點
+證據證據的政策
+是要有證據的
+在要求的
+證據證據會走到
+它需要求求你
+有任何調查的證據
+其他调整是作为工作室写写
+像是SAMBOX模式
+这种程式是
+Codex会写到设置在你现在的导演中
+并不是任何东西在外面
+但是像你能看到这里
+有几个设置
+可以改变设置
+在你开始的Codex设置中
+好 让我们回到
+Charlie 来调整Codex
+好 像写了《Agent-SEM》的设置
+你的设置是
+最后一种程式
+你需要写的Codex
+所以写完好设置
+真的会写出什么
+Codex
+我想來也會提供一些
+解決技癒、因為
+目標頁是
+跟需要提交線的好處
+一般是
+緊装 Sound Guys
+就是
+它的程度
+需要一個中心的 Vitamin
+然後
+留在
+剪帽子
+用師所以
+不會
+用数字
+在网络上的部分
+就是不太重要
+如果可以伸展一下
+超级方便
+下一个推荐是
+开始小贪图
+前面的更大贪图
+如果你新来的
+推荐用的图像贪图
+小贪图会比你更容易
+试试和重新开始
+你会更舒服地
+提问贪图
+做更多的贪图
+和更大贪图的工作
+但这一项
+你可以用贪图
+可以幫你解決任何的問題
+而且可以做到這項目
+如果你要做這個
+就是做一個研究的項目
+去看你的研究
+去想想如何去做這個
+然後解決一些小的問題
+它會在很小的項目上
+讓你能夠做到
+然後跟著做
+我們常常會推薦
+有確診的項目
+所以要用這個項目
+去檢查項目的項目
+例如在進行測試
+測試 測試
+如果這個沒有在你的
+it's good to include in your prompt.
+Another way to do this is just tell codex.
+Here are the requirements that you need to implement
+in order for this feature to be considered complete,
+and it can use that as kind of a yardstick
+to measure its progress as it works along.
+The next is, if you're debugging,
+which is one of the top use cases of codex,
+just paste the full stack trace into codex,
+give codex the full kind of detail there.
+And it can use that to navigate your codebase
+and figure out what's generating the error.
+Super, super helpful.
+As we mentioned before,
+基本上, Using Agents.md is fine, as we mentioned before, you can customize
+Codex does its work by using agents.md.
+We also recommend that you try open-ended prompts.
+This can be great to just brainstorm ideas for feature improvements
+or how to improve performance,
+you can ask Codex after you implement a feature,
+what would you consider building next?
+divine codex is really good at looking at codebase
+So there's more on the developers website on this and we encourage you to check out the prompting
+guides for codex as well.
+A great thing codex does as well is codex cli actually gives you next steps adjusted next
+steps when you come up with when you ask it a prompt.
+So this is a great way for you to continue the brainstorm conversation as you said.
+Yeah.
+Yeah.
+So some great starter tasks you know if you were to just try codex today explain the code
+base, just write a quick.
+Read me based on something that you're interested in the codebase,
+or maybe another teams codebase.
+在你的機器上
+利用體積 Borb別水
+練用体積 Borb Brooke Borb 體積運 cold
+並利用體積運
+自行貼合
+PC 很準備
+在機器後
+讓人之後
+把體積一定要�全
+所以特別多
+的是
+如果我們想記錄
+unmown
+作業的部分
+投損多頗不同工作
+原來
+and identify patternsations.
+extract that component
+and then make it generic
+across all those different interfaces.
+It's really good at those refactoring tasks.
+And ettinside rating areas writing documentation.
+Engineer typically don't like doing that
+So I love using Kodek CLI
+to help me right the documentation.
+Keeps it up to date
+as you're building things.
+Let's take a look at this in the CLI
+of how you can send a read only prompt
+and change the reasoning effort
+with Kodex.
+If you're in the CLI
+you can fire it up using Kodex
+然后用上模式,转换至高至低
+我们要拨一下,看看这个是什么样的VS设备
+我现在在VS设备,然后我将拨开设备
+这里有几个选项,在下方
+我可以选举选设备,如果想要地下工作
+我们将在今天设备的
+但你也可以用用用的功能
+所以如果你用用了 Codex Cloud
+你也可以用用你的
+Agent Spinup 功能的存在
+用了不同的方式
+和传统在那些存在
+是很好的方式
+去找不同的版本
+也可以用用不同的模式
+Codex 有有的功能
+所以我会问你
+用用 Codex 模式
+我会用用 Chat 模式
+但也可以用用 Agent 模式
+或是用用 Access 模式
+或是用用 custom 模式
+最後我可以選擇不同的設計模式
+和不同的模式
+還有其他設計程度
+我需要的用法
+這會是一個簡單的問題
+我會說
+可以告訴我
+這個項目嗎
+你可以做更多的定義
+它會通過
+其實會學習
+它會看出
+它開始的動作
+然後它開始 working with this
+我們可以看到它在進行的步驟
+所以它会给我们一个组合的评论
+你可以看看这些设计的设计
+然后在完成的设计中
+它会发展一个组合的评论
+我们的评论
+我喜欢的一种更多的方式
+就是用这个设计
+来看设计的设计
+然后可以用设计
+像在设计上的辑名
+来解决可能是谁计较的设计
+或者是什么是最近的改变
+那些事情在设计上的设计
+是非常非常方便的方式
+Codex is a know-it-all historian.
+Yeah.
+So that's sending like a read-only prompt,
+but obviously we also want to be able to make changes.
+So here's an example that I've already kind of pre-built here.
+I wanted to create a simple HTML page called assets HTML
+that shows how the files in this agent-send project are related.
+So we can generate a markdown file
+or we can generate a whole documentation website.
+So let's generate a documentation website.
+只要我要介紹一下,如果我來這裡 and actually view the different prompts that I have
+我可以看到不同的反應在這裡
+我進入這個,這裡是我們可以看到的 simple.html
+我可以看到是有這個廠方的html file from me
+我可以按開這個坊檔案,
+也要看下網路的數量
+Codex1 其實是一個網路的資料
+如果我把網路上搜尋
+然後我搜尋在 資料.html
+我們只要去 Chrome 看看
+如果我們搜尋在 Chrome 這邊
+我可以把網路上搜尋
+如果我把網路上搜尋
+讓我把網路上搜尋
+是在這裡
+在這裡
+oh,there we go.
+If I tab over to Chrome here, I can pull this
+open and we have this file that's already kind of generated
+a really nice-looking documentation page
+for us here where it's calling
+out kind of the different flows in the
+project where all the different files
+do,again,super simple example,
+butjust kind of a quick run through of what
+otzdem什麼codex can generate
+really quickly for you.
+alright,so let's go back into the
+presentation here real quick and
+there we go.
+所以我們可以在網上發佈更多的改善
+不只是在記錄東西,但在改善存在的功能
+所以這個可以說,可以在下方進行解放
+例如, view on github 按鍵,或者下載按鍵
+還有另一個按鍵,去 copy 畫面的標誌
+所以我需要做到這,就是開啟新的討論
+我們會開始新的 chat 和說,可以在下方進行進行
+Button to download the repo going to GitHub, and copy the markdown of the site.
+Let's kick that off there and I'm actually going to pause this real quick.
+I'm going to switch it over into agent mode so that it can go and implement this for me.
+And then let me run this again here.
+So this will kick off Codex and it will actually go and work on implementing these new buttons for us.
+看来是在描写设计的
+在写写设计的
+我们想把设计的设计
+这是一个特别的问题
+这些设计可以让你打开
+设计的设计
+所以你能跟它合作
+它有一个设计的
+设计图
+它 kind of 展示了
+它在做的不同步骤
+它想做的不同步骤
+它将会把这些
+调整到我们的网上
+我會在那裡點一下
+and kind of figure out exactly what it wants to
+what it wants to add
+Yeah.
+Ok, so we just wrapped up the task there
+and then if we go over to check out
+以前's MD in the browser now
+you can see it's added a few different buttons here
+where we can download the repo
+we can view it on GitHub
+we can copy and mark down
+etcetera and codex has just implemented that
+for us based off of a simple prompt there
+so pretty cool how, how quickly we can
+just implement things with that
+我们来帮你发言一些更多的CLI IDE 和计划
+谢谢 莱莱
+我们来讲讲一些不同的计划和计划
+在这两个表面的CLI和 IDE
+所以 莱莱已经提及过这些评论
+但是你可以点评论到一个评论的计划
+例如 在CLI 里
+我可以快速地
+在计划里 计划有什么计划
+我可以把计划提供到计划里
+然后问问任何问题
+所以Codex知道 exactly where to look at
+也许在ID extension
+我可以同时做同样的
+我可以选择一个特别的设计
+一个问题要记得
+是你可以在设计中
+带出特别的设计
+去到特别的功能
+所以这里有一个
+你可以在设计中
+带出的设计
+就是在设计中
+带出特别的设计
+所以我带出设计
+私下的设计
+而在這頁面,我會加上了
+Hero.tsx的標誌
+這10個頁面,我會用
+Hotkey的標誌
+另外一個頁面,就是
+Codex的CLI和ID
+所以,你可以用2Ds
+Codex IDE
+這是一個我個人喜歡用的頁面
+例如,如果我回到
+ID extension,我可以
+用一個頁面的標誌
+i believe already here um that ask codex do something similar to what charlie did
+which is to implement a button to download mark down to view on github
+and once you have that to do created you can actually just click on implement
+with codex,it will actually fire off a task on the right here,I
+won't have it fully run since we've already completed this task.
+but as you can see here you can technically have a lot of different todo's
+within um your code and actually just have codex implement
+所以我再回到這裡
+另外一個部分
+很多人用 Codex4 用來
+其實用了 image 例如
+如果我去到
+agents.md 頁面
+你看到這裡
+沒有背景顏色
+這些三個設定的領導
+我可以拿一張
+畫面的畫面
+去問 Codex 去
+做內容的背景顏色
+可能我會
+用這個頁面
+畫面的頁面
+畫面的頁面
+所以 in this case maybe i'll just use the ID CLI here since we've already used the ID for a couple of examples.
+In this case I'll just paste in the screenshot here can you make the inline chips orange.
+Great so Codex is able to read that as you can see it will explore the codebase and find exactly where it needs to update it in a few seconds.
+这两个秒钟 会能够改变 背景的颜色
+这三个颜色的颜色 要成为黄色
+非常方便 任何时候你找到
+自己想描述 哪一按键
+第三个按键 或什么
+Late Codex 要改变
+你只能给一个项目
+能理解项目的项目
+Late Codex 改变了
+可以看到这里 它有几个项目
+它有一个项目 如果我再回来
+很棒 它能够进行
+按照我问的做法
+就是很棒
+所以
+你可以在idea上做這個
+儘管快速地展示
+如何這樣會合作
+你會再按 plus 和加畫面
+可以看到我可以寫下
+screenshot.png
+我會在我的桌上
+做一樣的事情
+在idea extension
+好,所以
+另一個很棒的項目
+是
+知道如何去解決
+Codex 部分
+所以在 CLI 中
+你放棄一段時間
+通常
+人們想
+去回到中間的部分
+繼續談論
+尤其是當他們仍然有很多的
+相關的資料
+所以一件事可以做
+在COLI interface
+就是去COLI X resume
+所以這會回到
+所有的前面的談論
+你曾經的
+COLI X 和COLI X
+可以去
+詳細的回到
+談論
+在這個情況下
+我回到這個
+詳細的談論
+我可以繼續它
+所以這只是一個例子
+比如我可以問 Codex
+去改變Chipcode
+去綠色
+之後改變它去黃色
+所以這就是一個很簡單的例子
+如何可以在Codex Coli
+而你能看到在Codex Coli
+有一個Session ID
+如果你想回到一個很簡單的 session
+然後不需要 scroll through
+Codex Resume UI
+你可以在Codex Coli 開啟
+然後回到那個Session
+Charlie 早前也有提及過
+但你必須回到 IDE 上
+找到一個特定的項目
+然後繼續跟他談論
+對 像你提及的
+階段行動是很重要的
+在對的結果中
+這個項目
+包括所有的階段
+你提及的模式
+我用了很多
+像一個項目的項目
+或是一個項目的項目
+例如我試試過的項目
+或是我試試過的項目
+或者我用了一个特别的输入
+去进行前面的设计
+对 非常非常方便
+另外一个最好的提示是
+可以用Codex在ID Extension
+进行Mermaid Sequence Diagram
+所以这会展示你
+如何在固定的方式
+合作在哪个预备
+所以
+在ID Extension
+我可以回到
+对不起 太多了
+然后其实
+我认识过这些前程
+所以我问过
+给我一个清单的
+迷迭迭迭的运动方式
+然后我回到
+一个非常细细迭的运动方式
+我可以写下
+这些是非常棒的
+运动方式
+太棒了
+所以我们的另一个
+我们刚刚提到的
+是网站是
+网站是
+网站的网站的网站
+所以你能在
+网站里的
+网站里的网站
+You can also just pass in a configuration flag.
+So in this case, you can just ask Codex with enable web search request to add something like the latest news footer box that gives you the current article of the next next JS 15.
+And so this is just a quick example of how you can pass in specific configurations when you start a Codex session.
+You can pass in specific configurations
+when you start a codec session.
+And one great area that a lot of our users use codecs for
+is to add specific custom commands.
+So in this case, you can go to your codec home folder
+and create a prompts file folder
+and add a add test.md file as an example.
+So what this file will do is ask codecs
+to generate unit tests for any of the files that changed
+and use the existing testrunner
+就要保持中間的低下降低
+所以你能夠做的
+讓我先示範一下
+你可以去你的Codex Home folder
+在這個案例中
+我只開啟了VS Code
+然後你可以把
+像我所說的Prompt folder
+然後在這裡我再加了
+AddTest.md file
+所以我再回到Codex CLI
+如果你只加了它
+你應該放開
+然後再重新它
+你看到如果你再加Prompt
+You will actually see the addTest.md file here.
+So when you click enter, it will actually pull in the exact instructions that you gave this markdown file
+And actually generate the unit test for any of the files that changed.
+So very very convenient and you know, obviously this is just one example of a custom command that you can add for codec.
+So let's move on to MCP.
+So you know MCP is most people know here.
+是用來配合更多的功能和接觸器
+所以以Codex,我們支援標準與HGTP
+所以有幾個例子
+有幾個常用MCP的服務
+很多人都會使用
+例如,人們會用Figma MCP的服務
+所以他們可以用Mockups的方法
+Gira和MCP的Linear are both very popular
+例如,你能看到帳戶的设计
+你能看到Codex的设计
+其实是删除了你
+并提升了帳户的设计
+你能用,例如,Context 7
+去计较 any third-party API callouts
+而且,DataDog MCP Server
+是非常有名的,去调查
+任何的设计
+但是,您知道,
+有很多不同的 MCP Server
+在这里,Codex 能接触
+这些设置的方式
+有更多的评论
+所以这里是一个例子
+我们叫做Cupcake MCP
+这是一个很简单的例子
+我们创造的
+就是这一项设置
+所以这一项设置
+就是一个例子
+如何有很多Cupcake的设置
+这是一个很简单的例子
+然后去设置那些设置
+然后去加上MCP
+去调整
+我剛剛放 go to the source
+And here is the source
+I generate the code
+I'm going to try to use this
+You can see this is the generating unit tests that I did earlier
+This is just a bit of a drawback
+And I copied in this command
+To add this cupcake MCP server
+So with Codex, We made it very simple
+如果我回到config.toml file
+你可以看到
+如果我減少了這個大量
+它會加上mcp server
+所以你也可以直接加上
+config.toml
+但我們看到很多的
+用戶用戶
+用戶用戶
+作為一個例子
+所以用一個例子
+如何使用
+cumpcake mcp
+我們會用codex
+Codex 結合到下個頁面的
+MCP 頁面的
+Rachel 和 Cupcake 頁面的
+很簡單的
+我會用這個頁面
+來示範MCP 頁面的
+頁面的
+我開始了 another Codex 頁面
+我會在這頁面
+按下這個頁面
+所以你會看到
+在一秒鐘的時候
+Codex Cupcake MCP 頁面
+MCP Server and actually add this piece of code
+at the bottom of the agents Empty page
+Cool
+I'm waiting for it to pop up
+It's gonna call it
+Yeah yeah yeah
+It'll come in a few seconds here
+It's analyzing the integration options
+for Rachel's order
+serious business here
+It's searching for cupcake
+And there we go
+It called cupcake MCP search
+on it was able to fetch her order
+as you can see here
+Rachel order 7 marble cupcakes for cakepick up
+I'm getting hungry just looking at this
+嗯 and what it'll do Codex will add this to the bottom of the agents md file
+So pretty simple, but you can see how you could extend this to you know, for example, like
+Production logs down to maybe you want to pull down to diagnose the performance issue
+Or I like grab like a jirea ticket and like pull in the context from that ticket for Codex to work on
+So again super basic example to start
+但是我认为它会说到
+你能够实际上做的事情
+对  exactly
+我将称为
+下一个例子
+为何这项目的完成
+所以其中一个MCP
+我只想要提到的
+非常有名的
+是Context 7
+我可以把最高的
+up to date documentation for any framework out there
+So what you can also do is use a similar codex mcp add command
+to add context 7 as an mcp server in your config
+So in this case, I did already add context 7
+So you can see here, I already have context 7 present in my config tomo file
+And so the next example, I will use this
+But I do see that the cupcake example was finished
+所以我先回到這裡的圖案
+Agent's MD圖案在我手機上
+然後我再描述
+我可以展示
+Cupcakes的例子在下面
+我先把下面的圖案放在這裡
+這裡有
+對, Indeed Rachel有7個Cupcakes
+準備為選擇
+所以我會知道我會做什麼
+對,這次的
+Alright, so let's move on to this example, which is using Context 7.
+So this example, I'm going to ask Codex to implement an input on the agents MD page running locally,
+where people can actually generate their own agents MD file using a small prompt that actually calls OpenAI's responses API.
+And it will actually take the latest docs from Context 7 to get the latest API spec.
+所以我来写这些评论
+我们去到IDE的计划
+所以我会保持在Agent里
+可能在这些计划里
+我会用一个不同的模式
+我会用GT501 Codex Mini
+我会用中间的模式
+我会问它能否讨论这个计划
+所以在一秒钟
+它能够调整
+Context 7 MCP
+其实也会提升这种计划
+到MD的文件里
+所以
+你看到这里
+可以把
+context7的文件
+和文件里的计划
+可以现在去搜集
+不同计划
+在计划里的文件里
+在我们的文件里
+看起来
+可以提升
+MD的计划
+所以
+很快就能
+明白我的
+计划
+看看Docs 和 其實 看透 各種 程式
+在這個 領域
+這很方便
+因為 模式 有 很多 預約 程式
+但是 程式 有 知識 數量
+所以 當 領域 程式 發展 和 文件 發展
+例如context7 或任何MCP
+你想要建立的
+很多客人建立自己的
+內容、文件、MCP
+只是用 Codex 保持
+實際的進行
+作為更新的更新
+一定的
+好,你看
+它在這場工作中
+我會回到輪胎上
+再說說我 next 個項目
+其實是加上
+更多的定義
+至於Global的Agent-MD
+在Codex Home Folder
+似乎是Charlie提及的
+如果你想要求Codex
+每次看Codex 7
+你必須加上
+一個定義
+在Codex Home Folder
+我會示範
+其實
+當新的項目
+任何外side libraries or APIs
+always search if there is relevant documentation
+on Context 7
+as you can see a couple of other lines
+on my personal codex home agents 用 Codex Home MD file
+but what this will do is actually 讓
+to not even specify Context 7
+and Codex will be able to read your global agents.md
+and actually call the exact same emCp server
+without you specifying it, which is fantastic
+所以我相信完美的時間
+好像是在完成的
+全部三個都可以改變
+三個輸入的程式
+加了幾百個程式的程式
+像Charlie說的
+你可以看這個特定的輸入
+好像是在做一種系列的工作
+來看一些的輸入
+好,我們回到這個
+我之前的最後一題是用Codex去評論你的程式
+所以有幾個方法去做
+CLI和ID
+在CLI裡面有四個方法
+Codex 評論對於一個專業的基礎
+Codex 評論對於所有的不合約的程式
+Codex 評論對於專業的程式
+還有可以提供普遍的評論學習
+像Charlie mentioned earlier when we were talking about Agents MD
+你可以有一个分层的 MD 设计
+没有直接的 MD 设计
+所以,我看到很多人用来创造一个 Code Review Guidelines.MD
+调整到 within the Agents.MD 设计
+没有使用太多的MD 设计
+所以,这是一个很好的方法
+去理解如何去查理
+你的专业的网络
+在ID里
+有一个网络的能力
+我会在这里示范
+有点输入
+所以你打开网络
+你也可以查理
+对于一个网络的网络
+或者查理你的网络
+但之前我们做这个
+我们先看看
+网络的能力
+在这些网络里
+所以我们再回到这个设计
+看看能否加上这个费用公司的设计
+所以很棒
+看来可以加上一个设计
+可以使用公司公司的设计
+进行一个公司公司的设计
+所以就是一个很棒的方式
+所以我会快速地
+展示一下
+如何把设计的设计放开
+所以,你能使用 Codex CLI 和 Review 方式
+所以你能重新重新你的改善
+重新重新一個特殊的改善
+或再重新重新一些教育
+我會 quick 展示一下
+如何在 ID 增加的方式
+所以我可以按重新重新重新
+再按重新重新重新重新改善
+然後它會能夠實際地走過
+然後它會重新重新重新重新
+它會看待如果有什麼 P0 或 P1 問題
+它會肯定會重新重新重新重新
+它也會有P2或P3的問題
+是一個很好的方法
+讓你知道你需要的問題
+然後再問Codex去解決
+因為它有一個按鈕
+在ID的設計中
+你就可以按它
+然後它會幫你解決
+就是很棒
+對
+這是一個很好的方法
+去做每一件事
+跟Codex CLI和ID的設計
+我覺得最重要的一件事
+我們找到的Coder Review
+是它真的不能太鬆脆
+如果它在太多人的評論中,就要把它調整出來
+所以,模特兒已經在訓練
+可以只在P0、P1的問題上
+對,一定會
+對,一定會
+對,一定會
+對,一定會
+對,一定會
+對,一定會
+對,一定會
+但是,我必須找到
+我常常會想評論
+如果我沒有這個調整
+它會停止在創作中
+對,一定會
+它絕對有些
+網路的註冊問題
+它會幫助調整
+而且,它只是一個很好的方法
+不需要有一個很便宜的冷凍
+因為它總是回到
+是一個問題
+可以用 Codex Fix 為你建立
+現在我們回到Charlie 想說一些
+有機的 新的 用家的 用家的
+對 一個我非常興奮的東西
+是 Codex CLI 能夠使用它
+當然是用它 但也能夠用它
+儘管 建立它 用不同的
+用家的 用家的
+用家的 用家的
+然後 做到 什麼都要建立
+所以 要展示這個
+我想 進入 這裡的 電源
+然后再把Codex 描述一下
+然后再展示一下这种形式
+我们在我们的Agent7D 网站里
+我们有一个特别的设备
+我会展示一下
+Codex Output Schema
+如果我把Codex 描述在这边
+我们可以看到这个
+这是一个JSON 设备
+它是在开放AI 设计的
+设计的设计
+这个告诉Codex 确实是
+设计需要接受回应的回应
+所以我用了一些研究的研究程式
+和一些不同的材料
+包括设计数字的数字
+例如是整个研究的数字
+设计数字的数字
+从0到100
+我们可以 also 描述
+这样我们可以有一个人的材料
+每个人的材料
+每个人都可以有自己的材料
+非常有材料的形式
+我们可以用这个 Codex 和 CodexXec 来做
+Codex's Headless Mode 来调整
+调整这个 Codex 和 CodexXec 的效果
+然后给它这个 Output Schema Param
+然后用它来删除 JSON
+我会把这个删除 然后你看
+比起进入一个 产生的 Terminal Mode 来看
+Codex 只是在删除 这些 公式的 公式的 公式的
+但是 这种看法 已经删除了
+我们可以看到 它已经删除了
+把这一件价值卡在JQ上
+可以提供评测试
+评测评测评测评
+评测评测评
+评测评测评
+评测评测评
+在整个设计中
+我们可以做很多的事情
+比如我们想提出一个公众
+每一个设计的问题
+我们想把每一个设计的问题
+我们可以设计一个资料
+我们可以设计一个CCI-CD的文件
+它是一個很簡單的,但是很強的,
+可以做很多的計劃工作
+我們可以用來建立這個
+你可以做一些像是保護,
+可以做一些測試,
+可以做一些衛生器,
+可以做一些衛生器,
+可以做一些衛生器,
+可以做一些改變的,
+每次你進行新的進行,
+這些都是你能夠建立的
+在這個技術中的發展,
+而在這方面,我們可以更加進步
+除了做一個步驟,我們可以建立更多步驟
+在開放AI的STK和Codex
+開放AI的STK可以建立
+手機和鏡頭、工具和工具
+Codex可以作為MCP的用戶
+在STK內,這基本上是一種
+可以用來打開的工具
+這很強大,因為我們可以使用
+Sdk 作为前处的前处
+在前处的前处的前处
+或是前处的前处
+在前处的前处的前处
+或是前处的前处的前处
+在前处的前处
+每个自己的MCP 技术
+自己的困境
+和他们的困境
+都要提供到另一个
+因为我们使用Sdk 技术
+我们可以看到
+在这边看到
+Codex 叫的
+或是不同的级组
+都要提供到另一个
+之前叫的Codex
+在前处的前处
+Codex 前才提供了一些規定
+我們有個整個例子在開箱裡
+但是我們覺得這是個很棒的方式
+去建立一些長時間的
+控制的描述
+我們想做的大部分
+或大部分的技術
+接下來要來的就是 on-prem 規定
+就像我們所見的
+Parsing JSON
+你可以建立自己的規定
+就像我們所建立的
+規定的規定
+就像我們所建立的
+或如果你有另外一個SGM,那是不是GitHub
+你可以再建立這個
+用Codex的優點
+CoderView capabilities
+你可以用ExactSame Prompt
+我們加入的Cli
+Codex Cloud
+你可以用Structured Outputs
+去揭曉不同的問題
+可以用在你的 own pipeline
+類似那樣
+你可以用CoderView
+去做AutoFix CI
+所以如果測試失敗
+你推出了
+你做了什麼
+就是你的 pull request
+你可以用Codex Trigger
+check out your branch,玻垢
+make a pull request back on top of that with a fix to make test-pass
+and then just merge your PR from there
+and save a bunch of time that way.
+And then when we actually use
+on the Codex open-source repo
+is triggering Codex whenever an issue
+depths-created to auto-label with the issue.
+This is pretty basic
+but super, super helpful
+basically we can use Codex
+to categorize the issues based off
+in a series of pre-defined labels
+and this doesn't need to madge any kind of
+评论和计划等
+我能够理解
+这个问题的关系
+我们的团队
+可以解决我们的问题
+所以
+我们想分享
+一些更多的质疑
+一些全联系的
+所以
+我们可以在
+codex.com.com.com
+发布
+很多的
+非常好的评论
+和评论
+我们也有
+一些计划
+which are guides that we've put together based off of our own kind of
+experience onboarding customers, and experience from our engineers
+internally at OpenAI, and then also the Codex change log which captures
+all of the different features that are being added to Codex.
+As I mentioned we're shipping pretty rapidly so that updates pretty frequently.
+if you're an admin we have an enterprise admin guide for you,
+as well as a security guide and then a rate card that captures the
+credits that are used by Codex so you can understand usage.
+and with that that's that's it
+Thanks for watching our presentation
+And we hope you are able to use codecs
+and spin up on it well
+Thank you so much

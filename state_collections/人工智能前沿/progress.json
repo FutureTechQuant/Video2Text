@@ -1,14 +1,14 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--cookies', 'cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/人工智能前沿/0114_BV1xYr5BHEEr_p01.%(ext)s', 'https://www.bilibili.com/video/BV1xYr5BHEEr?p=1'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "人工智能前沿",
   "source_url": "https://space.bilibili.com/456284799/lists/4227265?type=season",
   "queue_total": 229,
-  "queue_index": 114,
-  "updated_at": 1776293453,
-  "updated_at_readable": "2026-04-15 22:50:53",
-  "current_item_id": "0114_BV1xYr5BHEEr_p01",
-  "current_bvid": "BV1xYr5BHEEr",
-  "current_title": "BV1xYr5BHEEr",
-  "current_url": "https://www.bilibili.com/video/BV1xYr5BHEEr?p=1"
+  "queue_index": 115,
+  "updated_at": 1776295593,
+  "updated_at_readable": "2026-04-15 23:26:33",
+  "current_item_id": "0115_BV1oUrWBwEC6_p01",
+  "current_bvid": "BV1oUrWBwEC6",
+  "current_title": "BV1oUrWBwEC6",
+  "current_url": "https://www.bilibili.com/video/BV1oUrWBwEC6?p=1"
 }
