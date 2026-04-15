@@ -1,0 +1,583 @@
+我們現在的這個時刻是有更多的
+技術的限制在世界上的CPUs
+和機制的實驗室
+我們有使用不僅是新的方式
+來進行進行進行
+但也有機會繼續進行進行進行
+反應的實驗室有更多的
+我們能夠做到的改革
+我 am curious
+What are the scientific or technological limitations that we face now
+in the current world that you're thinking a lot about?
+Well, everything in the end
+is about how much work you can get done
+within the limitations of the energy that you have.
+And so, that's a physical limit.
+And the laws of physics
+我們會通過教會
+提供教會
+教會完結
+教會釋放
+教會須跟教會
+盛產的工資
+教會混合
+教會
+教會
+教會
+教會
+教會
+教會
+教會
+教會
+大部分的版本是250,000美元
+寶寶的數字
+這是一台超級電腦
+這台版本是一個MACA的
+第一版本是DGX-1
+我推出了開放AI版本在2016年
+那台版本是250,000美元
+10,000倍的力量
+更加的能量
+然後這個版本有6倍的表現
+我明白,這次是很厲害的
+我們在全世界
+從2016年開始
+8年後,我們增加了
+能力的能力
+在10,000倍的電力
+想想,如果我們
+變成10,000倍的能力
+如果一輛車10,000倍的能力
+或電力電力10,000倍的能力
+我們的光線會是現在
+100W 10,000XL
+在同一燈光的產生
+對 所以
+能量能量的充足
+特別是AI充足
+我們在工作的
+很大力量
+這是很重要的
+因為我們想要
+更多的能量能量
+我們想要用更多的
+能量能量
+更多的能量能量
+所以能量能量
+的 lead to do the work is are number one priority
+when I was preparing for this interview
+I spoke to a lot of my engineering friends
+and this is the question that they really
+wanted me to ask, so you're really
+speaking to your people here.
+You've shown a value of increasing
+accessibility and abstraction with
+Kuta and allowing more people to use
+more computing power in all kinds
+of other ways as applications
+of technology get more specific
+我是想反答
+anti-transformers in AI, for example
+For the audience, a transformer is a very popular
+more recent structure of AI
+that's now used in a huge number of the tools
+that you've seen
+The reason that they're popular is because
+transformers are structured in a way
+that helps them pay attention
+to key bits of information
+and give much better results
+You could build chips that are
+perfectly suited for just one kind of AI model
+but if you do that
+then you're making them less able to do other things
+所以這些特殊的建築物體
+或者建築物體的建築物體
+會更有名
+我的理解是
+有個 debate between how much you place these bets
+在將它們搶到 chip
+或者 designing hardware that is
+非常具有特殊的 task
+versus staying more general
+所以我的問題是
+你怎麼去做這些 bets
+你怎麼想到
+如果這 solution is
+一個車子可以去哪個地方
+或者是 really optimizing a train
+去A to B
+你會做 bets with huge stakes
+然後我會在意你認為如何
+對,這回到你所問的問題
+是什麼是你的心理意義
+心理意義是
+一個,那一個,那一個
+是最後的AI
+AI的建築
+那一個,那一個
+那一個,那一個
+那一個,那一個
+那一個,那一個
+那一個,那一個
+那一個,那一個
+那一個,那一個
+是一個步驟向著
+發展的發展者
+那些幾乎不能被認識
+作為發展者
+從現在開始
+我們相信這一點
+而這個原因
+是因為
+我們必須回到歷史
+問自己
+在世界上
+有些學生的
+學生的
+技術
+在世界上
+有些
+研究和新興建築
+有一個想法
+長那麼長
+而答案是不
+那是因此
+那是最重要的美容
+在 computer
+可以做到什麼
+今天沒有人想像
+10年前的可能
+如果你
+把10年前的 computer
+轉變成
+微軟
+那為什麼會有
+我們相信
+在
+是因為我們想要建立一個建築
+讓學生和新興建築者
+和學生和 AI 研究者
+進入這個學生的學習
+然後來自一些很棒的構想
+看看傳統
+傳統的最重要的特點
+是這個叫做 傳統的技術
+它基本上說
+傳統會明白意義
+和關鍵的每個字的意思
+10句必须要处理10个但是100000的话
+或是你的调查程序不够大
+而且那边有很多调查程序
+而且现在的调查程序现在有1亿
+所以一般的调查程序是不可能的
+所以你会想清楚
+那种新的想法和考虑
+我剛才說了很多關於其他問題
+不同類型的關鍵技術
+從事轉換的成果
+是非常重要的
+所以我認為這會繼續
+我們相信會繼續
+而這裏的學業資料並沒有結束
+而這裏的學業資料並沒有結束
+我們沒有結束
+還有一個新的手機
+可以令到更多的學習和新的技術
+更多新的想法
+最重要的一件事
+我非常興趣的是
+你設計了零件
+有些公司設計零件
+有些公司設計零件
+可以使用在零件的程度
+當你設計了一些技術
+你覺得如何設計
+在於現在的實際上
+什麼東西可以做
+什麼東西你現在想要做
+將那些限制推進去
+我們做的方式
+是 即使我們有東西做
+例如我們的芝士
+是用來做TSMC的
+即使我們用來做TSMC的
+我們要有深刻的經驗
+所以我們有很多人在我們公司
+很高興地在 semiconductor physics
+我們會有一個感覺
+我們會有一個想法
+是什麼是今天的的限制
+然後我們會很近地去找到的限制
+因為我們正在推動限制
+所以我們會找到的限制
+我們同時也在應用機構和 cooling 系統
+iSplummingis really important to us because of local cooling
+and maybe fans are really important to us
+because of air cooling
+and we're trying to design these fans.
+In a way almost like, you know their aerodynamically sound
+so that we can pass the highest volume of air
+make the least amount of noise.
+So we have aerodynamics engineers in our company.
+So even though we don't make them,
+we design them and we have to
+expeceteep expertise of knowing how to have them made.
+我們會把限制推進去
+這件事情的主題是
+你會是一個人
+在未來的大招
+每次都在你對那些招式的問題
+我們談到GPUs
+我們談到Kuda
+我們談到招式你做的AI
+自行車
+我們會在動機上寫的
+這是我的問題
+我們會在動機上寫的
+我們在CES上,我們很擔心的,我們也很期待,是
+Omniverse和Cosmos的風格,我們有這個新的
+世界的世界的世界系統,這個新的世界系統
+我覺得這會是非常重要的,在未來的
+在 physical systems
+當然我們在做的工作
+是 人物和 動物
+在發展 設計 設計 訓練
+和 人物 證明
+所有的東西
+你們已經提及過
+我們只是在看
+最初的工作
+我想 接下來的五年
+會有很大的興趣
+在人物和動物的世界
+當然我們在做的工作
+是 自動化
+我們可以學會這個
+我們可以預計
+那一刻我們能夠
+有一個能量的天空
+是可以的
+所以我非常期待
+這件事
+我愛我們在
+當地的生產
+和天空的生產
+能從天空的天空
+開始
+我們可以
+學會
+我們可以
+學會
+我們可以
+學會
+我們可以
+學會
+我們可以
+學會
+我們可以
+從天氣計劃,理解和預計
+海拔的地位,地位的地質
+在一公斤以上的平均
+我們可以將這計劃以極大的確定
+它的計劃是非常深刻的
+所以我們在工作的數量是非常好
+我們很幸運
+我們有建立了這個技術
+這是一個時間機
+我們需要時間機在所有的地方
+我們剛剛提到的
+我們可以看到未來
+如果我們看到未來
+我們可以預計未來
+我們會有更好的機會
+做到未來的最好的方式
+這就是原因為何
+為什麼我們要想著未來的
+那是為什麼我們要想著未來的
+我們要想著所有的未來
+所以我們可以儲備最好的版本
+如果有人在觀察這個
+他們可能會知道
+在影片中知道
+是一個很重要的公司
+但不完全明白為什麼
+或如何他們的生活
+他們現在有更好的理解
+我們在這幾年
+我已經在那幾年裡
+在研究這 very exciting
+very strange
+moment that we're in right now
+where we're sort of on the precipice
+of so many different things
+if they would like to be able to look into the future
+a little bit
+how would you advise them to prepare
+or to think about this moment
+that they're in personally
+with respect to how these tools
+are actually gonna affect them
+Well, there are several ways to reason about
+about
+我們在創造的未來
+一種方法是
+我們要做的工作
+將會繼續發展
+但
+但努力
+在你做的努力
+從
+一週長
+到
+差不多一週長
+努力
+基本上是0
+這是什麼意思?
+這是很像
+如果我們突然有海外的海外
+那樣發生了
+在最後的杜州
+突然我們有海外的海外
+如果我們有海外的海外
+那樣發生了
+我們會開始創造
+然後我們會有
+在西方的食物產品的復興
+沒有任何關注
+然後一旦 gas station 開始擴大
+在海外
+然後 fast food restaurants 店舖
+然後一家店舖
+因為人們在國外
+想要在國外
+就想要在國外
+幾個小時或晚上
+然後一旦新的經濟
+新的經濟
+如果影片會有可能讓我們看到一切
+沒有旅行再旅行
+那一刻就沒事了
+去工作和離開家庭
+你問自己這些問題
+如果我有一間軟件
+我會一直在我身邊
+But I have a software programmer with me all the time
+Whatever it is, I can dream up
+The software programmer could write for me
+What would that do?
+What would happen if I just had a seed of an idea
+And I'd rough it out
+And all of a sudden, a prototype of a production was put in front of me
+And, how would that change my life
+And how would that change my opportunity
+我會知道自己的能力
+等等
+所以我認為
+在接下來的一年
+不僅是全世界
+但是
+一些事情
+會變成超人
+所以
+我可以告訴你
+什麼我感覺
+我身處超人
+超人
+超人
+因為他們是最好的人
+就是他們做的
+他們做的做的
+比我做的更好
+我仍然是有很多人
+但
+一天
+我一直以為
+我沒有再需要
+他們的力量
+他們其實
+能夠
+讓我更加
+tackle more and more ambitious things
+and so so supposed
+suppose now everybody
+is surrounded by these super ai's
+that are very good at specific things
+or good at some of the things
+what would that make you feel
+well it's going to empower you
+it's going to make you feel confident
+and i'm pretty sure
+you probably use chat gpt and ai and
+i feel i feel more empowered today
+更加信心地學習了什麼
+這就是了解了所有的知識
+這就是了解了所有的理由
+我一直都在學習
+所以我認為這個感覺
+應該是一種一般的
+如果我有一個想法
+我會向大家鼓勵
+是要去找自己的AI tutor
+那些AI tutor可以
+學習什麼東西
+任何東西你喜歡
+幫你做一些計劃
+幫你寫、幫你分析、幫你思考、幫你理解
+這些東西都會令你感到很強烈
+我覺得這是我們的未來
+我們會變成超人,並不是因為我們超人
+因為我們超人
+可以告訴我們一下,每個項目
+這是一個新的G-Force 卡
+Katya 嗯
+對了
+對了
+這是RTX 50系列
+它是基本上的超級服務
+你的PC
+我們用它為遊戲
+當然人們今天用它為設計
+而創作藝術
+它做得非常靈驗
+judge 這一段
+這就是超級巨大
+G4 能夠使用AI
+Jeff Hinton,Alias Suskover,Alex Krashevsky
+to be able to train Alex Net.
+We discovered AI and we advanced AI.
+Then AI came back to GeForce to help computer graphics.
+And so here's the amazing thing.
+Out of 8 million pixels or so in a 4K display,
+we're computing, we're processing,
+only 500,000 of them.
+The rest of them, we use AI to predict.
+The AI guessed it.
+而且,畫面是完美的
+我們會在500,000張畫面中寫到的
+我們每個畫面都畫得很美,很完美
+然後我們會告訴A.I. 如果這些是500,000張完美的畫面
+那是另外8,000,000
+然後它會在其他畫面中寫到,很完美
+如果你只要做幾張畫面
+你能夠更多投入那些畫面
+因為你有幾張畫面
+所以,能夠更好看的效果
+所以,能夠更好看的效果
+對,因為,任何資料
+任何資料,可以放在500,000畫面
+這是一個完美的例子
+為何AI會讓我們超人
+因為,所有其他能做的事
+讓我們帶來時間和能量
+而在於,我們做的非常重要的事
+so we'll take our own resource which is energy intensive
+attention intensive
+and we'll dedicate it to the few hundred thousand pixels
+and use AI to super up-resit to everything else
+and so this graphic's card is now powered mostly by AI
+and the computer graphics technology inside is incredible as well
+and then this next one as I mentioned earlier
+2016年我建立了第一項 AI 研究者
+我們把第一項 AI 開放了
+Elon 也在獲得了
+這個版本
+我建立了很多版本
+原因是 AI 現在
+由 AI 研究者
+每一位研究者 每一位學生
+每一位 AI 研究者
+AI 會在每個地區
+所以 除了這些 $250,000 版本
+我們會做這些3000元的版本
+學生可以有它
+學生可以有它
+然後你放在你的PC或Mac
+然後你會有自己的AI超級電腦
+然後你可以發行AI
+發行自己的AI
+發行自己的R2D2
+你覺得這位觀眾很重要
+要知道我問過的問題嗎
+我會提醒你最重要的一件事
+例如我今天學生
+The first thing I would do is to learn AI.
+How do I learn to interact with chat GPT?
+How do I learn to interact with Gemini Pro?
+And how do I learn to interact with GroK and
+and these, learning how to interact with AI
+is not unlike being someone who's really good at asking questions.
+You're incredibly good at asking questions
+And prompting AI is very similar.
+你不能隨便地問幾句問題
+所以問A.I. 要有助於你
+需要一些經驗和藝術
+去推出它
+如果我今天學生
+不論是學生的學生
+或是學生的學生
+或是學生的學生的學生
+或是我自己的學生
+我會問自己
+如何使用A.I. 做我的工作更好
+如果我想成為一位學生
+如何使用A.I. 做得更好
+如果我想要成為一個更好的醫生
+如何使用AI作為一個更好的醫生
+如果我想要成為一個科學醫生
+如何使用AI作為一個更好的科學醫生
+如果我想要成為一個科學醫生
+如何使用AI作為一個更好的醫生
+這問題應該要在所有人身上
+而我一代
+我從小就要問我們
+我們如何使用手機去做我們的工作
+我之前一代沒有手機
+我一代是第一代的
+我必須問一件問題
+如何使用 computer 做我的工作更好
+我記得我從1984年代進入
+工程院前的工作
+在1984年
+沒有了 computer 和辦公室
+然後 稍後
+computer 開始變成了
+所以我們必須問
+如何使用 computer 做我們的工作更好
+下一代
+不必要問那件問題
+但我必須問
+那 obviously next question
+how can I use AI to do my job better
+that is start and finish I think for everybody
+it's a really exciting and scary
+and therefore worthwhile question
+I think for everyone
+I think it's it's going to be incredibly fun
+AI is obviously a word that people are just learning now
+but it's just you know
+what would it is it's made your computer
+so much more accessible
+it is easier to prompt chat gpt
+to ask it anything you like
+然後去做學習
+我們要 lower the barrier of understanding
+我們要 lower the barrier of knowledge
+我們要 lower the barrier of intelligence
+然後
+然後
+大家真的要去試試
+你知道嗎
+這個東西真的
+真的瘋狂的是
+如果我把一個手機放在前面
+然後他們也沒有用手機
+他們沒有機會
+會學習那個手機
+在一天
+他們沒有機會
+有人真的要給你展示
+Yet with ChatGPT, if you don't know how to use it, all you have to do is type in I don't know how to use ChatGPT, tell me.
+And it would come back and give you some examples.
+And so that's the amazing thing.
+The amazing thing about intelligence is it will help you along the way and make you a superhuman along the way.
