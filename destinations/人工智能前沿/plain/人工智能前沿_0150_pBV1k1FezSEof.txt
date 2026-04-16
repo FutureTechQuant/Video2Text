@@ -1,0 +1,614 @@
+很多人都在调整GOOGLE Gemini
+他们的市场协调了过年
+而且是好原因
+这台台台是用力量的功能和技术
+认识的技术很棒
+但用它们一起是真的功能的
+所以在这段视频里
+我会用一个不同的方式
+不过只是在每个技术上
+我会用实用的方式
+来解决这些技术的问题
+最后你会明白整个台台
+在一種方式上是很方便的
+所以這裡是主題
+你可以做所有的通訊
+從簡單的規矩到蠻有趣的
+然後它會表現得更好
+或更好 than any competitor
+現在我們的Gemini really excels
+是 multi modality
+它可以用文字、音樂、影片
+然後重新重新整合那些形式
+用進去的程式
+你可以把文字放進去
+或者有一個按鈕在旁邊
+我會開始用PDF
+广兔的 computer 和 说 说这个 像我五个
+现在 很多模式可以已经做到
+虽然这个是79  pages 长
+GEM 和我可以其实 与 1 亿的标准
+这就是 约是 整个 哈利普特 系列
+虽然 没有 几乎 没 能 去 那个
+所以 这 做得 很好
+但是我可以說是很酷的
+可以幫我看見這個
+在資訊中
+然後用Nano Banana Pro
+來創造這個
+超級幫助
+但是我會幫到更多
+如果我有什麼可以跟它交流
+所以可以建立一個
+大型的面對方法
+來幫我理解
+基本的 quantum computing
+我們有那個 quantum explorer
+有這些小按鈕
+我可以按
+Apply Hadamard
+Measure state
+Wave function collapsed
+Reset
+然後在超級的位置
+我們有一個 coin analogy
+A nice little animation with entanglement
+Generate bell pair
+Break entanglement
+Awesome
+Quantum gates
+So I think that gets the point across
+That is really cool
+And I will show each of these again in practice later
+And go deeper into specifics
+I just want to show the format we'll be working with
+And showcase the multimodality
+It can intake video as well
+And it actually watches the video
+Analyzing the visuals
+Not just pulling the transcript like most models do
+I saw this AI generated video online
+Watch the video
+然后给我一个评论
+会发现一些相似的东西
+现在在一个自由计划
+我没有能够实际地发现这个视频
+但如果我能够进入我的费项目
+我会说
+任何时候我用了什么
+你需要的费项目
+我会在我自由计划中
+通过很多这个视频
+但我会说
+任何时候我需要使用费项目
+自由计划还很强硬
+然后这里是视频
+小小的动作
+不错
+kind of curious
+他在最后的视频里
+也有YouTube的进入
+如果我把YouTube视频下来
+它可以招呼一整张信息
+or multiple videos at a time even
+So These are the links to my top 5 best performing videos
+Then I'll say analyze these videos and identify the patterns that made them successful
+Hee's all come from futuesperpeteia,ข-repeatable, utility-first framework, the type of hook, high return on time, visual proof and rapid-fire pacing, categorical organization
+and just like before, I could ask for an infographic or interactive dashboard
+And that youtube connection is great, there's tons of ways you can use it
+另外一種很棒的連結是notebook LM
+我喜歡這個因為我用notebook LM 每次
+因為我只用了我的自由計劃
+所以我會去買我的付款計劃
+這個notebook 有我的最好的youtube scripts
+還有我的現在的analytics
+所以我選擇了
+然後說 接下來的影片要怎樣
+因為我剛剛有用Vibecoding 還有接下來的步驟
+我用了我的Nana Banana video
+是一位Top 10 performer
+而且用了它特別的
+我答應,如果我做了一段 banana video
+我會需要一些 B-roll
+所以我會把我的畫面丟進去
+然後會發揮一些東西
+說到這樣,看起來很完美
+YEEHOO!
+WOW!
+WOW!
+WOW!
+WOW!
+這 banana 會有點痛
+其他設計和設定的選擇是
+音樂,如說話
+你可以說話,比較快速的
+但也能使用你的相機
+看東西在現實的時間
+什麼種類的 plant 呢?
+那是一種水水
+那是一種水水
+也叫做瓿西娜 瓢水
+他們很容易要注意
+他們只需要水
+每兩至六個星期
+依照你的家庭的情況
+所以那就是這樣
+是一種不同的技術
+但我比較喜歡看他們
+你把最重要的形式
+再回到最幫助的形式
+會有時間使用他們
+但這就是主要的關注
+不想想像是一張帳號
+再重新重新看看這些
+用戶的情況
+就算是說它是Multimodal
+有幾個其他功能
+我會說在這功能上
+前我們看到他們的工作
+深入的資料
+這是一個優點模式
+會在一段時間內
+做一個計劃
+搜集網路
+調整通訊的方式
+然後再培訪
+有更多的資料
+在你的題目上
+我已經展示了
+影片和影片
+但是Google是
+最好的一項
+你可以形容一些一幅画 with extreme prompt adherence
+Modify that through natural language
+It is really nice to have this option as part of your chats
+We'll use it more later
+In the videos, can have audio that includes sound effects, music, and dialogue when needed
+All perfectly synced up
+I can animate that image and ask it to say something
+I'm covering a broad range of how to use Gemini
+But a great way to level up your work and marketing using Gemini
+is with this free resource provided by HubSpot
+It's called Google Gemini at Work
+And it's a complete breakdown of how to use Gemini
+to speed up your research, improve your content
+and build entire marketing strategies in a fraction of the time
+My favorite part is the Gemini marketing stack
+It shows how five tools like Deep Research,
+Nopalc LM and Gemini work together
+to handle everything from campaign planning
+to content creation, to building interactive dashboards
+全都不需要一个大组织
+还有一个四周的组织计划
+如果想要开始使用Gemini
+在你的工作室
+加上一些纸纸的评论
+你可以在电话里发送
+如果你在市场
+或者只想要你能够推动AI的技术
+你肯定会想要拿这个
+这是这个完美的影片
+在下面的描述中有 the link to download it
+谢谢HubSpot 为这段视频帮助
+以及在每个人看下的这些自由的购买
+candice opens a side-by-side editing environment
+think google docs meets code editor
+it is amazing for writing
+you can also build full apps or design dynamic interfaces
+like the ones I showed earlier
+that's what I was using
+you do this all using natural language
+I'll show this in action in our use cases
+and guided learning basically just has it take a teaching approach
+instead of just answering questions
+it walks you through understanding a topic step-by-step
+quiz you along the way
+sometimes show diagrams things like that
+那最後,這個下落是想法模式
+快速的答案就在這裡
+那是不錯的,你的標誌
+想法會長期回答
+而且會給你更加明顯的和解釋的回答
+還有一位專家,我幾乎都沒有用過
+很多人都不會需要
+但是我只會用想法作為 default
+它只是給我更好的回答
+即使要等一會
+但是我每次都會回答快速的
+但是如果你在自由的計劃中,想法會更加限制
+所以可能是更好放在快速的程度上
+然後再想想當你需要它
+好,那是很多,而且還蠻快的
+你只看到文章、影片、影片、文章、
+有趣的電腦
+但是這裡是很強烈的地方
+GEMS
+這是你把所有的東西
+當成一個個人化的使用系統
+我會開始回到一本平常的電腦
+讓我能展示不同的
+我剛才說了有幾個領導的領導
+是一個維修過程
+这些是每天的充电器
+我们有一个
+Prompt enrichment sound bath
+H100 exhaust scented candle
+Rick Rubin not of approval
+Cymulated of course
+Artisanal GPU heat sink water
+Liquid cooled by the fans that trained GPT-4
+Helucination insurance
+Standard vibe coating retreat
+所以我们说我刚刚拿了一张照片
+下落了
+我们说
+採取所有的转换
+从这些东西
+并认为他们要进入一个桌子
+为了费用
+包括 date, item, amount, and category
+我忘了把資料放在桌子裡
+但是,這裡是寫資料的數據
+可以查看畫面,找到每個傳統和數據
+其他書的文件
+然後它寫了給我,所以我可以寫作資料
+但是如果我要做那些什麼呢?
+很多
+我不想要把每次寫作寫作寫作寫作
+我會再次寫作寫作寫作
+這些是在旁邊的
+Open up gems and click new gem
+call it expense tracker
+then I can give it custom instructions
+and these will tell it how to act and what to do
+you can also tell it what tools to use by default
+and add files for a knowledge base
+so these gems are like reusable specialized brains
+that stay consistent each time you open them
+so I'll just say each time a receipt is uploaded automatically
+then I'll paste in the prompt I used before
+and I should never have to type it again
+then I can test it over here
+I'll just assume it's fine, click save
+and now I have my expense tracker
+Anytime i want to access it, it's gonna be right here under my gem
+so I'll start with just that same image
+I'm not even going to type a prompt, I'll just send it
+and right away and knew exactly what to do
+didn't have to tell anything
+Perfect!
+And it hefty vibes acts there
+Then later when i realize
+i have another receipt
+from my night at the bar while i was there
+i can just drop that in
+seind it again
+It gets right to work
+It was so easy to create that
+and if i had to do this regularly
+that would save a lot of time
+and ofcourse you can expand
+to this functionality massively
+我可以用这个例子来调整整个货币的数据
+和给费用的建议
+或者用它为费用
+然后用它作为费用的财政经理
+就已经有了所有的费用
+当费用期间发生了
+计算上的费用可以很大
+所以可以加上很多费用
+以及计算上的费用
+或者用这个费用的
+可以用这种偶像的计划
+可以用它作为费用的费用
+所以这个计划是一个更好的方式
+那 anytime I come back to my gem, I've got that right here.
+This is running live code right in canvas.
+I could keep refining this, but you get the idea.
+I mentioned these can handle a lot of context,
+which brings up an important shift.
+LLMs have gotten so good that it's less about prompt engineering
+and more about context engineering now.
+It's not about crafting the perfect prompt.
+It's about giving the model the right information
+and personalization to work from.
+There's an awesome way to get a lot of context in here
+really easily using notebookLM.
+我已經有很多的 Notebook
+這不一定是 Notebook LM  Tutorial
+我已經有一個,如果需要一個
+但像我剛才提到的,我已經有 Notebook 了
+我剛剛做的就是,我會把連結放在
+我25 最高的 YouTube 影片
+然後我會把所有的資料
+然後我會把所有的 YouTube 影片
+和所有的 YouTube 影片
+然後我會把 YouTube 專頁
+所以我會把所有的 custom 設計
+和我所想的資料
+然後我會選擇 Notebook LM
+然後我會選擇 Notebook
+现在我可以 fully personalized and useful conversations
+关于我的频道
+自从我带了这些 custom instructions
+这里面会更好
+比我们在设计中更好
+自从我带了这些AI agent video
+做得好好的
+当然这些是要练习的
+我建设了24.7 AI employee
+其实是免费的
+可以组织90%的工作
+和AI agents in 2026
+不过我认为
+90%的工作可以练习
+但是在正确的运动中
+根据N8n and AI video course performance
+The hook should show the end result first
+demonstrate the agent autonomously handling a complex task in real time
+so let's run with the idea it gave for the next video
+we'll just work on the intro
+because it has all the context of my writing style already
+I'll ask it to write an intro for this video
+but I don't want it to come back in a standard chat
+I want it in canvas
+if it ever doesn't work, just say open that in canvas
+it's got that intro written out for me
+I can ask for changes to the whole thing
+like remove the suggested visuals and only leave the script
+then it makes changes to the whole thing at once
+然后我可以来自于我自己的想法中
+我可以在许多文件和许多文件中
+问许多文件
+用一个不同的词来
+然后改变许多文件的许多文件
+然后用一个不同的词来
+然后可以回到之前的版本
+当然,有各种许多文件的选项
+然后也有选项去创作
+网站、网站、许多文件
+许多文件、文件、文件、文件、文件
+所以,Campus是非常棒的
+还有其他其他东西可以做的
+现在,我可以用一个很好的达字
+然後當然在Gemini,我可以創造一個畫面我會用來作B-roll
+然後就這樣,不太好
+或者說我影片有一個假Vibecoding的例子
+我可以用Gemini去ID8,來作一些特別的充電
+然後,用一個非常簡單的證據,用我們來作一些實用的證據
+然後,在第一次,我真的有用這個證據
+在一拍,我看起來就像一個實用的證據
+甚至是用來作Logo
+我以为这个质量非常厉害
+V1BE的质量
+对,然后质量和质量
+质量质量在一条分别的线
+然后在底部的评论中
+它全都看起来完全完美
+它甚至有指示
+像在背后的带子上
+然后就打开了一个红色的线
+然后把其他质量转换到其他质量
+然后再把三个质量放在桌上
+这不是太久不想象得了
+而且会有很长的一段时间
+去尝试这个进行的东西
+所以,在这两个例子之后
+金融用一件金融的帮助
+可以自行取消金融的帳户
+然后可以建立一个全面的币
+Youtube的传统人员可以建立一件金融
+用Nopec LM 币
+用所有的视频的线
+金融用写意
+和传统的银线
+用镜子的镜子
+然后可以用Vio的视频
+在这里的视频里面
+还挺有限度的
+在费的计划中
+你只会有几个人
+我通常会去一个剧场
+但是也很棒在金融里面
+我們已經在調整了很多不同的功能和技術
+來提供大量的功能
+我會回到平常的聊天
+來試試一些完全不同的東西
+一個個人的利用
+只是來示範一下
+這個方式的進步
+當你開始想像的
+我們現在在市場承諾
+有些小的餐廳的餐廳
+來增加一些菜式
+我沒有什麼關於餐廳的
+但會很棒
+有些新的食物在增加
+所以我會有些幫助
+我會把照片拿出來
+我可以說一些
+Based on this photo research the best fruits and vegetables I could grow in these raised beds in Utah
+Considered the local climate temperatures and growing seasons
+I want to maximize the space, give me all the viable options and explain what will grow well here
+Give me some good options, then just a little bit of back and forth so we could include some strawberries in there
+I want a visual of that, so I'll ask it what it will look like
+Nice, I would love that, I'll see if I can make it happen
+I know nothing about gardening, give me a full system for everything I'll need to do to get this going
+and then create an info graphic to show the timelined steps visually
+that is actually just amazing
+and I think yeah each image has this layout correct
+shows the seasons when the important times are
+like that's just amazing
+it'll also say give me all the instructions as a pdf
+when i download that
+now i'll just jump right in and create a gem
+then i add some custom instructions
+telling it to garden assistant
+contacts that i'm a complete beginner
+what I have
+telling it to look at my uploaded plan
+the role
+telling it to identify issues when I upload photos
+communications style
+consider the Utah's climate and my limited space
+bunch of things like that
+then I'm uploading the whole plan to the knowledge base
+moss picture of what it looks like
+and that infographic
+then I can save that
+Now I have a garden helper
+that uses all the information I just got as context
+that way when I'm actually out
+you know planting or running to issues
+I'm gonna snap a picture and get feed back
+and I won't have to remind it of all this stuff every time
+and as I'm figuring things out
+我可以用影片中的概念
+跟它們合作在真正的時間
+幫我做每一步
+因為我確定會走到問題
+但會有所有資料
+我的特定設計
+已經在每次下載
+而且在這裡
+我可以創造其他東西
+我會創造一條
+像是視角碟
+plant in calendar
+水平物品
+growth progress
+harvest predictions
+以及任何東西
+所以這裡
+這看起來很棒
+我可以轉換 between bed 1
+and bed 2
+一整個活動
+harvest predictions
+對,這很棒
+我可能會
+回到原理和改善
+但就像那样
+从知道完全没有什么关于
+保存到一个完全的系统
+与其他计划的计划
+步步的监管
+一个人的助手
+以及一个连接的网站
+就在几分钟之内
+这个保存的效果
+很棒
+但在我做这个
+我发现
+有很多学习
+很多人可能不会
+把这个系统计划
+而且不想花很多时间
+在研究
+所以
+如果还有
+一个办法
+我们可以去
+把一个想法
+也會有一個人用博物圈
+所以我會試試建一個SAS App
+可以解決保險的傷害
+然後我會把基本的所有東西
+我們都放在一種工作坊
+首先我需要去解決
+有一個問題是要解決的
+在網上搜尋
+網上網站
+YouTube留言
+保險社群
+找到最常見的傷害
+人們說的
+在家裡吃食物
+一個大小的
+是猪像
+像是藥
+或是跟狗跟狗跟狗跟狗
+人們在想
+怎麼多的錢可以付出
+所以對
+有一定的傷害
+What app could I create to solve some of these pain points?
+So that one sounds too difficult
+It's kind of like this bounty swap idea
+So I guess it's really common to have just a bunch of one thing
+You know, like 50 zucchinis, but zero tomatoes
+So it's like kind of like a co-op app
+That would allow you to trade back and forth
+It's got the magic lister where you just snap a photo
+Then it uses AI to figure out what the crop is
+Estimates the weight and quantity and the ripeness
+And then creates the listing on its own
+There's the trust layer
+It's neighborhood hubs
+So it's based on local geofencing
+Axis 信用通用 system
+链接 social profile
+proves you live in the area
+it will use a non monetary system
+so bounty credits
+or a direct request system
+and a few other things here
+it's great ideas
+so I want to dig in
+and make sure this is viable
+research the market for
+hyper local produce sharing apps
+analyze existing competitors
+market size
+monitization strategies
+technical requirements
+for AI crop identification
+and user acquisition tactics
+for community-based platforms
+identify market gaps
+and asses viability
+如果我做了這個,我想去深入
+用深入的資料
+這就是看起來很深
+這些是所有的資料在報告中
+還有其他各樣的東西
+可以建立一個標誌
+這是一個好意義,要有一個標誌
+首先,給我詳細的教訓
+給一個標誌
+可以建立一個圖案
+現在我們進入一些
+更好的功能的功能
+可以用很多的方式
+在 Gemini 上
+另外,I could try in something like Google AI Studio and see how it does.
+I got a quick working prototype.
+Of course I would touch up quite a bit from where it at now.
+And then in Notebook Lm,I can upload any of that information as sources
+and create the pitch deck.
+Then I'd also add everything I've done into a jam as context
+with custom instructions to act as a startup strategist
+and be my business partner along the way.
+But it really helps a lot in that I have used
+allong the way
+so of course, I kind of did this one, off the top of my head
+just running with it
+and just kind of pivoting as I went
+This wasn't meant to showcase an actual viable app here
+just to give you an idea of what's possible
+going all the way from
+I wonder if this is even a problem
+to here's a talented startup concept in one session
+Tamil Description
+using web research across forums and communities
+some market validation
+using deep research for competitor analysis
+and revenue models
+thenthe name, the logo
+then a full app prototype
+than an investor pitch, a full deck with financials and a go to market strategy.
+Plus, all the gems I could create to actually help with the launch process.
+But this is why I said it's about combining tools.
+Any one of these features is useful,
+but when you stack them together in a real workflow,
+that's when Gemini becomes genuinely powerful.

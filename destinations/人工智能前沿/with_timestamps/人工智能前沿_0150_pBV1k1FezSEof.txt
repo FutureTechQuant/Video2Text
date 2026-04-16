@@ -1,0 +1,614 @@
+[00:00.000 --> 00:03.000] 很多人都在调整GOOGLE Gemini
+[00:03.000 --> 00:06.120] 他们的市场协调了过年
+[00:06.120 --> 00:07.440] 而且是好原因
+[00:07.440 --> 00:11.000] 这台台台是用力量的功能和技术
+[00:11.000 --> 00:12.480] 认识的技术很棒
+[00:12.480 --> 00:15.920] 但用它们一起是真的功能的
+[00:15.920 --> 00:16.760] 所以在这段视频里
+[00:16.760 --> 00:18.200] 我会用一个不同的方式
+[00:18.200 --> 00:20.120] 不过只是在每个技术上
+[00:20.120 --> 00:21.880] 我会用实用的方式
+[00:21.880 --> 00:25.360] 来解决这些技术的问题
+[00:25.360 --> 00:27.520] 最后你会明白整个台台
+[00:27.520 --> 00:29.520] 在一種方式上是很方便的
+[00:29.520 --> 00:34.180] 所以這裡是主題
+[00:34.180 --> 00:36.300] 你可以做所有的通訊
+[00:36.300 --> 00:38.780] 從簡單的規矩到蠻有趣的
+[00:38.780 --> 00:40.460] 然後它會表現得更好
+[00:40.460 --> 00:42.300] 或更好 than any competitor
+[00:42.300 --> 00:44.300] 現在我們的Gemini really excels
+[00:44.300 --> 00:45.900] 是 multi modality
+[00:45.900 --> 00:49.340] 它可以用文字、音樂、影片
+[00:49.340 --> 00:52.700] 然後重新重新整合那些形式
+[00:52.700 --> 00:53.300] 用進去的程式
+[00:53.300 --> 00:54.500] 你可以把文字放進去
+[00:54.500 --> 00:56.740] 或者有一個按鈕在旁邊
+[00:56.740 --> 00:58.340] 我會開始用PDF
+[00:58.340 --> 01:02.140] 广兔的 computer 和 说 说这个 像我五个
+[01:02.140 --> 01:03.860] 现在 很多模式可以已经做到
+[01:03.860 --> 01:06.020] 虽然这个是79  pages 长
+[01:06.020 --> 01:08.840] GEM 和我可以其实 与 1 亿的标准
+[01:08.840 --> 01:11.660] 这就是 约是 整个 哈利普特 系列
+[01:11.660 --> 01:13.820] 虽然 没有 几乎 没 能 去 那个
+[01:13.820 --> 01:15.260] 所以 这 做得 很好
+[01:15.260 --> 01:16.580] 但是我可以說是很酷的
+[01:16.580 --> 01:18.260] 可以幫我看見這個
+[01:18.260 --> 01:19.700] 在資訊中
+[01:19.700 --> 01:21.180] 然後用Nano Banana Pro
+[01:21.180 --> 01:22.180] 來創造這個
+[01:22.180 --> 01:23.220] 超級幫助
+[01:23.220 --> 01:24.780] 但是我會幫到更多
+[01:24.780 --> 01:26.700] 如果我有什麼可以跟它交流
+[01:26.700 --> 01:27.700] 所以可以建立一個
+[01:27.700 --> 01:28.300] 大型的面對方法
+[01:28.300 --> 01:29.420] 來幫我理解
+[01:29.420 --> 01:31.140] 基本的 quantum computing
+[01:32.260 --> 01:33.940] 我們有那個 quantum explorer
+[01:33.940 --> 01:35.060] 有這些小按鈕
+[01:35.060 --> 01:35.980] 我可以按
+[01:35.980 --> 01:37.420] Apply Hadamard
+[01:37.420 --> 01:38.540] Measure state
+[01:38.540 --> 01:40.100] Wave function collapsed
+[01:40.100 --> 01:40.820] Reset
+[01:40.820 --> 01:41.860] 然後在超級的位置
+[01:41.860 --> 01:42.980] 我們有一個 coin analogy
+[01:42.980 --> 01:45.220] A nice little animation with entanglement
+[01:45.220 --> 01:46.580] Generate bell pair
+[01:46.580 --> 01:47.820] Break entanglement
+[01:47.820 --> 01:48.720] Awesome
+[01:48.720 --> 01:49.820] Quantum gates
+[01:49.820 --> 01:51.220] So I think that gets the point across
+[01:51.220 --> 01:52.320] That is really cool
+[01:52.320 --> 01:54.820] And I will show each of these again in practice later
+[01:54.820 --> 01:56.620] And go deeper into specifics
+[01:56.620 --> 01:58.920] I just want to show the format we'll be working with
+[01:58.920 --> 02:01.120] And showcase the multimodality
+[02:01.120 --> 02:02.880] It can intake video as well
+[02:02.880 --> 02:04.780] And it actually watches the video
+[02:04.780 --> 02:05.980] Analyzing the visuals
+[02:05.980 --> 02:08.580] Not just pulling the transcript like most models do
+[02:08.580 --> 02:10.720] I saw this AI generated video online
+[02:10.720 --> 02:11.580] Watch the video
+[02:11.580 --> 02:12.780] 然后给我一个评论
+[02:12.780 --> 02:14.380] 会发现一些相似的东西
+[02:14.380 --> 02:15.380] 现在在一个自由计划
+[02:15.380 --> 02:16.980] 我没有能够实际地发现这个视频
+[02:16.980 --> 02:19.280] 但如果我能够进入我的费项目
+[02:19.280 --> 02:19.780] 我会说
+[02:19.780 --> 02:21.080] 任何时候我用了什么
+[02:21.080 --> 02:22.480] 你需要的费项目
+[02:22.480 --> 02:23.780] 我会在我自由计划中
+[02:23.780 --> 02:24.980] 通过很多这个视频
+[02:24.980 --> 02:25.880] 但我会说
+[02:25.880 --> 02:27.880] 任何时候我需要使用费项目
+[02:27.880 --> 02:29.980] 自由计划还很强硬
+[02:29.980 --> 02:35.270] 然后这里是视频
+[02:35.270 --> 02:36.070] 小小的动作
+[02:36.070 --> 02:36.770] 不错
+[02:36.770 --> 02:37.370] kind of curious
+[02:37.370 --> 02:38.670] 他在最后的视频里
+[02:39.070 --> 02:40.870] 也有YouTube的进入
+[02:40.870 --> 02:42.270] 如果我把YouTube视频下来
+[02:42.270 --> 02:43.670] 它可以招呼一整张信息
+[02:43.670 --> 02:45.630] or multiple videos at a time even
+[02:45.630 --> 02:49.310] So These are the links to my top 5 best performing videos
+[02:49.310 --> 02:54.110] Then I'll say analyze these videos and identify the patterns that made them successful
+[02:54.830 --> 03:05.390] Hee's all come from futuesperpeteia,ข-repeatable, utility-first framework, the type of hook, high return on time, visual proof and rapid-fire pacing, categorical organization
+[03:05.390 --> 03:09.730] and just like before, I could ask for an infographic or interactive dashboard
+[03:09.730 --> 03:12.470] And that youtube connection is great, there's tons of ways you can use it
+[03:12.470 --> 03:15.750] 另外一種很棒的連結是notebook LM
+[03:15.750 --> 03:18.470] 我喜歡這個因為我用notebook LM 每次
+[03:18.470 --> 03:21.630] 因為我只用了我的自由計劃
+[03:21.630 --> 03:24.510] 所以我會去買我的付款計劃
+[03:24.510 --> 03:27.070] 這個notebook 有我的最好的youtube scripts
+[03:27.070 --> 03:28.670] 還有我的現在的analytics
+[03:28.670 --> 03:29.950] 所以我選擇了
+[03:29.950 --> 03:31.790] 然後說 接下來的影片要怎樣
+[03:31.790 --> 03:35.350] 因為我剛剛有用Vibecoding 還有接下來的步驟
+[03:35.350 --> 03:36.950] 我用了我的Nana Banana video
+[03:36.950 --> 03:38.310] 是一位Top 10 performer
+[03:38.310 --> 03:39.670] 而且用了它特別的
+[03:39.670 --> 03:41.670] 我答應,如果我做了一段 banana video
+[03:41.670 --> 03:42.670] 我會需要一些 B-roll
+[03:42.670 --> 03:44.670] 所以我會把我的畫面丟進去
+[03:44.670 --> 03:45.670] 然後會發揮一些東西
+[03:45.670 --> 03:47.670] 說到這樣,看起來很完美
+[03:47.670 --> 03:49.670] YEEHOO!
+[03:49.670 --> 03:50.670] WOW!
+[03:50.670 --> 03:51.670] WOW!
+[03:51.670 --> 03:52.670] WOW!
+[03:52.670 --> 03:53.670] WOW!
+[03:53.670 --> 03:55.670] 這 banana 會有點痛
+[03:55.670 --> 03:57.670] 其他設計和設定的選擇是
+[03:57.670 --> 03:59.670] 音樂,如說話
+[03:59.670 --> 04:01.670] 你可以說話,比較快速的
+[04:01.670 --> 04:03.670] 但也能使用你的相機
+[04:03.670 --> 04:05.670] 看東西在現實的時間
+[04:05.670 --> 04:09.980] 什麼種類的 plant 呢?
+[04:09.980 --> 04:14.980] 那是一種水水
+[04:14.980 --> 04:16.980] 那是一種水水
+[04:16.980 --> 04:18.980] 也叫做瓿西娜 瓢水
+[04:18.980 --> 04:20.980] 他們很容易要注意
+[04:20.980 --> 04:22.980] 他們只需要水
+[04:22.980 --> 04:24.980] 每兩至六個星期
+[04:24.980 --> 04:26.980] 依照你的家庭的情況
+[04:26.980 --> 04:28.980] 所以那就是這樣
+[04:28.980 --> 04:30.980] 是一種不同的技術
+[04:30.980 --> 04:32.980] 但我比較喜歡看他們
+[04:32.980 --> 04:34.980] 你把最重要的形式
+[04:34.980 --> 04:36.980] 再回到最幫助的形式
+[04:36.980 --> 04:38.980] 會有時間使用他們
+[04:38.980 --> 04:40.980] 但這就是主要的關注
+[04:40.980 --> 04:43.340] 不想想像是一張帳號
+[04:43.340 --> 04:44.780] 再重新重新看看這些
+[04:44.780 --> 04:46.100] 用戶的情況
+[04:46.100 --> 04:49.100] 就算是說它是Multimodal
+[04:49.100 --> 04:50.340] 有幾個其他功能
+[04:50.340 --> 04:52.180] 我會說在這功能上
+[04:52.180 --> 04:53.780] 前我們看到他們的工作
+[04:53.780 --> 04:54.780] 深入的資料
+[04:54.780 --> 04:56.300] 這是一個優點模式
+[04:56.300 --> 04:57.740] 會在一段時間內
+[04:57.740 --> 04:58.500] 做一個計劃
+[04:58.500 --> 04:59.660] 搜集網路
+[04:59.660 --> 05:01.620] 調整通訊的方式
+[05:01.620 --> 05:02.420] 然後再培訪
+[05:02.420 --> 05:03.740] 有更多的資料
+[05:03.740 --> 05:04.940] 在你的題目上
+[05:05.620 --> 05:06.740] 我已經展示了
+[05:06.740 --> 05:07.460] 影片和影片
+[05:07.460 --> 05:08.300] 但是Google是
+[05:08.300 --> 05:10.340] 最好的一項
+[05:10.340 --> 05:13.420] 你可以形容一些一幅画 with extreme prompt adherence
+[05:13.420 --> 05:15.540] Modify that through natural language
+[05:15.540 --> 05:18.420] It is really nice to have this option as part of your chats
+[05:18.420 --> 05:19.680] We'll use it more later
+[05:19.680 --> 05:24.720] In the videos, can have audio that includes sound effects, music, and dialogue when needed
+[05:24.720 --> 05:26.140] All perfectly synced up
+[05:26.140 --> 05:28.520] I can animate that image and ask it to say something
+[05:34.510 --> 05:37.090] I'm covering a broad range of how to use Gemini
+[05:37.090 --> 05:40.590] But a great way to level up your work and marketing using Gemini
+[05:40.590 --> 05:43.530] is with this free resource provided by HubSpot
+[05:43.770 --> 05:45.650] It's called Google Gemini at Work
+[05:45.650 --> 05:48.330] And it's a complete breakdown of how to use Gemini
+[05:48.330 --> 05:50.990] to speed up your research, improve your content
+[05:50.990 --> 05:54.810] and build entire marketing strategies in a fraction of the time
+[05:54.810 --> 05:57.410] My favorite part is the Gemini marketing stack
+[05:57.410 --> 06:00.010] It shows how five tools like Deep Research,
+[06:00.010 --> 06:02.610] Nopalc LM and Gemini work together
+[06:02.610 --> 06:05.290] to handle everything from campaign planning
+[06:05.290 --> 06:08.350] to content creation, to building interactive dashboards
+[06:08.350 --> 06:10.350] 全都不需要一个大组织
+[06:10.350 --> 06:12.350] 还有一个四周的组织计划
+[06:12.350 --> 06:14.350] 如果想要开始使用Gemini
+[06:14.350 --> 06:16.350] 在你的工作室
+[06:16.350 --> 06:18.350] 加上一些纸纸的评论
+[06:18.350 --> 06:20.350] 你可以在电话里发送
+[06:20.350 --> 06:21.350] 如果你在市场
+[06:21.350 --> 06:23.350] 或者只想要你能够推动AI的技术
+[06:23.350 --> 06:25.350] 你肯定会想要拿这个
+[06:25.350 --> 06:27.350] 这是这个完美的影片
+[06:27.350 --> 06:29.350] 在下面的描述中有 the link to download it
+[06:29.350 --> 06:31.350] 谢谢HubSpot 为这段视频帮助
+[06:31.350 --> 06:34.350] 以及在每个人看下的这些自由的购买
+[06:34.350 --> 06:38.350] candice opens a side-by-side editing environment
+[06:38.350 --> 06:40.870] think google docs meets code editor
+[06:40.870 --> 06:42.570] it is amazing for writing
+[06:42.570 --> 06:46.090] you can also build full apps or design dynamic interfaces
+[06:46.090 --> 06:47.370] like the ones I showed earlier
+[06:47.370 --> 06:48.390] that's what I was using
+[06:48.390 --> 06:50.570] you do this all using natural language
+[06:50.570 --> 06:52.870] I'll show this in action in our use cases
+[06:52.870 --> 06:55.450] and guided learning basically just has it take a teaching approach
+[06:55.450 --> 06:57.210] instead of just answering questions
+[06:57.210 --> 06:59.830] it walks you through understanding a topic step-by-step
+[06:59.830 --> 07:00.750] quiz you along the way
+[07:00.750 --> 07:02.510] sometimes show diagrams things like that
+[07:02.510 --> 07:05.710] 那最後,這個下落是想法模式
+[07:05.710 --> 07:07.250] 快速的答案就在這裡
+[07:07.250 --> 07:09.210] 那是不錯的,你的標誌
+[07:09.210 --> 07:10.910] 想法會長期回答
+[07:10.910 --> 07:13.790] 而且會給你更加明顯的和解釋的回答
+[07:13.790 --> 07:17.650] 還有一位專家,我幾乎都沒有用過
+[07:17.650 --> 07:19.050] 很多人都不會需要
+[07:19.050 --> 07:21.890] 但是我只會用想法作為 default
+[07:21.890 --> 07:23.590] 它只是給我更好的回答
+[07:23.590 --> 07:25.010] 即使要等一會
+[07:25.010 --> 07:28.010] 但是我每次都會回答快速的
+[07:28.010 --> 07:30.890] 但是如果你在自由的計劃中,想法會更加限制
+[07:30.890 --> 07:34.410] 所以可能是更好放在快速的程度上
+[07:34.410 --> 07:36.610] 然後再想想當你需要它
+[07:36.610 --> 07:39.450] 好,那是很多,而且還蠻快的
+[07:39.450 --> 07:42.530] 你只看到文章、影片、影片、文章、
+[07:42.530 --> 07:43.850] 有趣的電腦
+[07:43.850 --> 07:45.930] 但是這裡是很強烈的地方
+[07:45.930 --> 07:46.890] GEMS
+[07:46.890 --> 07:48.450] 這是你把所有的東西
+[07:48.450 --> 07:50.930] 當成一個個人化的使用系統
+[07:50.930 --> 07:52.770] 我會開始回到一本平常的電腦
+[07:52.770 --> 07:53.930] 讓我能展示不同的
+[07:53.930 --> 07:56.730] 我剛才說了有幾個領導的領導
+[07:56.730 --> 07:59.610] 是一個維修過程
+[07:59.610 --> 08:02.170] 这些是每天的充电器
+[08:02.170 --> 08:02.810] 我们有一个
+[08:02.810 --> 08:04.650] Prompt enrichment sound bath
+[08:04.650 --> 08:06.890] H100 exhaust scented candle
+[08:06.890 --> 08:08.970] Rick Rubin not of approval
+[08:08.970 --> 08:10.090] Cymulated of course
+[08:10.090 --> 08:12.090] Artisanal GPU heat sink water
+[08:12.090 --> 08:14.890] Liquid cooled by the fans that trained GPT-4
+[08:14.890 --> 08:16.330] Helucination insurance
+[08:16.330 --> 08:17.770] Standard vibe coating retreat
+[08:17.770 --> 08:19.850] 所以我们说我刚刚拿了一张照片
+[08:19.850 --> 08:20.970] 下落了
+[08:20.970 --> 08:21.450] 我们说
+[08:21.450 --> 08:22.810] 採取所有的转换
+[08:22.810 --> 08:23.610] 从这些东西
+[08:23.610 --> 08:24.810] 并认为他们要进入一个桌子
+[08:24.810 --> 08:26.010] 为了费用
+[08:26.010 --> 08:28.490] 包括 date, item, amount, and category
+[08:28.490 --> 08:30.930] 我忘了把資料放在桌子裡
+[08:30.930 --> 08:32.970] 但是,這裡是寫資料的數據
+[08:32.970 --> 08:36.570] 可以查看畫面,找到每個傳統和數據
+[08:36.570 --> 08:38.730] 其他書的文件
+[08:38.730 --> 08:42.010] 然後它寫了給我,所以我可以寫作資料
+[08:42.010 --> 08:43.210] 但是如果我要做那些什麼呢?
+[08:43.210 --> 08:43.930] 很多
+[08:43.930 --> 08:46.210] 我不想要把每次寫作寫作寫作寫作
+[08:46.210 --> 08:48.090] 我會再次寫作寫作寫作
+[08:48.090 --> 08:50.010] 這些是在旁邊的
+[08:50.010 --> 08:52.290] Open up gems and click new gem
+[08:52.290 --> 08:53.650] call it expense tracker
+[08:53.650 --> 08:55.530] then I can give it custom instructions
+[08:55.530 --> 08:57.690] and these will tell it how to act and what to do
+[08:57.690 --> 09:00.090] you can also tell it what tools to use by default
+[09:00.090 --> 09:02.450] and add files for a knowledge base
+[09:02.450 --> 09:05.370] so these gems are like reusable specialized brains
+[09:05.370 --> 09:07.610] that stay consistent each time you open them
+[09:07.610 --> 09:11.130] so I'll just say each time a receipt is uploaded automatically
+[09:11.130 --> 09:12.970] then I'll paste in the prompt I used before
+[09:12.970 --> 09:14.490] and I should never have to type it again
+[09:14.490 --> 09:15.930] then I can test it over here
+[09:15.930 --> 09:17.890] I'll just assume it's fine, click save
+[09:17.890 --> 09:19.650] and now I have my expense tracker
+[09:19.650 --> 09:23.490] Anytime i want to access it, it's gonna be right here under my gem
+[09:23.490 --> 09:25.270] so I'll start with just that same image
+[09:25.270 --> 09:28.150] I'm not even going to type a prompt, I'll just send it
+[09:28.150 --> 09:30.310] and right away and knew exactly what to do
+[09:30.310 --> 09:31.530] didn't have to tell anything
+[09:31.530 --> 09:32.150] Perfect!
+[09:32.150 --> 09:33.990] And it hefty vibes acts there
+[09:33.990 --> 09:35.110] Then later when i realize
+[09:35.110 --> 09:36.350] i have another receipt
+[09:36.350 --> 09:38.170] from my night at the bar while i was there
+[09:38.170 --> 09:39.990] i can just drop that in
+[09:39.990 --> 09:40.750] seind it again
+[09:40.750 --> 09:41.750] It gets right to work
+[09:41.750 --> 09:43.250] It was so easy to create that
+[09:43.250 --> 09:44.410] and if i had to do this regularly
+[09:44.410 --> 09:45.590] that would save a lot of time
+[09:45.590 --> 09:47.070] and ofcourse you can expand
+[09:47.070 --> 09:48.790] to this functionality massively
+[09:48.790 --> 09:51.990] 我可以用这个例子来调整整个货币的数据
+[09:51.990 --> 09:53.710] 和给费用的建议
+[09:53.710 --> 09:54.870] 或者用它为费用
+[09:54.870 --> 09:56.830] 然后用它作为费用的财政经理
+[09:56.830 --> 09:58.270] 就已经有了所有的费用
+[09:58.270 --> 09:59.750] 当费用期间发生了
+[09:59.750 --> 10:01.470] 计算上的费用可以很大
+[10:01.470 --> 10:04.110] 所以可以加上很多费用
+[10:04.110 --> 10:06.710] 以及计算上的费用
+[10:06.710 --> 10:08.910] 或者用这个费用的
+[10:08.910 --> 10:11.390] 可以用这种偶像的计划
+[10:11.390 --> 10:13.870] 可以用它作为费用的费用
+[10:13.870 --> 10:16.190] 所以这个计划是一个更好的方式
+[10:16.190 --> 10:18.910] 那 anytime I come back to my gem, I've got that right here.
+[10:18.910 --> 10:21.310] This is running live code right in canvas.
+[10:21.310 --> 10:24.110] I could keep refining this, but you get the idea.
+[10:24.110 --> 10:26.810] I mentioned these can handle a lot of context,
+[10:26.810 --> 10:28.550] which brings up an important shift.
+[10:28.550 --> 10:32.150] LLMs have gotten so good that it's less about prompt engineering
+[10:32.150 --> 10:34.510] and more about context engineering now.
+[10:34.510 --> 10:36.350] It's not about crafting the perfect prompt.
+[10:36.350 --> 10:38.390] It's about giving the model the right information
+[10:38.390 --> 10:40.150] and personalization to work from.
+[10:40.150 --> 10:43.110] There's an awesome way to get a lot of context in here
+[10:43.110 --> 10:45.110] really easily using notebookLM.
+[10:45.110 --> 10:46.550] 我已經有很多的 Notebook
+[10:46.550 --> 10:48.550] 這不一定是 Notebook LM  Tutorial
+[10:48.550 --> 10:50.710] 我已經有一個,如果需要一個
+[10:50.710 --> 10:53.390] 但像我剛才提到的,我已經有 Notebook 了
+[10:53.390 --> 10:55.550] 我剛剛做的就是,我會把連結放在
+[10:55.550 --> 10:58.390] 我25 最高的 YouTube 影片
+[10:58.390 --> 11:00.910] 然後我會把所有的資料
+[11:00.910 --> 11:02.910] 然後我會把所有的 YouTube 影片
+[11:02.910 --> 11:04.910] 和所有的 YouTube 影片
+[11:04.910 --> 11:08.110] 然後我會把 YouTube 專頁
+[11:08.110 --> 11:09.550] 所以我會把所有的 custom 設計
+[11:09.550 --> 11:10.950] 和我所想的資料
+[11:10.950 --> 11:12.550] 然後我會選擇 Notebook LM
+[11:12.550 --> 11:13.910] 然後我會選擇 Notebook
+[11:13.910 --> 11:17.350] 现在我可以 fully personalized and useful conversations
+[11:17.350 --> 11:18.310] 关于我的频道
+[11:18.310 --> 11:20.350] 自从我带了这些 custom instructions
+[11:20.350 --> 11:21.750] 这里面会更好
+[11:21.750 --> 11:23.710] 比我们在设计中更好
+[11:23.710 --> 11:25.350] 自从我带了这些AI agent video
+[11:25.350 --> 11:26.230] 做得好好的
+[11:26.230 --> 11:28.310] 当然这些是要练习的
+[11:28.310 --> 11:30.630] 我建设了24.7 AI employee
+[11:30.630 --> 11:31.790] 其实是免费的
+[11:31.790 --> 11:33.510] 可以组织90%的工作
+[11:33.510 --> 11:35.430] 和AI agents in 2026
+[11:35.430 --> 11:36.590] 不过我认为
+[11:36.590 --> 11:38.550] 90%的工作可以练习
+[11:38.550 --> 11:40.110] 但是在正确的运动中
+[11:40.110 --> 11:42.990] 根据N8n and AI video course performance
+[11:42.990 --> 11:44.850] The hook should show the end result first
+[11:44.850 --> 11:48.650] demonstrate the agent autonomously handling a complex task in real time
+[11:48.650 --> 11:51.510] so let's run with the idea it gave for the next video
+[11:51.510 --> 11:52.750] we'll just work on the intro
+[11:52.750 --> 11:55.250] because it has all the context of my writing style already
+[11:55.250 --> 11:57.250] I'll ask it to write an intro for this video
+[11:57.250 --> 11:59.550] but I don't want it to come back in a standard chat
+[11:59.550 --> 12:01.050] I want it in canvas
+[12:01.050 --> 12:03.650] if it ever doesn't work, just say open that in canvas
+[12:03.650 --> 12:05.290] it's got that intro written out for me
+[12:05.290 --> 12:07.650] I can ask for changes to the whole thing
+[12:07.650 --> 12:10.750] like remove the suggested visuals and only leave the script
+[12:10.750 --> 12:12.810] then it makes changes to the whole thing at once
+[12:12.810 --> 12:15.810] 然后我可以来自于我自己的想法中
+[12:15.810 --> 12:18.370] 我可以在许多文件和许多文件中
+[12:18.370 --> 12:19.810] 问许多文件
+[12:19.810 --> 12:21.210] 用一个不同的词来
+[12:21.210 --> 12:23.410] 然后改变许多文件的许多文件
+[12:23.410 --> 12:25.010] 然后用一个不同的词来
+[12:25.010 --> 12:27.110] 然后可以回到之前的版本
+[12:27.110 --> 12:29.710] 当然,有各种许多文件的选项
+[12:29.710 --> 12:31.610] 然后也有选项去创作
+[12:31.610 --> 12:33.110] 网站、网站、许多文件
+[12:33.110 --> 12:35.810] 许多文件、文件、文件、文件、文件
+[12:35.810 --> 12:37.610] 所以,Campus是非常棒的
+[12:37.610 --> 12:39.610] 还有其他其他东西可以做的
+[12:39.610 --> 12:41.810] 现在,我可以用一个很好的达字
+[12:41.810 --> 12:45.610] 然後當然在Gemini,我可以創造一個畫面我會用來作B-roll
+[12:45.610 --> 12:47.010] 然後就這樣,不太好
+[12:47.010 --> 12:50.710] 或者說我影片有一個假Vibecoding的例子
+[12:50.710 --> 12:55.010] 我可以用Gemini去ID8,來作一些特別的充電
+[12:55.010 --> 13:00.710] 然後,用一個非常簡單的證據,用我們來作一些實用的證據
+[13:00.710 --> 13:03.710] 然後,在第一次,我真的有用這個證據
+[13:03.710 --> 13:06.410] 在一拍,我看起來就像一個實用的證據
+[13:06.410 --> 13:08.110] 甚至是用來作Logo
+[13:08.110 --> 13:09.910] 我以为这个质量非常厉害
+[13:09.910 --> 13:12.350] V1BE的质量
+[13:12.350 --> 13:14.310] 对,然后质量和质量
+[13:14.310 --> 13:16.310] 质量质量在一条分别的线
+[13:16.310 --> 13:17.550] 然后在底部的评论中
+[13:17.550 --> 13:19.470] 它全都看起来完全完美
+[13:19.470 --> 13:20.470] 它甚至有指示
+[13:20.470 --> 13:22.110] 像在背后的带子上
+[13:22.110 --> 13:23.870] 然后就打开了一个红色的线
+[13:23.870 --> 13:26.150] 然后把其他质量转换到其他质量
+[13:26.150 --> 13:28.150] 然后再把三个质量放在桌上
+[13:28.150 --> 13:30.910] 这不是太久不想象得了
+[13:30.910 --> 13:32.990] 而且会有很长的一段时间
+[13:32.990 --> 13:34.950] 去尝试这个进行的东西
+[13:35.510 --> 13:37.790] 所以,在这两个例子之后
+[13:37.790 --> 13:40.090] 金融用一件金融的帮助
+[13:40.090 --> 13:43.290] 可以自行取消金融的帳户
+[13:43.290 --> 13:45.570] 然后可以建立一个全面的币
+[13:45.570 --> 13:48.090] Youtube的传统人员可以建立一件金融
+[13:48.090 --> 13:49.090] 用Nopec LM 币
+[13:49.090 --> 13:50.670] 用所有的视频的线
+[13:50.670 --> 13:51.930] 金融用写意
+[13:51.930 --> 13:53.470] 和传统的银线
+[13:53.470 --> 13:54.990] 用镜子的镜子
+[13:54.990 --> 13:56.790] 然后可以用Vio的视频
+[13:56.790 --> 13:59.030] 在这里的视频里面
+[13:59.030 --> 14:00.430] 还挺有限度的
+[14:00.430 --> 14:01.390] 在费的计划中
+[14:01.390 --> 14:02.790] 你只会有几个人
+[14:02.790 --> 14:05.130] 我通常会去一个剧场
+[14:05.130 --> 14:06.930] 但是也很棒在金融里面
+[14:06.930 --> 14:09.930] 我們已經在調整了很多不同的功能和技術
+[14:09.930 --> 14:11.870] 來提供大量的功能
+[14:11.870 --> 14:13.830] 我會回到平常的聊天
+[14:13.830 --> 14:15.630] 來試試一些完全不同的東西
+[14:15.630 --> 14:17.130] 一個個人的利用
+[14:17.130 --> 14:18.210] 只是來示範一下
+[14:18.210 --> 14:19.370] 這個方式的進步
+[14:19.370 --> 14:20.810] 當你開始想像的
+[14:20.810 --> 14:22.570] 我們現在在市場承諾
+[14:22.570 --> 14:24.530] 有些小的餐廳的餐廳
+[14:24.530 --> 14:26.130] 來增加一些菜式
+[14:26.130 --> 14:28.010] 我沒有什麼關於餐廳的
+[14:28.010 --> 14:29.370] 但會很棒
+[14:29.370 --> 14:31.610] 有些新的食物在增加
+[14:31.610 --> 14:32.730] 所以我會有些幫助
+[14:32.730 --> 14:33.930] 我會把照片拿出來
+[14:33.930 --> 14:35.230] 我可以說一些
+[14:35.230 --> 14:40.030] Based on this photo research the best fruits and vegetables I could grow in these raised beds in Utah
+[14:40.030 --> 14:42.830] Considered the local climate temperatures and growing seasons
+[14:42.830 --> 14:47.430] I want to maximize the space, give me all the viable options and explain what will grow well here
+[14:47.430 --> 14:51.950] Give me some good options, then just a little bit of back and forth so we could include some strawberries in there
+[14:51.950 --> 14:55.310] I want a visual of that, so I'll ask it what it will look like
+[14:55.310 --> 14:58.390] Nice, I would love that, I'll see if I can make it happen
+[14:58.390 --> 15:02.990] I know nothing about gardening, give me a full system for everything I'll need to do to get this going
+[15:02.990 --> 15:07.950] and then create an info graphic to show the timelined steps visually
+[15:08.610 --> 15:10.450] that is actually just amazing
+[15:10.510 --> 15:13.290] and I think yeah each image has this layout correct
+[15:13.290 --> 15:15.710] shows the seasons when the important times are
+[15:15.710 --> 15:17.770] like that's just amazing
+[15:17.770 --> 15:20.750] it'll also say give me all the instructions as a pdf
+[15:20.750 --> 15:22.410] when i download that
+[15:22.410 --> 15:24.770] now i'll just jump right in and create a gem
+[15:24.770 --> 15:26.670] then i add some custom instructions
+[15:26.670 --> 15:28.150] telling it to garden assistant
+[15:28.150 --> 15:30.050] contacts that i'm a complete beginner
+[15:30.050 --> 15:31.110] what I have
+[15:31.110 --> 15:32.890] telling it to look at my uploaded plan
+[15:32.890 --> 15:33.870] the role
+[15:34.170 --> 15:36.970] telling it to identify issues when I upload photos
+[15:37.170 --> 15:38.370] communications style
+[15:38.470 --> 15:40.770] consider the Utah's climate and my limited space
+[15:40.870 --> 15:41.870] bunch of things like that
+[15:41.870 --> 15:44.770] then I'm uploading the whole plan to the knowledge base
+[15:44.770 --> 15:46.170] moss picture of what it looks like
+[15:46.170 --> 15:47.370] and that infographic
+[15:47.370 --> 15:48.570] then I can save that
+[15:48.670 --> 15:50.370] Now I have a garden helper
+[15:50.370 --> 15:53.370] that uses all the information I just got as context
+[15:53.370 --> 15:54.870] that way when I'm actually out
+[15:54.870 --> 15:56.470] you know planting or running to issues
+[15:56.470 --> 15:58.470] I'm gonna snap a picture and get feed back
+[15:58.470 --> 16:00.770] and I won't have to remind it of all this stuff every time
+[16:00.770 --> 16:02.270] and as I'm figuring things out
+[16:02.270 --> 16:04.270] 我可以用影片中的概念
+[16:04.270 --> 16:06.230] 跟它們合作在真正的時間
+[16:06.230 --> 16:07.550] 幫我做每一步
+[16:07.550 --> 16:09.350] 因為我確定會走到問題
+[16:09.350 --> 16:10.670] 但會有所有資料
+[16:10.670 --> 16:11.910] 我的特定設計
+[16:11.910 --> 16:13.390] 已經在每次下載
+[16:13.390 --> 16:14.670] 而且在這裡
+[16:14.670 --> 16:15.830] 我可以創造其他東西
+[16:15.830 --> 16:17.190] 我會創造一條
+[16:17.190 --> 16:18.470] 像是視角碟
+[16:18.470 --> 16:19.230] plant in calendar
+[16:19.230 --> 16:20.150] 水平物品
+[16:20.150 --> 16:20.910] growth progress
+[16:20.910 --> 16:21.670] harvest predictions
+[16:21.670 --> 16:22.990] 以及任何東西
+[16:22.990 --> 16:24.150] 所以這裡
+[16:24.150 --> 16:25.510] 這看起來很棒
+[16:25.510 --> 16:26.830] 我可以轉換 between bed 1
+[16:26.830 --> 16:27.810] and bed 2
+[16:27.810 --> 16:29.230] 一整個活動
+[16:29.230 --> 16:30.190] harvest predictions
+[16:30.190 --> 16:30.790] 對,這很棒
+[16:30.790 --> 16:31.550] 我可能會
+[16:31.550 --> 16:33.030] 回到原理和改善
+[16:33.030 --> 16:33.830] 但就像那样
+[16:33.830 --> 16:35.950] 从知道完全没有什么关于
+[16:35.950 --> 16:37.950] 保存到一个完全的系统
+[16:37.950 --> 16:39.230] 与其他计划的计划
+[16:39.230 --> 16:40.590] 步步的监管
+[16:40.590 --> 16:41.710] 一个人的助手
+[16:41.710 --> 16:42.910] 以及一个连接的网站
+[16:42.910 --> 16:44.510] 就在几分钟之内
+[16:44.510 --> 16:45.910] 这个保存的效果
+[16:45.910 --> 16:46.590] 很棒
+[16:46.590 --> 16:47.670] 但在我做这个
+[16:47.670 --> 16:48.470] 我发现
+[16:48.470 --> 16:49.750] 有很多学习
+[16:49.750 --> 16:51.030] 很多人可能不会
+[16:51.030 --> 16:52.190] 把这个系统计划
+[16:52.190 --> 16:53.550] 而且不想花很多时间
+[16:53.550 --> 16:54.150] 在研究
+[16:54.150 --> 16:54.630] 所以
+[16:54.630 --> 16:55.510] 如果还有
+[16:55.510 --> 16:57.030] 一个办法
+[16:57.030 --> 16:58.110] 我们可以去
+[16:58.110 --> 16:58.910] 把一个想法
+[16:58.910 --> 17:01.750] 也會有一個人用博物圈
+[17:01.750 --> 17:03.390] 所以我會試試建一個SAS App
+[17:03.390 --> 17:05.390] 可以解決保險的傷害
+[17:05.390 --> 17:06.730] 然後我會把基本的所有東西
+[17:06.730 --> 17:08.090] 我們都放在一種工作坊
+[17:08.090 --> 17:09.350] 首先我需要去解決
+[17:09.350 --> 17:10.950] 有一個問題是要解決的
+[17:10.950 --> 17:12.390] 在網上搜尋
+[17:12.390 --> 17:12.950] 網上網站
+[17:12.950 --> 17:13.670] YouTube留言
+[17:13.670 --> 17:14.670] 保險社群
+[17:14.670 --> 17:16.230] 找到最常見的傷害
+[17:16.230 --> 17:16.950] 人們說的
+[17:16.950 --> 17:18.150] 在家裡吃食物
+[17:18.150 --> 17:18.710] 一個大小的
+[17:18.710 --> 17:19.470] 是猪像
+[17:19.470 --> 17:20.270] 像是藥
+[17:20.270 --> 17:22.510] 或是跟狗跟狗跟狗跟狗
+[17:22.510 --> 17:23.230] 人們在想
+[17:23.230 --> 17:24.910] 怎麼多的錢可以付出
+[17:24.910 --> 17:25.430] 所以對
+[17:25.430 --> 17:27.190] 有一定的傷害
+[17:27.190 --> 17:30.190] What app could I create to solve some of these pain points?
+[17:30.190 --> 17:32.190] So that one sounds too difficult
+[17:32.190 --> 17:34.190] It's kind of like this bounty swap idea
+[17:34.190 --> 17:36.790] So I guess it's really common to have just a bunch of one thing
+[17:36.790 --> 17:39.190] You know, like 50 zucchinis, but zero tomatoes
+[17:39.190 --> 17:40.590] So it's like kind of like a co-op app
+[17:40.590 --> 17:42.190] That would allow you to trade back and forth
+[17:42.190 --> 17:45.190] It's got the magic lister where you just snap a photo
+[17:45.190 --> 17:47.190] Then it uses AI to figure out what the crop is
+[17:47.190 --> 17:49.990] Estimates the weight and quantity and the ripeness
+[17:49.990 --> 17:51.790] And then creates the listing on its own
+[17:51.790 --> 17:52.990] There's the trust layer
+[17:52.990 --> 17:53.990] It's neighborhood hubs
+[17:53.990 --> 17:56.190] So it's based on local geofencing
+[17:56.190 --> 17:58.390] Axis 信用通用 system
+[17:58.390 --> 17:59.750] 链接 social profile
+[17:59.750 --> 18:01.130] proves you live in the area
+[18:01.130 --> 18:03.190] it will use a non monetary system
+[18:03.190 --> 18:04.330] so bounty credits
+[18:04.330 --> 18:05.830] or a direct request system
+[18:05.830 --> 18:07.590] and a few other things here
+[18:07.590 --> 18:08.790] it's great ideas
+[18:08.790 --> 18:09.930] so I want to dig in
+[18:09.930 --> 18:11.090] and make sure this is viable
+[18:11.090 --> 18:12.190] research the market for
+[18:12.190 --> 18:14.050] hyper local produce sharing apps
+[18:14.050 --> 18:15.690] analyze existing competitors
+[18:15.690 --> 18:16.430] market size
+[18:16.430 --> 18:17.690] monitization strategies
+[18:17.690 --> 18:18.690] technical requirements
+[18:18.690 --> 18:20.050] for AI crop identification
+[18:20.050 --> 18:21.490] and user acquisition tactics
+[18:21.490 --> 18:22.930] for community-based platforms
+[18:22.930 --> 18:24.150] identify market gaps
+[18:24.150 --> 18:25.230] and asses viability
+[18:25.230 --> 18:27.630] 如果我做了這個,我想去深入
+[18:27.630 --> 18:29.790] 用深入的資料
+[18:29.790 --> 18:32.950] 這就是看起來很深
+[18:32.950 --> 18:35.350] 這些是所有的資料在報告中
+[18:35.350 --> 18:37.750] 還有其他各樣的東西
+[18:37.750 --> 18:39.110] 可以建立一個標誌
+[18:39.110 --> 18:41.190] 這是一個好意義,要有一個標誌
+[18:41.190 --> 18:43.270] 首先,給我詳細的教訓
+[18:43.270 --> 18:44.830] 給一個標誌
+[18:44.830 --> 18:46.950] 可以建立一個圖案
+[18:46.950 --> 18:48.030] 現在我們進入一些
+[18:48.030 --> 18:50.390] 更好的功能的功能
+[18:50.390 --> 18:52.070] 可以用很多的方式
+[18:52.070 --> 18:53.270] 在 Gemini 上
+[18:53.270 --> 18:59.230] 另外,I could try in something like Google AI Studio and see how it does.
+[18:59.250 --> 19:01.490] I got a quick working prototype.
+[19:01.590 --> 19:08.260] Of course I would touch up quite a bit from where it at now.
+[19:08.260 --> 19:11.640] And then in Notebook Lm,I can upload any of that information as sources
+[19:11.640 --> 19:13.040] and create the pitch deck.
+[19:13.040 --> 19:16.140] Then I'd also add everything I've done into a jam as context
+[19:16.140 --> 19:19.340] with custom instructions to act as a startup strategist
+[19:19.340 --> 19:21.340] and be my business partner along the way.
+[19:21.340 --> 19:24.760] But it really helps a lot in that I have used
+[19:24.760 --> 19:25.620] allong the way
+[19:25.980 --> 19:28.620] so of course, I kind of did this one, off the top of my head
+[19:28.620 --> 19:29.540] just running with it
+[19:29.540 --> 19:31.340] and just kind of pivoting as I went
+[19:31.340 --> 19:33.900] This wasn't meant to showcase an actual viable app here
+[19:33.900 --> 19:36.060] just to give you an idea of what's possible
+[19:36.060 --> 19:37.340] going all the way from
+[19:37.340 --> 19:38.660] I wonder if this is even a problem
+[19:38.660 --> 19:41.980] to here's a talented startup concept in one session
+[19:41.980 --> 19:43.380] Tamil Description
+[19:43.380 --> 19:45.980] using web research across forums and communities
+[19:45.980 --> 19:47.320] some market validation
+[19:47.320 --> 19:49.860] using deep research for competitor analysis
+[19:49.860 --> 19:50.780] and revenue models
+[19:50.780 --> 19:52.580] thenthe name, the logo
+[19:52.580 --> 19:54.500] then a full app prototype
+[19:54.500 --> 19:58.380] than an investor pitch, a full deck with financials and a go to market strategy.
+[19:58.380 --> 20:01.720] Plus, all the gems I could create to actually help with the launch process.
+[20:01.720 --> 20:04.120] But this is why I said it's about combining tools.
+[20:04.120 --> 20:06.180] Any one of these features is useful,
+[20:06.180 --> 20:08.840] but when you stack them together in a real workflow,
+[20:08.840 --> 20:11.580] that's when Gemini becomes genuinely powerful.
