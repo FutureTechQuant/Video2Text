@@ -1,0 +1,775 @@
+Good morning everyone.
+It's really nice to be back here in Congress Hall.
+Hopefully everybody had a good day yesterday
+and are enjoying it today.
+It is my real pleasure to introduce Jensen Wong
+who is somebody I admire,
+somebody I've watched,
+and somebody who has been a teacher to me
+on the journey of learning about technology and AI.
+It is amazing watching how he led
+NVIDIA
+And, I don't measure myself on comparisons
+But I like this one comparison
+So since NVIDIA has been public
+Which was in 1999
+Same here as BlackRock
+Oh boy
+Ok, Now
+NVIDIA is total deterg for its shareholders
+37%
+就想想看
+那是否每個平台的資金
+如果他們投資在紐約
+就像一個IPO
+我們會有很多的成績
+每個人都會有的
+同時
+黑金錢等
+總結的 return 總值是21%
+不太好
+因為是一個
+財政服務的公司
+但
+它肯定會消耗
+但是
+donto thatthat is just a really great indication of jenson's leadership the positioning of nvidia
+and also it is a great statement about what in the world believes in the future
+of nvidia
+so jenson congratulations on that journey and I know we have many more years of that journey ahead of us
+thank you i appreciate that my only regret was at the ipo after the ipo
+我买了我的父亲买了什么好
+所以我买了NVIDIA STOCK
+在公司买了300万美元
+我买了300万美元
+我买了他们的Mercedes S-Class
+这是世界上最便宜的车
+他们拒绝了
+他们还能买吗
+他们还能买
+讓我先說一下
+但是我想說
+你知道,這次的議題
+在AI
+是關於
+如何將世界
+和國際經濟改變
+今天我想說
+如何AI可以增加
+世界經濟
+以及如何AI可以
+變成
+一個技術的基礎
+讓所有人在這個房間
+global economy
+not in a way of the global economy
+and i can't think of another person who has a clear view
+not just what i is
+but the infrastructure around it
+the infrastructure that is necessary to build around it
+and because so many of the major hyperscalers
+are utilizers of what the video
+creates
+and the whole engagement around the infrastructure around
+ai and the potential of AI
+我認為我們有很好的聲音
+聽到這天晚上的聲音
+所以,Jensen 再次感謝你
+這是第一次在大陸的
+世界大學學院和大學
+我明白你會有很忙碌的行程
+所以,謝謝你
+我非常感謝
+所以,讓我來講
+為什麼你相信A.I有可能
+成為那種大量的生產
+And what makes this moment this technology different than past technology cycles?
+Yeah this is a first of all, when you when you think about AI and you're interacting with AI in all these different ways
+Chatchity of course using Gemini of course using Anthropic cloud of course
+And the magical things that that it could do
+It's helpful to reason back to the first principles of
+Fundamentally what is happening to the computing stack
+This is a platform shift
+Platform是一個地方 where applications are built on top of
+And this is a platform shift like the platform shift to PCs
+New applications were developed to run on a new type of computer
+Platform shift to the internet
+A new type of computing platform
+Hosted all kinds of new applications
+A platform shift to mobile cloud
+In each and every one of these platform shifts
+The computing stack was reinvented
+And new applications were created
+這是新的平台的進行, 因為今天你使用 chat.gbt
+這很重要, 它是一個應用的, 但很重要的
+新的應用會在上面的 chat.gbt, 新的應用會在上面的anthropic
+例如Claw, 所以這就是平台的進行
+A.I. is really easy to understand if you realize what it can do that you could never do before.
+Software in the past was effectively pre-recorded.
+Humans would type and describe the algorithm or the recipe for the computer to execute.
+It was able to process structured information meaning you've gotta put
+the name, the address,you know,their account number,their age,
+在那裡生活,你會建立這些建築物體
+那些軟體會去取消資料
+我們稱為SQL Queries
+SQL是世界最重要的資料機構
+世界最有名的
+現在,我們有一個
+現在我們有一個
+computer
+能夠理解
+不均衡的資料
+也就是說,它能夠看見
+一個名字,它能夠理解
+它能夠看見文字,它能夠理解
+它完全不均衡
+它能夠聽到聲音,它能夠理解
+understanding the meaning of it
+understand the structure of it
+and reason about what to do about it
+and so for the first time
+we now have a computer
+that is not pre-recorded
+but it's processed in realtime
+meaning that it's able to take the context
+of the circumstance
+whatever the environmental information
+the contextual information
+and whatever information you give it
+it could reason about
+What is the meaning of that information
+and reason about your intent
+which could be described in a really unstructured way.
+You describe it however you want to describe it.
+We call it prompts.
+But you describe it however you like to describe it.
+And to the extent that it can understand your intention
+it could perform a task for you.
+Now the important thing about this
+is that because we're reinventing
+that entire computing stack
+the question is what is AI?
+你問,當你考慮到AI,你會想到AI模型
+但是這很重要,要理解的
+AI是基本上是五層糟糕
+在底部有燈能量
+AI因為它在現實時期的程度上
+它能夠增加了能量
+需要燈能量
+燈能量是第一層,第二層是我活在的層面
+Chips and computing infrastructure
+The next layer above it is the cloud infrastructure
+The cloud services
+The layer above that is the AI models
+This is where most people think AI is
+But don't forget that in order for those models to happen
+You have to have all of the layers underneath it
+But the most important layer
+And this is the layer that's happening right now
+The reason why last year was an incredible year
+Frankly for AI
+是 AI 模式 作出了很多進步
+而藍色的藍色 最終
+我們都需要進行的藍色藍色
+所以藍色藍色
+可以在 資料 健康 產業
+藍色藍色最終
+是 經濟的 效果 會發生
+但重要的 因為
+這支 應用的 頁面
+需要所有的設計在下面
+它開始了
+大家現在看到的
+它開始了
+最大的資料建築
+在人類的歷史上
+我們現在有幾百億美元
+我們有幾百億美元
+雷瑞和我
+我們有機會
+和很多項目一起工作
+有幾百億美元的資料
+需要建築出來
+是很感動的
+因為這些層面的層面都需要發展
+所以 AI 能夠使用力量的模式
+能夠使用最高的應用器
+所以當你回到 當你回到  layer by layer
+你會想到 能力量的層面
+現在是看出了 非常大的增加
+But chip sector
+TSMC just announces to menu fact
+They're going to build 20 new chip plants
+Phoxcon working with us
+Building 30 new computer plants
+Which then go into these AI factories
+So we have chip factories
+Computer factories
+And AI factories all being built around the world
+對 沒錯 這些ChipFab的MICRON開始
+投資了200億美元在美國
+SK HINIX在做得很厲害
+Samsung在做得很厲害
+你看到整個Chip Layer
+在今天發展得很厲害
+當然我們現在要注意到
+Model Layer
+但這很有趣
+因為Layer above them
+真的在做得很棒
+現在一個意見
+是在哪裡在VC的資金進行
+2020年是最大的年代
+在VC的基金基金中
+去年
+大部分的基金基金
+是叫做AI native companies
+這些是公司在健康
+公司在機構
+公司在發展
+公司在資料
+所有的大量的生產業界
+在世界上
+你會看到大量的資料
+在AI native的基金中
+因為第一次
+模式是很好的
+在上面建造的
+就讓我們繼續
+大家的資料
+我確定會用到的
+聊天室
+但是你講的
+Ai的存在
+將會是最重要的
+我們來談談
+去到更加深入的
+想法
+存在的存在
+在世界上
+你提及的
+保護是個很好的個案
+但是你看到
+那些發展的機會
+像是优惠或许多的优惠
+去年我会说
+去年我会说
+三大事件在AI
+在AI技术中
+类似模型
+第一个是
+模型它们开始
+感到惊惊
+但它们被侵略了大多
+去年
+我们可以尽快地理解
+这些模型是更好的
+他們是更加有關的
+他們可以做學習
+他們可以理解
+一些情況
+他們可能沒有訓練
+會停止進行
+步步的理解
+然後來回答你的問題
+做學習
+或做任何的行動
+所以我們去年
+我們看到了
+我們叫做Agentic Systems
+Agentic AI
+第二大 breakthrough是開業模式
+幾年前是在一個年後
+DeepSeq出現了
+DeepSeq有很多人很關注
+DeepSeq是一個很大的活動
+在世界上的大多數的公司
+因為是世界第一的
+開業模式
+從此
+整個大部分的開業模式都在發生
+開業模式
+在學生、學生、學生、學生
+學生、學生
+學生、學生
+可以使用這些開業模式
+開始什麼東西
+創造什麼東西
+或用來尊重他們的需要
+第三個
+他們的專業是
+跟我們講的
+它是在對我們講的
+一種不一樣的
+是我們講得上
+對我們講得上
+在講甚麼
+對我們講的
+這就是我們講的
+剛才我們講的
+那種不一樣的
+就是我們講的
+那種不一樣的
+就是全世界 are
+全球
+全球
+全球
+全球
+現在學習的所有不同的劑
+和不同的語言
+如果你想
+腦袋是一個語言
+所以這些AIs
+現在在做這麼大的進步
+這些藝術
+藝術的公司
+不管是在發生
+或是在找藥物的發展
+他們真的做了很好的進步
+一位很棒的指揮者
+是我們跟Lily的合作人
+他們現在發現
+AI 成功了非常大的進步
+在理解衛生物的建築性
+和衛生物的建築性
+能夠進行進行
+進行進行進行
+像我們說的
+CHAG-EBT
+我們會看到
+一些很大的進步
+所以這些進步
+令我們有關
+人類的問題
+我們已經有很多的
+談論過
+但我們需要告訴觀眾
+AIs could displace jobs.
+And you've been arguing the opposite.
+Obviously, the build out of AI,
+as you talked about,
+the biggest infrastructure build out in history
+is going to occur,
+which energy is creating jobs,
+chips,industries creating jobs,
+the infrastructure layers creating jobs,
+land power and shelf, jobs, jobs, jobs.
+I mean,right?
+It's incredible.
+So let's get into that a little more detail.
+So you actually believe we're going to face labor shortages.
+所以,你能看到 AI 和  robot 改變 作用 而不代表 靈活動?
+有幾種不同的方式,我們可以考慮
+首先,這是人類最大的 生產物體的生產物體的大量的資料
+這會令很多的工作
+這很棒,這讓 工作 與 貨品 作用
+我們會有鋪上電源、製造、鋪上鋪子、
+連接技術、設置、設置、設置
+所有這些工作,在美國,我們看到
+在這個區域的大量的增加,
+資金會變得差不多,
+我們在談到六個職業的餐點
+是因為人們在建設
+舊業業業業業業業業業業業業業業業業
+我們有很大的大幅度
+我真的高興看到
+很多人在很多國家
+在這個重要的環境中
+大家應該能夠做到
+很好的生活
+你不需要有
+學生和學生的學生
+做到的
+所以我高興看到
+第二點
+第二,我們要想起的原因
+我們要想起的原因
+是邏輯上的
+在這方面,教育上
+有什麼意義
+所以我們要想起
+我們會想起
+我們有什麼意義
+我們會想起
+我們會想起
+我們會想起
+我們會想起
+我們會想起
+那 become superhuman and capability was computer vision
+and one of the largest applications of computer vision
+is studying scans by radiologists.
+Well, 10 years later, it is true
+that AI has now completely permeated
+and diffused into every aspect of radiology.
+And it is true that radiologists
+use AI to study scans now.
+而這個影響是100%的
+而這個影響是完全的真正的
+但不意外
+我對於第一個理念來說
+不意外的
+有幾個 Radialogist 都出現了
+那是因為失去信任
+還是因為人們的
+與結果的影響
+是一個更好的影響
+對 因為 Radialogist 他們的工作
+他們的目的就是治療
+幫助病毒治療
+這是他們的目的
+他們的目的就是
+學習的測試
+他們現在能夠學習的測試
+現在他們的測試
+讓他們花更多時間
+在病毒中治療
+與其他醫療的測試
+進行進行進行進行
+和其他醫療的測試
+其實不意外
+其實, 結果, 病毒的數量, 醫療的數量, 已經升了
+因為, 很多人在等待, 要等到他們的肌肉
+所以, 因為病毒的數量, 醫療的數量, 醫療的數量, 已經升了
+他們會更加的越多
+這也是一件事, 要求醫生
+我們有5億醫生, 美國
+以外,用AI去做免費
+和免費的傳授
+納斯利用了半個時間免費
+現在,他們可以用AI的技術
+在某個特殊公司
+和他們的合作團隊
+做了很厲害的工作
+以外,納斯利用了更多時間
+免費的免費
+給我一口氣
+對,因為你現在可以看到更多的免費
+我們沒有再多喝一杯酒
+比數學生更多的病毒
+可以進入醫院更早
+結果醫院更好
+他們會更多醫院
+所以 意外地
+AI是更加的
+不意外地
+AI是更加的
+產生性
+結果醫院更好
+他們想要更多人
+有太多人
+等了太久
+去醫院
+這些是兩種完美的例子
+現在 最簡單的方法
+我 hydrated thinking about whether
+What is the impact of AI on a particular job
+in factory.
+is to understand whether
+the job.
+What is the purpose of the job
+and what is the task of the job
+my if you.
+If you just put a camera
+on the two of us
+and just watched us
+you wouldprobably think
+the two of us are typists
+because I spent
+all of my time typing
+and and so if AI
+could automate so many
+so much work prediction
+and help us type
+then we would be out of jobs
+but obviously that's not our purpose
+and so the question is what is the purpose of your job
+in the case of radio centuries.
+the nurses is to care for people
+that purpose is enhanced and many more productive
+because the task has been automated
+and so to the extent that you can reason
+about each one of the people's purpose
+versus the task
+I think it's a helpful framework
+Let's move this beyond.
+the developed economies.
+我會明白如何A.I. is it a broadened the world
+and help the world
+我寫了一個循環的文件
+this past weekend
+basically said the utilization of AI
+most recently is very dominant
+by the educated society
+and they are even seeing
+the educated component of each society
+being heavily more utilized
+obviously they are using it against
+their own model plot
+所以它也可能有它的 own biases
+嗯
+So
+How do we ensure that AI
+Is a transformational technology maybe like what a Wi-Fi
+And 5G was for the emerging world
+And when you intersect that, what does it mean for the emerging world
+And jump, how do we broaden the global economy
+And to, you know
+Getting back to the whole job situation
+UriAiaub
+UriAiaub
+UriAi
+UriAi
+UriAi
+UriAi
+UriAi
+UriAi
+首先,A.I.是一個地步
+而沒有一個國家在世界中
+我可以想像,你需要A.I.為你的地步
+因為每個國家有它的電力、路線
+你應該要A.I.為你的地步
+當然,你可以經常在A.I.進行
+但A.I.是這些天很難練習的
+因為有很多開放模式
+這些開放模式,在你的地步上
+你應該能夠建立一個模式
+能夠幫助自己的國家
+所以我相信每個國家
+應該有興趣建立AI的資料
+建立自己的AI
+利用你的資料
+是你的語言和文化
+建立你的AI
+繼續重新建立
+還有你的國際智慧
+是你的經濟
+我認為這是第一 第二
+記住 AI 是非常容易使用的
+它是最容易使用的軟體
+在歷史上使用
+這就是原因為何它是最快的
+最快的 最快的 最快的
+在兩三年來
+它是來自幾百萬人
+我認為 首先
+Claude 是很厲害的
+Anthropic 做了很大的進步
+很大的進步
+在Claude 發展
+我們使用了它們的公司
+Coding capability of Clod
+It's reasoning capability
+It's ability is just really incredible
+Anybody who has a software company
+Really ought to get involved and use it
+On the other hand,
+Chatchapiti is probably the most successful
+Consumer AI in history
+It's ease of use
+And it's approachability
+I think everybody should get involved
+Whether it's somebody in a developing country
+Somebody, a student
+它是非常清楚
+它是最重要的
+如何學習用智慧
+如何向智慧進行智慧
+如何向智慧進行智慧
+如何去管理智慧
+如何保護智慧
+去減少智慧
+這些技能
+並不一樣
+在智慧和智慧中
+我們都會做這些事
+於是在未來
+即使是在智慧
+智慧的智慧
+也會有智慧的智慧
+Siliconvertions of A.I.'s and we have to manage them.
+There just part of our digital workforce if you will.
+And so I would advocate for the developing countries
+to close the technology divide because it is so easy to use,
+and so abundant, and so accessible.
+I'm actually fairly optimistic about the potential
+有可能的AI能夠把國家的進入力量升高
+很多人都沒有學會學會學會的學生
+所有的學生都能成為學生
+所以我們在過去的學生中
+要學會學會學會的學生
+現在你學會學會的學生
+在學會的學生中
+你如何學會學會的學生
+如果你不知道學會的學生
+你去學會的學生
+你問我學會的學生
+我如何學會的學生
+我會告訴你
+你會說
+我喜歡寫一條 program
+創作自己的網站
+我會怎麼做
+你會問我幾句問題
+你喜歡哪個網站
+然後寫你一個 Code
+所以
+這很容易使用
+當然
+這個厲害的AI
+這很有興趣
+兩句問題
+我們會在這裡
+我們坐在這裡
+我們在談很多公司
+我們提到美國和亞洲的公司
+我們討論一下
+如何A.I. 和未來的成員
+能夠進行進行
+還有怎麼看企業
+在歷史上表現這個角色
+我對企業的效果
+是每個A.I. 公司都能進行進行
+因為我們在資料系統上
+我們能夠把A.I. 增加
+我們能夠把AI的語言和文化、
+和世界模式和產業和動物的關係
+而這個非常有趣的東西
+是你記得你的生產基地很強
+生產基地在歐洲很強
+這是你的機會
+將過去的軟件離開
+A.I. is software that doesn't need to write software.
+You don't write AI, you teach AI.
+And so get in early now so that you can now fuse
+your industrial capability, your manufacturing capability
+with artificial intelligence
+and that brings you into the world of physical AI
+or robotics.
+Robotics is a once in a generation opportunity
+for the European nation.
+在這兩三個年裡
+是一種大融派的
+可以說是
+smell of the new world
+我們也有
+主要的
+這個更是
+要這兩三個月
+我們也有
+它在它們這個
+這兩個月
+我們也有
+它們這個
+這兩個月
+我們也有
+它們這個
+它們這個
+它們這個
+它們這個
+它們這個
+它們這個
+它們這個
+你必须要很紧张
+把你的能量增加
+让你能在发展中投入
+进行一个建设
+让你能有一个
+非常好的组织
+在美国和欧洲
+这些东西我听说
+我们是从AI发展中发展的
+问题是
+我们足够投入
+我们让它转动
+因为有很多人在说
+但是我聽說的是
+我們足夠投資
+做什麼需要做
+給世界各地的產品
+所以一個好測試在AI
+是要認識
+NVIDIA現在有
+百萬的NVIDIA GPUs
+在每個 cloud
+在每個 cloud 都使用
+如果我們想投資NVIDIA GPU
+這些天
+它很難得
+而且GPU的價值
+是在上升
+並不是新年代,而是二代的新年代的GPUs
+經常產生的價值,因為
+A.I. 公司的數量,
+A.I. 公司的數量,
+Lillia 非常有個例子,
+三年前,很多A.I. 公司的數量,
+可能是雲屬,
+A.I. 公司的數量,
+A.I. 公司的數量,
+A.I 公司的數量,
+所以 AI 燈籠是因為資金大
+而資金大
+因為我們需要建立
+所有的資金在上面的資金
+所以我覺得
+這次的機會很大
+所有人都要加入
+所有人都要加入
+我們需要更多的能量
+我們都要承認
+我們需要更多地霜和地霜
+我們需要更多的貿易技術
+其實這個人數的工作力
+在歐洲的大量的大量
+在很多的地方
+美國在20-30年代
+失去了這個
+但在歐洲的大量
+是一個很大的機會
+要拿出更多的方式
+所以我會
+我和Larry and I work
+我們看到資金的機會
+和資金的計劃是在增加
+數據的開始
+像我提到的
+2020年5月
+最大的資金
+年紀在VC的歷史
+超過100億美元的資金
+全世界都會是A.I.NATIVE
+所以這些A.I. 公司
+build basically the application layer above
+and they're going to need infrastructure
+they're going to need our investment
+you know and go build the future
+and i actually believe it's gonna be a great investment
+for pension funds around the world
+to be a part of that to grow
+with this AI world
+and this is one of my messages
+is so many political leaders
+we need to make sure that the average
+pensioneer,the average saver
+is a part of that growth
+if they're just watching it from the sidelines
+you know they're gonna feel left out
+我們想要投資資源
+對
+投資資源是一個很好的投資
+這是一個最大的投資資源
+在人人的歷史中
+對 讓我們有興趣
+我們在時間中
+希望大家在觀眾
+大家在網上看到
+薑翰和黃的力量
+是一個領導
+不是只是領導 技術和 AI
+而是領導
+在生產
+也有領導
+在心和心 which is really important today
+having that leadership from the heart and the soul.
+So thank you everyone.
+Thank you everyone.
