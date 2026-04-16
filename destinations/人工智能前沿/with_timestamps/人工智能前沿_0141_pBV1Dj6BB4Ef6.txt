@@ -1,0 +1,390 @@
+[00:00.110 --> 00:02.510] 現在有一個大改變在
+[00:02.510 --> 00:05.070] 內地的內地和中央
+[00:05.070 --> 00:08.430] 是由我們所給的 Alpha Fold
+[00:08.430 --> 00:09.910] 你可能會記得那一種
+[00:09.910 --> 00:11.430] Ai系統的解決了
+[00:11.430 --> 00:12.630] 如何中央的 protein 變成
+[00:12.630 --> 00:13.590] 基本上是改變了
+[00:13.590 --> 00:14.790] 中央的綽納物體
+[00:14.790 --> 00:16.110] 差不多 overnight
+[00:16.110 --> 00:17.150] 這就是關於
+[00:17.150 --> 00:19.310] 自己的形狀的模型
+[00:19.310 --> 00:20.470] 這次深入的
+[00:20.470 --> 00:21.430] 是在進行
+[00:21.430 --> 00:22.270] 甚至更大的
+[00:22.270 --> 00:23.350] 不只是 protein
+[00:23.350 --> 00:24.750] 不只是單身
+[00:24.750 --> 00:25.430] 整個的
+[00:25.430 --> 00:27.930] 就是紳士總體系統
+[00:27.930 --> 00:30.030] 紳士總體系統 叫做智能智能智能智能
+[00:30.030 --> 00:31.930] 而 هي幼的標準
+[00:31.930 --> 00:33.310] 就是你停和想起這理由
+[00:33.310 --> 00:35.430] 之外 像是一個長筋
+[00:35.430 --> 00:36.910] 的線條停在那兒
+[00:36.910 --> 00:37.510] 這種模特兒
+[00:37.510 --> 00:38.430] 作為解決
+[00:38.430 --> 00:40.030] 其實它們的智能智能
+[00:40.030 --> 00:41.310] 所做的智能智能
+[00:41.310 --> 00:42.930] 所以並非一個
+[00:42.930 --> 00:43.550] 在智能智能規定的
+[00:43.550 --> 00:44.670] 数字之分
+[00:44.670 --> 00:45.750] 那個智能見辨
+[00:45.750 --> 00:46.770] 那一個留下靜
+[00:46.770 --> 00:47.670] 哪一個自己的智能智能
+[00:47.670 --> 00:48.510] 要確切地成功
+[00:48.510 --> 00:49.070] 這個智能智能智能
+[00:49.070 --> 00:50.270] 是否相對或受傷
+[00:50.270 --> 00:50.770] 而且還有
+[00:50.770 --> 00:51.870] 靈性的部分
+[00:51.870 --> 00:52.750] 智能智能智能
+[00:52.750 --> 00:54.750] 和其他人在核心中
+[00:54.750 --> 00:55.750] 所有的
+[00:55.750 --> 00:57.750] 由 raw DNA sequence alone
+[00:57.750 --> 00:59.750] 先把這數據放下
+[00:59.750 --> 01:00.750] 你的晶片
+[01:00.750 --> 01:02.750] 是三百萬字長
+[01:02.750 --> 01:05.750] 很多不直接加用
+[01:05.750 --> 01:06.750] 其實
+[01:06.750 --> 01:08.750] 98% 了解
+[01:08.750 --> 01:10.750] 晶片的晶片
+[01:10.750 --> 01:12.750] 在這些不加用的
+[01:12.750 --> 01:13.750] 數據中
+[01:13.750 --> 01:14.750] 歷史上
+[01:14.750 --> 01:15.750] 這些是真正的
+[01:15.750 --> 01:16.750] 難度
+[01:16.750 --> 01:18.750] 當晶片展示出
+[01:18.750 --> 01:19.750] 晶片的晶片
+[01:19.750 --> 01:20.750] 學生們經常會說
+[01:20.750 --> 01:21.750] 我們不太確定
+[01:21.750 --> 01:23.750] 我們不太確定這個做法
+[01:23.750 --> 01:25.950] Alpha Genome是建立了改變
+[01:25.950 --> 01:28.150] 它是想把這些迷路的地方
+[01:28.150 --> 01:30.450] 進入我們可以實際地表達的東西
+[01:30.450 --> 01:32.250] 這個計劃的構思是
+[01:32.250 --> 01:34.450] 最大的一條大 breakthroughs
+[01:34.450 --> 01:36.750] 最前一代的AI 模型和 Genomics
+[01:36.750 --> 01:38.950] 要做出一個很痛苦的 tradeoff
+[01:38.950 --> 01:41.050] 他們也看過了短篇中的DNA
+[01:41.050 --> 01:43.250] 可能10,000 個字的時間
+[01:43.250 --> 01:45.350] 並做了非常精準的預算
+[01:45.350 --> 01:47.150] 或他們也看過了更大的地方
+[01:47.150 --> 01:48.750] 百分之一千個字
+[01:48.750 --> 01:50.650] 並要用來調查細節
+[01:50.650 --> 01:52.610] Alpha Genome refuses to choose
+[01:52.610 --> 01:55.170] It reads one million DNA letters at once
+[01:55.170 --> 01:56.370] A full megabase
+[01:56.370 --> 01:59.370] And still makes predictions down to individual bases
+[01:59.370 --> 02:00.570] To make that possible
+[02:00.570 --> 02:03.450] Deep Mind built a hybrid AI architecture
+[02:03.450 --> 02:06.690] Part of the model is designed to focus on very local details
+[02:06.690 --> 02:08.250] Short DNA patterns
+[02:08.250 --> 02:10.250] Where specific proteins bind
+[02:10.250 --> 02:13.290] Kind of like recognizing individual words in a sentence
+[02:13.290 --> 02:17.090] Another part of the model is built to understand long distance relationships
+[02:17.090 --> 02:20.610] More like understanding how different chapters of a book connect to each other
+[02:20.610 --> 02:24.650] 在科學中,這與DNA的關係不只是一條線
+[02:24.650 --> 02:27.090] 它是三個D位置的分別
+[02:27.090 --> 02:29.050] 以及在其中的各種地方的階段中
+[02:29.050 --> 02:31.570] 可以在其中的階段中結合
+[02:31.570 --> 02:33.650] Alpha Genome 與長時間交通
+[02:33.650 --> 02:37.770] 兩種相關的細節和相關的相關的交通
+[02:37.770 --> 02:40.290] 在系統中,DNA的階段
+[02:40.290 --> 02:44.050] 將其分成在不同的級別中
+[02:44.050 --> 02:46.050] 這些是一段階段
+[02:46.050 --> 02:47.710] matching the linear genome
+[02:47.710 --> 02:49.970] at resolutions down to its single base pair
+[02:49.970 --> 02:52.050] or small blocks of bases.
+[02:52.190 --> 02:53.910] Others are two-dimensional
+[02:53.910 --> 02:55.490] used to predict contact maps
+[02:55.490 --> 02:57.770] that describe how distant pieces of DNA
+[02:57.910 --> 02:59.830] physically come together in the nucleus.
+[02:59.830 --> 03:02.570] SO, ALPHA genome is not just reading the code,
+[03:02.570 --> 03:04.110] it's also trying to infer
+[03:04.130 --> 03:06.130] the spatial wiring diagram of the genome,
+[03:06.130 --> 03:07.830] how the DNA folds
+[03:07.830 --> 03:10.230] and which parts are physically interacting.
+[03:10.230 --> 03:12.530] Alright, now, Quick break for a short detour.
+[03:12.530 --> 03:13.950] If you work with AI a lot
+[03:13.950 --> 03:15.830] 和在不同的模式上
+[03:15.830 --> 03:16.950] 看哪个模式的目的
+[03:16.950 --> 03:18.150] 其实是一项目的
+[03:18.150 --> 03:19.310] 今天主席的Mammoth
+[03:19.310 --> 03:21.590] 让整个工作比较容易
+[03:21.590 --> 03:22.390] Mammoth带了
+[03:22.390 --> 03:23.710] 很多大量的AI模式
+[03:23.710 --> 03:24.710] 进入一个地方
+[03:24.710 --> 03:27.470] Claude, GPT, Gemini
+[03:27.470 --> 03:30.310] Lama, Mistral, Grock, DeepSeq
+[03:30.310 --> 03:32.070] Purplexity for Deep Research
+[03:32.070 --> 03:33.910] 加上模式像是Flux
+[03:33.910 --> 03:35.950] Nano Banana, and Recraft
+[03:35.950 --> 03:38.230] 所有的模式都在一个单位
+[03:38.230 --> 03:40.110] 但是在日常使用
+[03:40.110 --> 03:41.590] 是一个相同的模式
+[03:41.590 --> 03:42.950] 你可以把同一模式
+[03:42.950 --> 03:44.950] 不同模式的同時
+[03:44.950 --> 03:46.950] 並且看到如何每個人都回答
+[03:46.950 --> 03:48.950] 這令它更容易選擇
+[03:48.950 --> 03:50.950] 對模式的寫作、研究、
+[03:50.950 --> 03:52.950] 調整、或是畫面
+[03:52.950 --> 03:53.950] 無論如何
+[03:53.950 --> 03:54.950] 你可以也會建立
+[03:54.950 --> 03:55.950] custom Mammoths
+[03:55.950 --> 03:56.950] 基本上是你的自己的
+[03:56.950 --> 03:57.950] 設計
+[03:57.950 --> 03:58.950] 用特別的教訓
+[03:58.950 --> 03:59.950] 去取得職位的行動
+[03:59.950 --> 04:00.950] 以及保持東西
+[04:00.950 --> 04:01.950] 在領導的領導領導
+[04:01.950 --> 04:03.950] 在私人領導的領導
+[04:03.950 --> 04:04.950] Mammoth 由於在歐洲
+[04:04.950 --> 04:06.950] 和資料在德國
+[04:06.950 --> 04:08.950] 全球GDPR 培養
+[04:08.950 --> 04:10.950] 而模式並不在你的資料上
+[04:10.950 --> 04:12.950] Prompt aren't retained by providers
+[04:12.950 --> 04:14.950] and you can delete your history whenever you want.
+[04:14.950 --> 04:16.950] Planes started around 10 euros per month
+[04:16.950 --> 04:18.950] or roughly 12 dollars
+[04:18.950 --> 04:20.950] and it's already used by hundreds of companies
+[04:20.950 --> 04:22.950] and public institutions.
+[04:22.950 --> 04:24.950] Check it out using the link in the description.
+[04:24.950 --> 04:26.950] Alright, now back to the video.
+[04:26.950 --> 04:28.950] Now here's where it gets even more powerful.
+[04:28.950 --> 04:30.950] Alpha genome isn't trained to
+[04:30.950 --> 04:32.950] do just one biological task.
+[04:32.950 --> 04:34.950] It predicts 11 different kinds
+[04:34.950 --> 04:36.950] of measurements that scientists
+[04:36.950 --> 04:38.950] normally have to run separate experiments to get.
+[04:38.950 --> 04:41.770] 這包括每個肌肉的活動
+[04:41.770 --> 04:43.430] 以及其他活動的動作
+[04:43.430 --> 04:44.870] 如何開放或關閉
+[04:44.870 --> 04:47.030] 在不同的地方
+[04:47.030 --> 04:49.110] 讓它們的肌肉有關閉
+[04:49.110 --> 04:50.390] 如何使用RNA
+[04:50.390 --> 04:52.390] 和大量的研究量
+[04:52.390 --> 04:54.070] 並且將每個肌肉
+[04:54.070 --> 04:55.310] 的大量的研究量
+[04:55.310 --> 04:57.390] 都進行3D的進行
+[04:57.390 --> 04:59.070] 這些東西在學校
+[04:59.070 --> 04:59.870] 用技術的
+[04:59.870 --> 05:00.470] 用名字
+[05:00.470 --> 05:02.390] 如RNA 、Atax 、
+[05:02.390 --> 05:04.210] ChipSeq 和 HighC
+[05:04.210 --> 05:10.130] Instead of learning them separately, AlphaGenome learns all of them together from the same DNA input.
+[05:10.130 --> 05:18.910] In the human version alone, the model predicts 5,930 separate genome tracks across many tissues and cell types.
+[05:18.910 --> 05:23.770] The mouse version adds another 1,128 tracks.
+[05:23.770 --> 05:28.810] That's thousands of biological readouts all coming from the same stretch of DNA.
+[05:28.810 --> 05:30.810] 而是建立了一種AI模式
+[05:30.810 --> 05:31.810] 來供應
+[05:31.810 --> 05:33.470] 另一種精華和
+[05:33.470 --> 05:34.810] 另外一種DNA的
+[05:34.810 --> 05:35.810] 供應
+[05:35.810 --> 05:37.810] 這就是一種雙重新的系統
+[05:37.810 --> 05:38.810] 學習了不同的規則
+[05:38.810 --> 05:40.810] 如何使用DNA的控制
+[05:40.810 --> 05:41.810] 使用它們做什麼
+[05:41.810 --> 05:42.810] 訓練某些東西
+[05:42.810 --> 05:43.810] 在這個程度上
+[05:43.810 --> 05:44.810] 是一個大量的研究挑戰
+[05:44.810 --> 05:45.810] 這個模式是建立了
+[05:45.810 --> 05:46.810] 在Jax
+[05:46.810 --> 05:48.810] 以及Google的TPUs
+[05:48.810 --> 05:50.810] 這類的AI型號
+[05:50.810 --> 05:51.810] 要處理一種大量的
+[05:51.810 --> 05:52.810] 1MB的進入
+[05:52.810 --> 05:53.810] DNA的項目
+[05:53.810 --> 05:55.810] 是將大量的
+[05:55.810 --> 05:58.250] Rust-chunks that are processed across multiple
+[05:58.250 --> 06:00.950] tpu devices in parallel with communication
+[06:00.950 --> 06:01.550] between them.
+[06:01.610 --> 06:02.950] Without tricks like that,
+[06:02.990 --> 06:04.650] the memory requirements would explode
+[06:04.650 --> 06:05.410] instantly.
+[06:05.690 --> 06:07.510] This is not just a biology project.
+[06:07.690 --> 06:10.090] It's a serious, large scale AI infrastructure
+[06:10.250 --> 06:10.910] project.
+[06:10.910 --> 06:13.610] The training itself happens in two main stages.
+[06:13.950 --> 06:15.510] First comes pre-training.
+[06:15.650 --> 06:17.950] They take real experimental genomic data
+[06:17.950 --> 06:20.650] and train multiple large teacher models.
+[06:20.910 --> 06:23.310] Some of these are trained with parts of the genome
+[06:23.310 --> 06:25.410] held outto make sure the models can
+[06:25.410 --> 06:27.410] 是绝对不见的
+[06:27.570 --> 06:29.410] 其他人都在全球系统上
+[06:29.410 --> 06:30.530] 继续推出
+[06:30.530 --> 06:32.130] 比较高的表现
+[06:32.130 --> 06:32.730] 接下来的是
+[06:32.730 --> 06:33.890] 连续执行
+[06:33.890 --> 06:35.010] 他们提供了
+[06:35.010 --> 06:36.450] 这些阵流模式
+[06:36.590 --> 06:38.650] 和继续一个学生模式
+[06:38.650 --> 06:40.090] 来瞧取他们的伲计
+[06:40.090 --> 06:41.130] 在这一阵子
+[06:41.130 --> 06:42.250] 他们也把
+[06:42.250 --> 06:43.530] 取消化性的
+[06:43.530 --> 06:45.210] 和连续的异性
+[06:45.210 --> 06:46.210] 所以学生模式
+[06:46.210 --> 06:47.030] 就会觉得
+[06:47.030 --> 06:47.690] 懂得
+[06:47.690 --> 06:49.570] 小变化和运动
+[06:49.570 --> 06:50.430] 有关关系的
+[06:50.430 --> 06:51.770] 是现代的
+[06:51.770 --> 06:53.070] 结果是一个
+[06:53.070 --> 06:54.130] 一变化的模式
+[06:54.130 --> 06:56.130] 能够分辨效果的一种
+[06:56.130 --> 06:57.130] 在一旅程中
+[06:57.130 --> 06:58.130] 通过所有的
+[06:58.130 --> 07:00.130] 科学生物的一旅程中
+[07:00.130 --> 07:01.130] 而它是快的
+[07:01.130 --> 07:02.130] 在高厂的GPU
+[07:02.130 --> 07:03.130] 一旅程中
+[07:03.130 --> 07:04.130] 可以在一秒钟中
+[07:04.130 --> 07:05.130] 分辨的方式
+[07:05.130 --> 07:06.130] 那是一大项目
+[07:06.130 --> 07:07.130] 如果想分辨
+[07:07.130 --> 07:08.130] 一百万的方式
+[07:08.130 --> 07:09.130] 就是研究者
+[07:09.130 --> 07:11.130] 经常需要的
+[07:11.130 --> 07:12.130] 表现的
+[07:12.130 --> 07:13.130] 实际上
+[07:13.130 --> 07:14.130] 它是一种
+[07:14.130 --> 07:15.130] 强调的
+[07:15.130 --> 07:16.130] 基本的
+[07:16.130 --> 07:17.130] 精神的运动
+[07:17.130 --> 07:18.130] 就是
+[07:18.130 --> 07:19.130] 真正的
+[07:19.130 --> 07:20.130] 精神的
+[07:20.130 --> 07:21.130] 精神的
+[07:21.130 --> 07:22.130] 精神的
+[07:22.130 --> 07:25.730] Alpha Genome was tested on 24 different tasks.
+[07:25.730 --> 07:29.530] It outperformed the strongest existing model in 22 of them.
+[07:29.530 --> 07:33.930] It also beat highly specialized models that were designed for single tasks.
+[07:33.930 --> 07:38.930] For example, compared to Borzoi, another advanced multimodal genomics model,
+[07:38.930 --> 07:46.130] Alpha Genome showed a 14.7% relative improvement in predicting cell-type specific gene expression changes.
+[07:46.130 --> 07:49.130] In genomics, jumps like that are not small.
+[07:49.130 --> 07:51.430] They can mean the difference between a vague hint
+[07:51.430 --> 07:53.950] and something researchers can actually rely on.
+[07:53.950 --> 07:55.950] Then there is variant effect prediction
+[07:55.950 --> 07:58.610] which is where the medical and biological impact
+[07:58.610 --> 07:59.370] really shows up.
+[07:59.370 --> 08:01.530] They built 26 different benchmarks
+[08:01.530 --> 08:02.890] covering how well the model predicts
+[08:02.890 --> 08:05.050] the effects of mutations on gene expression,
+[08:05.050 --> 08:07.850] RNA splicing, chromatin accessibility,
+[08:07.850 --> 08:10.290] transcription factor binding and more.
+[08:10.290 --> 08:11.870] Using the distilled student model,
+[08:11.870 --> 08:14.450] AlphaGeno matched or beat the best available
+[08:14.450 --> 08:17.550] external method in 25 out of 26 tests.
+[08:17.550 --> 08:19.870] 在一些時候,強勢的改變 are huge
+[08:19.870 --> 08:23.170] Splicing is one of the clearest examples of why this matters
+[08:23.170 --> 08:27.030] 很多病毒 are caused by mutations that mess up how RNA is spliced
+[08:27.030 --> 08:30.910] 基本上是怎麼將 RNA edit before turning it into protein
+[08:30.910 --> 08:34.270] Alpha Genome predicts spliced donor and acceptor sites
+[08:34.270 --> 08:37.810] 是怎麼使用的, and the actual spliced junction red counts
+[08:37.810 --> 08:39.370] 全是基於基礎的解決
+[08:39.370 --> 08:44.570] For gene expression, they tested how well the model predicts the effect of EQTLs
+[08:44.570 --> 08:45.690] 是有優點的種類
+[08:45.690 --> 08:46.970] known to influence
+[08:46.970 --> 08:48.730] how strongly genes are expressed
+[08:48.730 --> 08:50.730] 用FindMapped G-tex data
+[08:50.730 --> 08:52.730] Alpha Genome improved the correlation
+[08:52.730 --> 08:55.370] between predicted and observed effect sizes
+[08:55.370 --> 08:58.130] from 0.39 to 0.49
+[08:58.130 --> 08:59.890] 那 might sound like a modest change
+[08:59.890 --> 09:01.930] but in complex biological systems
+[09:01.930 --> 09:04.570] that's a significant leap in predictive power
+[09:04.570 --> 09:06.690] for predicting just the direction of effect
+[09:06.690 --> 09:08.330] whether a gene goes up or down
+[09:08.330 --> 09:10.570] the performance also improved substantially
+[09:10.570 --> 09:13.090] at a threshold giving 90% accuracy
+[09:13.090 --> 09:14.490] Alpha Genome recovered more than
+[09:14.490 --> 09:16.950] 汶米 babies many know the QT 老藝
+[09:16.950 --> 09:21.050] as the comparison model they push this further into GWAS interpretation
+[09:21.210 --> 09:24.290] which connects genetic variance to diseases and traits.
+[09:24.390 --> 09:26.130] Out of more than 18,000 committee
+[09:26.130 --> 09:29.330] wass credible sets Alpha genome could assign a confident
+[09:29.330 --> 09:33.030] direction of effect to at least one variant in nearly half of them,
+[09:33.110 --> 09:36.170] Interestingly, the set it resolves don't overlap much
+[09:36.170 --> 09:39.010] with traditional statistical methods, meaning the AI
+[09:39.010 --> 09:42.130] is adding genuinely new biological insight rather
+[09:42.130 --> 09:43.730] than repeating what we already knew.
+[09:43.730 --> 09:46.730] The model also handles long range gene regulation,
+[09:46.730 --> 09:48.770] where enhancers far away from a gene
+[09:48.770 --> 09:50.510] still control its activity.
+[09:50.510 --> 09:53.410] Using CRISPR eEnhancer gene linking data,
+[09:53.410 --> 09:55.770] Alpha Genome outperformed previous models
+[09:55.770 --> 09:58.810] in identifying which enhancers regulate which genes,
+[09:58.810 --> 10:00.870] especially when those enhancers are located
+[10:00.870 --> 10:02.710] tens of thousands of bases away.
+[10:02.710 --> 10:04.910] Its performance was almost as good as a model
+[10:04.910 --> 10:07.270] that was specifically trained for this one task,
+[10:07.270 --> 10:10.130] despite Alpha Genome being a general purpose system.
+[10:10.130 --> 10:12.310] Polyadenalation is another angle.
+[10:12.310 --> 10:15.410] 毫不 being explicitly trained on polyadenylation data,
+[10:15.410 --> 10:19.030] Alpha Genome still captured patterns of alternative polyadenylation
+[10:19.030 --> 10:20.990] through its RNA-seq predictions.
+[10:20.990 --> 10:24.410] On benchmarks, it significantly outperformed previous models
+[10:24.410 --> 10:27.750] in predicting how mutations affect where RNA transcripts end.
+[10:27.750 --> 10:31.670] For chromatin accessibility and transcription factor binding QTLs,
+[10:31.670 --> 10:35.550] it again beat both multimodal and specialized models.
+[10:35.550 --> 10:39.350] In some datasets, the correlation between predicted and observed
+[10:39.350 --> 10:41.710] 這種性能的改善效果是非常高的
+[10:41.750 --> 10:43.790] 而在Cillico-Mutagenesis
+[10:43.830 --> 10:44.670] 經常表明了
+[10:44.710 --> 10:46.390] 改善相關的改善
+[10:46.430 --> 10:48.310] 聯合的DNA-Binding 因應
+[10:48.350 --> 10:50.030] 維修的特質的改善
+[10:50.070 --> 10:52.030] 最有趣的一個案例
+[10:52.070 --> 10:53.990] 是Tal1-Ancogene
+[10:54.030 --> 10:55.870] 在T-Cell 耐性裡面的
+[10:55.870 --> 10:57.870] 许多新的组合器都知道
+[10:57.870 --> 10:59.270] 可以发生新的组合器
+[10:59.270 --> 11:01.870] 使用TAL-1的表现太高
+[11:01.870 --> 11:03.870] Alpha Genome 估计
+[11:03.870 --> 11:05.870] 在这些组合器的网站里
+[11:05.870 --> 11:07.870] 有达到TAL-1的
+[11:07.870 --> 11:09.870] 组合器的组合器
+[11:09.870 --> 11:11.870] 和TAL-1的组合器的
+[11:11.870 --> 11:13.870] 组合器的组合器
+[11:13.870 --> 11:15.870] 将组合器的组合器
+[11:15.870 --> 11:17.870] 和组合器的组合器
+[11:17.870 --> 11:19.870] 分辨的有多不同的
+[11:19.870 --> 11:21.870] 在Cillico 莫德纳斯
+[11:21.870 --> 11:23.870] 表示了一个MYB 组合器
+[11:23.870 --> 11:27.830] B binding motif, which matches previous experimental findings.
+[11:27.830 --> 11:32.570] That's the kind of deep mechanistic insight you normally only get after years of lab work.
+[11:32.570 --> 11:37.270] They didn't just show performance numbers, they also dissected why the model works.
+[11:37.270 --> 11:40.350] Studies showed that training at single base resolution
+[11:40.350 --> 11:43.850] really matters for tasks like splicing and accessibility.
+[11:43.850 --> 11:46.950] Having the full 1 megabase context improves results.
+[11:46.950 --> 11:50.850] And shortening the context at inference time hurts performance.
+[11:50.850 --> 11:52.850] 讀者计算者的计算者
+[11:52.850 --> 11:54.850] 可以选择或打开
+[11:54.850 --> 11:56.850] 一般的计算者
+[11:56.850 --> 11:58.850] 并且比较便宜
+[11:58.850 --> 12:00.850] 计算者的计算者
+[12:00.850 --> 12:02.850] 继续出现计算者的计算者
+[12:02.850 --> 12:04.850] 尤其是在计算者的效果中
+[12:04.850 --> 12:06.850] 有些效果
+[12:06.850 --> 12:08.850] 非常远的效果
+[12:08.850 --> 12:10.850] 比较难以预测
+[12:10.850 --> 12:12.850] 体育的特征
+[12:12.850 --> 12:14.850] 计算者的效果仍然是
+[12:14.850 --> 12:16.850] 在继续的效果中
+[12:16.850 --> 12:18.850] 有些效果
+[12:18.850 --> 12:20.450] 像一种基本的步骤
+[12:20.450 --> 12:21.370] 一模式
+[12:21.370 --> 12:22.770] 一条计划
+[12:22.770 --> 12:24.650] 千万的功能和技术
+[12:24.650 --> 12:26.010] 和每个各种计划的
+[12:26.010 --> 12:27.050] 每个各种计划的
+[12:27.050 --> 12:28.170] 每个各种计划的
+[12:28.170 --> 12:29.130] 每个各种计划的
+[12:29.130 --> 12:30.530] 研究者在计划中
+[12:30.530 --> 12:32.210] DeepMind也成为
+[12:32.210 --> 12:33.530] 一个API的
+[12:33.530 --> 12:34.730] Python SDK
+[12:34.730 --> 12:36.770] 和一种植物系统
+[12:36.770 --> 12:37.450] 所以计划人
+[12:37.450 --> 12:38.290] 可以用它
+[12:38.290 --> 12:39.650] 不过只是在训练它

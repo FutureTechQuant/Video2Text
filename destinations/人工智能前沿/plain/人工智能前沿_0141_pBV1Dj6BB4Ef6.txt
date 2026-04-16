@@ -1,0 +1,390 @@
+現在有一個大改變在
+內地的內地和中央
+是由我們所給的 Alpha Fold
+你可能會記得那一種
+Ai系統的解決了
+如何中央的 protein 變成
+基本上是改變了
+中央的綽納物體
+差不多 overnight
+這就是關於
+自己的形狀的模型
+這次深入的
+是在進行
+甚至更大的
+不只是 protein
+不只是單身
+整個的
+就是紳士總體系統
+紳士總體系統 叫做智能智能智能智能
+而 هي幼的標準
+就是你停和想起這理由
+之外 像是一個長筋
+的線條停在那兒
+這種模特兒
+作為解決
+其實它們的智能智能
+所做的智能智能
+所以並非一個
+在智能智能規定的
+数字之分
+那個智能見辨
+那一個留下靜
+哪一個自己的智能智能
+要確切地成功
+這個智能智能智能
+是否相對或受傷
+而且還有
+靈性的部分
+智能智能智能
+和其他人在核心中
+所有的
+由 raw DNA sequence alone
+先把這數據放下
+你的晶片
+是三百萬字長
+很多不直接加用
+其實
+98% 了解
+晶片的晶片
+在這些不加用的
+數據中
+歷史上
+這些是真正的
+難度
+當晶片展示出
+晶片的晶片
+學生們經常會說
+我們不太確定
+我們不太確定這個做法
+Alpha Genome是建立了改變
+它是想把這些迷路的地方
+進入我們可以實際地表達的東西
+這個計劃的構思是
+最大的一條大 breakthroughs
+最前一代的AI 模型和 Genomics
+要做出一個很痛苦的 tradeoff
+他們也看過了短篇中的DNA
+可能10,000 個字的時間
+並做了非常精準的預算
+或他們也看過了更大的地方
+百分之一千個字
+並要用來調查細節
+Alpha Genome refuses to choose
+It reads one million DNA letters at once
+A full megabase
+And still makes predictions down to individual bases
+To make that possible
+Deep Mind built a hybrid AI architecture
+Part of the model is designed to focus on very local details
+Short DNA patterns
+Where specific proteins bind
+Kind of like recognizing individual words in a sentence
+Another part of the model is built to understand long distance relationships
+More like understanding how different chapters of a book connect to each other
+在科學中,這與DNA的關係不只是一條線
+它是三個D位置的分別
+以及在其中的各種地方的階段中
+可以在其中的階段中結合
+Alpha Genome 與長時間交通
+兩種相關的細節和相關的相關的交通
+在系統中,DNA的階段
+將其分成在不同的級別中
+這些是一段階段
+matching the linear genome
+at resolutions down to its single base pair
+or small blocks of bases.
+Others are two-dimensional
+used to predict contact maps
+that describe how distant pieces of DNA
+physically come together in the nucleus.
+SO, ALPHA genome is not just reading the code,
+it's also trying to infer
+the spatial wiring diagram of the genome,
+how the DNA folds
+and which parts are physically interacting.
+Alright, now, Quick break for a short detour.
+If you work with AI a lot
+和在不同的模式上
+看哪个模式的目的
+其实是一项目的
+今天主席的Mammoth
+让整个工作比较容易
+Mammoth带了
+很多大量的AI模式
+进入一个地方
+Claude, GPT, Gemini
+Lama, Mistral, Grock, DeepSeq
+Purplexity for Deep Research
+加上模式像是Flux
+Nano Banana, and Recraft
+所有的模式都在一个单位
+但是在日常使用
+是一个相同的模式
+你可以把同一模式
+不同模式的同時
+並且看到如何每個人都回答
+這令它更容易選擇
+對模式的寫作、研究、
+調整、或是畫面
+無論如何
+你可以也會建立
+custom Mammoths
+基本上是你的自己的
+設計
+用特別的教訓
+去取得職位的行動
+以及保持東西
+在領導的領導領導
+在私人領導的領導
+Mammoth 由於在歐洲
+和資料在德國
+全球GDPR 培養
+而模式並不在你的資料上
+Prompt aren't retained by providers
+and you can delete your history whenever you want.
+Planes started around 10 euros per month
+or roughly 12 dollars
+and it's already used by hundreds of companies
+and public institutions.
+Check it out using the link in the description.
+Alright, now back to the video.
+Now here's where it gets even more powerful.
+Alpha genome isn't trained to
+do just one biological task.
+It predicts 11 different kinds
+of measurements that scientists
+normally have to run separate experiments to get.
+這包括每個肌肉的活動
+以及其他活動的動作
+如何開放或關閉
+在不同的地方
+讓它們的肌肉有關閉
+如何使用RNA
+和大量的研究量
+並且將每個肌肉
+的大量的研究量
+都進行3D的進行
+這些東西在學校
+用技術的
+用名字
+如RNA 、Atax 、
+ChipSeq 和 HighC
+Instead of learning them separately, AlphaGenome learns all of them together from the same DNA input.
+In the human version alone, the model predicts 5,930 separate genome tracks across many tissues and cell types.
+The mouse version adds another 1,128 tracks.
+That's thousands of biological readouts all coming from the same stretch of DNA.
+而是建立了一種AI模式
+來供應
+另一種精華和
+另外一種DNA的
+供應
+這就是一種雙重新的系統
+學習了不同的規則
+如何使用DNA的控制
+使用它們做什麼
+訓練某些東西
+在這個程度上
+是一個大量的研究挑戰
+這個模式是建立了
+在Jax
+以及Google的TPUs
+這類的AI型號
+要處理一種大量的
+1MB的進入
+DNA的項目
+是將大量的
+Rust-chunks that are processed across multiple
+tpu devices in parallel with communication
+between them.
+Without tricks like that,
+the memory requirements would explode
+instantly.
+This is not just a biology project.
+It's a serious, large scale AI infrastructure
+project.
+The training itself happens in two main stages.
+First comes pre-training.
+They take real experimental genomic data
+and train multiple large teacher models.
+Some of these are trained with parts of the genome
+held outto make sure the models can
+是绝对不见的
+其他人都在全球系统上
+继续推出
+比较高的表现
+接下来的是
+连续执行
+他们提供了
+这些阵流模式
+和继续一个学生模式
+来瞧取他们的伲计
+在这一阵子
+他们也把
+取消化性的
+和连续的异性
+所以学生模式
+就会觉得
+懂得
+小变化和运动
+有关关系的
+是现代的
+结果是一个
+一变化的模式
+能够分辨效果的一种
+在一旅程中
+通过所有的
+科学生物的一旅程中
+而它是快的
+在高厂的GPU
+一旅程中
+可以在一秒钟中
+分辨的方式
+那是一大项目
+如果想分辨
+一百万的方式
+就是研究者
+经常需要的
+表现的
+实际上
+它是一种
+强调的
+基本的
+精神的运动
+就是
+真正的
+精神的
+精神的
+精神的
+Alpha Genome was tested on 24 different tasks.
+It outperformed the strongest existing model in 22 of them.
+It also beat highly specialized models that were designed for single tasks.
+For example, compared to Borzoi, another advanced multimodal genomics model,
+Alpha Genome showed a 14.7% relative improvement in predicting cell-type specific gene expression changes.
+In genomics, jumps like that are not small.
+They can mean the difference between a vague hint
+and something researchers can actually rely on.
+Then there is variant effect prediction
+which is where the medical and biological impact
+really shows up.
+They built 26 different benchmarks
+covering how well the model predicts
+the effects of mutations on gene expression,
+RNA splicing, chromatin accessibility,
+transcription factor binding and more.
+Using the distilled student model,
+AlphaGeno matched or beat the best available
+external method in 25 out of 26 tests.
+在一些時候,強勢的改變 are huge
+Splicing is one of the clearest examples of why this matters
+很多病毒 are caused by mutations that mess up how RNA is spliced
+基本上是怎麼將 RNA edit before turning it into protein
+Alpha Genome predicts spliced donor and acceptor sites
+是怎麼使用的, and the actual spliced junction red counts
+全是基於基礎的解決
+For gene expression, they tested how well the model predicts the effect of EQTLs
+是有優點的種類
+known to influence
+how strongly genes are expressed
+用FindMapped G-tex data
+Alpha Genome improved the correlation
+between predicted and observed effect sizes
+from 0.39 to 0.49
+那 might sound like a modest change
+but in complex biological systems
+that's a significant leap in predictive power
+for predicting just the direction of effect
+whether a gene goes up or down
+the performance also improved substantially
+at a threshold giving 90% accuracy
+Alpha Genome recovered more than
+汶米 babies many know the QT 老藝
+as the comparison model they push this further into GWAS interpretation
+which connects genetic variance to diseases and traits.
+Out of more than 18,000 committee
+wass credible sets Alpha genome could assign a confident
+direction of effect to at least one variant in nearly half of them,
+Interestingly, the set it resolves don't overlap much
+with traditional statistical methods, meaning the AI
+is adding genuinely new biological insight rather
+than repeating what we already knew.
+The model also handles long range gene regulation,
+where enhancers far away from a gene
+still control its activity.
+Using CRISPR eEnhancer gene linking data,
+Alpha Genome outperformed previous models
+in identifying which enhancers regulate which genes,
+especially when those enhancers are located
+tens of thousands of bases away.
+Its performance was almost as good as a model
+that was specifically trained for this one task,
+despite Alpha Genome being a general purpose system.
+Polyadenalation is another angle.
+毫不 being explicitly trained on polyadenylation data,
+Alpha Genome still captured patterns of alternative polyadenylation
+through its RNA-seq predictions.
+On benchmarks, it significantly outperformed previous models
+in predicting how mutations affect where RNA transcripts end.
+For chromatin accessibility and transcription factor binding QTLs,
+it again beat both multimodal and specialized models.
+In some datasets, the correlation between predicted and observed
+這種性能的改善效果是非常高的
+而在Cillico-Mutagenesis
+經常表明了
+改善相關的改善
+聯合的DNA-Binding 因應
+維修的特質的改善
+最有趣的一個案例
+是Tal1-Ancogene
+在T-Cell 耐性裡面的
+许多新的组合器都知道
+可以发生新的组合器
+使用TAL-1的表现太高
+Alpha Genome 估计
+在这些组合器的网站里
+有达到TAL-1的
+组合器的组合器
+和TAL-1的组合器的
+组合器的组合器
+将组合器的组合器
+和组合器的组合器
+分辨的有多不同的
+在Cillico 莫德纳斯
+表示了一个MYB 组合器
+B binding motif, which matches previous experimental findings.
+That's the kind of deep mechanistic insight you normally only get after years of lab work.
+They didn't just show performance numbers, they also dissected why the model works.
+Studies showed that training at single base resolution
+really matters for tasks like splicing and accessibility.
+Having the full 1 megabase context improves results.
+And shortening the context at inference time hurts performance.
+讀者计算者的计算者
+可以选择或打开
+一般的计算者
+并且比较便宜
+计算者的计算者
+继续出现计算者的计算者
+尤其是在计算者的效果中
+有些效果
+非常远的效果
+比较难以预测
+体育的特征
+计算者的效果仍然是
+在继续的效果中
+有些效果
+像一种基本的步骤
+一模式
+一条计划
+千万的功能和技术
+和每个各种计划的
+每个各种计划的
+每个各种计划的
+每个各种计划的
+研究者在计划中
+DeepMind也成为
+一个API的
+Python SDK
+和一种植物系统
+所以计划人
+可以用它
+不过只是在训练它
