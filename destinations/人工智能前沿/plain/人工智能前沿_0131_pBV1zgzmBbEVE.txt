@@ -1,0 +1,985 @@
+我是 Alex Cantra, and I'm joined today by a special guest
+Demosis Abis, CEO of Google DeepMind.
+Demosis, welcome back to the show.
+Right to the end.
+A year ago, there were real questions about whether AI progress was
+tailing off. It was in fashion to ask whether
+LLMs were going to hit a wall.
+And those questions seem like they've been settled.
+There's been a tremendous amount of progress over the past year.
+Can you tell us what specifically has happened,
+從那時候的問題開始
+從我之前的問題開始
+到今天的問題
+我們是沒有在問這個問題的
+但是要清楚
+我們都經常看到
+有很多的改變
+所以我們有點被問
+為何有這個問題
+在空中
+我們有些人擔心
+資料運作的問題
+還有一些事實
+在於所有資料都用了
+是用來學習的
+但其實你能更加多
+有更多的資料和資料
+所以我認為有很多的資料
+我們仍然看到
+在 both the pre-training
+the post-training
+and the thinking paradigms
+and also the way that they all
+kind of fit together
+所以我覺得有很多的資料
+just with the techniques
+we already know about
+and tweaking
+and kind of innovating
+on top of that
+好, Here's what a skeptic would say
+對
+那有很多技巧在LLM上
+我常常聽到
+發展和設計
+和AI用作用處理
+去搜尋網路
+但不會記住它學習
+只要你關閉那一段時間
+它會忘記
+這是唯一的限定
+大型語言模式的 paradigm
+我認為
+我對這個想法
+是想要一或兩個
+更大的 breakthroughs
+前往AGI
+我想在學習的領域中
+會有更多的記憶
+更多的 context windows
+或更多的 efficient context windows
+會有正方式去講
+所以不要把所有東西都拖出來
+就把更多的 important things拖出來
+那就是更多的 efficient
+那就是更多的 efficient
+那就是更多的 long-term reasoning
+和 planning
+現在就看出
+有沒有興趣的技術
+或有興趣的技術
+我可能會在農業上推動
+但我認為不管你進入什麼農業
+我們會需要大量的基礎模式
+作為最重要的核心核心核心核心
+這我確定
+我不想要對某些人
+像Yan Lacoon 所認為的
+他們是某種死亡
+我認為他們的唯一討論
+是他們是最重要的或唯一的
+我認為是兩種選擇
+我們有一個大方的方式
+我們要有這樣的深入的
+和大幅度的研究
+我們可以在最高的地方
+用最高的力量
+將於現實的 paradigm 和想法
+我所說的計劃
+這也將於新的新的新的
+預算 特別是
+我們很強大的
+然後 新的 新的 新的 新的 新的 新的 新的 新的
+我們在過去十年
+over the last 10 years as Google and deep mind
+you know of course in cruising transformers
+can something with a lot of hard coded stuff
+ever be considered AGI
+no I think well depends what you mean by lot
+I think that that I'm very interested in hybrid systems
+is what I would call them or neuro symbolic
+sometimes people call them you know alpha fold
+alpha go are examples of that
+so some of our most important work
+combines neural networks and deep learning
+with things like Monte Carlo
+所以我想這可能是可能的
+我們在建築中用LLM
+用法律 方法 方法 方法去找新的知識
+我們需要一些東西 beyond 什麼
+有關的方法
+但是我認為學習是一個
+重要的部分
+AGI
+它是一個具體的
+我們說的 學習是一種
+我們想問 能否學習
+新的知識和能否學習在任何 domain
+這就是總部份
+所以我認為學習是有信心的
+所以一直是
+如果學習是有信心的
+這些模式還沒有能夠繼續學習
+像我剛才說的
+它有金魚的心
+它能搜尋網路
+然後它會說我能做到
+但它沒有改變模式
+我們會忘記了
+嗯, do you have a theory as to how continual the continual learning problem can be solved?
+solved and do you want to share it with us?
+i can give you some clues.
+We are working very hard on it.
+Um, we've done some work on, you know, I think the best work on this in the past with things like AlphaZero, you know that learn from scratch.
+Um, versions of AlphaGo AlphaGo Zero also learned on top of the knowledge it already had.
+所以我們做了更多的更優秀的領導
+遊戲當然會更容易
+比現實世界更艱難
+所以我們仍然看到
+這些技術的方式
+會真的將現實世界的問題
+將現實世界的問題
+將現實世界的問題
+但至少我們知道
+我們可以做一些
+非常強勢的事
+所以現在的問題是
+我們可以混合那些
+至少在我的 mind
+用這些大致的模式
+當然 致的模式
+是在學習中學的
+但我們會愛他們學會在世界上學習
+包括人類的個人體
+我覺得這會發生
+我感覺這就是一個很重要的部分
+建立一個很棒的助手
+是它能理解你
+而且它是你所做的
+這是你所做的技術
+我們剛才提出的第一種
+就是我們在上個月的個人體
+這是我們第一種的
+小孩步步
+但我認為要做更多的事
+就是要有你的資料在 context 中
+那你希望有更深的資料
+你認為它其實改變了模式 over time
+這是你對於的
+這個技術並沒有被制裁
+我們有提供了AGI 幾次
+所以讓我給你提供這個
+因為我跟 Sam Altman 說了一年
+我問他
+你好像說了兩件事
+我們沒有在AGI 但每次他說
+什麼GPT模式可以做
+好像是他的定義
+他說
+AGI is undefined
+What he wishes everybody could agree to was that
+we've sort of whooshed by AGI
+and we move towards super intelligence.
+Do you agree with that?
+I'm sure he does wish that.
+But it's no, absolutely not.
+I don't think AGI should be sort of turned into a marketing term
+or for commercial gain.
+I think there is always been a scientific definition of that.
+My definition of that is a system that can exhibit
+all the cognitive capabilities humans can.
+我意思是全都
+所以這就是
+我們在我們經常聚會的
+最高級的
+科技技術
+我們經常聚會的
+科技技術和藝術
+所以這並不是
+就是解決了
+科技技術或是
+同學技術
+而是進行了
+進行了
+進行了
+這比我們更難的
+不是在學術
+或是在科技技術
+或是在科技技術
+甚至像 Alpha Fold
+你也知道
+但其實是進行
+新的體育技術
+像 Einstein 做的
+跟生產的關係
+可以有一個系統來源
+因為我們可以做到
+人類最能力的
+人類的精神
+精神的精神
+可以做到
+歷史的
+同樣在藝術方面
+不只是建造
+什麼東西都知道的
+但也會建造
+Picasso
+或Mozart
+建造一個新的
+新的藝術
+我們從未見過
+今天的系統
+在我認為
+在我們身邊
+不論有多少
+有什麼問題
+你解決的問題
+有些人是因為
+我們做這些事
+但我覺得是很遠的
+從什麼真實的想法
+或像一個賴賴人
+可以做的
+你需要有一個系統
+能可能做到
+這些所有的想法
+然後在那裡
+我會加上
+physical intelligence
+因為我們可以
+擺放肌肉
+and control our bodies
+and to amazing levels
+the elite sports people
+walking around
+here today in Davos
+我們仍然是在用機構的方式
+作為另一個例子
+所以我覺得AGI系統
+會要做這些事情
+去實現最新的目標
+在AGI的領域上
+我們5-10年離開了
+我覺得如果有些事情
+可以做到
+那些非常有自信的事物
+但你認為AGI是個好…
+當然不是
+因為我們可以來自新的人物
+我們可以來自新的體育
+Einstein did, Feynman did, all the greats that more my scientific heroes, they were able to do that.
+It's rare, but it's possible with the human brain architecture.
+So, superintelligence is another concept that's worth talking about, but that would be things that can really go beyond what human intelligence can do.
+We can't think in 14 dimensions or plug in weather satellites into our brains, not yet anyway.
+But those are truly beyond human or superhuman.
+那是另一個話題要談的
+但當我們進入AGI
+我最近聽到你
+你真的驚訝我
+你問了我在Google DeepMind podcast
+這是一個很棒的聽法
+如果你有一個系統
+接近AGI
+我以為是 Gemini 3
+你叫Nano Banana
+是
+影像生產
+什麼
+你也要有這些玩意
+玩意的玩意
+但是你怎麼想像呢?
+像是AGI的相片生產
+當然
+像是相片生產
+但也像是我們影片生產的Vio
+是影片生產的 state
+我想更有趣的是
+從AGI的程度上
+你可以想像
+影片生產的模式
+可以生產你十二十二十二秒的
+現實的鏡頭
+是一種模式
+physical world
+有些時候
+我們會叫它 in physics land
+是一種
+讓我們有更多關於
+生物和物質的存在
+以及在世界上的生物
+我們可以發揮
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+我們要學會
+Motor mechanics and the causality of the world.
+And of course that would be I think essential for AGI
+Because that would allow the systems to plan
+Long term plan in the real world
+Over perhaps very long time horizons
+Which of course we as humans can do
+I'll spend four years getting a degree
+So that I have more qualifications
+So that in ten years I'll have a better job
+You know these are very long term plans
+That we we all do quite effortlessly
+And at the moment without these systems
+We still don't know how to do
+我們可以做短短計劃在一段時間
+但是我覺得我們需要這些類型的模式
+我認為如果想想在遊戲機構
+就是這個模式
+是遊戲機構在現實世界
+可以想像很多的傳統
+從目前的情況下
+進行完成一些任務
+就是這個模式
+最後
+我們的目標是
+為什麼我們在 Gemini
+開始做了一種模式
+可以與影片 影像
+And eventually converge that all into one model.
+That's our plan.
+Is that it will be very useful for a universal assistant as well.
+So, let's talk product a little bit.
+I watched the documentary, the thinking game,
+along with 300 million other people.
+There was something kind of interesting that happened there.
+Throughout the documentary yourself and some colleagues
+Kept pointing your phone at things and asking an assistant alpha
+What was going on.
+And I was yelling at the computer as I usually do.
+他说这人需要眼镜
+他需要眼镜
+对
+能够做到
+手机是错的
+你的 vision 为 AI 眼镜
+和 当时的 转发
+我认为你对
+这就是我们的结构
+很明显
+当你用这些东西
+做了这些东西
+当你看到的
+我们在拍摄
+你把手机
+保持在你手机上
+让你告诉你
+世界的真实世界
+很棒
+但是它是不一定是正式的
+因為你會想要做很多事情
+你會想要做一些烹飪
+或是在市場上問求
+或是指出推薦
+或是幫助在地區
+有很多用家的方式
+去幫助這些情況
+還有那些
+你需要一個手機
+而最重要的
+就是我們人們
+如果要用手機
+像我一樣
+是用手機
+但也許還有其他手機的
+我並不確定手機是最後的形式
+但這當然是明顯的
+下一形式的形式
+當然在Google和Alphabet
+我們有很長的歷史
+可能我們太早了
+但我認為我的考慮
+和大家在那裡工作的
+是幾個問題
+手機的形式有點殘酷
+在機器生活中的這些問題
+現在更少能夠解決
+但我認為這問題是失敗的
+我认为Killer App是一个纽约人士
+在你的每天生活中
+帮助你
+在你的电话、电话、电话上
+在你手机上
+在你手机上
+但也在你手机上
+走过的路上
+我认为它需要很伤心的
+每个层面都知道
+每个层面都明白
+我认为我们现在很接近
+尤其是我們GEM&I3
+我們終於有了AI
+能夠讓我們做到一個實際的事
+我們是最重要的項目
+我們在工作的
+我個人的工作
+是在做藝術的藝術
+我們希望
+我們做了一些很好的項目
+跟Walby Parker
+Gentle Monster
+和Samsung
+去建立這些新的藝術
+你們應該看見
+明天的夏天
+對 華為伯伯格 did have a filing that said
+that these glasses are coming out
+pretty soon this year
+對 而且是相當的相當的
+it depends how
+you know we're in prototype phase
+it depends how
+quickly that advances
+but I think it's going to happen very soon
+and I think it will be
+you know a category
+a new category defining technology
+given your personal involvement
+is it safe to say that this is a pretty important initiative
+yeah it's one well yes
+but it's I mean I you know
+I like to
+it's not just as important
+arts nor light spending my own time about something
+bout electric to be at the push them most cutting edge thing and and and that's
+offton the hardest thing and picking interim goals in giving confidence to
+the team and and also just sort of understanding if the timing is right
+and over the years I've been doing this the many in the decades now
+quite good at doing that so I try to be at the most cutting edge parts of
+I feel I can make the most difference there so things like glasses
+我花了時間在世界模特兒
+對,所以時間是正確的
+我們來談論網路
+當然
+是正確的網路
+讓我先說
+好,有些新聞
+我們在網路上有些新聞
+有些新聞有些你的參賽者
+有些網路上有些
+我看到的最有趣的東西
+在社交媒體上是
+有人說
+這些人是 nowhere close to AGI
+如果業務模式是正式的
+就不會是世界上的壞技術
+對 這是很有趣的
+我認為這些說話
+我覺得Action speak louder than words
+回到原來的說話
+我們跟Sam和他對話
+AGI在身邊的地方
+為什麼會跟 Adz一起合作
+所以這是一個很重要的問題
+但是我認為
+從我們的觀點
+我們沒有計劃的
+去做Adz
+如果你說到的 off
+對改變
+i think
+we are going
+obviously we're going to watch very carefully
+what's, you know the outcome of what
+chat to be tears saying they're going to do
+i think it has to be handled very carefully
+because the dichotomy i see is that
+if you want an assistant that works for you
+what is the most important thing
+trust
+trust and security and privacy
+因為你可能要分享你的生活
+和那個助手
+然後你會想要確保
+你正在工作的地方
+以及你的最好的興趣
+所以你必須要小心
+我認為有些方法可以做到
+但是你必須要小心
+那些不斷的消息
+不斷的進入
+然後讓人感到擔心
+這個助手要怎麼推薦你
+我覺得
+這就是一個很有趣的挑戰
+對,而且那是不需要的
+Sudar在最近的賣點中說
+有些想法在Google裡
+是對的,要如何來接受這個
+當然
+你如何來接受
+我們仍然在思考這個
+但是我覺得
+有些很奇怪的方式
+如果你想到
+瓦斯、電子
+有些其他貨品的模式
+所以會很難看得到
+我們沒有做出
+強烈的結論
+但這是一個
+需要很小心的想法
+I think you've given it but I'm just gonna do it one more time.
+I read before we met, Google has told advertisers in recent days from last year
+that it plans to bring as to its AI chat bot Gemini in 2026.
+No we have no current plans.
+That's what I can say.
+All right, let's just keep going through some of your competitors.
+Anthropic.
+ClodCo and ClodCo work have caused a tremendous amount of buzz.
+Region playing
+It is amazing to see what some people have done.
+I saw a post from an ex-Amazon executive who said,
+that he built a custom CRM in a weekend.
+Or actually a day and a half.
+Let's call it a weekend.
+What do you think about it?
+Do you plan to have an answer to it?
+It is very exciting.
+I think Qdos to Anthropics ministry.
+I think they built a very good model there with claw code.
+We are very happy with the current coding capabilities of Gemini3.
+有些東西像前後工作
+我用它在 Christmas to prototype games
+所以很棒,我又回到 Programming
+我愛整個Vibecoding wave
+我覺得它會開啟整個
+產品的空間, 設計師、創作人
+可能會有工作
+有關職位的職員
+現在他們可能會做
+更多的, 自己的
+我覺得會很棒, 當它
+我們在世界上,我們有更多的方式
+讓我們有更多的新的產業機會
+我們很高興在我們的工作中
+我們有更多的工作
+我們有推出了 anti-gravity 體能
+我們不可以完全服用
+所有的責任
+我們很難推出
+用作用作的程序
+但是我覺得有很多的
+他們完全不做模特兒、模特兒、世界模特兒
+他們只做了文字模特兒
+他們很很好的
+我們很高興在這方面合作
+還有給我們一個推動
+去進行我們的模特兒
+我們先說一下
+工業的AI
+我有一種想法
+如何讓這件事都倒閉
+我想要你去做
+這是三個步驟
+第一是那大型語言模式的訓練運作
+產生限制回動
+第二是那些 flash 模式
+像 Gemini Flash
+那些i-computing 作為搜尋
+第三是那些
+大量的生產行動
+成為了比較沒用的
+根據那兩種因素
+還有一個下跌的劈僱
+那是否有實際疑慮
+我覺得是有可能的
+我們仍然在聖餐園中
+在想如何使用它
+因為技術正在進行
+我認為有很大的能量
+其實是我們
+今天的模式
+也許我們也想
+建立這些東西
+不完全知道
+所以我認為
+我們看到的
+大量產業的
+產品的機會
+我們只是在 Google 開始
+開始搜尋
+現在其實
+正在內地
+我們會把這些東西放進去
+讓我們建造新的產品
+讓我們建造新的產品
+我們開始試用
+誰想做電郵
+我們都會愛這個
+這是我最好的重點
+我的工作
+還有很多例子
+等待會兒會發行
+網站和網站
+幫助YouTube
+我們現在正在搜尋
+所以我覺得有很多機會
+如果你說A.I. Bubble
+如果那是問題
+我還以為那是A.I. Bubble
+我認為是不錯的
+但我還是很開心
+因為我認為
+我的觀點不是賣肉
+我們在Bubble嗎
+不在Bubble
+我認為部分A.I. industry
+可能是
+其他部分我認為是
+有其他東西
+我認為一些東西
+你會看到
+10多億的賣相
+和一些公司
+基本上沒有產品或資料
+只是一些人來一起
+那好像有點不堪視
+在一般市場的市場
+另外我們
+我們像我們
+我們有很多的生產
+很明顯是
+A.I. 會增加
+能量或產品的利用
+然後我們看到
+如何在這些新的
+A.I. 產品
+像電子板, 眼鏡
+我相信會有很多市場
+但仍然有出現
+但從我的觀點
+在Google DeepMind的理念上
+我的工作是
+讓我們保持
+如果有一個問題
+如果有一個問題
+如果沒有一個問題
+我們會繼續贏
+我們是很穩定的
+在某個情況下
+我們會在某個情況下
+對
+在某個情況下
+我們會在某個情況下
+或者在某個情況下
+或在某個情況下
+在某個情況下
+回到想法遊戲
+說到這個方式會影響經濟
+我開始感覺到
+是否有個疑惑你的技術
+李希多
+OK
+是否有個疑惑
+當然
+這個男人
+他玩星星
+打你
+但是
+發現
+這基本上
+是人與機
+現在我們都在這 all up
+在某種方式
+這東西
+將會進行知識工作
+嗯
+I thought you were meeting our AI competitors
+them I'm okay with, I don't feel sad about that
+no no sorry
+so a relentless progress of AI
+you mean the gamers
+yeah sure
+you made me feel bad for gamers
+you know
+but I wanna ask about this
+we're gonna have the same situation
+with knowledge work
+that these these models that
+performed adorably against the world's best
+darkcraft and go players
+are now starting to do our work
+and are we gonna end up in the same position
+well look, let me
+你把遊戲作為一個例子
+讓我們看看在遊戲中發生什麼事
+我們有 had chess computers
+Bella 從我當年
+我當年是小孩
+我當年是 Gary Kasparov 當年
+他們沒有經常有 AI 系統
+但他們是深藍的
+Chess 更有趣 than ever
+沒有人有興趣
+在遊戲中玩遊戲
+我們有興趣
+在 Magnus Carlson 玩
+其他世界上的上級遊戲
+有興趣的
+Leon Go
+他是世界上最好的遊戲玩家
+是在南韓
+他在 2015 年
+我認為在中二二十年的時候,
+他在比賽中已經變得更強烈的比賽者
+他在比賽中已經變得更強烈的比賽者
+因為他學習了
+年輕的時候
+他第一代
+學習了
+學習了
+他應該會更強烈
+比賽後來更強烈
+所以,我們還是
+享受星球,還有
+其他遊戲,我們享受
+人類的活動
+我們仍然愛100m的比賽
+雖然我們有車子可以更快速進去
+但是我們沒有…
+那是一個不同的東西
+對
+所以我們有永遠的能量去進行
+和發展在我們的技術
+為什麼這樣?
+因為我們是總統了
+我們是AGI的系統
+我們譬如我們 are artificial with general systems
+我們是直接的
+我們都能用作勸學
+我們是來做供應
+闊物 這是我們的人
+是來促進
+我們可以讓供應
+用戶促進
+包括生產
+當然AI
+being the ultimate expression of computers
+這都從我們人生中
+鐵路運成的
+總體生活
+對我們來說做的 簡直不錯
+我們能把
+我們看到的現代民主
+我們在今天
+我們在談論
+事情像AI
+你也知道
+science and physics
+這些東西
+對
+我認為我們會再次搭配
+但有一個重要的問題
+其實
+在經濟上
+我們知道的
+工作的意義
+是為了目的
+因為我們有很多
+意義和工作的意義
+我當然也知道
+從事學業
+所以
+我們知道
+當很多工作有關
+我認為
+我已經在想
+我們新的
+fi Josephas Ashley and it will be a change to the human condition
+but I don't think it necessarily has to be worse.
+I think we've Slide the Industrial Revolution,
+Maybe 10x of that,but we have to adapt again.
+and I think we'll find new meaning in things and we do a lot of things
+already today that are not just for economic gain.
+you know,art XTream sports,polar explorationmany of these things
+and maybe we'll have much more sophisticated esoteric versions
+那些東西在未來
+OK 兩分鐘左右
+我還有兩題
+我不知道我們會跟他們說
+當然
+讓我問一個我想知道的答案
+最多的是
+在最近的問法中你提到
+你有個理想
+資料是最重要的
+領域
+不是能量
+不是理想
+資料
+是怎樣
+我看你如果看能量
+我不知道會不會蓋這兩分鐘
+但是在能量、能量、能量
+而且有些人會認為他們是比較有意大利的
+但是我認為資料是最適合理解的
+所以我們在於科學和生活系統
+我們是資料系統所在於靠著體育
+我們在於在於我們在於
+我們在於一個狀況的狀況
+我認為你能看到
+在一個大量的體育上
+所以,不僅僅是藝術,但還有東西像山、星星、星星
+他們都已 subject to some kind of selection pressure
+並非大維尼亞的俄語,但有些 kind of external pressure
+而他們已經被 stable over a long amount of time
+這件事的意思是,那些資料是 stable and meaningful
+所以,我認為,可以 view the world in terms of its complexity
+資料 complexity
+我認為我們做的很多事情
+因為我們有 AlphaGo 和 AlphaFold
+特別是 AlphaFold 為了解決所有的 protein 肺炎
+所謂的科學
+我們做的這樣
+是因為有幾個數量
+在肺炎的可能性中
+都變得很穩定
+那些是你找的
+你需要明白那些肺炎的訊息
+那些訊息 訊息 跟隨它
+然後這些問題突然變得很難看
+因為你會發現腰臟和腫臟
+其實會變得很慘
+如果你明白
+能量或資料的資料
+這就是我認為
+最終會把最多的病毒
+和新的藥物和新的材料
+新的超級導體
+以 AI 幫助我們
+把資料的資料都納入
+Dennis 之前我們走
+我想跟這個說話
+或者可能
+先說這個大問題
+大問題在最後
+在想法遊戲
+說到 健康和AI
+如果 there is this moment where
+there's a discussion in the lab about whether to release the results of alpha folds
+and you kind of sit there abundantly and you're like
+why are we going through a process
+release it now
+talk a little bit about the lesson
+from there.
+yeah well look we started alpha fold to crack
+a unbelievably tough scientific challenge
+50 year ground challenge of protein folding
+and protein structure prediction
+and the reason we worked on that
+and the reason we put so much effort into it
+is we sort of thought there was a root node problem
+如果我們可以解決這件事
+然後將這件事放在世界上
+我們可以做出
+非常不可言之的影響
+在人體健康和理解的科學
+但是我們作為團隊
+不管我們有多有技巧
+我們只能把我們
+調整到一個小的小量
+能夠在我們自己的身上
+是很清楚的
+所以
+在這個情況下
+這就是我們要做的事情
+要增加這個世界的利益
+把這件事放在世界上
+是在世界上三百万的研究研究中
+使用各种各样的药物
+在未来的一切
+我们将将用到
+某些药物的方式
+这就是我们的活动
+我还曾发现
+你告诉我如果我错了
+是一个小的
+大大的大型
+大大的研究
+我们将将用到
+某些药物的方式
+我们将将用到
+小型的AI組織
+在大公司上喊
+我們把這件事剪掉
+剪掉了
+對 可能
+但是我們有很大的支持
+從Google開始
+而我們加入了
+FORCE 由於Google 到2014
+Google 自身是
+科技研究研究研究
+科技研究的公司
+一直有
+而且是很重要的
+所以我們有
+科技的方式
+科技的方式
+那種想法的 approach
+那種正常的 approach
+在我們所有的工作中
+所以, 當然
+他們會愛上某些東西
+像 AlphaFold
+好, 這裡是一個大問題
+最後一題
+你建立 AlphaGo
+訓練了
+遊戲遊戲的遊戲
+在人類的知識中
+然後, 當你開始
+遊戲的人類程度
+你會讓它變得
+比較軟
+有一個遊戲叫 AlphaZero
+然後, 開始做一些
+你永遠不可以想像的事
+做新的 circuit 類型
+那種驚喜的事
+可能有些人會來時
+LLM或某些人的方式
+會達到一種學歷
+同樣的知識
+會發生什麼事
+當你讓它變得更軟
+可能會做到
+一樣的事
+像Alpha Zero
+我覺得很興奮
+這對我來說
+會是AGI的一刻
+然後它會找到
+新的超過程序
+超過程序的測試
+這可能是法律的
+但我們沒有找到那種紐西斯坦
+或新的能量 新的方式
+去建造新的機構
+我想這些東西會變成
+不只是可能 但也會發生
+我們要找到的系統
+首先要有人類的知識
+然後有些技術
+可能會需要幫助
+建造一些技術
+但像 AlphaZero
+會讓它進行新的行動
+那種 idea of it
+像是在旁邊的天氣系統
+就像是在那裡
+對 沒錯
+好 非常有趣
+鄧小平 謝謝你
+謝謝
