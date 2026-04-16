@@ -1,0 +1,1562 @@
+謝謝你們來臨
+我們開始想想
+將來的新的工具
+以及我們將使用
+這些很強大的模式
+開始進行網路
+我們想聽聽你們想想
+你們喜歡的
+你們的想法
+回答任何問題
+但是我希望我們今天
+有更清楚的感覺
+如何建立
+還有如何使用
+這些很強大的模式
+更好
+我明白會開始
+有一個問題在 Twitter
+Where do you fall in the Jeven's paradox of software engineering?
+If AI makes code dramatically faster and cheaper to create, does that reduce demand for software engineers?
+Or does cheaper custom software massively increase demand and keep engineers employed for decades?
+I think what it means to be an engineer is going to super change.
+There will be probably far more people and creating far more value and capturing more value that are getting computers to do what they want.
+在用手機去做其他人的工作
+想找方法去做這些方式的使用
+但是
+這個工作的形式
+在你花的時間
+像是用手機的程式
+或是用手機的程式
+或是一些其他東西
+會變得很大
+這也有很多次發生了
+在工程中
+每次發生的
+至少這麼久
+更多人都能參與
+和在世界上的產生
+變得更多的軟件
+需要軟件的需要
+不斷地慢慢地發展
+我相信在未來的解釋中
+很多人用了一種軟件
+用了一種人的軟件
+或是一位很小的人
+我們經常在自己的軟件上
+所以我認為很多人
+會用手機去做
+他們想做的事
+而它會變得
+非常不同的方式
+如果你用那方式
+作為軟件
+我認為會變得更多
+我認為大部分世界的GDP會變成這樣
+和減少這樣
+有任何問題嗎
+不然的話,我們有一個長期的題目
+首先,我要感謝你
+給我們這個機會
+來問你這些問題
+從一個減少的 standpoint
+我用了GDPT 非常大
+我經常在網上看到
+每個人在建築
+使用 Codex 和 cursor
+但這好像是新的問題
+就是GTM
+我可以建立這些東西
+但我如何找到人們
+能夠取得價值
+我看到這東西是一杯酒
+我非常興趣
+我以前也曾經走過Y-Combinator
+每個最有趣的東西
+你會聽到的
+我認為最難的
+是建立了一家
+最難的是給人們照顧
+或利用
+所以我認為這東西
+但是現在已經很難了
+現在已經很容易建造
+你感覺到的更多的Delta
+我沒有很簡單的答案
+我認為
+經常已經很難建造
+而是想要建造
+分析的方式
+去獲得市場的效果
+我覺得
+所有的舊的規則
+仍然存在
+因此
+AI可以
+讓它更容易建造
+其他東西都不容易
+但我認為你開始看到
+同樣的方式
+AI發展的軟體技術
+人們現在用它
+去發展銷售
+發展銷售
+還有一些成績
+但我認為
+會很難
+因為
+世界上有很多的
+人類的關注
+人類的關注
+就像這個非常之 limited thing
+所以你會一直在
+在其他人中
+在其他人中
+去發展銷售
+又 and figure how to get the distribution in every potential customer
+is busy and everything else.
+So you know, I could tell a version of the future where all of the radical
+abundance comes true.
+And human attention really is like the remaining commodity.
+And so I just expect this to be hard.
+And you gotta come up with creative ideas and build great things.
+Thank you, Sam.
+I'm George.
+I'm a solo developer
+我建议在Codex SDK
+我建议一个方式去计讯 multiple agents
+我问你计讯建议的技术
+和你的质疑
+为哪个计讯建议的技术进行
+现在就像是
+工作室和交通计讯
+但我问你
+计讯建议在Codex SDK
+我安全吗
+你看到计讯
+有很多不同的類型的網路
+有很多的網路的網路
+或者你看到
+Obenaya的網路上有什麼樣的
+沒有 我覺得
+我們不知道
+這個對於所有的網路
+會是怎樣的
+我們不知道
+大家是如何使用
+我們看到人們
+建造了很多網路的網路設置
+我們看到人們
+建造了一個
+非常棒的
+一個網路的網路
+我們不會想要這個想法
+而不是每個人都會想到這個
+那些人會像那些老電影
+有30個電腦的畫面
+他們在看這個瘋狂的東西
+在做這個 拍攝這些東西
+我認為那些人會想要
+在很輕鬆的談話中
+在聲音模式中
+他們在說什麼
+在電腦上的話
+他們的電腦不太想
+他們在想什麼
+但是他們不想像是一個常識的
+數量的經濟
+像很多其他東西
+人們只要試不同的方式
+看他們喜歡的
+世界可能會沿著
+一些的方式
+但我們不會想出他們的方式
+我覺得建立的方式
+能夠讓人們
+能夠做到的
+非常能夠的模式
+是一個很好的想法
+但是我相信這一點
+是完全不在乎的
+這些模式的 overhang
+是能夠對於
+很多人的想法
+想想看如何解決
+他們的想法
+是很大的
+而且
+有人會建立
+一個圖案
+去幫你建立
+但沒有人有建立
+我們也會試試
+自己的版本
+但這就是
+一個地方
+好像有很多人
+在不同的場面
+如果有任何東西
+你喜歡我們建立
+讓我們知道我們可以試試
+我會試試
+Hey Sam, I'm Valerie Chapman
+and I'm building Ruth on OpenAI
+I would love to know your thoughts on this
+because currently women actually leave about a million dollars on the table
+due to the wage gap
+and I'm curious how you think AI can be used
+to solve economic gaps that have existed for decades
+I think the good news
+well there's like a lot of complex news
+但我認為最好的一件事
+是AI會變得非常不平衡
+我回到這方面
+因為你能想像到
+一些奇怪的事在世界上
+在自行處理的資料中
+或什麼的
+但
+它看起來
+一定是進步的
+在工作中進行的
+在網上的 computer
+但也看起來
+會很快發生
+一些東西的
+我們會有很不平衡的
+在經濟上的壓力
+我認為這是最好的
+因為有些東西會被淘汰
+但事實上
+越來越貴
+而在社會和政府的政策中
+會變得更加的貴
+而在社會和政府的政策中
+會變得更加的貴
+例如建築房屋
+和新加坡等
+我預期會變得更強
+和更快
+人類人類的
+或許社會
+在他们的能够帮助一些的方法
+应该是向上升
+我仍然觉得这些对归不容易
+正如我们刚刚说的
+归了百万或百万的策略
+你会成为新的一部转发
+它会帮助一些新家伙
+是非常非常容易成为新的一部转发
+這很難去改變
+至少我的手在這方面
+做了這個變化
+這應該是一個非常強烈的事情
+更加的凡事
+更加的低價值
+可以創造新的東西
+新的公司
+找新的資料
+我覺得這應該是
+一個平衡的社會
+和一些人 who have not gotten treated
+的那 fairly get a really good shot
+as long as we don't screw up
+的那 policy around it
+in a big way which could happen
+我一 am worried that
+你可以你 can imagine world
+in which AI really concentrates
+power and wealth
+and that feels like
+needs to be one of the main
+goals of policy for that
+not to happen
+Hey my name is Ben
+Highlack
+I'm the CTO of a company
+called Raindrop
+I'm curious as you look
+into the future
+你認為是怎樣的模式
+在於專業的模式
+或是在於傳統的模式
+所以
+一個例子是
+GPT 4.5是第一模式
+我認為是很好的在寫的
+我記得在看《The Outpost》
+我認為這是很好的在寫的
+有很多推特的概念
+還有最近的Twitter
+還有GPT 5的寫法
+在寫GPT
+是有點無聊
+很難去看
+當然GPT 5
+是一個更好的
+優秀模式
+很好的用途
+或者是一些不合理的理由
+所以感覺上
+模特兒有點偏向
+或是他們的偏向
+一些偏向的配置
+有很高的偏向
+或者是很偏向的
+所以我只是在擔心
+如何開放AI的想法
+我想我們只會把這關注
+我們會做
+未來版本的5.X
+希望更好寫得更好
+於4.5
+我認為這是一個好的原因
+在5.2的項目中
+將其做得非常好
+在科技、工程、技術等
+上升的5.2項目中
+將其做得非常好
+我們有限定的項目
+我們有限定的項目
+我們有限定的項目
+但是我相信
+未來會是
+非常好的大部分
+的研究
+即使你正在
+burden
+make a model that's really great at coding
+e'd be nice if it writes well too
+if you're trying to have it be able to generate
+a full application for you
+you'd like good writing in there
+when it's interacting with you
+you'd like to have a sort of
+thoughtful and decisive personality
+and communicate clearly
+good writing in a sense of clear thought
+not beautiful prose
+so my hope is that we just push
+to get future models really good
+in all of these dimensions
+我們會做到的
+我覺得intelligence是一個
+非常有趣的東西
+我們可以很快地
+做這些事在一個模式上
+這好像是一個
+特別重要的時間
+去推動
+我們叫做
+科技和intelligence
+但我們會嘗試
+把所有東西推出
+我會做幾句話在 Twitter 後
+開始吧
+我是CTO
+這家公司叫Unify
+你剛才說的,我們做的,經營商業,產業,
+成員,我們想很多,花了很多時間,
+是經常經營,像這類的,
+優惠經營,你所說的,
+我真的有興趣的,
+是,超過高能量的,
+限定的因素,
+我們要經營,
+數量,數量,數量,
+數量,數量,數量,
+數量,數量,數量,
+數量,數量,數量,
+數量,數量,數量,
+數量,數量,數量,
+數量,數量,數量,
+有些大小的負擔
+在下一個月或年來
+會有四個發展的資源
+我們應該能夠
+把
+GPT 5.2
+高度的高度
+在
+2027年
+我們想給一個更好的
+我可以給一個
+誰想給我們
+我會說
+100x 少
+但是
+另一種 dimension
+我們沒有想到的
+是這麼歷史的
+現在的模式
+變得這麼難
+更多人
+推出我們
+能夠把速度
+推出的速度
+比起貨
+我們很快
+在推下的貨品
+能夠看出
+我們從
+第一個一項 preview
+到現在
+我們沒有
+想到
+我們把速度
+在100%的價格上,也許在100%的價格上
+我認為很多東西你提到
+人們會想到的
+我們要想到如何分析
+這兩件事的挑戰
+他們的問題很不同
+但我們想要推銷貨品
+我們想要推銷貨品
+我們可以走很遠的那一步
+讓我做幾個
+Current interfaces weren't built with agents in mind,
+but were seen to rise in apps I built for me.
+While innovations and customized agent interfaces
+could further accelerate the trend towards micro apps.
+Yeah, so this is one that I have noticed in my own
+use of codecs recently is
+I no longer think of software as this static thing.
+If I have a little problem,
+I expect the computer to write some code right away
+and get it solved for me.
+我相信这种选项会更加快
+我相信整个我们使用的设备和制作系统
+将会改变
+我认为每次需要在新的设备和制作系统
+新的设备和制作系统
+将会在这里写出来
+因为我们很准备用我们的面团
+而且很重要
+这张照片在我们的前一段时间
+但是
+我们做了很多其他事情
+我認為我們會想到
+我們想要使用軟件
+才能夠使用
+我們想要使用
+每次使用同一句語言
+但我還會有
+一堆重複的語言
+我喜歡軟件
+更加的常識
+軟件是一種
+不一樣的軟件
+但我認為
+我使用的方式
+是更不同的方式
+那些技術的經驗是一直在發展
+和我們正在發展
+這就像是會發生
+而且在開放日期內
+大家現在很快地
+把Codex的工作程式
+改變成了
+大家有自己的
+小小的貢獻
+和用東西非常不同
+這就像是
+一種
+我認為這是
+一個很好的方向
+去建造
+然後想不想那樣的東西
+看起來可以讓人們做得很棒
+如何讓建設人們想起
+當建設人們的優點
+可以趕快地去改變
+這是什麼一層
+你不願意吃的一層
+你不願意吃的一層
+我們談到這件事
+比較早前
+它們很想想
+那些法律的法律
+完全改變了
+他們還未改變
+他們還未改變
+但現在的改變
+You can do it faster and you can create new software way faster
+But all the other rules of building a successful startup
+You gotta figure out a way to get users
+You gotta figure out a way to solve the GTM problem
+You gotta figure out a way to provide something sticky
+Have some sort of mode network effect
+Competitive advantage whatever you wanna call it
+None of that has changed and the good news is like
+hasn't changed for us either.
+So there have been many startups that have done things that maybe in a perfect world
+we would have done sooner, but it was too late, and people built up, you know, a real durable advantage,
+and that will keep happening.
+I...
+The general framework always give people, when they ask something, some version of this question,
+is will your company be happy or sad if GPT6 is like a wildly impressive update.
+我希望大家可以繼續做很多的進步
+我希望大家可以試試建設一些東西
+讓大家希望模型的方式變得更好
+還有很多東西可以建設
+然後還有一些小的圈子
+這樣其實可以做到
+如果建設了足夠的方式
+才能讓模型更新
+但它是一個更困難的方式
+我們再做一個,我們回到房間
+realistic timeline for agents that can run long workflows autonomously without constant human intervention
+given that even simple on-chain tasks often break after 5-10 steps
+anybody from open AI want to give an opinion on that?
+go ahead
+I think it really depends on the kind of tasks
+so there's a number of tasks today we're just inside open AI
+we see people who are like prompting codecs in a very special way
+maybe they're using the SDK so it's like a custom harness that keeps prompting it to continue
+但它们基本上会一直在连续走
+所以我觉得这不是问题在哪里
+但是问题在海外的拆备
+如果你有一个非常具体的问题
+你明白的非常好
+尽量今天做
+如果你开始想
+我希望能让我
+能够建立一个充分的模式
+这就是一个更多的
+拆备问题
+以更加的确确诊
+所以我会鼓励你
+想想
+我能否把这点
+进入一个不同的问题
+让人们能够诊明自己
+然后我能证明最后的结构
+然后我们可以让公司更多
+与其他工作
+有其他问题吗
+嗨 三姆
+我想回到
+人的关注
+还有这问题是GTM
+我认为其他方面
+人的关注是
+在质量方面的
+质量方面的
+在制造方面的
+建造方面的
+是理想方面的
+我只是想提醒你
+我花了很多時間在公司和GTM幫助
+AI的公司
+而有些公司不太值得
+他們的注意力
+所以我猜到他們的技術
+如何能夠改善
+他們的理想和理想
+有很多…
+有些人叫AI出售
+但有很多人叫人
+在世界上
+很難得到
+好新的理想
+而我們認為是我們想的限制
+的一切
+我想我們應該要
+建立一些方式
+讓人們能夠提供好的想法
+我相信很多
+我相信是
+我們可以有這種
+強硬的信念
+能夠有這種
+強硬的信念
+在他們的試圖中
+我們會找到
+最好的信念
+而在
+A.I. can discover new science in addition to writing very complex code bases.
+I feel confident there will be just a whole new possibility space,
+but the experience of sitting down in front of an AI,
+you know, like a genetic code writer,
+and just not being sure what to ask for next,
+is something that a lot of people report,
+如果我們能建立技術
+我們可以建立好建議
+我們可以做到的
+我們可以看整個過去的工作
+整個過去的程序
+想想想看整個過去的程序
+我們可以繼續提供
+如果我們能夠幫助
+我們可以做到的
+我們可以做到的
+非常棒的投資
+我曾經有三、四個人
+我每次都會跟他們一起訪問
+我會跟很多人討論
+他們很擔心問問題
+或給你建造的資料
+然後
+Paul Graham 會很驚訝
+如果我們可以建造Paul Graham
+那你能有同一種交流
+幫助建造新的構思
+即使他們是壞的
+甚至你不想說95% 還是100%
+我覺得這會是
+很大一個 contribution to the amount of good stuff
+that gets built in the world
+而模特兒的資料
+都必須能夠
+5.2% 像一個特別版的5.2%
+我們用的內容
+我們現在第一次聽到科學的學生
+這次的科學進步是沒有更多的超級
+我只能相信這次的科學進步
+是沒有更多的科學進步
+是沒有更多的科學進步
+是有更多的困難
+是有更多的科學進步
+是有更多的科學進步
+Haddy,我是Theo
+DevYoutuber,YC的副副
+也想問一下Paul Graham
+但是我看起來比較不同
+在技術方面
+我真的愛當技術
+像我們使用的建築物
+我曾經在網上
+發生一些神奇的事物
+例如在紙巾上
+寫了一些東西
+一種我擔心的事物
+就是我們使用的
+技術的模式
+我們可能會被
+現在的東西
+被困在美國的
+能力量
+造成的方式
+讓我們不能改變它
+我們看到這個可能性嗎
+算一搭立基本功能
+的话就像 radiations
+但那么
+我私自身
+所当然
+还会
+到这个耐着
+按照
+然后
+这样
+能方号
+应该
+从
+一个
+一个
+一个
+一个
+一个
+一个
+поз认
+这个
+那个
+很
+特别
+这两个
+不知道
+就是
+一些
+我們對這類型的研究系統
+正在進行
+我們現在的建築方式
+也有很多的世界學習
+建造成的
+但是
+我們認為我們在正的方式
+進行
+我希望
+更新的技術
+更快地學習
+更新的技術
+更快地學習
+更新的技術
+更快地學習
+是
+我們接下來的
+幾個年來的
+我們會
+我們會很擔心的
+是當模特兒可以
+展現出新的技術
+新的環境 新的技術
+你可以解釋一下
+你不明白 解釋一下模特兒
+可以解釋一下
+然後用這個模特兒
+超級有趣
+這不太感覺到
+對不起 我有一個問題
+你已經提及過
+但當作是學生
+和正式的年代
+當你進行一個學業的項目
+它會發展很多的想法
+去做更多的研究
+所以它們是充足地在增加
+雖然有學者
+但它們只能有
+一段時間內的減少
+所以這就是
+很厲害的
+如何把這些技術
+進行的進行
+但我們都會想更多
+你提到這件事
+但你認為
+在未來的方式上會有更新的方式
+可以想像一下
+會有更新的方式
+會讓我們找到更新的概念
+若果有那麼多的概念
+我們會找到更新的方式
+或是世界模式
+或是那種東西
+我认为这些设计还在多远近的
+上半步的方式
+是从模式上
+完全跟完全的
+数据上升的
+并且设计在一部分的位置
+我们可以看出
+像研究所说的
+那个人不需要转弯
+或是在任何方面的体系
+您可以认为
+非常有效的
+如果您继续地
+计较模式
+甚至还在那里
+Mathematicians who are making the most progress with the models
+are very heavily involved in looking at intermediate progress
+and saying, eh, this just doesn't feel right, you know.
+I have an intuition that there's something different on this other path,
+but I've gotten to meet a few mathematicians who now,
+say their entire day is collaborating with the latest models.
+They're making rapid progress,
+but they do something very different than the model.
+我認為這段時間的歷史
+在深藍色的柱子裡
+有時有時
+說 因為AI是更好人類的
+但在人類的選擇
+是選擇最好的10個動畫
+AI是更好人類的
+很快就知道
+AI是更好人類的
+所以我認為
+我相信
+我所想到的一些東西
+像很多學習的東西
+應該會發生在時間中
+東西會變得那麼難
+讓AI能夠理解
+更多人能做的事
+更多人能做的事
+但是
+有些東西
+是
+創意
+承認
+我們沒有
+跟現在的修正
+和修正的修正
+我肯定不能跟任何主要的原因
+為何我們不會在這裡進行
+所以我相信我們會
+但是今天
+我不會覺得說
+就是說
+GPT-6去解決貿易
+那肯定不會出現
+幾個很好的人
+去解決貿易
+然後說
+OK 這個是一個好的方式
+這個就是
+我們可以確認
+我們可以說
+你做了一個很好的證明
+把這個放回到訓練中
+還有一個其他事情在發生
+在於
+你解釋了一個問題
+然後它會發生很多新的問題
+那是很酷的地方
+去談論科學的學生
+他們很常用這個
+他們會用很多GPUs
+但是
+我覺得有新技能
+可以說
+這裡有20個新問題
+然後我會
+做一個休息搜尋
+我不會再說了
+我會說
+我會做一個休息搜尋
+我不會再說了
+我會說
+我會做一個休息搜尋
+我要 deep on anyone and i'm going to use the AI to like be unlimited grad students is how someone described it.
+I actually recently upgraded them to unlimited postdocs.
+In terms of automating physical science,we go back and forth a lot about whether we should be building automated wet labs for every field.
+which we are open to doing
+or if the world as a whole will figure out great experiments
+and has a lot of equipment
+and we will happily contribute data back in
+It sort of seems like just watching the scientific community
+embrace 5.2 and how much they have been willing to help
+that that might work
+and that would clearly be easier, better,
+more distributed, more smart people,
+more different kinds of equipement world.
+Hi Sam, my name is Emmee
+I'm a Stanford student
+我认为是大学生
+所以在你的谈谈
+认为许多学生
+和像是 Cloud Lab
+这些地方
+我团队花了很多时间
+想想到
+能否保留
+大学生担任
+技术科技
+但是也许
+我们可以使用
+技术科技
+使用技术科技
+所以我的问题是
+哪里能保留
+这条126的路程
+和
+大陆
+你认为
+哪里有这些问题
+大陆
+Biospecifically
+either preferably biosecurity
+there are many ways AI can go wrong in 2026
+certainly one of them that we are quite nervous about is bio
+the models are quite good at bio
+and right now most of our and by like our
+not just opening eyes the world strategy
+is to try to restrict who gets access to them
+and you know put a bunch of classifiers
+並不讓人做創作
+我想這會更多工作
+還有
+我認為世界需要做的
+以外的保安局
+在特別的
+保安局
+是從一種
+阻撓到一種
+我的 co-founder 惠卓
+我喜歡的
+是一種火燒
+然後就開始燃燒市場
+我們都試過做這些事情
+去判斷火
+我剛才在這星期一學過
+是來自
+你不可以燃燒市場
+因為他們是燃燒市場
+然後我們就更加有
+燃燒的效果
+我們用火箱
+和火燒的材料
+很多其他東西
+現在我們都很好的
+在社會上
+我們應該想到A.I. 同樣
+AI是一個真正的問題
+以為是用自然的問題
+AI是一個真正的問題
+以為是用智慧的問題
+AI是一個解決方式
+也是解決了很多其他問題
+我認為我們需要
+一個社會的領導
+不需要
+去提供這個建築
+而不是
+我們相信的
+我們要相信
+他們的建築
+我們會有很多好模式
+我們在談論很多的
+科技研究者和公司
+關於能夠和我們合作的
+新的行動
+我想有很多人
+有興趣在這方面
+有很多人在報道
+AI其實好像很幫助
+但它不會是一個
+完全技術的方式
+你會需要世界
+去想起這些東西
+更加不同
+我非常批判
+我看不到其他方式
+而是在資源化的方式
+所以我對於
+我對於我對於
+我對於
+我對於
+我對於
+我對於
+我對於
+我對於
+我對於
+我對於
+我對於
+Hi my name is Magda.
+My question is kind of related to human collaboration in the sense that when we're talking about AI models improving and stuff like that,
+they become really good I think for learning topics or learning subjects really quickly on your own.
+And that's something that we explored in the chat to be in education lab and we should have really valued and I appreciate a lot.
+但我常常找到自己的目標
+是其他人和人的合作
+如果你可以回答你的手段
+你為什麼要拿時間和免費
+問問其他人
+這也有很多想法
+還有我想說的事情
+在這段時間 where you're just like
+all these AI coding tools
+they can perform the work of human teams
+at a much faster pace
+So when I'm thinking about like cooperation, collaboration
+and kind of collective intelligence output
+I know that human plus AI
+is a very powerful kind of avenue for that
+but what about maybe humans plus AI
+Yeah, if that makes sense
+Totally
+很多事情都在那裡
+我比較不太喜歡你
+但我還在中學的時候
+在Google的時候出現
+教授們嘗試讓孩子們
+不想使用這條路
+因為有這種感覺
+如果你可以看上任何的
+你的手段
+為什麼來歷史學校
+為什麼要記起任何的
+我知道
+嗯
+and
+it seemed to me totally insane
+and I was like
+actually I'm going to be way smarter
+and I'm going to learn way more
+and I'm going to be able to do way more
+and this is the tool
+that I'm gonna like live with as an adult
+and if I don't learn
+it would be crazy to make me
+learn something that assumed
+it felt like it would be like
+you know
+many decades earlier
+if you like made me learn to use an abacus
+even though you knew there were calculators
+because that was just like a
+important thing to learn or slide
+我從來沒有知道它是怎樣的
+但它不是一個值得學習的技術
+我認為同一種方式是用AI的技術
+我明白
+在現在的方式上我們教導孩子
+AI的技術是一個問題
+但我認為這建議我們需要改變
+我們教導人的方式
+我們不想
+你能夠用Chatch BT寫一句話
+那是世界的方式
+你仍然要學習思考
+學習學習的練習
+是很重要的
+但我們應該學會
+我們應該去評估
+你的思考能力
+有改變
+我們應該不想要
+我感覺
+這個行動會很好
+我們會
+10%的學生
+那些像是極限的自然學習
+已經做得很棒
+我們會想出新的方式
+去教育學生
+和教學同學
+然後還有一件
+你剛才說的
+是如何讓我們
+做成這件事
+而不是
+你學習 表現
+做得很棒
+但你只會
+用你的手機
+做自己的
+我們沒有看過
+這個證據
+而且是我們試著
+measure
+I suspect that human connection is going to be more valuable
+in a world of lots of AI, not less, and that people are going to value
+getting together with other people
+and working with other people more.
+But we have started to see people explore interfaces to make that.
+Easier
+And
+as we think about making our own hardware, our own devices.
+We have thought a lot about
+我們可能也想到
+什麼類似的
+雖然我們沒有想到
+我們會驚訝
+這個技術
+是否有什麼能夠
+使用
+我們會想到
+我們會想到
+我們會想到
+我們會想到
+我們會想到
+我們會想到
+我們會想到
+就是一個團體,你會用這個方式
+每個團體都會用來解決問題
+會是一個AI的方式,會幫團體做得更好
+我們可以說說任何東西,像是任何任何領導
+如果你告訴我們,我們會可能就能夠建立
+謝謝
+我比較關心的是,當一個團體開始進行
+Operating more production systems especially scale
+Like where do you think
+Or what would you think is the most underestimated
+Failure mode like
+Security cost reliability
+And related to that
+Where do you think
+The really hard work is being a
+Under invested in right now
+Tons of problems everywhere you mentioned
+One of the things that
+Surprised me personally
+And I think it's
+In two ways and surprise many of us here
+我最初使用Codex
+我說
+我不知道該怎麼做
+但我肯定不會給這個東西
+完全不可保障的資訊
+我非常確定
+我花了兩小時
+然後我發現
+很容易被鎖住
+公司的資訊都很容易被鎖住
+我都很愛要改變這些領導
+每次我都會把它改變成
+像是一小段的時間
+然後我都不會把
+全程式的資金改變
+然後我覺得
+別人也有做過一樣的事
+所以我對整個問題
+是
+這些的能量和能量
+是很高的
+而這個失敗率
+可能會變成
+可能會變成失敗率
+我們會伸展到這個
+你知道嗎? 黃色
+希望會成功
+然後當模式變得更能力
+更難理解所有事他們在做
+如果模式有一個不適的問題
+如果有一個不適的問題
+在幾個月或月的時間中
+你會把一些的安全性
+進入你的作用
+你可以有很多的想法
+像是你想要用AI去做什麼
+或是用來做什麼
+但我想會發生的是
+用這些技術去適應他們的壓力
+並不是只是壓力
+而是把他們的力量帶來的
+會很棒
+讓他們不想要
+把他們的力量帶來
+如何運用這些東西
+如何確保
+這個什麼山寶他們設立
+我總結的問題
+就是
+能力會減低
+我們會很用心
+如何運用模式
+在某種程度上
+而不建很好的
+我會叫
+大型的保安
+我們會進行進行
+我想那是一個很好的組織
+嗨,我想回到我的教育
+我叫Claire,我是一個在香港學校的
+學生,在學校上,我看到我的朋友
+在學校上學校,學校學校
+現在我在學校,我們需要
+關於AI的文化,學校的
+文化,學校的
+人類,我還想回到
+這個建築物理學院
+What it might look like for AI to be in classrooms
+during those periods of really, you know,
+it's the time when you figure out how to problem solve
+and how to write and how to think.
+And, you know, as someone who is a father now,
+how do you foresee education changing
+and being shaped by AI during those really formative years?
+I mean, generally speaking,
+I'm a fan of keeping computers out of kindergarten.
+我認為企圖家應該要在外面玩
+和學習和合作的事
+並在一起學習和合作的事
+所以我並沒有AI
+我會不會用手機去做企圖家
+我認為我們未必能理解
+所有的影響
+因為有很多文章
+在社交媒體上的影響
+那裡好像是很差的
+但我心裡有一點感覺
+有些技術在年輕人的年輕人
+已經變得更差
+而且還未能夠說到
+我認為我們要明白這更好
+就像我們不需要
+肯尼達伯德爾用了很多AI
+你好 我叫阿倫
+我是在施工
+所以
+肯尼達伯德爾用了很多AI
+在醫生的試驗 文化 寫文
+很多東西都變得很棒
+我們也正在使用它為用來做用藥物的設計
+我們用來做的一件事是3D的解決
+我還在想如果有什麼存在
+或者有什麼東西可以看到
+我們會把這件事解決
+我不知道是在2026年
+但這件事是非常普遍的
+I think we know how to do it.
+We just have a lot of other urgent areas to push on.
+But we will get there.
+Thank you.
+Hi Sam. I'm Dan.
+I just dropped out of university in London to join the W26 white combinator badge.
+And I got two quick questions.
+First one is my parents are still kind of pressuring me to finish university and do you think university could be in its current state limiting sometimes.
+第二是,你會不會投入?
+我從大學上學過,我父母十年了
+問我會否投入
+我認為父母會投入
+他們愛你,他們在給你提供的建議
+你會繼續告訴他們
+你會回到家裡,但世界現在是不同的
+想要保持在不同的地方
+我
+我 mean everybody's gotta make their own decision
+but I think you need to make your own decision
+and not just do what society
+tells you to do
+and I don't personally
+I think this is a time where from
+if you are an AI builder
+it is probably not the best use of your time
+to be in university right now
+if you're just like a sort of ambitious high agency
+driven person this is
+this is an unusual period of time
+and you know you can always go back later
+但是你不太會說
+不太會說是對人類不一樣
+不太會說是對人類不一樣
+但現在你必須做這個事
+他們會明白
+第二點我尊重HustleBut Not Anymore
+我失敗了
+我只好很忙在開業
+我只好很忙在開業
+我只好很忙在開業
+因為我只好很忙在開業
+因為我只好很忙在開業
+因為我只好很忙在開業
+決定是比較容易的
+嘿 Sam
+我是 Michael 從 WorkOS
+我們有很多東西要做
+適合的證據和證據
+所以我給你一個特殊的領導
+可以在我的 chat.gbt 帳號上
+我覺得很多人會喜歡
+我們會做的
+很多人會問我
+你需要什麼
+你需要讓人們
+自己的資金
+或是想他們
+Bring their chatGPT memories are all
+yeah so that's my question
+I mean definitely token budget
+people be able to bring their account
+and you know what models they have access to
+but I think there's all this other stuff too
+like what you know MCP servers
+does my company have access to
+or what memory does chatGPT have about me
+or what projects am I working on
+I'm curious how you're thinking about that
+like chatGPT knows so much about me
+from a work perspective
+but also a very personal perspective
+對 還有如何讓發展者能夠把這提升
+我們想想想想看如何做這件事
+因為Chachbt does know so much about you
+如果你要告訴一個人
+你很接近了很多的障礙
+你會比較相信他們會知道
+這個正確的社會主義
+nuance and when they share what with who and when something over rules something else
+Our models are not quite there although they're getting like pretty good at it
+I would
+I think feel uncomfortable if I connected
+My chatBt account to a bunch of sites and said just use your judgment about like when to share what you know about me from all of my chat history and everything I've connected
+But
+When we can get there it will clearly be a cool thing to offer
+在 meantime,在做一些事情
+只能用
+投資的資料
+如果我付出了ProModel
+可以用它在其他服務
+這好像是很好的事
+所以我們會至少做到
+並且會試著想辦法
+去獲得資訊
+但是
+我們真的不想
+我們真的不想把這個關起來
+嗨 嗨 三姆
+我叫Oleg
+我猜我們會否同意
+Software Development as a craft
+has changed dramatically recently
+But at the same time,
+Lington still has open AI job offerings
+for a software developer
+And I'm curious,
+how did the interview have changed
+in past months or years?
+We are going to keep hiring software developers
+But we are for the first time
+然後我都知道每個各地的公司
+每個各地的開發者都想要這個
+我們都想要將我們增加
+將我們增加得快
+因為我們認為我們可以
+多做更多的事情
+少了一些人
+我認為這時候
+很多的遺產
+我們或其他公司的
+是像是
+內容的
+經濟製造的方式
+Cωνintense did not contemplate a majority AI coothers
+and that's gonna take a while but
+What I think we shouldn't do, and what I hope other companies won't either
+is hire super aggressively then realize all of a sudden
+AI can do a lot of stuff and you need fewer people
+and have to have some sort of very uncomfortable conversation
+So, I think the right approach for us will be to hire more slowly
+but keep hiring and trust
+that I'm not a believer that, like a venture
+可能在未來的開放時間會有0%的工作
+但在長時間內
+我們會有更多的工作
+做更多的工作
+這就是我預期的形象
+讓經濟變得更加的好
+在於這個表演的情況
+它並沒有變成應該的情況
+但我今天在會議上
+跟人們說了想要改變的情況
+我們會想要把你坐下來
+做一些不可能的事情
+只要一個人在兩天內
+這次的年齡
+和他們看10-20分鐘之內的節目
+他們都…
+對,我覺得這是一個很高的方式
+你只想看見
+能夠做到這個新方式
+非常有效
+我覺得自動學問候
+已經很悲傷了
+可能並沒有那麼嚴重
+但是現在還沒有那麼嚴重
+所以那是一個問題
+還有一個比較大部分的問題
+是有些問題會被印在哪裏
+會是將來的未來
+公司不讓很多人買
+還有很多的公司
+或者是將來的公司
+將來的公司
+將來的公司
+將來的公司
+將來的公司
+將來的公司
+將來的公司
+將來的公司
+有很多原因
+好像是因為
+有些事情比較近
+但如果公司不夠
+適合AI
+公司不夠
+想要求求
+使用通知
+很效果
+他們會
+隨便被
+發展成一間
+非AI公司
+不必有
+這種
+很嚴重的
+公司
+使用的
+等等
+這樣會
+很不平衡
+社會
+所以
+我們在想
+我們在想如何解釋這件事
+但是我覺得是非常
+因為這件事是很自然的
+但是我覺得這件事很重要
+讓公司能夠把AI進行進行
+很快地進行
+你好 我是Cole
+我是一個創作人和電影師
+我們看過的特別是在過去一年
+AI完全改變了我們告訴的故事
+而是我們以自己為例
+有很多有趣的地方
+在創作的空間
+For Sora, it was such an interesting use of like the self as a canvas and allowing you to be able to use AI and put yourself in all of these fantastical scenarios.
+I'm really curious where you see kind of this relationship between human creative identity and also AI assisted creation is going, especially as these models continue to advance.
+但是我們可以學習的地方
+我認為最多學會的地方是
+在於畫面
+在創造社會中
+使用了它
+和最多喜歡它
+有很多的觀點
+但有些人
+在於
+在於
+在於畫面的利益
+在於更高的
+嗯
+appreciation satisfaction whatever if they are told a person made it
+versus an AI
+嗯
+and I think this is going to be a deep trend in the coming decades is
+we care a lot about other people
+and we care very little about the machines
+um of all of the slurs for AI
+clanker is my favorite one
+I think it's just it like so evokes
+people's emotional reaction
+and
+you can see
+這些很美麗的 最重要的
+就是維持著畫面
+你很快就知道
+很多人的意識和意識
+都會走下
+我看到了一件事
+去年
+他們說他們很愛
+AI-generated art
+仍然有畫面
+然後
+大家會說
+我可以告訴
+我能夠把A.I. 創作的畫面
+因為他們很可怕
+他們會展示10個畫面
+說 讓你最愛的畫面
+一半是人的畫面
+一半是AI的畫面
+然後 相當於
+他們會把AI畫面
+在上面
+然後 他們會告訴我
+他們會說
+其實我不喜歡
+這個不是我喜歡的畫面
+那就是
+你喜歡的畫面
+我完成了一本書
+我愛的第一件事
+我自己想做的是 找到寫字和理解自己的生活
+kind of how it led them to do that
+because I felt a connection to this person
+that I don't know and I want to understand them
+我讀了一本非常棒的書
+and at the end I learned it was
+written by an AI
+I would sort of be kind of sad and crestfallen
+我讀了這部文章
+and I think this is gonna be a deep and durable trend
+however
+if the art is even a little bit human directed
+and how little maybe we'll have to
+figure out how people feel over time
+people don't seem to have that same strong emotional reaction
+and this is versions of this has been going on for a long time
+你 know digital artist used Photoshop people still love their art
+so my expectation given the behavior that we're seeing now from creators and consumers
+is that the person and their life story and their editing or curation
+or whatever goes into that process is going to matter a lot
+and we're not going to want the entirely AI generated art broadly speaking
+至少從我們可以學到的
+我們時間到兩題
+嗨 Sam,我是Keed Curry
+新學生,新西蘭的
+我的問題是
+個人化和記憶體
+第一部分是
+如何看待那些長時間
+然後
+你覺得有更多的
+充滿了
+例如,充滿記憶體
+這是我的工作和個人化
+所以,當你做了不同的訪問
+所以你會想要更加選擇
+對於個人化的想法
+對,所以我們要很努力
+在記者和個人化上
+明明是人們想的
+它們會用這些技術
+更好用
+我…我已經走到
+我自己的角度
+但現在我準備了
+為CHAHPP 去看整個電腦
+整個網站,然後知道所有東西
+它們的價值很高
+uld feel uncomfortable about it
+in the way that I used to
+I really hope
+you know,
+all AI companies
+take security and privacy super seriously
+and I hope that society as a whole does
+too because
+the utility is so great
+like,
+AI's gonna know about my whole life
+I'm not gonna get into the way of that
+I don't yet feel ready to, like,
+where the glass is recording everything
+and I think that's
+still uncomfortable for a bunch of reasons
+but I do feel ready to say like,
+hey, you can just have access to my computer
+而且想把過程扼缺
+要有如此深刻意義
+我自己的生活中的存在和与用途的
+合作和交流的規格
+在我自己的生活中的適应
+我自己的生活中的適应
+在我自己的生活中的適应
+我们要想出一道理解
+我们要想出一道理解
+因为我相信那是我们的主要
+我们要想出一道理解
+你好 沈
+我叫Luan
+我是一个大学的国家
+从北京来的
+我的问题是
+你认识的最重要技巧
+就是大家的技巧
+就是大家的技巧
+就是大家的技巧
+這些都是柔軟的技術,
+他們都沒有學習,
+學習的程度是很明顯的,
+在最近的時間中,
+現在沒有,
+但是技術像是
+成為高級的,
+成為好,
+成為好建議,
+成為非常之信心,
+成為非常適合,
+成為很快的世界,
+我覺得這些都會比較重要,
+更多 than any specific,
+我覺得這些都能學習,
+這是一個我驚訝的驚訝
+我當年開始的投資人員
+是你能夠拿到人們
+在三個月的兼職活動中
+做他們非常貪腐
+做他們的所有事情
+我剛才說的
+是非常驚訝的
+這是一個很大的提醒
+所以我認為這些是
+最大的技巧
+他們很能夠學習
+我們在外面嗎
+ok
+thank you all very much for coming and talking
+we really do want input on what you'd like us to build
+like assume we will have a model that is 100 times more capable than the current model
+with 100 times the context link that 100x the speeded up
+the 100x reduced cost perfect tool calling extreme like coherence over it
+like we're going to get there
+tell us what you'd like us to build. We're going to hang around
+and you know if you're like hey I just need this API
+or I just need this kind of primitive
+或者我需要這個領導時間
+我們在建築它給你
+我們想要得到的
+謝謝你們
