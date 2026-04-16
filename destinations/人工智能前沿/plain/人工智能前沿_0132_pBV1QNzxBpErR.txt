@@ -1,0 +1,807 @@
+very well
+Welcome everybody welcome to journal house
+and a big welcome to to our audiences
+that are joining us online
+but above all a big welcome to
+dario amade the chief exec of
+anthropic and thank you for having me
+not at all so dario
+were at davos there's a lot going on
+but I wanted to start with a big picture
+question which I'll characterize like this
+it feels to me that
+this time last year everybody was very
+I'm excited about AI and everyone was talking about what AI can do.
+It's potential, it's capabilities.
+It feels to me as though the debate has shifted somewhat this year to be more less.
+What can AI do to what is AI doing to the world?
+And I know that you think a lot about these things.
+So my question is, do you think businesses, policy makers, governments, whatever are doing enough to prepare for the impact?
+No.
+I'll explain the longer version now.
+我看過這場比賽15年
+我已經在這場比賽10年
+我最常見的是
+這場比賽的實際上
+是同一場比賽
+而公共評論和反應
+都被人反映了
+我會說這話在兩種不同的方式
+第一是技術的能量
+每三至六個月我們會有這個反應
+在這裏的媒體會很興奮
+在於什麼技術可以做
+會改變所有東西
+然後它們都是一顆棉花
+它們都會掉開
+我看到的是這個 smooth exponential line
+有一個比較像 Moore's law for compute
+我們基本上有 Moore's law for intelligence
+在於它們的模式
+會變得更加更加的能力
+每個幾個月
+那一步就只是被重新進行
+我們把新的東西都剩下了
+它們全部都會被踢到地上
+它們會變得瘋狂
+這是一種公眾的感受
+這是技術的能力
+我覺得有一個很像的東西
+在技術上的雜誌是好或壞
+在2023年和2024年
+A.I.s are going to take over.
+There was a lot of talk about AI risk, AI misuse.
+Then in 2025, the political wind shifted as you say,
+to AI opportunity.
+And now they're sort of shifting back.
+And I think throughout all of this,
+the approach that I have tried to take
+and the approach that Anthropik has tried to take
+is one of constancy.
+Athropik is one of constancy.
+Athropik is one of constancy.
+以為有這個理念的根據
+而我說的是我們在內地的主要
+做到的一個問題
+就是我們在這裡
+我們很常見的
+我們很常見的
+我們很常見的
+我們很常見的
+因為我們在這裡
+就是我們在這裡
+我們很常見的
+我們很常見的
+我們很常見的
+我們很常見的
+有些是 經濟發展 世界的部分 未見的
+我的觀點並未改變 我相信所有的事情
+但另一方面 現在我寫了更多
+會發生什麼事 也許會發生一些壞事
+如果我們只要以一個例子為例
+我們只要以一個例子為例
+我們只要以一個例子為例
+我們只要以一個例子為例
+我的觀點是這個技術的優點
+是我們要帶我們到一個世界
+我們有很高的GDP增加
+也有很高的生產和 inequality
+這不是一個結構我們已經幾乎都沒有看到
+你會想像是很高的GDP增加
+很多東西要做,很多工作
+has always been like that in the past.
+We've never had technology that's this disruptive.
+So the idea that we could have 5% or 10%
+GDP growth, but also 10% unemployment,
+it's not logically inconsistent at all,
+it's just never happened that way before.
+And I'm really quite,you know,
+for those both reasons, excited and worried.
+If I take an example something like AI coding,
+you know the latest model
+我們在這次的模式上,Claud Opus 4.5,
+我有一些研究員,
+一些研究員,LiT,
+在安卓中,
+他們基本上告訴我,
+我沒有寫任何文件,
+我只讓Opus做工作,
+然後我再去做,
+我們只寫了一件新的文件,
+叫Claud Co-Work,
+我們可以進入,
+我們可以進入那一步,
+但這是我們用的,
+Claud Code,
+是 non-coding,
+那是在一周半,
+就像是Claudopis
+它們仍然有東西
+讓軟件工具做的
+就像是
+即使軟件工具
+只做10%
+它們仍然有工作
+或是它們可以升級
+它們不會再再過年
+它們的模式會做更多
+所以它們是一個
+超級的科學科學
+你可以看到
+它們有一個
+很大的產品
+軟件工具會變得更便宜
+可能基本上會允許
+你需要的標準
+Ameritize a piece of software you build across millions of users
+that may start to be false
+Like, for this meeting
+it might cost a few cents to just say
+I don't know, let's make some apps
+so people can talk to each other
+You know, it just may be very flexible and recyclable
+But at the same time, there are whole jobs, whole careers
+that we've built for decades
+that may not be present
+And you know, I think we can deal with it
+I think we can adjust to it
+但是我沒有想到有一個意識
+在所有的東西裡
+和其大部分的東西
+這很奇怪
+你怎麼想到
+在世界上的高GDP的增長
+但也很高的工作
+這是什麼做到的
+你也說了
+現在人們不在意
+你可以給我一些 concrete examples
+如何讓社會能夠建立
+去搭配一個世界這樣
+所以我覺得有幾個問題
+我們已經做的第一件事
+我們已經在意的
+這不是一個解決
+這麼多的問題是第一步
+我們有這個東西叫做
+《經濟經濟學》
+我們已經有它了一年
+我們已經提出了四至五次
+這個做法是一種實際學
+讓你去查
+我們用的模式
+它們通過所有的談判
+用了複製的方式
+來計算
+複製的方式是怎樣使用的
+是用來調整
+是用來調整
+和調整的行動
+是用來調整
+是用來調整
+美國的國際
+國際的世界
+我們就加了
+更多的細節
+我的觀點是
+可以減少形式的形式
+任何政治會被淡化和不明
+很多政治都失敗
+因為他們在基礎上
+是基本上是錯誤的
+所以這是第一步
+第二步是我們需要
+非常小心地想起
+我們如何讓人們可以進行
+人們可以進行更快
+或更慢
+這可以代表
+使用技術在生產的工作
+這可以代表
+從一個工作到另一個工作
+例如我認為
+會有更多工作在世界上
+而少許工作在知識工作的經濟上
+現在可能 eventually robotics
+會有進步
+但我認為這就是
+比較快的傳統
+所以這就是
+他們的工作
+仍然有
+很值得的一切
+有些人做
+有些人不
+我們可以找出
+最重要的是在市場上,最重要的是在市場上
+在市場上的價值,什麼是貨品?
+當貨品變得更便宜,然後其他貨品的工資變得更便宜
+我們不知道,我們從沒問過這個問題
+我們想起貨品的方式,所以有一定的方式
+所以有一定的方式,所以有一定的方式
+所以,在學習人們的方式,學習他們的方式
+我認為是第二步,第三步是
+是我覺得
+會需要某種領導
+在這個地位上的
+貿易的操控
+就是這個
+大量的貿易
+我只是看不懂
+我看不懂怎麼發生
+大量的貿易
+會增加
+像
+錢會在那裡
+像
+政府可以平衡
+不論我們做什麼
+因為有很多的增長
+問題是
+對人們對的
+所以
+我認為
+這可能是時間
+我們要有時間 to worry less about disincentivizing growth
+and worry more about making sure that everyone gets a part of that growth
+which I know is the opposite of the prevailing sentiment now
+but I think technological reality is about to change
+in a way that forces our ideas to change
+So obviously in your desire to create this greatest sense of urgency
+are you speaking to people in the administration
+I mean Anthropic hasn't always been the first on the guest list
+但你相信你對這個行動有什麼信心?
+我自己表示這件事
+至於清楚…
+我們有很多東西要求
+我認為A.I.A. Action Plan
+在今年中的辦公室裡
+其實有很好的想法
+我們應該會和大部分的大部分同意
+但是我認為我們只想說這些話
+和他們的公開議題
+我們不控制政策
+我認為最有趣的事情
+是在世界上所見的
+和世界上的資料
+然後它們要向人民
+和民主
+用資料來使用
+使用它們的經濟政策
+我們不能使用經濟政策
+你會跟公民說話
+在你這裡嗎
+你還沒有到美國的家
+我沒有去美國的家
+我會跟公民說話
+ья during ma during my trip to Davos
+cut so I'm just to go back to
+anthropic then so you founded an thropic
+specifically because you were worried about
+that you didn't think that open AI was taking safety seriously enough
+Now some people say that the competitive pressures mean that you've gone more hawkish now
+I mean are those competitive pressures
+you just keep up with China and keep ahead of China or the rest
+How they do you think they have compromised your safety principles
+所以我們有不同的路由其他玩家有的
+我想我們早前做的好選擇是
+要成為一個公司
+在商業上更加重視
+我覺得很難去打敗自己的生產
+更容易去選擇一個生產模式
+讓你沒有需要去打敗自己的生產
+所以我會擔心
+就是因為用了Ai的利益
+需要增加的行動
+需要增加的行動
+我們看到很多東西在雙方的
+其他遊戲的玩家
+Enthropic是不只是玩家
+這樣做的
+還是需要這樣做的
+我們只要賣東西
+在那些東西上有利益
+我們不需要
+用一億元的利益
+我們不需要增加行動
+用一億元的利益
+因為我們在死亡中
+和其他大隊的玩家
+所以我們要讓大家更小心
+但我們也有做過了
+我們做了所有的測試
+在我們的模式上
+其他玩家沒有做過
+其他玩家沒有做過
+但我們已經是最
+最激動的測試
+我們測試時
+我們會有很嚴重的行動
+這些東西 around deception, blackmail,
+sick-of-n-seed that we show in tests
+and are present in all of the models
+but we make sure to always talk to the public
+about these things
+and we've pioneered the science
+of mechanistic interpretability
+for looking inside models
+so have we been perfect?
+Of course not
+I think we've done a generally good job
+I mean you mentioned China
+I think that's not about competition
+那是...
+其實
+社會主義的主義
+是
+我擔心
+如果法律會有這個技術
+這會是一個很大的成果
+每個人都會在這個房間
+你覺得什麼是你的特點
+是跟貨品
+跟購買資料和貨品
+對,我覺得...
+你...
+就是貨品在賣貨品
+那是...
+我覺得是會有最大的影響
+在誰前往
+和誰不
+但是關於任何國家
+也不一定是人類的國家
+是政府的形式
+我擔心AI會有獨有的意義
+和深入的反應
+我們已經看到的
+是在這種危險狀態
+可以用今天的技術
+但如果你想到
+AI可以使人類的
+Propaganda, can break into any computer system in the world,
+can survey everyone in a population,
+detect dissent everywhere and suppress it,
+make a huge army of drones that could go after each individual person.
+It's really scary,it's really scary and we have to stop it.
+But again, is that something that you feel governments aren't paying enough attention to?
+我覺得是 fair to say that obviously different countries think of themselves as having geopolitical adversaries,
+but the specific focus on we don't want autocracies to get this powerful technology,
+and we should have targeted policies.
+We don't need to fight them, we just need to not sell these chips.
+那,我覺得沒有足夠的專注
+我想說說 more about Claude
+因為我覺得是有實際的說話
+是有實際的說話
+是有實際的說話
+我們最近報道了
+我們如何使用的工具
+像是用了Claude
+我只是想問你
+你覺得到的歐洲的生產
+對於一年前
+對,這是一個
+因為工資的進行力已經快,但同樣的
+同樣的廣角性的改變
+所以我們有這個財富的改變
+在2023年從0到100萬
+2024年從100萬到2025年
+從1萬到10萬
+這些不太正確的數目
+但是那是很少的
+通過這段時間,如果在Twitter上,每個月,
+它會說,我的天啊,安thropics在世界上改變了,
+我的天啊,安thropics完全毫無…
+就是這個 moment的感受,
+但我們只看著它,我們只看著這個 curve,
+它是快速的,它是常常進行的,
+它是給我們信心,我們永遠不確定
+如果它會繼續,它不可能,
+但這已經是我們看著的整個時間,
+然後還有這些時刻,
+即使它是平坦的,還有一個 break out moment
+所以我現在覺得
+有一個 break out moment
+在發展中的課程中
+這個東西
+可以做到整個 App
+做到什麼的
+再次 它進行進行
+但是我們最近的 Model Opus 4.5
+它就有一個成為
+進行進行的進行
+但是你會看到
+你會看到
+進行進行的進行
+然後有一個特點
+suddenly that's the point people notice
+I think the second thing that has
+that has maybe accelerated that further is
+we looked at Claude Code
+and one of the things
+we noticed is that there were a lot of people
+inside-entropic and outside-entropic
+who were not technical
+but who realized that Claude Code
+could do these incredible agindic tasks for you
+couldn't just write code
+it could also organize your to-do list
+or plan your projects or organize your folders
+或者用一些資料來做一些測試
+所以想要的不是只是一個 chatbot
+但是是一個優點的問題
+是需要的
+不技術人員還在想
+他們想了很多
+他們在打擊對手的方式
+不技術的
+他們沒有理由
+如果你是不一個 programmer
+你會用一個很不合理的 interface
+如果你是不一個 programmer
+但人們在用這個
+我看了這個
+然後我問
+這個好像是不適合的
+我們用了Claude code 兩天前
+基本上用了一個更好的UI
+用了更好的方式 用了更好的方式
+我們用了它 用了一個更好的方式
+我們用了四次的規定 用了一個更好的方式
+所以,那些是兩種時刻
+我並不明白這些是新的能量
+但是,這只是一個這樣的
+有些很突出的時刻
+讓人們感到很感動
+而且,它們很快地進行改善
+我認為,人們在接觸
+技術的能量
+是因為它們有達到的
+而因為我們建立了
+能夠使用的 interface 方式
+你能告訴我們
+你自己的生活
+你的生活,你的生活
+用了GENTIK AI
+對,所以,我寫了
+我寫作為一個監獄
+或是一些東西我寫作為一個監獄
+我感覺我工作的份量很適合
+所以我來寫作為資料
+幫助我寫作為我的監獄
+那種東西
+然後你當然有這個很棒的時間
+我認為你會在這年IPO
+你會告訴我們你的計劃嗎
+對,我們不確定
+我們會做的事
+我們更加專注於保持貿易的行動
+做好更好的模式
+購買更好的模式
+學習和做好社會的影響
+和做好社會的影響
+這是我現在的最高領域
+但我不會說任何話題
+如果我再說這是一個
+非常高的貿易
+那些市場的價值
+只有在某些時候
+這個市場的價值可以提供
+所以另一個模式
+是我們現在的一刻
+就是 Gemini
+對
+我們搜尋到最高的App Store
+最近開了AI
+推出了 Code Red
+所以大家都很興奮
+你擔心你的能力
+在 Gemini 上
+對 Google 的大量
+的支持者
+我覺得
+這就是另一個地方
+就是有不同的幫助
+所以
+你知道
+整體的技術
+Google 和開了AI
+在 consumer 上
+是充滿了雙方的
+充滿了開智能
+因為這就是整個商業
+充滿了Google
+因為他們有搜尋商業
+這就是他們需要
+他們要重新重新重新重新
+然後打敗他們的操作
+所以這是他們的最初 priority
+他們看起來
+他們看起來更加重視
+那些操作的
+因為這是很好看的
+我們在市民的貢獻
+應該能夠在市民的貢獻中
+我想他們在不同的方式
+還在設計
+用Demos Asabis
+與搜尋走跡
+這件事是很好
+我已認識過他們15年
+所以我仍然為他們念頭
+你講eodefences
+eodefences
+我相信
+我們絕對未可以
+剪輯影片和照片
+你有看到那做過
+有可能性的暴力?
+嗯啊,我,你 know,I think for enterprise business, you know, there's there's not really a demand for like, you know, you know, photos of you know the cats riding donkeys or, you know, whatever, whatever consumer video people want.
+There's maybe an edge case around like slides and presentations, but if we ever need it, we can just buy them, you know, we can just contract a model from from from from from a contract model from someone else.
+So, you know, I don't, I don't know what will happen.
+我不知道會發生什麼事
+但我至少不想要這個
+我認為這有問題
+我們看了短片的數量
+像很多是假的
+很多是蠢的
+很多是蠢的
+不說是壞的
+或者是不做壞的
+但這不是
+一部分的市場
+我會走過自己
+你也曾經說過,你跟鄧先生在討論過,
+我們昨天在討論過,你提到,
+我認為有些東西很有趣的是,
+有些科學人士在討論過,
+科學人士在討論過,
+有些科學人士在討論過,
+有些科學人士在討論過,
+你能否說更多,你認為如何?
+對,你認為這個技術,
+是一個學習的領導
+在很多年代的進行
+很多是學生的自然
+到一年、一年半前
+還有一個需要的技術
+需要發展和發展這些技術
+在過去一年半代
+只能從大型的
+網絡和社交媒體的行業來來
+他們有資料,他們有資金
+我們看到了世界中
+有些公司的人類
+是被人們的學生
+有學生的背景
+這是我的背景
+這是鄧先生的背景
+有些人是被學生
+做社交媒體的
+我覺得很不同
+學生的
+有很長的傳統
+學生在想
+學生的效果
+學生的技術
+他們自己的考慮
+for the technology they build
+not ducking responsibility, right?
+They're motivated in the first place
+by creating something for the world.
+And so then they worry in the cases
+where that something can go wrong.
+I think the motivation of entrepreneurs,
+particularly the generation of social media
+entrepreneurs is very different.
+The selection effects that operated on them,
+the way in which they interacted with,
+you might say manipulated consumers
+是非常不同的
+所以我覺得這對不同的貿易
+我們已經在網上提出了一些問題
+我們有提出過的問題
+但之前我們提出的問題
+我想問你一個問題
+就是大部分的問題
+在美國和歐洲的情況下
+有很多的疑問
+你會否問我這方面的影響
+你會否操作你的行業
+會否讓事情變得更加快
+我們只會說話
+我們只會說我們自己,我們只會想我們自己的自己
+和我們自己的自己,我們不想我們自己的方式
+是對或對任何人而言
+但我們不想我們對政治的意義,我們說這樣
+我們不想我們對政治的意義,我們說這樣
+我們真的要在AI的意義中保持
+所以我沒有看過有種人的慾望
+在其他世界上
+在我們自己的工作上
+我們自己的事
+我們在給AI的模式
+我們會做到的
+我這次有很多話
+關於AI的信念
+我完全不太確定
+大家看起來
+不太清楚
+你也沒有自己的信念
+好
+我們有提供了
+網上的評論者
+所以我會開始
+Perhaps from Trevor Loomis
+And his question is
+What is the single most important technical breakthrough
+still missing to make frontier AI reliably safe
+and controllable in real world deployment?
+So I think we need to make more progress
+on mechanistic interpretability
+which is the science of looking inside the models
+One of the problems when we train these models
+is that we don't know
+you can't be sure they are going to do
+你能說話的一種意見
+能說出所有的事情
+只是一個人
+這不可能是一種信心的表現
+他們在想什麼
+如果他們告訴你
+我做X 因為為什麼
+他們可能會做X
+是一個完全不同的原因
+他們可能會在想做X
+我們很常見到這些問題
+但是他們也有AI
+所以任何一種
+遺憾或訓練
+我們不一定夠
+但是
+You can learn things about human brains by doing an MRI or X-ray
+that you can't learn just by talking to a human.
+The science of looking inside the AI models,
+I am convinced that this ultimately holds the key
+to making the model safe and controllable
+Because it is the only ground truth we have.
+Right.
+OK, I have another question here from Jim O'Connell.
+How will AI affect current K-12 educational achievement gaps?
+Practical question there from no doubt about it.
+Yeah, so there's kind of the short term stuff about people using AI for cheating,
+which I think is problematic.
+But in relative terms, OK, fine.
+OK fine, you can have a kind of a different way of teaching using AI
+and we thought about that, we've released versions of Claude for education that are kind of designed around that
+but I think the harder problem behind that is
+OK what skills are we actually teaching in the world of AI?
+What does education look like in the world of AI?
+And it's not so easy because the disruption is broad
+如果有人問我
+我應該如何進行 career
+我確定不確定
+我還不確定
+我還不確定
+我還不確定
+我還不確定
+我還不確定
+我會說
+我們應該回到
+一些建議
+我們以前的學習
+我們有一個
+非常像
+經濟的
+幾乎是
+學習的學習
+的教育
+我認為我們應該
+把這個理念
+移除
+教育
+是設計
+作為一個人
+是設計
+作為
+讓你更好
+的人
+我覺得這是一個
+更好的教育
+我還以為
+是一個教育的問題
+我想我們都會喜歡
+所以大家先坐在房間裡
+我想我們有時間
+如果大家想問一個問題
+對
+這位女士
+對
+她是麥克風
+我想問
+從你對AI的觀點
+你會有什麼責任
+在國際經濟
+和國家的影響
+會不會發生
+居然會是弱者對它們反彈
+或是看他們不應該被抵達
+我擔心那一套也有很多部分
+並不是只是國家不是國家
+我有些時候時期我擔心
+發展的世界和世界
+有時候發展的世界也會轉變
+企業的發展
+但是我擔心
+在國家中的分析
+這才發生
+我看過我們的客人
+他們的開放器是很快的
+因為他們的大型公司
+他們做了一個更快的進行
+我們可以看到的
+我們可以看到的
+是美國的技術
+在美國進行的
+美國的技術
+它是在進行的
+但沒有問題
+如果我去描述
+Try to describe what I think of as a solutions.
+The nightmare would be that there's, there's like this emerging
+zeroth-world country of like 10 million people
+There's like 7,000,000 people in
+Silicon Valley and you know,
+3,000,000 people kind of scattered
+scattered throughout.
+That is kind of forming its own economy
+is becoming decoupled or disconnected.
+Maybe the 10% GDP growth looks like
+50%GDP的增加
+這個技術很瘋狂
+它能把東西拋開那一步
+我覺得那是一個很壞的世界
+我會說那是一個極端的世界
+我們應該想想如何停止
+有很多事情是在想我們做的
+第一是 以發展世界
+我們開始做很多工作
+在社會上的工作
+我們已經提出了
+我們知道我們在學習的律師
+我們在工作的一些工作
+我們在基督的基督
+我寫了這件事
+《愛與神》
+這次的經濟增加
+這次的經濟增加
+其實應該會更快
+因為是在發展的
+世界中的發展
+我們會在發展的世界中
+在國家中
+我們需要想辦法
+如何不需要
+有一個世界
+它就 kind of decouples, right?
+How do we get the economic growth to Mississippi
+that is coming to this contained area of Silicon Valley?
+And so there we've done work around kind of economic mobility
+and economic opportunity.
+But I think both of these again are going to need to have some
+involvement of the government.
+We're going to find that ideology will not survive
+the nature of this technology.
+It won't survive reality.
+The things I'm talking about,
+while you could today say
+Oh yeah, there they're like politically coded in some way
+They're going to become bipartisan and universal
+Because everyone will recognize the necessity of that
+Just mark my work
+We come back. If not next year, the year after
+Everyone is gonna think this
+Well, you've managed to end on a more or less positive note
+So I'm going to draw a line there and say
+Thank you very much, Darō
+That was really really fascinating
+Thank you for having me
