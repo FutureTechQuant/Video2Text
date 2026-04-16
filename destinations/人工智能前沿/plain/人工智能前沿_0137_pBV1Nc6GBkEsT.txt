@@ -1,0 +1,524 @@
+今天我来专辑的专辑
+是Mem Zero的主持人
+他刚刚发布了24亿元的信息
+为AI运营的记忆
+恭喜大家 欢迎你
+谢谢
+好 今天我们来讲Mem Zero的事
+首先 谢谢Mem Zero
+是在建立了一届记忆的记忆
+大家都在建立了一届AI的记忆
+所有人都在使用LLM
+但这些是一个重要的问题
+LLM是一个不值得的问题
+它們不記得其他人的事
+所以我們要把所有的Agent 和AI App 改變成一般的
+任何人都會在那裡創造
+每次有人有一個碰到
+然後Agent 開始從後來
+然後不記得什麼發生在前面
+什麼是當地的業務
+當地的業務是做得好
+我們是最適合的解決
+在市場的進行
+我們最近採用了14 億的Python Package
+41,000 GitHub Stars
+你的開放器是嗎
+我們是開放的
+我們用了千多個公司
+我們不僅能夠用到公司的記憶
+我們也提供了記憶
+給大部分的公司
+例如AWS、Agent SDK、
+QAI、FlowWise等等
+最近我們賺取24億美元的資金
+還有什麼主要的優惠
+當然公司獲得記憶
+但是他們的優惠是什麼呢
+主要的優惠是
+任何人用了解釋
+例如Mem Zero的AI
+Agent 上升 over time
+Let's say I am building a trip planner agent
+And when I am going to New York, I want to stay in Air Force
+Agent will remember this preference
+And the next time, whenever I am automatically booking a trip to New York
+It will just surface it
+So that's the first benefit wherein like the new AI apps and agents that are coming
+They know you in the best possible way
+And then apart from that for developers
+We also help them save cost
+Because you optimize the prompt
+And you also help them save latency
+你如何保存貨品?
+因為你需要更多資料
+不,最多的貨品
+在任何人想要有什麼記憶器
+是把所有貨品放進碼的
+當你把所有貨品放進碼的
+你會發出更多的資料
+所以更多貨品和貨品
+我們在其他方面
+會儲存貨品的貨品
+最多的資料
+就是我們保存貨品的貨品
+所以說到所有貨品
+然後可以把貨品放進碼
+你會更好看在貨品上
+對,對
+好,你開始了什麼?
+你從哪裡來的?
+我從印度開始,我去到美國去年
+我帶來7個項目在開設公司
+我第一次開設公司在2012年
+這是我7個項目在開設公司
+我幸運地獲得了
+我跟Deshra是副副副副在CTO
+在這星期一邊
+20日前
+我們其實遇到在我們畢業的
+我們是畢業的朋友
+我們都知道我們在2012年
+所以我們已經30年了
+我們做了很多項目
+像在我們畢業的
+很多項目的項目
+然後我們一直想開始
+什麼樣的
+TJ在做很多事情
+在印度我曾經在
+TESLA工作的領導團
+我曾經在領導團的
+網絡團隊領導團
+然後他在這裡進行
+然後我們就說
+我們一起建立了什麼
+這就是我們整個故事的原因
+然後你跟YC的GENT4 ROSTES
+跟PLY2 AC
+對
+我記得你提到
+你其實跟我們一起的另一種故事
+不是MZO
+對嗎?
+可以告訴我們
+我們要更多的故事嗎
+所以我們在YC
+在24年年中
+我們在2024年
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+我們在那段時間
+Statelessness,Program of LLMs
+When we were applying the company name
+And the product name was still embedded in
+But we were behind the whole
+Trinkering with the memory idea
+The genesis of this idea is from an app
+That Deshaj and I built in December 23
+It was called Sathguru AI
+Sathguru is a very famous Indian Yogi
+Ok
+That app went viral in India
+And one of the common feedback from that application
+Was that this app is cool
+But it is kind of dumb
+Because it doesn't remember anything
+About my meditative journey
+所以我們開始想像為什麼這件事是怎樣
+我們發現是因為LLM是不明的
+RAG是一個方法給我們知識的 context
+但是那時候我和RESHA 和我一起想像
+我們想像這個東西是更深的
+所以我們開始探索了
+像以前的版本的M-Zero M-BAD chain
+我們記得
+我們倆人們第一次見面
+在YC Retreat
+我們討論了所有的 algorithm
+我們發表了
+為什麼我們還未發展
+在36小時內,我們從M-BEDCHAIN到M-ZERO
+從此,我們的旅程真的非常棒
+對,非常棒
+對,這類的車子的車子
+很特別,人們開始在改變
+車子的方向
+所以,我需要看到
+這個項目的項目
+是從一個項目的項目的項目
+那裡的項目,非常棒
+非常棒
+我們回到產品
+如何做這個項目
+像在產品的項目
+我會在我的產品上進行進行
+如何進行
+我會從高級的觀點來看
+產品是兩種主要的
+一種是加上記憶
+另一種是搜尋記憶
+這些主要是在我們的 API 中
+我們會很容易為發展者
+給我們任何資料
+他們覺得很重要
+在 user 程度上
+我們會最好理解
+那些重要的東西
+然後我們會建立一個地區
+所以我們要說如果你是一個個人的 company
+你會給我們你的帳戶的責任
+我們會嘗試去採取 meaningful information from it
+然後我們會嘗試去建立一個立場
+建立一個立場是重要的
+因為這幫助我們明白
+如何發展這個活動
+然後當一個 user 開始
+我們會給你最重要的資訊
+我們會透過技術的方式
+對 沒錯
+對 所以我們的 algorithm is actually like hybrid data store architecture that we have implemented
+where we are actually whenever some unstructured information that comes into MZERO
+we basically try to like classify that into like a key value pair
+depending on what kind of information it is
+or as a semantic chunk or as like a graph memory
+which we call basically where you are trying to basically
+create like relations between like different facts that you are collecting
+so that later whenever developer is actually requesting like
+給我資料資料
+讓我們知道
+我們會把資料搜集到
+這些資料
+我們會做它
+能夠做它在實際上
+所以這幫助你
+有很低的
+資料搜集
+還可以有很高的
+做完這件事
+你也能夠
+儲存資料
+因為
+除了把所有的
+資料搜集
+也會很便宜
+而且很快
+所以這就能
+解決他們的問題
+對
+可以創造所有的表現
+像是記憶體的記憶體
+你需要明白實際的應用
+你需要明白實際的應用
+這就是很難的部分
+但也很容易
+我們用了很多的努力
+明白發展的發展
+所以在發展中
+我們要明白
+你正在發展的發展
+記憶體是一個期待的問題
+所以你自己的記憶可能會不同
+我的記憶可能會不同
+即使是同一個目標
+所以我們最好試試
+在開放器上的空中
+你可以去供應任何東西
+所以你能來下場
+就像說我沒有想到
+這個類型的記憶要被抓住
+我想到這個
+然後這 all of this
+是在普通語言
+普通語言
+所以你能做到
+它會被解釋
+對 而且我們會嘗試
+在上面的規則上
+然後我們會翻譯
+我們會更新所有記憶的
+你有沒有好幾個例子
+例如用家產品
+例如是看到人家的產品
+我們說到的用家產品
+用家產品應該是
+最適合的 最適合的
+當你建立了一個用家產品
+有幾個高級的用家產品
+我們看到的
+人們嘗試用某種
+用家產品的方式
+能夠充分地管理
+他們的控制器
+人們嘗試用某種
+用家產品的方式
+當他們建立了
+人們嘗試用
+用家產品的方式
+在學校中,他們想要記住學生的學生
+在健康中,他們想要記住
+所有的病毒和醫療
+在資金中,他們想要記住整個歷史
+所以,在任何一個LLM-based的建築中
+如果你想要更好,你需要記住
+你需要使用M0
+我們也開始看到這個很有趣的 pattern
+現在,我們不只是記住人的記憶
+人們現在其實都記住更多的記憶
+所以,他們想記住人的記憶
+所以他們想要更多的採訪
+很棒
+有時候記憶體會變成不一樣嗎?
+會有什麼樣的秘訣?
+然後你會想要用它嗎?
+對,其實這是一個很好的問題
+我們從網站看到的這個模式
+有些不同的 developer 其實是用來做不同的秘訣
+有些人會說
+我需要一個很大的秘訣
+在六個月後我不會關心任何的秘訣
+有些 developer 問我用來做什麼秘訣
+他們會關心更多的新的秘訣
+but they want to forget
+as memories get super old
+and sometimes we have
+also seen developers ask about
+али些事情
+depending on their application
+let's say someone is building
+alike a travel planner agent
+things that are related
+to travel preferences
+always matter
+no matter how old they are
+so but they still want
+to like forget other stuff
+which are probably not that relevant
+So we are seeing these
+interesting patterns
+and we have like implementations
+of each of these DK mechanisms
+Is that same thing
+like they are going to describe
+what they want in plain language?
+It is kind of
+but there are certain
+那些能夠使用,基本上,能夠使用
+好,很好
+我們先進一步
+OpenAI最近發佈了
+這類型的記憶器
+OpenAI,那些手機
+當然同樣建造了
+你還能否在那邊
+說什麼,你覺得
+對你來說
+我覺得這是好事
+我們在所有的大手機
+都在發佈記憶器
+記憶器是有利
+在他們的公司的
+貢獻項目
+而這就是
+當作是一項
+成為一個公司的
+公司的公司
+而這就是
+因为他们在运动市场需要运动的运动
+运动是一个专业的评论
+但我们的运动是好
+因为运动者们使用了很多LLMs
+当他们运动运动的运动
+对不对
+运动者们不只要认识
+运动者们也要写作
+所以这种情况
+在最后的过程中
+甚至是第一个主要的想法
+你不想把你的記憶帶到某個模式的設計上
+在模式設計上
+記憶是下一種模式
+因為模式變成了一個方式
+但為了發展
+因為他們用了很多LLM
+它應該要用來擴充
+他們想要自行使用記憶
+但不像是
+他們總是有機會改變模式
+對
+這完全有意思
+那你也說過
+你跟其他領域和朋友一起工作
+那你覺得這項鏡頭有什麼用途?
+我們不僅是供養客人,我們也會給予記憶體兩種鏡頭
+我們有一個最新的記憶體,在AWS的Agent SDK叫Strands
+我們會給予記憶體兩種鏡頭,像Crew,也有流行的
+想法是記憶體是一件事,應該是有任何的
+應該是有任何的,應該是有任何的,應該是有任何的
+所以我們給它一個簡單的功能
+讓任何Agentif Frameworks 都能看到
+而 development 用了很多 Frameworks 也能有他們的記憶
+在中間的形式 也能保持
+跟任何東西相似
+你最近發展了你的大幅度
+24 億元從BASICET 和PIC15 等
+為什麼要說C and ULAG?
+什麼可以將他們投資?
+首先,我們有24億的CED和CED
+我們的CED是由Kindred,CED-A,Basis Set
+Basis Set參加了我們的CED
+我們都很喜歡LAN
+我們很喜歡這個合作
+我們決定要做一個
+他們快點回到我們
+他們想要的事,我們就要再次
+我們也很幸運地從他們的車子上升級
+P15、Kindred、YC
+還有很多其他英雄
+也有很多英雄
+所以你們已經在車上升級
+你們已經有新的東西
+你們要做什麼?
+我們想建立最好的記憶品
+我們會用這個方法
+去建立最好的團隊
+讓我們能建立最好的團隊
+沒有其他
+我們今天建立了團隊
+我們現在有10人在印度和SF工作
+你猜什麼事
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+我們在攝影機前
+從大學上可以給我們一個一分鐘的時間
+我覺得在攝影機前
+我們正在使行動
+我們正在 trying to double down
+and shift as fast as possible
+所以就像是Full Stack, Forward Deployed, Applied AI, Research Engineer, Front-end, Back-end
+- 都是在這裡和在印度?
+- 都是,對
+- 沒錯
+- 還有我們在工作的部分,我認為在應用上,它是最難的工作
+- 你要建立一個低延遲的產品
+- 也要解決一個期待的問題
+- 所以你必須要對每個使用者的解決
+- 你必須要確保記憶體的工作能夠合理地在地上
+對,很棒
+接下來你會發生什麼?
+在這世界的記憶體內
+你的觀念會是什麼?
+一年或兩年?
+我們最近有三個言論
+我們叫做
+做好工作、做得好、做得好
+現在我們在第一兩種狀態
+記憶體上做得好
+但記憶體應該做得好
+在任何的地方上
+所以我們要繼續推動
+那些領域
+and we want to keep it neutral
+it should not be tied to anything out there
+but the broader theme that we see
+maybe which happens in like 5 to 10 years from now is like
+we are going through a technological shift
+so far we as humans have been interacting with
+any technology using swipe scroll and click
+but that's going to change
+it's going to be a lot of agentic interfaces
+for the first time you and I can chat with any app
+or can talk with any app
+and the app can talk back to you
+so we you everyone is accumulating
+rich personal data and that
+歷史也有提到很多時候
+利用期間都會變得少許不利
+五年後,在你的生活中
+你會有100個A.I. App
+在每個日常生活中
+你會有每個App
+一些普遍的教訓
+你會有101個App
+你會問為什麼不讓這個App
+我才會有
+所以這是未來的
+這是最好的目標
+如果你想要任何人或飲品
+你或我都想要所有的經驗
+我們都想要知道我們
+並且分享那些資訊
+是的
+所以這是我們期待的未來
+我們不知道當時會發生
+但我們相信
+有很高的機會
+這會發生
+在那裡
+我們想建立
+資料資料
+給今天和明天的
+期待
+好
+我們先回到你的旅程
+你希望你會告訴你
+你開始的時候
+我發現
+我的旅程
+很重要
+而且很重要
+所以我最近想
+如果做了一開始
+你希望你會發揮DFS
+而不然發揮BFS
+讓你繼續發揮
+你其實是在開始的
+所以如果你有很多的想法
+在年代的AI
+你會有很多想法
+永遠都要專注
+專注在一件事情
+去深入地建設
+談談客人的事情
+在你這個情況下
+你只要專注在那些
+飲食機器的工作程式
+就完蛋了
+對
+這是一件事
+這是一件事
+對,這不是你會推出的
+對,對
+我覺得
+我覺得
+我覺得它很 philosophically
+但是它是一件事
+我已經有試過很多次
+我覺得每一件事都可以
+你只要相信它
+你只要做好工作
+如果你是健碩的
+我已經在2012年做我的自己的公司
+我已經有13、14年了
+如果我只會想更努力
+我只會有更多的自信
+我可能會做到更努力
+所以我會說相信自己
+不必要相信自己
+但可能是
+I believe in yourself it is like very simple but powerful statement.
+That's great advice.
+Taranjit Deshanj, thank you so much for joining us today, it was great to have you.
+Thank you for having us.
