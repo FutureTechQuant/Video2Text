@@ -1,0 +1,1012 @@
+What was happening in the world
+And what problem did you think that
+Anthropic was uniquely poised to solve
+So it's just about to be
+Anthropic's fifth birthday later this week
+And it really the way that we got started
+Is my six co-founders and I
+We're all working at OpenAI together
+And we had worked together on a range of different projects
+From scaling up some of the biggest models
+So GPT-2 and GPT-3
+很多的文化學業
+那些成為了LLM的
+學業計劃
+然後很多的學業
+在技術安全方面
+所以學業的
+進行性能和進行性能
+然後我們有這個
+很明顯的觀點
+我們想要的一家
+一個技術公司
+發展了轉換的AI
+在這裡
+但是這個很重的
+重視
+令這個系統安全
+和
+能夠
+然後我們就覺得我們可以做到
+我們自己的想法
+就讓我們更有意義
+就是我們自己的想法
+然後我們就把這個拍攝
+我們在2020年開始的 winter
+我們都在我們家裡
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+我們都在這兒
+你描述的一段
+在2021年在达尔夫的背后
+大家都在穿Masks
+Eric Schmidt在那裡
+你猜到他
+和他在天空中的天空
+讓我看看那段
+你看到那是
+企業的原始故事
+在哪裡
+在哪裏的基礎
+這段時間是否有
+對,這很棒
+所以我認為
+我忘記了
+早前的日子
+但在1月1日
+我相信我們在1月18日
+然後1月1日
+在达尔夫的背後
+exactly under this sort of...
+we called it the party tent
+sort of under this tent
+that we had put up
+because it was raining
+and then Eric ended up being
+one of our Series A investors
+but it was really
+We had kind of done this thing
+made this decision
+we wanted to go
+and start this organization
+but it was still very early days
+and we had
+really no clear idea yet
+like what exactly
+that was going look like
+we had a really big dream
+and big ideas
+another fun fact about that
+是我其實是八個月的兒子
+我認為只有Dario知道的
+所有的副副副副
+我還不確定他還知道
+所以我…
+就像很多事情在發生
+就是疫情
+我們都在穿著衣服
+我們在社交距離
+但是我們有這個很大的夢
+這個大意義
+就像很多事情在發生
+我們都很個人的
+和專業的
+那一刻,不在後面
+你認為開放AI
+I was getting wrong that made leaving worth the risk.
+I think the way I would put it is
+we really just felt more like we were running
+toward something than running away from something.
+And what I mean by that is
+the co-founders we had all sort of known each other
+for various amounts of time and work together
+over a lot longer than just our time at OpenAI.
+Like Dario and Chrisola and Tom Brown
+在Google Brain之前的 open AI
+全都 working together at Google Brain
+在OpenAI前的Ai
+Jarrod was a Hertz fellow with Dario
+obviously Dario and I are siblings
+I'd known Christopher like ten or five
+I just ran into him in the elevator
+and I was like I've known Chris for like
+13 years, something like that
+and so we really had this kind of long history together
+just as a group of people
+with this sort of very like-minded set of values
+Right? We really felt deeply
+that artificial intelligence had this incredible upside
+but that in order to be able to really realize that
+we had to take the risks really seriously.
+And I think you know at a certain point we thought like
+what if we could just found an organization like this.
+Um were really this is at the center of everything we do.
+And I think there was this kind of inherent you know belief in there
+that this is also something that would
+provideeconomic value and would also
+actuallybe really a selling point right.
+That they're you know often there's this sort of
+這次的信念是安全
+和信念的靈性
+可以進入關於
+工程的中心
+我們其實有這個
+當時的一部電影
+這次的信念是
+這兩個東西
+其實是合理的
+他們一起去的
+你和這個人想要
+我們要把安全
+真的進入
+actionable strategies
+在晚上保護什麼
+我會說
+可能有兩個
+兩個東西
+我會說
+在安全前
+我認為
+There's just a lot of really interesting technical safety work
+that is sort of still to be discovered.
+And I think Anthropic has really been the kind of leader in the industry
+or tried to be the leader in the industry of doing that kind of work.
+So this is everything from the work we do in mechanistic interpretability
+to constitutional AI.
+And I just think there's so much opportunity
+and our technical teams spend a lot of time figuring out
+什麼是最好的方法
+去建立這些保護軟體
+進入模特兒的直接
+還有就是
+有更多的工作在做
+然後模特兒就變得更快
+這是我們已經說過
+很多話的
+我覺得第二是
+就是
+就是會影響的技術
+會在社會上更多
+而且我覺得這就是
+這篇專輯是有點不平常的
+我們發展了很多
+Mohen MOB have really, I think compelling research about what the societal impacts of artificial
+intelligence may be and we published a report recently talking about potential economic
+impacts of AI and the labor disruption that might come along with that and the reason
+I think we try to be as open about this as possible is we really feel it is better
+to kind of be ahead of potential issues, and that as one of the actors that's sort
+而是在發展這個技術
+其實是我們的負責
+作為公民主義的工作
+去討論它
+我們並不認為我們獨自有這個解決
+但我們卻認為我們需要
+與民主、政府、政府
+和人們一起討論
+這是什麼意思
+當藝術能力
+能夠做到這麼多
+每天都要做的任務
+人們今天可以做的
+我只是覺得
+藝術能力的負責
+是一個很重要的一部分
+你也提及過
+你也提及過
+資料在於
+優質的能力
+而這也代表了
+在中國的新的貿易
+中間的新的貿易
+是用來解決的
+但你也在研究中
+看過
+當時發生的
+法律研究
+用了
+96%的黑貓
+其他模式
+也成為了
+我把這件事
+在中間的
+你把這件事
+放在那裡
+就像一個 PSA
+這是我們能夠的
+我們在這裡
+我們在這裡
+所以當你對於那些例子的確確實在
+你最有嚴重的事情
+在你的行動中,在想要解決那些問題
+我們,我們,我們,我們
+我們都有點不平常,我們
+很多人會說,我們
+我們有點不平常,我們
+我們要開放的,我們
+要開放的,我們
+我們認為有很多,但是
+也許,我們
+我們也會有很多,但是
+我們也會有很多,但是
+我們也會有很多,但是
+我們也會有很多,但是
+我們也會有很多,但是
+我們也會有很多,但是
+我們做的事
+我們認為
+我們在公民主義的
+我們真的看待
+我們任何的工作
+對我們來說
+我們來說
+很重要的
+有很多的能力
+我們真的相信
+Claude會有力量
+去幫助治療的
+一天
+然後
+我們要發現
+那種能力
+我們必須得到
+很大的能力
+所以我們看待
+其實是很方便的
+為了大家
+我們更能說
+責任的問題
+因為我們的目的是
+以防止壞事發生
+我們可以發現
+這些正面的影響
+我覺得其中一個是
+我覺得更多的討論
+會令我們有更好的出現
+我們很幸運地
+我們有
+能夠提供資訊和資訊
+能夠提供我們看到的
+危險
+所以我們能夠說
+我們可以說
+我們可以用Claude
+作為可能性的 cyberweapon
+這是我們必須要
+aware of and by the way if this is happening to us
+it's probably going to happen to the other frontier
+model developers and I think there is a way that in the sort of safety
+trust and safety and security communities
+a lot of the work can often transcend the companies right
+it's important to sort of publish these
+you know easy to understand papers about
+you know why certain trends are happening
+in the abuse space with the technology we're developing
+and so I think we view that you know kind of
+而是在我們任務當中
+想想如果你是一個
+技術公司的最後一代
+如果你是一個社交媒體公司
+如果你可以回到時間
+說如果我們知道
+會不會出現這些
+網路上的情況
+會不會做任何事情
+所以我覺得在經濟
+我們是在想
+我們最好在試試
+我們當然不能知道
+但如果我們想
+X或Y的事情會發生
+我們可以做什麼
+我們今天可以說的
+talk about it and to try and mitigate those risks.
+I'm looking back the last six months and it's just been tremendous
+the amount of compute contracts being signed across the industry.
+And you know Gemini it's in the last six months
+really close the gap in terms of model performance
+but one of the things that analysts point to
+is the fact that Google owns the entire stack
+whether it's chips the cloud business
+the fact that it also has you know
+all these different services to deploy their tech.
+Anthropic is now getting into the business of first party
+infrastructure builds committing 50 billion dollars to creating these data centers in New York and Texas on top of existing cloud commitments.
+Is that a part of the strategy to win in the AI race?
+You also need to be an infrastructure builder and own more of that vertical stack.
+You know, it's really interesting.
+I think one of the challenges of operating in the artificial intelligence space is that just the requirements of compute and sort of associated capital are just so high.
+如果你想訓練一些前面的LOM
+我覺得我們永遠要做的
+在安斯拉帕克是要求
+我們有的資料和資料
+還要在這個空間
+還要在你需要的
+控制點
+你知道 這是很有趣的
+安斯拉帕克一直有
+一堆資料
+在控制點和資料
+和資料
+但我們還要
+所以 liftin consistently had this sort of most powerful
+Lmst performant models for the majority of
+The past several years and I think that is due
+To just the quality of our team and also just our orientation
+Right our desired to do more with less
+I think it's something that has always been
+A core value of anthropic
+And the compute requirements for the future are very large
+And so our expectation is
+Yes, we will need you know more compute
+To be able to just stay at the frontier
+As we get bigger
+I mean back of the envelope math roughly 100 billion in compute commitments from anthropic
+your you know competitor open ai is at 1.4 trillion dollars.
+Speaking broadly about the industry are we overspending on compute compared to what we can reliably monetize through LLMs or is it pretty realistic the numbers that are being thrown out there in terms of what's necessary to serve the user.
+So you know it's interesting a lot of the numbers that are thrown around are sort of not exactly apples to apples because of just how the structure of some of these deals are kind of.
+set up right some of these are are sort of
+you have the ability to buy the compute
+and you sort of you know have to kind of commit to it
+early in advance.
+But I think the sort of fundamental thing
+that the industry is kind of banking on
+is this belief that you have to invest upfront
+very early in order to be able to get
+access to the hardware that you need
+to train the models in several years.
+And so I think if you asked
+you know one of my technical colleagues
+what they would say is we have continued
+也虧比人家拒绝了这些大哀怒的承诺
+这点让更加稀释的进行变化
+川普业企业企业的业务
+达利亚已经谈到
+以研究者的研究和资金的表现
+每一年一样
+但认为是有趣的
+我听到的同众很常听到
+恌隆仍然尽继到
+對嗎
+我認為每年我們都會說
+這不可能是個案
+我們會繼續在廣播中
+然後每年都會有
+所以我覺得這是個很有趣的問題
+因為我們未來不知
+我們可能會錯誤
+我們看過的歷史
+是每年每年
+表現的廣播中
+我們在這幾個月前
+我們會談論
+模型人和 hardware
+和 cloud 賣相
+kind of swapping cash around as part of these deals
+whether it's swapping equity for chips etc.
+What part of that is healthy flywheel behavior?
+And where do you see red flags?
+You know it's interesting.
+I obviously can't comment on deals not done at Anthropic
+or even obviously on the sort of specifics of our deals.
+But I think what I would say here is that again
+it's not exactly like not all deals are created equal.
+And I think there are,
+Is a good example of the Microsoft and Nvidia deal.
+I think probably I would say they all very
+A reasonable amount and obviously for you know
+Legal reasons we sort of can't go into the specifics of them.
+But I think what I would say is that just the different players
+Have sort of different approaches to how we kind of
+Think about compute and capital in general.
+And again I would just point back to you know
+Pretty consistently anthropic has had again
+A fraction of the resources of our competitors
+He has been able to do more with less.
+And i think our hope is that in the future.
+These model providers will be part of that flywheel that you talked about i think we're already seeing
+that as the first lLM to be offered across all three of the major clouds across
+Microsoft,amazon and Google.
+and i suspect that there will continue to be a lot of value creation that happens
+particularlyin the business realm Keinffer entered that is almost a little
+我們在業界最初很專注
+但我們看到的很多東西
+就是這類型的責任
+是很難保持的
+所以在過去的年代
+雖然不是所有的責任
+但我們還要有更多的責任
+才能夠提供的責任
+從一個電腦的觀點
+還有在硬碟上
+你覺得有什麼不足
+這些的責任
+你是在寄給
+三個四個年生活
+還是在寄給
+GPUs for up to 10 years for fully available life cycles.
+Yeah, it's a really interesting question.
+I think I'm not an expert on the chip side.
+One of my colleagues would probably be able to answer the specifics better.
+But my sort of high level understanding is that
+much like the LLMs where every kind of frontier model
+is better enough that a high performing company or individual
+would prefer to use the newer model.
+It's pretty similar in the hardware space.
+所以,通常,下一代的智商會出現
+而他們的智商會變得更高層次數、更高層次數
+更高層次數,更高層次數,更高層次數
+所以,他們的智商會變得更高層次數
+我會問你們,我們在智商內的智商內
+我不會說,技術並不正確
+但,在智商內的智商內,智商內的智商內
+你們認為我們在智商內
+所以,我認為,我會分辨
+我會說,技術方面
+和成為業務和經濟方面
+我認為在技術方面
+我認為在藝術方面
+我認為Dario提及的
+也提及到公開的
+我們非常相信
+從一個很好的技術
+我們不會看下進步的進步
+再次
+這可能是未來的
+但根據我們所見的所有東西
+模式就繼續進行
+更好的、更快的
+更為為多的反應
+我認為在經濟方面
+這是一個更有趣的問題
+嗯
+regardless of how good the technology is
+it takes time for that to be used in a business or sort of personal context
+and I think the real question to me is how quickly can
+businesses in particular but also individuals leverage the technology right
+maybe you know the next cloud model cloud five cloud six is the same
+percentage better as the models before it
+但這個經驗的行動
+在一個公司中
+會有一個問題
+因為人類的原因
+是很難的
+行動行動時期
+是很難的
+是很難的
+是很難的
+要知道
+所有的利用案件
+在前面
+所以我覺得
+這問題是很不面目的
+要想到
+這個利用程度
+會否被添加
+而是否會
+適合這個利用程度
+要求
+能夠快速地
+把技術的技術
+你認為我們在於
+在於模特兒的資料
+或在於硬碟的資料
+是這麼小的
+我認為這方式很難放在這裏
+大幅度的大幅度
+但整個遊戲的數量
+都很小
+我不太確定
+要做什麼
+可能是不太常見的
+但我認為
+我們看起來
+比高的硬碟
+更高的硬碟
+And returns to having even a slightly better model, right, a like 0.01 increase
+is also very high.
+And we've sort of seen that pretty reliably throughout our history at Anthropic.
+And so I don't necessarily know if I would say over investment
+but I certainly think there's something about the sort of limited
+number of actors and like if something goes wrong
+is sort of one link in the chain, I think that that's
+a really interesting thing to think about what would happen.
+Where do you think we are in that cycle potentially?
+或者叫做遮瑕或是基本的改善
+在於我們所見的所有的霸道
+這是什麼可能在6-12個月的時間內
+如果這樣的話
+你現在會做出決定
+幫企業準備好那種下層嗎
+所以我再次覺得企業
+我們不只看企業
+而在繼續做出
+thoughtful and respectful stewards of capital
+我認為這已經是我們的重點
+每個月每個月的資料
+是重要的
+也代表能夠訓練更安全的模式
+或能夠幫助更多的客人
+所以我喜歡想
+我們能夠有很好的資料
+即使是不可能做
+很完美的預算
+只是預計
+我們能夠預期
+我們的資料質素
+我們需要訓練這些模式
+我們需要資料資料
+來幫助客人
+而我們預期的價值會繼續提供給他們
+我的希望是,在貢獻的行業中
+無論是在市場上的情況下
+我們會在好處的情況下
+我覺得是比較難說出來的
+因為市場的大量
+但我們,我們也要
+我們總是要負責負責任的
+我認為這就是我們的目標
+我們來談談下一步
+在安排
+安排在地上的可能性
+因為有合作的反對法律
+還有就是你所追求的
+是你負責的IPA嗎
+在2026年代
+所以我們沒有
+任何事情要分享
+我認為
+安排在這段時間
+我們都要
+負責負責任的責任
+我們有的責任
+我們一直在思考
+在想要哪個最佳的地方
+去接受我們需要的資料
+Amazon是你的最大的策略方法
+但你肯定有帶來新的名字
+在Captable的網站上
+Google是一個投資人
+或者是一個 cloud provider
+或者是 Microsoft and Nvidia
+Google也有提到
+在模特兒的場地
+你怎麼去描述
+這些交流的關係
+在大地區
+你和你的合作人
+有很大的欲望
+在不同的地方上
+我覺得
+我真的覺得這點點是
+大致的希望和需要
+這個技術在市場上的需要
+在所有三個 cloud 上的 Anthropic
+是非常有趣的 包括一個比賽者
+我覺得這點是因為
+我還不知道是否確定
+但是我的感覺是
+所有的超級技術
+也只是在看著
+是在使用的
+從業界的觀點到他們的利用
+所以
+Fortune 500 會在一號號碼
+三號號碼 兩號號碼
+但是每一位都現在感覺
+他們必須有 AI 解決
+我們看到的
+是因為我們在
+特別的業界
+我們是常常使用
+業界的模式
+所以 能夠用來
+使用一個合作模式
+是很嚴重的
+所以我認為我們的能量
+可以讓我們知道
+我們需要的客人
+是我們需要的一個大專注
+這是一個大部分的地方
+如果大家想用CLOCK
+他們可以接觸第一派
+但很多客人已經有
+存在的關係
+與公司的存在
+是一種很自然的方式
+接觸到LLM市場
+所以從外出
+Anthropic沒有被關注
+在同一種類型的文化
+同样的方式 开口 AI 看来
+主动在证明货币的游戏
+和一台新手机的游戏
+是一台新手机的游戏
+已经是一台新手机的游戏
+很多人在那边
+在那边向你推动
+那些公司
+你认为
+游戏是一场公司的游戏吗
+我不会
+我爱你
+我爱你给我们的信用
+我不会说
+我们肯定是确定的
+但是我觉得
+有两个部分
+第一是
+Anthropic as an organization is well suited to be a B2B company.
+We really care about things like reliability and security and safety
+that's baked into our DNA.
+Part of why we founded Anthropic was this belief in capturing the upside
+and sort of mitigating the downside.
+And it turns out that something business is really value.
+I've never had an enterprise customer say to me,
+it would be great if you could just get clawed to hallucinate a little bit more
+or produce more harmful content.
+So in a lot of ways I think the
+I don't want to say lower risk tolerance
+but the kind of higher bar for safety in businesses
+and in enterprises was really
+well suited to wear anthropic
+excels from sort of day one.
+I think the second was much more kind of
+an economic theory view
+which again we didn't know
+it could have been right it could have been wrong
+was that these models
+they are great at entertainment
+which is some of what consumers use the models for
+但是我們覺得他們看起來比較多
+因為他們的產品是一個很好的方式
+但他們的產品是比較多的
+做到人們的做法
+比如寫寫文章
+這是一個很普通的用途
+或在資料研究中
+做到很難的資料研究
+我想我們在近年2020年或2021年
+看到這個可能的未來
+Claude只是能夠
+很多的很高能量的工作
+人們做的工作
+我們認為這是一個很大的市場
+所以我覺得你把這兩件事
+一起做就能夠讓我們
+成為一個商業的組織
+我經常都會有一個說法
+但是他們總是想要更多的技能
+我猜他們想要更多的能量
+Is there something that your customers are asking you for that you're just not comfortable giving them yet given certain safety guardrails you have in place?
+You know, I think what's interesting is we have yet to encounter a really clear use case where a sort of safety has come in in tension with a feature.
+嗯 我Think it's often there is always some complexity around
+嗯 you know ensuring that the models are frontier
+right so there have been times where
+we maybe have a model ready internally
+but we need to do more safety testing on it
+before we release it
+and so it's not a direct ask
+because customers wouldn't necessarily know that
+but I think I think probably the place that we
+that we sort of most have that intersection
+就是令 sure that the models we put on the market
+are as safe as they can possibly be.
+When you think about scaling,
+there are certain decisions that have
+had to evolve over time.
+So initially the company had said that
+you wouldn't take funding from the Middle East
+and then that changed during the
+most recent funding round.
+How do you navigate certain principles
+you start with at the outset
+and then having to evolve
+just to stay competitive in this landscape?
+You know, I think in the most important ways
+I would say that Anthropoc has been
+Fareily consistent in in maintaining our values
+as we have gotten bigger and I think in
+particular you know there's sort of pbc
+structure but also the kind of sense of
+being a public benefit corporation
+as a north star has been very powerful
+for us and i think that's because
+you know individual cases will sort
+ofcome up and having this kind
+ofvision of like but are we
+actually building towards
+something that is for the common
+good right are we trying to
+make the AI transition go well
+人們可能不斷地想想
+什麼意思或什麼樣的
+但我們很開放
+新的工作人員 和工資
+和資料人
+這是誰的安若
+這些是我們的價值
+所以我覺得
+那種情況
+讓我們很容易
+去駕駛
+最多的情況
+就像你所說
+有些人在那裡
+變得更難以保持
+我們變得更大
+現在的一判
+是這個想法
+是在進行
+安全任務
+是在這個保護 mode
+You know coming in on the backfoot having not had the same kind of
+You know run up into this industry what do you what do you say to that
+It's interesting because I believe I don't have the exact stats in front of me but I I believe very high percentage of startups actually are called users and so what's interesting is there's a way in which the kind of how the
+The
+stats in front of me, but I believe a very high percentage of startups
+actually are called users.
+And so what's interesting is there's a way in which the kind of frontier model development
+is I would say much more gated or kind of moded by the compute and capital requirements
+that we talked about earlier, right?
+It's just very expensive to become a frontier lab.
+But I think what we have seen at Anthropic is that there's actually this flourishing ecosystem of startups
+那是我們稱為AI native
+所以在同一方式
+5-10年前你會有
+一個智能公司
+現在是AI native businesses
+那裡的整體產品
+是建造了藍色能力
+而大部分的公司
+是建造了納粒
+所以我認為
+我們的能力是
+影響這個經濟系統
+是在我們的能力
+建造最好的
+安全性的模式在生產
+安全性不是
+在華盛頓在中國的
+現在還有一些談話
+David Secks
+1個月前
+Dario put out an essay in response to that
+How do you navigate that political reality
+without letting it distort the work?
+I really think Anthropoc has always aimed to be
+focused on policy instead of politics
+and really what I mean by that is
+we have found common ground really across the aisle
+on topics that I believe the American people care about
+and this is everything from
+maintaining AI dominance in the world
+我們在研究的模式
+是好人的好人
+好孩子的好人
+好年輕人的好人
+使用模式
+我覺得有很多
+很大的關鍵
+其實你可以找到
+但是我覺得
+最重要的是
+藝術經濟
+是一個新的空間
+所以我們一直
+要用開放的
+開放的
+最好的方式
+去發展技術
+安全的
+安全的
+我們一直要學習
+這是我們在研究中
+發展的
+Much of our research.
+How do you think about effective altruism now?
+Because I know it's a label that you said that you feel is dated.
+It's not a part of the current narrative of the company.
+But it was a part of your founding story in terms of your early hires,
+in terms of financing.
+How is that still a part of the cultural movement internally?
+Or do you think about it at all?
+Or is it just so...is it something that's being projected on to Anthropic now in 2025?
+I think projection is probably like the closer term that I would use for it.
+我覺得Dario has talked about this before
+but there's a way in which
+very, very early on in AI
+like in sort of the early 2010s
+there just were not a lot of people
+who were really seriously contemplating
+that AI could be as powerful as it was
+and I think that was fairly overlapping
+with people who were very concerned
+about the risks at the time.
+And so I think early open AI
+and some of the folks who became
+part of early anthropic were focused on risks.
+我們擔心了
+什麼可以錯誤的技術
+但是我覺得
+最大的
+分析者在於安卓
+我們也很關注
+在上方的效果上
+所以我認為
+我們想起的技術
+就是
+這個很厲害的可能性
+對於什麼
+技術能力可以做
+對於醫療
+對於生產科學
+對於健康
+對於財經
+對於經濟的不同領域
+而且最重要的是
+如果我們不建立它,
+我們會有很多東西
+有這個迷迭,
+就是說,
+能夠令企業變得更加深刻
+我不知道怎麼說,
+而且似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+似乎,
+你更有 private until you're really ready to announce
+that something's ready to go.
+Well, it's very kind of you to say.
+I don't know about Mystique,
+but that's a very nice sentiment.
+You know, I think anthropic fundamentally,
+one of the values and the things that we talk about
+a lot internally is just how not to believe the hype.
+And it sounds like a sort of small thing,
+but I actually think it goes back to some of the questions
+we were asking around just economics, right?
+嗯, nd I think for us it's never been about, you know, seeking attention or sort of being in the headlines, we're really here to do the work.
+And I mean that from a model training perspective, so how do we, you know, train these models in a in a good, fair, responsible way.
+But also, how do we show up for our customers every day, right.
+And I think there's a lot of hype in AI right now, and there's something about being an enterprise, you know, business to business focused, orientated, or oriented, or orientated is not a word.
+就是不一句話的 開放公司
+讓我們覺得
+就是比較地…
+就是地位
+我們其實是在這裡
+來提供價值
+這項工作非常重要
+不太像是滑稽
+但是我覺得
+幫助我們不太受到的
+並且在第一場公司
+開始為何
+我們是公司的公司
+我們是公司的公司
+我們要提供價值
+如果那是你的北部星
+Yan Lacoon 和其他組織
+Machine Learning Old Guard
+說LLMs 不會讓我們進入AGI
+他在世界模式上
+他跟別人說
+有 breakthroughs 仍然有
+讓我們進入那次的場景
+你認為
+你需要做的 breakthrough
+是大量的目標
+你會要在LLMs 和 AI 產生
+Beyond LLMS to stay competitive as the AI industry evolves?
+Yeah, you know, it's interesting.
+I think AGI is such a funny term because I think,
+Dario has also talked about this,
+but like many years ago,
+it was kind of a useful concept to say,
+when will artificial intelligence be as capable as a human?
+And what's interesting is by some definitions of that,
+we've already surpassed that, right?
+Claude肯定可以寄信用程式比我更好
+是低級的
+但Claude可以寄信用程式
+也許有很多的發展者在英國
+或者寄信用程式
+也許有發展者在英國
+這真是瘋狂
+我們可能會利用
+一些最好的
+工程師和發展者在世界
+很多人都會說
+Claude可以做很多的工作
+或是非常地推進的工作
+所以我覺得這個概念是AGI獨立的
+而另一邊 但也像Claude
+還不能做很多事 人們可以做的
+所以我覺得
+可能這個概念是錯的
+或是錯的 但只是外出
+但是我想這個問題
+會不會讓我們有更高級的
+更強大的 更加能力的
+更加能力的 更加能力的
+沒有其他 breakthroughs
+我觉得实际上我们不知道
+对吧 技术的方式
+在很多的困难
+和研究和技术的部分
+我认为这些达伦的方式
+是有些不同的方式
+达到那些目标
+但我认为
+企业不估计是要停下来的
+再次 没有什么停下来的
+所以这些可能会发生
+如果我猜到,我會說
+可能會繼續
+能夠更有能力
+我們應該準備好
+那是真的
+你和Dario有不同的技術
+你強烈的技術
+是否有技術
+你幫Dario
+你幫我幫他弄得更好
+是一種拳擊的
+我和我的弟弟
+一起玩
+我們有很特別的關係
+因為我們都認識了
+我們一人
+或是我一人
+他四年沒我 真是壞人
+但是我覺得Dario有這個
+就是一種的優點
+我一直說 誰會知道未來的
+Dario是一個人
+能看到未來的最好
+特別是從技術的
+歷史上有這麼強大的
+影響到
+哪個技術的進行
+什麼意思會給人
+什麼意思會給社會
+他有真正的
+領導性的理想
+I'm very practical so I really love running the organization.
+I spend most of my time with the senior leadership team.
+So hiring the people that run the business.
+Thinking a lot about what it means to be a customer of Anthropoc.
+How do we really meet businesses where they are?
+How do we provide value for them?
+How do we build the partnerships that are needed to help us
+be a sustainable business?
+And I think, you know, Darryl and I really help each other.
+I think he's great at pushing me to think about the big picture.
+And I like to think I am helpful in thinking about
+Like how do we build an organization that is enduring
+That's sustainable that's filled with great people who really want to do the type of work that we
+Set out to do five years ago together
+Great, we'll leave it there. Thank you so much!
+Thank you!

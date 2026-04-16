@@ -1,0 +1,1012 @@
+[00:00.000 --> 00:01.360] What was happening in the world
+[00:01.360 --> 00:03.000] And what problem did you think that
+[00:03.000 --> 00:05.800] Anthropic was uniquely poised to solve
+[00:05.800 --> 00:08.440] So it's just about to be
+[00:08.440 --> 00:11.200] Anthropic's fifth birthday later this week
+[00:11.200 --> 00:14.400] And it really the way that we got started
+[00:14.400 --> 00:17.440] Is my six co-founders and I
+[00:17.440 --> 00:19.440] We're all working at OpenAI together
+[00:19.440 --> 00:23.640] And we had worked together on a range of different projects
+[00:23.640 --> 00:26.000] From scaling up some of the biggest models
+[00:26.000 --> 00:28.360] So GPT-2 and GPT-3
+[00:28.360 --> 00:30.160] 很多的文化學業
+[00:30.160 --> 00:33.320] 那些成為了LLM的
+[00:33.720 --> 00:34.840] 學業計劃
+[00:34.840 --> 00:35.800] 然後很多的學業
+[00:35.800 --> 00:37.560] 在技術安全方面
+[00:37.560 --> 00:38.600] 所以學業的
+[00:38.600 --> 00:40.600] 進行性能和進行性能
+[00:40.800 --> 00:42.960] 然後我們有這個
+[00:42.960 --> 00:45.240] 很明顯的觀點
+[00:45.240 --> 00:47.040] 我們想要的一家
+[00:47.040 --> 00:48.400] 一個技術公司
+[00:48.400 --> 00:50.240] 發展了轉換的AI
+[00:50.240 --> 00:51.200] 在這裡
+[00:51.200 --> 00:52.640] 但是這個很重的
+[00:52.640 --> 00:53.840] 重視
+[00:53.840 --> 00:55.240] 令這個系統安全
+[00:55.240 --> 00:55.960] 和
+[00:55.960 --> 00:57.480] 能夠
+[00:57.480 --> 01:00.040] 然後我們就覺得我們可以做到
+[01:00.040 --> 01:01.480] 我們自己的想法
+[01:01.480 --> 01:03.840] 就讓我們更有意義
+[01:03.840 --> 01:06.760] 就是我們自己的想法
+[01:06.760 --> 01:08.680] 然後我們就把這個拍攝
+[01:08.680 --> 01:12.480] 我們在2020年開始的 winter
+[01:12.480 --> 01:13.880] 我們都在我們家裡
+[01:13.880 --> 01:15.800] 我們都在這兒
+[01:15.800 --> 01:17.480] 我們都在這兒
+[01:17.480 --> 01:18.800] 我們都在這兒
+[01:18.800 --> 01:19.880] 我們都在這兒
+[01:19.880 --> 01:21.120] 我們都在這兒
+[01:21.120 --> 01:22.320] 我們都在這兒
+[01:22.320 --> 01:23.480] 我們都在這兒
+[01:23.480 --> 01:24.480] 我們都在這兒
+[01:24.480 --> 01:25.480] 我們都在這兒
+[01:25.480 --> 01:26.480] 我們都在這兒
+[01:26.480 --> 01:28.480] 你描述的一段
+[01:28.480 --> 01:30.480] 在2021年在达尔夫的背后
+[01:30.480 --> 01:31.480] 大家都在穿Masks
+[01:31.480 --> 01:32.480] Eric Schmidt在那裡
+[01:32.480 --> 01:33.480] 你猜到他
+[01:33.480 --> 01:35.480] 和他在天空中的天空
+[01:35.480 --> 01:37.480] 讓我看看那段
+[01:37.480 --> 01:38.480] 你看到那是
+[01:38.480 --> 01:40.480] 企業的原始故事
+[01:40.480 --> 01:41.480] 在哪裡
+[01:41.480 --> 01:43.480] 在哪裏的基礎
+[01:43.480 --> 01:45.480] 這段時間是否有
+[01:45.480 --> 01:46.480] 對,這很棒
+[01:46.480 --> 01:47.480] 所以我認為
+[01:47.480 --> 01:48.480] 我忘記了
+[01:48.480 --> 01:49.480] 早前的日子
+[01:49.480 --> 01:51.480] 但在1月1日
+[01:51.480 --> 01:53.480] 我相信我們在1月18日
+[01:53.480 --> 01:54.480] 然後1月1日
+[01:54.480 --> 01:55.480] 在达尔夫的背後
+[01:55.480 --> 01:56.760] exactly under this sort of...
+[01:56.940 --> 01:57.980] we called it the party tent
+[01:57.980 --> 01:59.360] sort of under this tent
+[01:59.360 --> 02:00.020] that we had put up
+[02:00.020 --> 02:01.560] because it was raining
+[02:01.920 --> 02:03.360] and then Eric ended up being
+[02:03.360 --> 02:05.360] one of our Series A investors
+[02:05.740 --> 02:06.440] but it was really
+[02:06.680 --> 02:07.760] We had kind of done this thing
+[02:07.760 --> 02:08.600] made this decision
+[02:08.600 --> 02:09.600] we wanted to go
+[02:09.600 --> 02:11.600] and start this organization
+[02:12.020 --> 02:13.820] but it was still very early days
+[02:13.820 --> 02:14.820] and we had
+[02:15.760 --> 02:18.140] really no clear idea yet
+[02:18.140 --> 02:19.100] like what exactly
+[02:19.100 --> 02:20.320] that was going look like
+[02:20.320 --> 02:21.420] we had a really big dream
+[02:21.420 --> 02:22.560] and big ideas
+[02:23.220 --> 02:24.500] another fun fact about that
+[02:24.500 --> 02:27.900] 是我其實是八個月的兒子
+[02:27.900 --> 02:30.220] 我認為只有Dario知道的
+[02:30.220 --> 02:31.420] 所有的副副副副
+[02:31.420 --> 02:32.820] 我還不確定他還知道
+[02:32.820 --> 02:34.820] 所以我…
+[02:34.820 --> 02:36.700] 就像很多事情在發生
+[02:36.700 --> 02:37.980] 就是疫情
+[02:37.980 --> 02:39.380] 我們都在穿著衣服
+[02:39.380 --> 02:40.900] 我們在社交距離
+[02:40.900 --> 02:42.500] 但是我們有這個很大的夢
+[02:42.500 --> 02:43.420] 這個大意義
+[02:43.420 --> 02:44.780] 就像很多事情在發生
+[02:44.780 --> 02:46.180] 我們都很個人的
+[02:46.180 --> 02:47.180] 和專業的
+[02:47.180 --> 02:49.020] 那一刻,不在後面
+[02:49.020 --> 02:51.100] 你認為開放AI
+[02:51.100 --> 02:54.260] I was getting wrong that made leaving worth the risk.
+[02:55.060 --> 02:57.340] I think the way I would put it is
+[02:57.340 --> 03:01.460] we really just felt more like we were running
+[03:01.460 --> 03:03.860] toward something than running away from something.
+[03:03.860 --> 03:06.400] And what I mean by that is
+[03:06.400 --> 03:09.960] the co-founders we had all sort of known each other
+[03:09.960 --> 03:13.560] for various amounts of time and work together
+[03:13.560 --> 03:16.460] over a lot longer than just our time at OpenAI.
+[03:16.460 --> 03:20.540] Like Dario and Chrisola and Tom Brown
+[03:20.540 --> 03:22.040] 在Google Brain之前的 open AI
+[03:22.040 --> 03:23.240] 全都 working together at Google Brain
+[03:23.240 --> 03:24.780] 在OpenAI前的Ai
+[03:25.440 --> 03:28.400] Jarrod was a Hertz fellow with Dario
+[03:28.400 --> 03:30.380] obviously Dario and I are siblings
+[03:30.380 --> 03:31.800] I'd known Christopher like ten or five
+[03:31.800 --> 03:33.100] I just ran into him in the elevator
+[03:33.100 --> 03:35.200] and I was like I've known Chris for like
+[03:35.200 --> 03:36.840] 13 years, something like that
+[03:36.840 --> 03:40.000] and so we really had this kind of long history together
+[03:40.000 --> 03:41.800] just as a group of people
+[03:41.800 --> 03:44.880] with this sort of very like-minded set of values
+[03:44.880 --> 03:46.200] Right? We really felt deeply
+[03:46.200 --> 03:49.640] that artificial intelligence had this incredible upside
+[03:49.640 --> 03:52.620] but that in order to be able to really realize that
+[03:52.620 --> 03:54.600] we had to take the risks really seriously.
+[03:54.600 --> 03:57.140] And I think you know at a certain point we thought like
+[03:57.140 --> 03:59.860] what if we could just found an organization like this.
+[03:59.860 --> 04:03.700] Um were really this is at the center of everything we do.
+[04:03.700 --> 04:07.560] And I think there was this kind of inherent you know belief in there
+[04:07.560 --> 04:09.960] that this is also something that would
+[04:09.960 --> 04:12.460] provideeconomic value and would also
+[04:12.460 --> 04:16.700] actuallybe really a selling point right.
+[04:16.700 --> 04:18.780] That they're you know often there's this sort of
+[04:18.780 --> 04:20.780] 這次的信念是安全
+[04:20.780 --> 04:22.780] 和信念的靈性
+[04:22.780 --> 04:24.780] 可以進入關於
+[04:24.780 --> 04:26.780] 工程的中心
+[04:26.780 --> 04:28.780] 我們其實有這個
+[04:28.780 --> 04:29.780] 當時的一部電影
+[04:29.780 --> 04:30.780] 這次的信念是
+[04:30.780 --> 04:31.780] 這兩個東西
+[04:31.780 --> 04:32.780] 其實是合理的
+[04:32.780 --> 04:33.780] 他們一起去的
+[04:33.780 --> 04:34.780] 你和這個人想要
+[04:34.780 --> 04:35.780] 我們要把安全
+[04:35.780 --> 04:36.780] 真的進入
+[04:36.780 --> 04:38.780] actionable strategies
+[04:38.780 --> 04:39.780] 在晚上保護什麼
+[04:39.780 --> 04:40.780] 我會說
+[04:40.780 --> 04:42.780] 可能有兩個
+[04:42.780 --> 04:43.780] 兩個東西
+[04:43.780 --> 04:44.780] 我會說
+[04:44.780 --> 04:45.780] 在安全前
+[04:45.780 --> 04:47.780] 我認為
+[04:47.780 --> 04:51.720] There's just a lot of really interesting technical safety work
+[04:51.720 --> 04:54.220] that is sort of still to be discovered.
+[04:54.220 --> 04:57.820] And I think Anthropic has really been the kind of leader in the industry
+[04:57.820 --> 05:01.180] or tried to be the leader in the industry of doing that kind of work.
+[05:01.180 --> 05:05.580] So this is everything from the work we do in mechanistic interpretability
+[05:05.580 --> 05:07.660] to constitutional AI.
+[05:07.660 --> 05:11.920] And I just think there's so much opportunity
+[05:11.920 --> 05:16.420] and our technical teams spend a lot of time figuring out
+[05:16.420 --> 05:17.420] 什麼是最好的方法
+[05:17.420 --> 05:19.220] 去建立這些保護軟體
+[05:19.220 --> 05:20.760] 進入模特兒的直接
+[05:21.420 --> 05:23.420] 還有就是
+[05:23.420 --> 05:25.020] 有更多的工作在做
+[05:25.020 --> 05:27.260] 然後模特兒就變得更快
+[05:27.260 --> 05:29.720] 這是我們已經說過
+[05:29.720 --> 05:31.220] 很多話的
+[05:31.820 --> 05:33.620] 我覺得第二是
+[05:33.620 --> 05:35.220] 就是
+[05:35.220 --> 05:37.020] 就是會影響的技術
+[05:37.020 --> 05:39.420] 會在社會上更多
+[05:39.420 --> 05:40.620] 而且我覺得這就是
+[05:40.620 --> 05:42.620] 這篇專輯是有點不平常的
+[05:42.620 --> 05:44.420] 我們發展了很多
+[05:44.420 --> 05:49.420] Mohen MOB have really, I think compelling research about what the societal impacts of artificial
+[05:49.420 --> 05:55.500] intelligence may be and we published a report recently talking about potential economic
+[05:55.500 --> 06:01.140] impacts of AI and the labor disruption that might come along with that and the reason
+[06:01.140 --> 06:07.740] I think we try to be as open about this as possible is we really feel it is better
+[06:07.740 --> 06:13.020] to kind of be ahead of potential issues, and that as one of the actors that's sort
+[06:13.020 --> 06:14.300] 而是在發展這個技術
+[06:14.300 --> 06:16.040] 其實是我們的負責
+[06:16.040 --> 06:17.660] 作為公民主義的工作
+[06:17.660 --> 06:18.780] 去討論它
+[06:18.780 --> 06:21.900] 我們並不認為我們獨自有這個解決
+[06:21.900 --> 06:22.860] 但我們卻認為我們需要
+[06:22.860 --> 06:25.020] 與民主、政府、政府
+[06:25.020 --> 06:26.500] 和人們一起討論
+[06:26.500 --> 06:27.220] 這是什麼意思
+[06:27.220 --> 06:28.380] 當藝術能力
+[06:28.380 --> 06:29.940] 能夠做到這麼多
+[06:29.940 --> 06:30.900] 每天都要做的任務
+[06:30.900 --> 06:32.220] 人們今天可以做的
+[06:32.220 --> 06:32.820] 我只是覺得
+[06:32.820 --> 06:34.100] 藝術能力的負責
+[06:34.100 --> 06:35.900] 是一個很重要的一部分
+[06:35.900 --> 06:36.860] 你也提及過
+[06:36.860 --> 06:38.460] 你也提及過
+[06:38.460 --> 06:39.420] 資料在於
+[06:39.420 --> 06:40.780] 優質的能力
+[06:40.780 --> 06:42.580] 而這也代表了
+[06:42.580 --> 06:44.740] 在中國的新的貿易
+[06:44.740 --> 06:46.420] 中間的新的貿易
+[06:46.420 --> 06:47.940] 是用來解決的
+[06:47.940 --> 06:49.820] 但你也在研究中
+[06:49.820 --> 06:50.780] 看過
+[06:50.780 --> 06:52.780] 當時發生的
+[06:52.780 --> 06:54.780] 法律研究
+[06:54.780 --> 06:55.780] 用了
+[06:55.780 --> 06:57.780] 96%的黑貓
+[06:57.780 --> 06:58.780] 其他模式
+[06:58.780 --> 06:59.780] 也成為了
+[06:59.780 --> 07:00.780] 我把這件事
+[07:00.780 --> 07:01.780] 在中間的
+[07:01.780 --> 07:02.780] 你把這件事
+[07:02.780 --> 07:03.780] 放在那裡
+[07:03.780 --> 07:05.780] 就像一個 PSA
+[07:05.780 --> 07:06.780] 這是我們能夠的
+[07:06.780 --> 07:07.780] 我們在這裡
+[07:07.780 --> 07:08.780] 我們在這裡
+[07:08.780 --> 07:12.000] 所以當你對於那些例子的確確實在
+[07:12.000 --> 07:13.460] 你最有嚴重的事情
+[07:13.460 --> 07:16.460] 在你的行動中,在想要解決那些問題
+[07:16.460 --> 07:19.800] 我們,我們,我們,我們
+[07:19.800 --> 07:21.800] 我們都有點不平常,我們
+[07:21.800 --> 07:23.800] 很多人會說,我們
+[07:23.800 --> 07:25.800] 我們有點不平常,我們
+[07:25.800 --> 07:27.800] 我們要開放的,我們
+[07:27.800 --> 07:29.300] 要開放的,我們
+[07:29.300 --> 07:30.800] 我們認為有很多,但是
+[07:30.800 --> 07:31.800] 也許,我們
+[07:31.800 --> 07:32.800] 我們也會有很多,但是
+[07:32.800 --> 07:33.800] 我們也會有很多,但是
+[07:33.800 --> 07:34.800] 我們也會有很多,但是
+[07:34.800 --> 07:35.800] 我們也會有很多,但是
+[07:35.800 --> 07:36.800] 我們也會有很多,但是
+[07:36.800 --> 07:37.800] 我們也會有很多,但是
+[07:37.800 --> 07:38.800] 我們做的事
+[07:39.800 --> 07:40.800] 我們認為
+[07:40.800 --> 07:41.800] 我們在公民主義的
+[07:41.800 --> 07:42.800] 我們真的看待
+[07:42.800 --> 07:43.800] 我們任何的工作
+[07:43.800 --> 07:44.800] 對我們來說
+[07:44.800 --> 07:45.800] 我們來說
+[07:45.800 --> 07:46.800] 很重要的
+[07:46.800 --> 07:48.800] 有很多的能力
+[07:48.800 --> 07:49.800] 我們真的相信
+[07:49.800 --> 07:51.800] Claude會有力量
+[07:51.800 --> 07:53.800] 去幫助治療的
+[07:53.800 --> 07:54.800] 一天
+[07:54.800 --> 07:55.800] 然後
+[07:55.800 --> 07:56.800] 我們要發現
+[07:56.800 --> 07:57.800] 那種能力
+[07:57.800 --> 07:58.800] 我們必須得到
+[07:58.800 --> 07:59.800] 很大的能力
+[07:59.800 --> 08:00.800] 所以我們看待
+[08:00.800 --> 08:02.800] 其實是很方便的
+[08:02.800 --> 08:03.800] 為了大家
+[08:03.800 --> 08:04.800] 我們更能說
+[08:04.800 --> 08:05.800] 責任的問題
+[08:05.800 --> 08:06.800] 因為我們的目的是
+[08:06.800 --> 08:08.800] 以防止壞事發生
+[08:08.800 --> 08:10.200] 我們可以發現
+[08:10.200 --> 08:11.700] 這些正面的影響
+[08:11.700 --> 08:13.700] 我覺得其中一個是
+[08:13.700 --> 08:15.800] 我覺得更多的討論
+[08:15.800 --> 08:17.800] 會令我們有更好的出現
+[08:17.800 --> 08:19.800] 我們很幸運地
+[08:19.800 --> 08:20.800] 我們有
+[08:20.800 --> 08:23.800] 能夠提供資訊和資訊
+[08:23.800 --> 08:25.800] 能夠提供我們看到的
+[08:25.800 --> 08:27.800] 危險
+[08:27.800 --> 08:29.300] 所以我們能夠說
+[08:29.300 --> 08:30.300] 我們可以說
+[08:30.300 --> 08:31.800] 我們可以用Claude
+[08:31.800 --> 08:32.800] 作為可能性的 cyberweapon
+[08:32.800 --> 08:34.800] 這是我們必須要
+[08:34.800 --> 08:37.140] aware of and by the way if this is happening to us
+[08:37.140 --> 08:39.660] it's probably going to happen to the other frontier
+[08:39.660 --> 08:43.800] model developers and I think there is a way that in the sort of safety
+[08:43.800 --> 08:46.740] trust and safety and security communities
+[08:46.740 --> 08:49.400] a lot of the work can often transcend the companies right
+[08:49.400 --> 08:52.400] it's important to sort of publish these
+[08:52.400 --> 08:56.200] you know easy to understand papers about
+[08:56.200 --> 08:58.940] you know why certain trends are happening
+[08:58.940 --> 09:02.100] in the abuse space with the technology we're developing
+[09:02.100 --> 09:03.700] and so I think we view that you know kind of
+[09:03.700 --> 09:05.700] 而是在我們任務當中
+[09:05.700 --> 09:08.700] 想想如果你是一個
+[09:08.700 --> 09:10.700] 技術公司的最後一代
+[09:10.700 --> 09:12.700] 如果你是一個社交媒體公司
+[09:12.700 --> 09:15.700] 如果你可以回到時間
+[09:15.700 --> 09:17.700] 說如果我們知道
+[09:17.700 --> 09:19.700] 會不會出現這些
+[09:19.700 --> 09:20.700] 網路上的情況
+[09:20.700 --> 09:22.700] 會不會做任何事情
+[09:22.700 --> 09:23.700] 所以我覺得在經濟
+[09:23.700 --> 09:24.700] 我們是在想
+[09:24.700 --> 09:25.700] 我們最好在試試
+[09:25.700 --> 09:26.700] 我們當然不能知道
+[09:26.700 --> 09:28.700] 但如果我們想
+[09:28.700 --> 09:29.700] X或Y的事情會發生
+[09:29.700 --> 09:30.700] 我們可以做什麼
+[09:30.700 --> 09:31.700] 我們今天可以說的
+[09:31.700 --> 09:33.220] talk about it and to try and mitigate those risks.
+[09:33.220 --> 09:36.880] I'm looking back the last six months and it's just been tremendous
+[09:36.880 --> 09:39.900] the amount of compute contracts being signed across the industry.
+[09:39.900 --> 09:42.900] And you know Gemini it's in the last six months
+[09:42.900 --> 09:45.580] really close the gap in terms of model performance
+[09:45.580 --> 09:47.740] but one of the things that analysts point to
+[09:47.740 --> 09:49.720] is the fact that Google owns the entire stack
+[09:49.720 --> 09:52.840] whether it's chips the cloud business
+[09:52.840 --> 09:55.140] the fact that it also has you know
+[09:55.140 --> 09:58.040] all these different services to deploy their tech.
+[09:58.040 --> 10:00.840] Anthropic is now getting into the business of first party
+[10:00.840 --> 10:09.120] infrastructure builds committing 50 billion dollars to creating these data centers in New York and Texas on top of existing cloud commitments.
+[10:09.360 --> 10:11.880] Is that a part of the strategy to win in the AI race?
+[10:11.880 --> 10:15.880] You also need to be an infrastructure builder and own more of that vertical stack.
+[10:16.360 --> 10:17.960] You know, it's really interesting.
+[10:17.960 --> 10:28.960] I think one of the challenges of operating in the artificial intelligence space is that just the requirements of compute and sort of associated capital are just so high.
+[10:28.960 --> 10:32.420] 如果你想訓練一些前面的LOM
+[10:32.420 --> 10:35.480] 我覺得我們永遠要做的
+[10:35.480 --> 10:37.080] 在安斯拉帕克是要求
+[10:37.080 --> 10:39.960] 我們有的資料和資料
+[10:39.960 --> 10:41.960] 還要在這個空間
+[10:41.960 --> 10:43.960] 還要在你需要的
+[10:43.960 --> 10:44.960] 控制點
+[10:44.960 --> 10:46.960] 你知道 這是很有趣的
+[10:46.960 --> 10:48.960] 安斯拉帕克一直有
+[10:48.960 --> 10:49.960] 一堆資料
+[10:49.960 --> 10:51.960] 在控制點和資料
+[10:51.960 --> 10:53.960] 和資料
+[10:53.960 --> 10:55.960] 但我們還要
+[10:55.960 --> 10:58.800] 所以 liftin consistently had this sort of most powerful
+[10:59.000 --> 11:02.240] Lmst performant models for the majority of
+[11:02.420 --> 11:04.960] The past several years and I think that is due
+[11:04.960 --> 11:07.580] To just the quality of our team and also just our orientation
+[11:07.580 --> 11:09.720] Right our desired to do more with less
+[11:09.720 --> 11:11.220] I think it's something that has always been
+[11:11.440 --> 11:13.220] A core value of anthropic
+[11:13.340 --> 11:17.420] And the compute requirements for the future are very large
+[11:17.600 --> 11:18.560] And so our expectation is
+[11:18.560 --> 11:21.660] Yes, we will need you know more compute
+[11:21.660 --> 11:23.500] To be able to just stay at the frontier
+[11:23.500 --> 11:25.100] As we get bigger
+[11:25.100 --> 11:29.540] I mean back of the envelope math roughly 100 billion in compute commitments from anthropic
+[11:29.540 --> 11:34.140] your you know competitor open ai is at 1.4 trillion dollars.
+[11:34.140 --> 11:46.100] Speaking broadly about the industry are we overspending on compute compared to what we can reliably monetize through LLMs or is it pretty realistic the numbers that are being thrown out there in terms of what's necessary to serve the user.
+[11:46.100 --> 11:55.060] So you know it's interesting a lot of the numbers that are thrown around are sort of not exactly apples to apples because of just how the structure of some of these deals are kind of.
+[11:55.060 --> 11:57.460] set up right some of these are are sort of
+[11:57.460 --> 11:59.260] you have the ability to buy the compute
+[11:59.260 --> 12:01.260] and you sort of you know have to kind of commit to it
+[12:01.260 --> 12:03.060] early in advance.
+[12:03.060 --> 12:05.660] But I think the sort of fundamental thing
+[12:05.660 --> 12:07.860] that the industry is kind of banking on
+[12:07.860 --> 12:10.960] is this belief that you have to invest upfront
+[12:10.960 --> 12:12.860] very early in order to be able to get
+[12:12.860 --> 12:14.260] access to the hardware that you need
+[12:14.260 --> 12:16.660] to train the models in several years.
+[12:16.660 --> 12:20.260] And so I think if you asked
+[12:20.260 --> 12:22.160] you know one of my technical colleagues
+[12:22.160 --> 12:24.660] what they would say is we have continued
+[12:24.660 --> 12:30.260] 也虧比人家拒绝了这些大哀怒的承诺
+[12:30.260 --> 12:34.080] 这点让更加稀释的进行变化
+[12:34.080 --> 12:37.440] 川普业企业企业的业务
+[12:37.440 --> 12:38.420] 达利亚已经谈到
+[12:38.420 --> 12:42.160] 以研究者的研究和资金的表现
+[12:42.160 --> 12:43.420] 每一年一样
+[12:44.560 --> 12:46.460] 但认为是有趣的
+[12:46.460 --> 12:49.280] 我听到的同众很常听到
+[12:49.280 --> 12:50.920] 恌隆仍然尽继到
+[12:50.920 --> 12:51.920] 對嗎
+[12:51.920 --> 12:53.920] 我認為每年我們都會說
+[12:53.920 --> 12:55.920] 這不可能是個案
+[12:55.920 --> 12:57.920] 我們會繼續在廣播中
+[12:57.920 --> 12:58.920] 然後每年都會有
+[12:58.920 --> 13:00.920] 所以我覺得這是個很有趣的問題
+[13:00.920 --> 13:02.920] 因為我們未來不知
+[13:02.920 --> 13:04.920] 我們可能會錯誤
+[13:04.920 --> 13:05.920] 我們看過的歷史
+[13:05.920 --> 13:07.920] 是每年每年
+[13:07.920 --> 13:09.920] 表現的廣播中
+[13:09.920 --> 13:11.920] 我們在這幾個月前
+[13:11.920 --> 13:13.920] 我們會談論
+[13:13.920 --> 13:15.920] 模型人和 hardware
+[13:15.920 --> 13:17.920] 和 cloud 賣相
+[13:17.920 --> 13:21.620] kind of swapping cash around as part of these deals
+[13:21.620 --> 13:24.620] whether it's swapping equity for chips etc.
+[13:24.620 --> 13:27.620] What part of that is healthy flywheel behavior?
+[13:27.620 --> 13:29.620] And where do you see red flags?
+[13:29.620 --> 13:30.920] You know it's interesting.
+[13:30.920 --> 13:35.920] I obviously can't comment on deals not done at Anthropic
+[13:35.920 --> 13:38.620] or even obviously on the sort of specifics of our deals.
+[13:38.620 --> 13:41.420] But I think what I would say here is that again
+[13:41.420 --> 13:44.920] it's not exactly like not all deals are created equal.
+[13:44.920 --> 13:46.520] And I think there are,
+[13:46.520 --> 13:48.800] Is a good example of the Microsoft and Nvidia deal.
+[13:48.800 --> 13:53.200] I think probably I would say they all very
+[13:53.200 --> 13:55.160] A reasonable amount and obviously for you know
+[13:55.160 --> 13:58.160] Legal reasons we sort of can't go into the specifics of them.
+[13:58.160 --> 14:01.800] But I think what I would say is that just the different players
+[14:01.800 --> 14:04.440] Have sort of different approaches to how we kind of
+[14:04.440 --> 14:07.600] Think about compute and capital in general.
+[14:07.600 --> 14:09.600] And again I would just point back to you know
+[14:09.600 --> 14:12.240] Pretty consistently anthropic has had again
+[14:12.240 --> 14:14.160] A fraction of the resources of our competitors
+[14:14.160 --> 14:17.900] He has been able to do more with less.
+[14:17.900 --> 14:20.720] And i think our hope is that in the future.
+[14:20.720 --> 14:26.000] These model providers will be part of that flywheel that you talked about i think we're already seeing
+[14:26.000 --> 14:31.180] that as the first lLM to be offered across all three of the major clouds across
+[14:31.180 --> 14:33.040] Microsoft,amazon and Google.
+[14:33.040 --> 14:38.060] and i suspect that there will continue to be a lot of value creation that happens
+[14:38.060 --> 14:42.740] particularlyin the business realm Keinffer entered that is almost a little
+[14:42.740 --> 14:45.740] 我們在業界最初很專注
+[14:45.740 --> 14:46.740] 但我們看到的很多東西
+[14:46.740 --> 14:48.740] 就是這類型的責任
+[14:48.740 --> 14:50.740] 是很難保持的
+[14:50.740 --> 14:53.740] 所以在過去的年代
+[14:53.740 --> 14:54.740] 雖然不是所有的責任
+[14:54.740 --> 14:57.740] 但我們還要有更多的責任
+[14:57.740 --> 14:59.740] 才能夠提供的責任
+[14:59.740 --> 15:00.740] 從一個電腦的觀點
+[15:00.740 --> 15:01.740] 還有在硬碟上
+[15:01.740 --> 15:03.740] 你覺得有什麼不足
+[15:03.740 --> 15:04.740] 這些的責任
+[15:04.740 --> 15:05.740] 你是在寄給
+[15:05.740 --> 15:07.740] 三個四個年生活
+[15:07.740 --> 15:09.740] 還是在寄給
+[15:09.740 --> 15:15.460] GPUs for up to 10 years for fully available life cycles.
+[15:15.460 --> 15:18.220] Yeah, it's a really interesting question.
+[15:18.220 --> 15:21.460] I think I'm not an expert on the chip side.
+[15:21.460 --> 15:24.500] One of my colleagues would probably be able to answer the specifics better.
+[15:24.500 --> 15:27.140] But my sort of high level understanding is that
+[15:27.140 --> 15:31.020] much like the LLMs where every kind of frontier model
+[15:31.020 --> 15:34.860] is better enough that a high performing company or individual
+[15:34.860 --> 15:36.940] would prefer to use the newer model.
+[15:36.940 --> 15:38.940] It's pretty similar in the hardware space.
+[15:38.940 --> 15:42.820] 所以,通常,下一代的智商會出現
+[15:42.820 --> 15:46.820] 而他們的智商會變得更高層次數、更高層次數
+[15:46.820 --> 15:48.020] 更高層次數,更高層次數,更高層次數
+[15:48.020 --> 15:51.380] 所以,他們的智商會變得更高層次數
+[15:51.380 --> 15:54.500] 我會問你們,我們在智商內的智商內
+[15:54.500 --> 15:57.380] 我不會說,技術並不正確
+[15:57.380 --> 16:01.100] 但,在智商內的智商內,智商內的智商內
+[16:01.100 --> 16:02.900] 你們認為我們在智商內
+[16:02.900 --> 16:04.780] 所以,我認為,我會分辨
+[16:04.780 --> 16:08.140] 我會說,技術方面
+[16:08.140 --> 16:10.140] 和成為業務和經濟方面
+[16:10.140 --> 16:12.640] 我認為在技術方面
+[16:12.640 --> 16:13.720] 我認為在藝術方面
+[16:13.720 --> 16:15.280] 我認為Dario提及的
+[16:15.280 --> 16:16.580] 也提及到公開的
+[16:16.580 --> 16:17.900] 我們非常相信
+[16:17.900 --> 16:19.660] 從一個很好的技術
+[16:19.660 --> 16:22.200] 我們不會看下進步的進步
+[16:22.200 --> 16:23.000] 再次
+[16:23.000 --> 16:24.400] 這可能是未來的
+[16:24.400 --> 16:26.560] 但根據我們所見的所有東西
+[16:26.560 --> 16:28.040] 模式就繼續進行
+[16:28.040 --> 16:29.760] 更好的、更快的
+[16:29.760 --> 16:32.080] 更為為多的反應
+[16:32.080 --> 16:34.080] 我認為在經濟方面
+[16:34.080 --> 16:35.800] 這是一個更有趣的問題
+[16:35.800 --> 16:36.800] 嗯
+[16:37.300 --> 16:39.800] regardless of how good the technology is
+[16:40.260 --> 16:46.400] it takes time for that to be used in a business or sort of personal context
+[16:46.700 --> 16:50.800] and I think the real question to me is how quickly can
+[16:51.300 --> 16:55.700] businesses in particular but also individuals leverage the technology right
+[16:55.860 --> 17:00.500] maybe you know the next cloud model cloud five cloud six is the same
+[17:00.500 --> 17:02.900] percentage better as the models before it
+[17:02.900 --> 17:05.500] 但這個經驗的行動
+[17:05.500 --> 17:07.900] 在一個公司中
+[17:07.900 --> 17:08.900] 會有一個問題
+[17:08.900 --> 17:09.900] 因為人類的原因
+[17:09.900 --> 17:10.900] 是很難的
+[17:10.900 --> 17:11.900] 行動行動時期
+[17:11.900 --> 17:12.900] 是很難的
+[17:12.900 --> 17:13.900] 是很難的
+[17:13.900 --> 17:14.900] 是很難的
+[17:14.900 --> 17:15.900] 要知道
+[17:15.900 --> 17:16.900] 所有的利用案件
+[17:16.900 --> 17:17.900] 在前面
+[17:17.900 --> 17:18.900] 所以我覺得
+[17:18.900 --> 17:19.900] 這問題是很不面目的
+[17:19.900 --> 17:20.900] 要想到
+[17:20.900 --> 17:21.900] 這個利用程度
+[17:21.900 --> 17:22.900] 會否被添加
+[17:22.900 --> 17:23.900] 而是否會
+[17:23.900 --> 17:25.900] 適合這個利用程度
+[17:25.900 --> 17:26.900] 要求
+[17:26.900 --> 17:27.900] 能夠快速地
+[17:27.900 --> 17:28.900] 把技術的技術
+[17:28.900 --> 17:30.900] 你認為我們在於
+[17:30.900 --> 17:32.900] 在於模特兒的資料
+[17:32.900 --> 17:34.900] 或在於硬碟的資料
+[17:34.900 --> 17:36.900] 是這麼小的
+[17:36.900 --> 17:38.900] 我認為這方式很難放在這裏
+[17:38.900 --> 17:40.900] 大幅度的大幅度
+[17:40.900 --> 17:42.900] 但整個遊戲的數量
+[17:42.900 --> 17:44.900] 都很小
+[17:44.900 --> 17:45.900] 我不太確定
+[17:45.900 --> 17:46.900] 要做什麼
+[17:46.900 --> 17:48.900] 可能是不太常見的
+[17:48.900 --> 17:50.900] 但我認為
+[17:50.900 --> 17:52.900] 我們看起來
+[17:52.900 --> 17:54.900] 比高的硬碟
+[17:54.900 --> 17:56.900] 更高的硬碟
+[17:56.900 --> 18:02.240] And returns to having even a slightly better model, right, a like 0.01 increase
+[18:02.240 --> 18:03.940] is also very high.
+[18:03.940 --> 18:08.680] And we've sort of seen that pretty reliably throughout our history at Anthropic.
+[18:08.680 --> 18:12.920] And so I don't necessarily know if I would say over investment
+[18:12.920 --> 18:15.880] but I certainly think there's something about the sort of limited
+[18:15.880 --> 18:18.260] number of actors and like if something goes wrong
+[18:18.260 --> 18:20.600] is sort of one link in the chain, I think that that's
+[18:20.600 --> 18:24.660] a really interesting thing to think about what would happen.
+[18:24.660 --> 18:26.400] Where do you think we are in that cycle potentially?
+[18:26.400 --> 18:29.920] 或者叫做遮瑕或是基本的改善
+[18:29.920 --> 18:31.340] 在於我們所見的所有的霸道
+[18:31.340 --> 18:34.240] 這是什麼可能在6-12個月的時間內
+[18:34.240 --> 18:35.120] 如果這樣的話
+[18:35.120 --> 18:36.400] 你現在會做出決定
+[18:36.400 --> 18:39.800] 幫企業準備好那種下層嗎
+[18:39.800 --> 18:43.420] 所以我再次覺得企業
+[18:43.420 --> 18:47.040] 我們不只看企業
+[18:47.040 --> 18:49.440] 而在繼續做出
+[18:49.440 --> 18:51.720] thoughtful and respectful stewards of capital
+[18:51.720 --> 18:55.280] 我認為這已經是我們的重點
+[18:55.280 --> 18:59.080] 每個月每個月的資料
+[18:59.080 --> 19:00.920] 是重要的
+[19:00.920 --> 19:05.440] 也代表能夠訓練更安全的模式
+[19:05.440 --> 19:07.520] 或能夠幫助更多的客人
+[19:07.520 --> 19:09.280] 所以我喜歡想
+[19:09.280 --> 19:11.640] 我們能夠有很好的資料
+[19:11.640 --> 19:13.080] 即使是不可能做
+[19:13.080 --> 19:14.640] 很完美的預算
+[19:14.640 --> 19:15.640] 只是預計
+[19:15.640 --> 19:17.560] 我們能夠預期
+[19:17.560 --> 19:19.080] 我們的資料質素
+[19:19.080 --> 19:21.080] 我們需要訓練這些模式
+[19:21.080 --> 19:22.720] 我們需要資料資料
+[19:22.720 --> 19:24.200] 來幫助客人
+[19:24.200 --> 19:27.600] 而我們預期的價值會繼續提供給他們
+[19:27.600 --> 19:30.720] 我的希望是,在貢獻的行業中
+[19:30.720 --> 19:32.800] 無論是在市場上的情況下
+[19:32.800 --> 19:34.300] 我們會在好處的情況下
+[19:34.300 --> 19:36.200] 我覺得是比較難說出來的
+[19:36.200 --> 19:37.400] 因為市場的大量
+[19:37.400 --> 19:39.600] 但我們,我們也要
+[19:39.600 --> 19:41.800] 我們總是要負責負責任的
+[19:41.800 --> 19:43.800] 我認為這就是我們的目標
+[19:43.800 --> 19:45.000] 我們來談談下一步
+[19:45.000 --> 19:46.120] 在安排
+[19:46.120 --> 19:47.600] 安排在地上的可能性
+[19:47.600 --> 19:49.520] 因為有合作的反對法律
+[19:49.520 --> 19:51.920] 還有就是你所追求的
+[19:51.920 --> 19:53.720] 是你負責的IPA嗎
+[19:53.720 --> 19:55.120] 在2026年代
+[19:55.120 --> 19:56.880] 所以我們沒有
+[19:56.880 --> 19:58.920] 任何事情要分享
+[19:58.920 --> 20:00.720] 我認為
+[20:00.720 --> 20:01.920] 安排在這段時間
+[20:01.920 --> 20:03.120] 我們都要
+[20:03.120 --> 20:05.040] 負責負責任的責任
+[20:05.040 --> 20:06.560] 我們有的責任
+[20:06.560 --> 20:08.120] 我們一直在思考
+[20:08.120 --> 20:10.120] 在想要哪個最佳的地方
+[20:10.120 --> 20:12.120] 去接受我們需要的資料
+[20:12.120 --> 20:14.120] Amazon是你的最大的策略方法
+[20:14.120 --> 20:16.120] 但你肯定有帶來新的名字
+[20:16.120 --> 20:18.120] 在Captable的網站上
+[20:18.120 --> 20:19.120] Google是一個投資人
+[20:19.120 --> 20:20.120] 或者是一個 cloud provider
+[20:20.120 --> 20:22.120] 或者是 Microsoft and Nvidia
+[20:22.120 --> 20:24.120] Google也有提到
+[20:24.120 --> 20:25.120] 在模特兒的場地
+[20:25.120 --> 20:26.120] 你怎麼去描述
+[20:26.120 --> 20:27.120] 這些交流的關係
+[20:27.120 --> 20:28.120] 在大地區
+[20:28.120 --> 20:29.120] 你和你的合作人
+[20:29.120 --> 20:31.120] 有很大的欲望
+[20:31.120 --> 20:32.120] 在不同的地方上
+[20:32.120 --> 20:33.120] 我覺得
+[20:33.120 --> 20:35.420] 我真的覺得這點點是
+[20:35.420 --> 20:40.120] 大致的希望和需要
+[20:40.120 --> 20:43.060] 這個技術在市場上的需要
+[20:43.060 --> 20:47.280] 在所有三個 cloud 上的 Anthropic
+[20:47.280 --> 20:49.620] 是非常有趣的 包括一個比賽者
+[20:49.620 --> 20:51.620] 我覺得這點是因為
+[20:51.620 --> 20:53.820] 我還不知道是否確定
+[20:53.820 --> 20:56.620] 但是我的感覺是
+[20:56.620 --> 20:58.220] 所有的超級技術
+[20:58.220 --> 20:59.740] 也只是在看著
+[20:59.740 --> 21:01.740] 是在使用的
+[21:01.740 --> 21:03.740] 從業界的觀點到他們的利用
+[21:03.740 --> 21:04.740] 所以
+[21:04.740 --> 21:07.740] Fortune 500 會在一號號碼
+[21:07.740 --> 21:09.740] 三號號碼 兩號號碼
+[21:09.740 --> 21:11.740] 但是每一位都現在感覺
+[21:11.740 --> 21:13.740] 他們必須有 AI 解決
+[21:13.740 --> 21:14.740] 我們看到的
+[21:14.740 --> 21:16.740] 是因為我們在
+[21:16.740 --> 21:18.740] 特別的業界
+[21:18.740 --> 21:20.740] 我們是常常使用
+[21:20.740 --> 21:22.740] 業界的模式
+[21:22.740 --> 21:24.740] 所以 能夠用來
+[21:24.740 --> 21:26.740] 使用一個合作模式
+[21:26.740 --> 21:28.740] 是很嚴重的
+[21:28.740 --> 21:30.740] 所以我認為我們的能量
+[21:30.740 --> 21:32.740] 可以讓我們知道
+[21:32.740 --> 21:34.740] 我們需要的客人
+[21:34.740 --> 21:36.740] 是我們需要的一個大專注
+[21:36.740 --> 21:38.740] 這是一個大部分的地方
+[21:38.740 --> 21:40.740] 如果大家想用CLOCK
+[21:40.740 --> 21:42.740] 他們可以接觸第一派
+[21:42.740 --> 21:44.740] 但很多客人已經有
+[21:44.740 --> 21:45.740] 存在的關係
+[21:45.740 --> 21:46.740] 與公司的存在
+[21:46.740 --> 21:48.740] 是一種很自然的方式
+[21:48.740 --> 21:50.740] 接觸到LLM市場
+[21:50.740 --> 21:51.740] 所以從外出
+[21:51.740 --> 21:53.740] Anthropic沒有被關注
+[21:53.740 --> 21:55.740] 在同一種類型的文化
+[21:55.740 --> 21:57.740] 同样的方式 开口 AI 看来
+[21:57.740 --> 21:59.280] 主动在证明货币的游戏
+[21:59.280 --> 22:01.740] 和一台新手机的游戏
+[22:01.740 --> 22:03.740] 是一台新手机的游戏
+[22:03.740 --> 22:05.740] 已经是一台新手机的游戏
+[22:05.740 --> 22:06.740] 很多人在那边
+[22:06.740 --> 22:07.740] 在那边向你推动
+[22:07.740 --> 22:08.740] 那些公司
+[22:08.740 --> 22:10.740] 你认为
+[22:10.740 --> 22:12.740] 游戏是一场公司的游戏吗
+[22:12.740 --> 22:13.740] 我不会
+[22:13.740 --> 22:14.740] 我爱你
+[22:14.740 --> 22:16.740] 我爱你给我们的信用
+[22:16.740 --> 22:17.740] 我不会说
+[22:17.740 --> 22:18.740] 我们肯定是确定的
+[22:18.740 --> 22:19.740] 但是我觉得
+[22:19.740 --> 22:21.740] 有两个部分
+[22:21.740 --> 22:23.740] 第一是
+[22:23.740 --> 22:29.780] Anthropic as an organization is well suited to be a B2B company.
+[22:29.780 --> 22:34.660] We really care about things like reliability and security and safety
+[22:34.660 --> 22:36.140] that's baked into our DNA.
+[22:36.140 --> 22:40.580] Part of why we founded Anthropic was this belief in capturing the upside
+[22:40.580 --> 22:42.380] and sort of mitigating the downside.
+[22:42.380 --> 22:45.380] And it turns out that something business is really value.
+[22:45.380 --> 22:47.940] I've never had an enterprise customer say to me,
+[22:47.940 --> 22:51.500] it would be great if you could just get clawed to hallucinate a little bit more
+[22:51.500 --> 22:53.460] or produce more harmful content.
+[22:53.460 --> 22:55.960] So in a lot of ways I think the
+[22:55.960 --> 22:58.300] I don't want to say lower risk tolerance
+[22:58.300 --> 23:01.460] but the kind of higher bar for safety in businesses
+[23:01.460 --> 23:03.140] and in enterprises was really
+[23:03.140 --> 23:05.140] well suited to wear anthropic
+[23:05.140 --> 23:07.760] excels from sort of day one.
+[23:07.760 --> 23:09.800] I think the second was much more kind of
+[23:09.800 --> 23:11.920] an economic theory view
+[23:11.920 --> 23:13.240] which again we didn't know
+[23:13.240 --> 23:15.260] it could have been right it could have been wrong
+[23:15.260 --> 23:17.760] was that these models
+[23:17.760 --> 23:20.760] they are great at entertainment
+[23:20.760 --> 23:23.300] which is some of what consumers use the models for
+[23:23.300 --> 23:29.300] 但是我們覺得他們看起來比較多
+[23:29.300 --> 23:33.300] 因為他們的產品是一個很好的方式
+[23:33.300 --> 23:36.300] 但他們的產品是比較多的
+[23:36.300 --> 23:39.300] 做到人們的做法
+[23:39.300 --> 23:42.300] 比如寫寫文章
+[23:42.300 --> 23:44.300] 這是一個很普通的用途
+[23:44.300 --> 23:47.300] 或在資料研究中
+[23:47.300 --> 23:49.300] 做到很難的資料研究
+[23:49.300 --> 23:54.300] 我想我們在近年2020年或2021年
+[23:54.300 --> 23:56.300] 看到這個可能的未來
+[23:56.300 --> 23:58.300] Claude只是能夠
+[23:58.300 --> 24:01.300] 很多的很高能量的工作
+[24:01.300 --> 24:03.300] 人們做的工作
+[24:03.300 --> 24:05.300] 我們認為這是一個很大的市場
+[24:05.300 --> 24:07.300] 所以我覺得你把這兩件事
+[24:07.300 --> 24:08.300] 一起做就能夠讓我們
+[24:08.300 --> 24:10.300] 成為一個商業的組織
+[24:10.300 --> 24:13.300] 我經常都會有一個說法
+[24:13.300 --> 24:15.300] 但是他們總是想要更多的技能
+[24:15.300 --> 24:17.300] 我猜他們想要更多的能量
+[24:17.300 --> 24:24.600] Is there something that your customers are asking you for that you're just not comfortable giving them yet given certain safety guardrails you have in place?
+[24:24.600 --> 24:36.600] You know, I think what's interesting is we have yet to encounter a really clear use case where a sort of safety has come in in tension with a feature.
+[24:36.600 --> 24:42.780] 嗯 我Think it's often there is always some complexity around
+[24:42.780 --> 24:47.940] 嗯 you know ensuring that the models are frontier
+[24:47.940 --> 24:51.260] right so there have been times where
+[24:51.260 --> 24:53.340] we maybe have a model ready internally
+[24:53.340 --> 24:55.060] but we need to do more safety testing on it
+[24:55.060 --> 24:56.420] before we release it
+[24:56.420 --> 24:57.740] and so it's not a direct ask
+[24:57.740 --> 25:00.180] because customers wouldn't necessarily know that
+[25:00.180 --> 25:03.380] but I think I think probably the place that we
+[25:03.380 --> 25:06.420] that we sort of most have that intersection
+[25:06.420 --> 25:08.720] 就是令 sure that the models we put on the market
+[25:08.720 --> 25:10.920] are as safe as they can possibly be.
+[25:10.920 --> 25:11.940] When you think about scaling,
+[25:11.940 --> 25:14.040] there are certain decisions that have
+[25:14.040 --> 25:15.260] had to evolve over time.
+[25:15.260 --> 25:17.340] So initially the company had said that
+[25:17.340 --> 25:19.260] you wouldn't take funding from the Middle East
+[25:19.260 --> 25:20.960] and then that changed during the
+[25:20.960 --> 25:22.260] most recent funding round.
+[25:22.260 --> 25:24.040] How do you navigate certain principles
+[25:24.040 --> 25:25.260] you start with at the outset
+[25:25.260 --> 25:26.180] and then having to evolve
+[25:26.180 --> 25:28.760] just to stay competitive in this landscape?
+[25:28.760 --> 25:31.800] You know, I think in the most important ways
+[25:31.800 --> 25:34.100] I would say that Anthropoc has been
+[25:34.100 --> 25:37.540] Fareily consistent in in maintaining our values
+[25:37.540 --> 25:40.140] as we have gotten bigger and I think in
+[25:40.140 --> 25:42.200] particular you know there's sort of pbc
+[25:42.200 --> 25:44.600] structure but also the kind of sense of
+[25:44.600 --> 25:46.100] being a public benefit corporation
+[25:46.100 --> 25:49.160] as a north star has been very powerful
+[25:49.160 --> 25:51.580] for us and i think that's because
+[25:51.580 --> 25:53.200] you know individual cases will sort
+[25:53.200 --> 25:55.680] ofcome up and having this kind
+[25:55.680 --> 25:57.280] ofvision of like but are we
+[25:57.280 --> 25:58.260] actually building towards
+[25:58.260 --> 25:59.400] something that is for the common
+[25:59.400 --> 26:00.620] good right are we trying to
+[26:00.620 --> 26:02.560] make the AI transition go well
+[26:02.560 --> 26:05.560] 人們可能不斷地想想
+[26:05.560 --> 26:07.560] 什麼意思或什麼樣的
+[26:07.560 --> 26:08.560] 但我們很開放
+[26:08.560 --> 26:10.560] 新的工作人員 和工資
+[26:10.560 --> 26:11.560] 和資料人
+[26:11.560 --> 26:13.560] 這是誰的安若
+[26:13.560 --> 26:14.560] 這些是我們的價值
+[26:14.560 --> 26:15.560] 所以我覺得
+[26:15.560 --> 26:16.560] 那種情況
+[26:16.560 --> 26:17.560] 讓我們很容易
+[26:17.560 --> 26:18.560] 去駕駛
+[26:18.560 --> 26:19.560] 最多的情況
+[26:19.560 --> 26:20.560] 就像你所說
+[26:20.560 --> 26:21.560] 有些人在那裡
+[26:21.560 --> 26:22.560] 變得更難以保持
+[26:22.560 --> 26:23.560] 我們變得更大
+[26:23.560 --> 26:24.560] 現在的一判
+[26:24.560 --> 26:25.560] 是這個想法
+[26:25.560 --> 26:27.560] 是在進行
+[26:27.560 --> 26:29.560] 安全任務
+[26:29.560 --> 26:31.560] 是在這個保護 mode
+[26:31.560 --> 26:35.240] You know coming in on the backfoot having not had the same kind of
+[26:35.680 --> 26:38.400] You know run up into this industry what do you what do you say to that
+[26:39.440 --> 26:44.280] It's interesting because I believe I don't have the exact stats in front of me but I I believe very high percentage of startups actually are called users and so what's interesting is there's a way in which the kind of how the
+[26:44.280 --> 26:50.480] The
+[26:50.480 --> 26:55.480] stats in front of me, but I believe a very high percentage of startups
+[26:55.480 --> 26:57.980] actually are called users.
+[26:57.980 --> 27:04.480] And so what's interesting is there's a way in which the kind of frontier model development
+[27:04.480 --> 27:09.480] is I would say much more gated or kind of moded by the compute and capital requirements
+[27:09.480 --> 27:10.480] that we talked about earlier, right?
+[27:10.480 --> 27:13.480] It's just very expensive to become a frontier lab.
+[27:13.480 --> 27:19.480] But I think what we have seen at Anthropic is that there's actually this flourishing ecosystem of startups
+[27:19.480 --> 27:21.280] 那是我們稱為AI native
+[27:21.280 --> 27:22.480] 所以在同一方式
+[27:22.480 --> 27:24.080] 5-10年前你會有
+[27:24.080 --> 27:25.080] 一個智能公司
+[27:25.080 --> 27:26.880] 現在是AI native businesses
+[27:26.880 --> 27:28.880] 那裡的整體產品
+[27:28.880 --> 27:31.480] 是建造了藍色能力
+[27:31.480 --> 27:33.480] 而大部分的公司
+[27:33.480 --> 27:34.480] 是建造了納粒
+[27:34.480 --> 27:35.780] 所以我認為
+[27:35.780 --> 27:36.880] 我們的能力是
+[27:36.880 --> 27:38.380] 影響這個經濟系統
+[27:38.380 --> 27:40.480] 是在我們的能力
+[27:40.480 --> 27:42.480] 建造最好的
+[27:42.480 --> 27:44.480] 安全性的模式在生產
+[27:44.480 --> 27:45.480] 安全性不是
+[27:45.480 --> 27:47.480] 在華盛頓在中國的
+[27:47.480 --> 27:49.340] 現在還有一些談話
+[27:49.340 --> 27:50.580] David Secks
+[27:50.580 --> 27:51.400] 1個月前
+[27:51.400 --> 27:53.440] Dario put out an essay in response to that
+[27:53.440 --> 27:55.720] How do you navigate that political reality
+[27:55.720 --> 27:57.240] without letting it distort the work?
+[27:57.980 --> 28:01.360] I really think Anthropoc has always aimed to be
+[28:01.360 --> 28:03.480] focused on policy instead of politics
+[28:03.480 --> 28:06.240] and really what I mean by that is
+[28:06.240 --> 28:09.600] we have found common ground really across the aisle
+[28:09.600 --> 28:12.480] on topics that I believe the American people care about
+[28:12.480 --> 28:14.440] and this is everything from
+[28:14.440 --> 28:16.740] maintaining AI dominance in the world
+[28:16.740 --> 28:18.740] 我們在研究的模式
+[28:18.740 --> 28:19.740] 是好人的好人
+[28:19.740 --> 28:20.740] 好孩子的好人
+[28:20.740 --> 28:21.740] 好年輕人的好人
+[28:21.740 --> 28:22.740] 使用模式
+[28:22.740 --> 28:24.740] 我覺得有很多
+[28:24.740 --> 28:25.740] 很大的關鍵
+[28:25.740 --> 28:26.740] 其實你可以找到
+[28:26.740 --> 28:27.740] 但是我覺得
+[28:27.740 --> 28:29.740] 最重要的是
+[28:29.740 --> 28:30.740] 藝術經濟
+[28:30.740 --> 28:32.740] 是一個新的空間
+[28:32.740 --> 28:33.740] 所以我們一直
+[28:33.740 --> 28:34.740] 要用開放的
+[28:34.740 --> 28:35.740] 開放的
+[28:35.740 --> 28:36.740] 最好的方式
+[28:36.740 --> 28:38.740] 去發展技術
+[28:38.740 --> 28:39.740] 安全的
+[28:39.740 --> 28:40.740] 安全的
+[28:40.740 --> 28:42.740] 我們一直要學習
+[28:42.740 --> 28:43.740] 這是我們在研究中
+[28:43.740 --> 28:44.740] 發展的
+[28:44.740 --> 28:45.640] Much of our research.
+[28:45.640 --> 28:47.340] How do you think about effective altruism now?
+[28:47.340 --> 28:50.140] Because I know it's a label that you said that you feel is dated.
+[28:50.140 --> 28:52.540] It's not a part of the current narrative of the company.
+[28:52.540 --> 28:56.540] But it was a part of your founding story in terms of your early hires,
+[28:56.540 --> 28:58.540] in terms of financing.
+[28:58.540 --> 29:02.840] How is that still a part of the cultural movement internally?
+[29:02.840 --> 29:04.040] Or do you think about it at all?
+[29:04.040 --> 29:08.240] Or is it just so...is it something that's being projected on to Anthropic now in 2025?
+[29:08.840 --> 29:13.640] I think projection is probably like the closer term that I would use for it.
+[29:13.640 --> 29:16.680] 我覺得Dario has talked about this before
+[29:16.680 --> 29:19.800] but there's a way in which
+[29:19.800 --> 29:21.640] very, very early on in AI
+[29:21.640 --> 29:25.280] like in sort of the early 2010s
+[29:25.280 --> 29:26.600] there just were not a lot of people
+[29:26.600 --> 29:28.640] who were really seriously contemplating
+[29:28.640 --> 29:31.040] that AI could be as powerful as it was
+[29:31.040 --> 29:33.400] and I think that was fairly overlapping
+[29:33.400 --> 29:34.600] with people who were very concerned
+[29:34.600 --> 29:36.200] about the risks at the time.
+[29:36.200 --> 29:38.800] And so I think early open AI
+[29:38.800 --> 29:40.800] and some of the folks who became
+[29:40.800 --> 29:43.440] part of early anthropic were focused on risks.
+[29:43.440 --> 29:44.720] 我們擔心了
+[29:44.720 --> 29:46.760] 什麼可以錯誤的技術
+[29:46.760 --> 29:47.840] 但是我覺得
+[29:47.840 --> 29:49.320] 最大的
+[29:50.600 --> 29:52.240] 分析者在於安卓
+[29:52.240 --> 29:53.480] 我們也很關注
+[29:53.480 --> 29:54.840] 在上方的效果上
+[29:54.840 --> 29:55.480] 所以我認為
+[29:55.480 --> 29:57.000] 我們想起的技術
+[29:57.000 --> 29:58.480] 就是
+[29:58.480 --> 30:00.960] 這個很厲害的可能性
+[30:00.960 --> 30:02.000] 對於什麼
+[30:02.000 --> 30:03.400] 技術能力可以做
+[30:03.400 --> 30:04.560] 對於醫療
+[30:04.560 --> 30:05.920] 對於生產科學
+[30:05.920 --> 30:07.040] 對於健康
+[30:07.040 --> 30:08.720] 對於財經
+[30:08.720 --> 30:10.840] 對於經濟的不同領域
+[30:10.840 --> 30:11.880] 而且最重要的是
+[30:11.880 --> 30:13.620] 如果我們不建立它,
+[30:13.620 --> 30:14.880] 我們會有很多東西
+[30:14.880 --> 30:16.880] 有這個迷迭,
+[30:16.880 --> 30:17.880] 就是說,
+[30:17.880 --> 30:19.880] 能夠令企業變得更加深刻
+[30:19.880 --> 30:20.880] 我不知道怎麼說,
+[30:20.880 --> 30:21.880] 而且似乎,
+[30:21.880 --> 30:22.880] 似乎,
+[30:22.880 --> 30:23.880] 似乎,
+[30:23.880 --> 30:24.880] 似乎,
+[30:24.880 --> 30:25.880] 似乎,
+[30:25.880 --> 30:26.880] 似乎,
+[30:26.880 --> 30:27.880] 似乎,
+[30:27.880 --> 30:28.880] 似乎,
+[30:28.880 --> 30:29.880] 似乎,
+[30:29.880 --> 30:30.880] 似乎,
+[30:30.880 --> 30:31.880] 似乎,
+[30:31.880 --> 30:32.880] 似乎,
+[30:32.880 --> 30:33.880] 似乎,
+[30:33.880 --> 30:34.880] 似乎,
+[30:34.880 --> 30:35.880] 似乎,
+[30:35.880 --> 30:36.880] 似乎,
+[30:36.880 --> 30:37.880] 似乎,
+[30:37.880 --> 30:38.880] 似乎,
+[30:38.880 --> 30:39.880] 似乎,
+[30:39.880 --> 30:40.880] 似乎,
+[30:40.880 --> 30:43.920] 你更有 private until you're really ready to announce
+[30:43.920 --> 30:45.320] that something's ready to go.
+[30:45.320 --> 30:47.120] Well, it's very kind of you to say.
+[30:47.120 --> 30:48.640] I don't know about Mystique,
+[30:48.640 --> 30:50.440] but that's a very nice sentiment.
+[30:50.440 --> 30:53.840] You know, I think anthropic fundamentally,
+[30:53.840 --> 30:56.360] one of the values and the things that we talk about
+[30:56.360 --> 30:59.600] a lot internally is just how not to believe the hype.
+[30:59.600 --> 31:02.520] And it sounds like a sort of small thing,
+[31:02.520 --> 31:05.400] but I actually think it goes back to some of the questions
+[31:05.400 --> 31:08.240] we were asking around just economics, right?
+[31:08.240 --> 31:16.740] 嗯, nd I think for us it's never been about, you know, seeking attention or sort of being in the headlines, we're really here to do the work.
+[31:16.740 --> 31:25.240] And I mean that from a model training perspective, so how do we, you know, train these models in a in a good, fair, responsible way.
+[31:25.240 --> 31:28.240] But also, how do we show up for our customers every day, right.
+[31:28.240 --> 31:37.740] And I think there's a lot of hype in AI right now, and there's something about being an enterprise, you know, business to business focused, orientated, or oriented, or orientated is not a word.
+[31:37.740 --> 31:39.740] 就是不一句話的 開放公司
+[31:39.740 --> 31:41.740] 讓我們覺得
+[31:41.740 --> 31:44.740] 就是比較地…
+[31:44.740 --> 31:45.740] 就是地位
+[31:45.740 --> 31:47.740] 我們其實是在這裡
+[31:47.740 --> 31:49.740] 來提供價值
+[31:49.740 --> 31:51.740] 這項工作非常重要
+[31:51.740 --> 31:53.740] 不太像是滑稽
+[31:53.740 --> 31:54.740] 但是我覺得
+[31:54.740 --> 31:56.740] 幫助我們不太受到的
+[31:56.740 --> 31:58.740] 並且在第一場公司
+[31:58.740 --> 32:00.740] 開始為何
+[32:00.740 --> 32:02.740] 我們是公司的公司
+[32:02.740 --> 32:04.740] 我們是公司的公司
+[32:04.740 --> 32:06.740] 我們要提供價值
+[32:06.740 --> 32:09.740] 如果那是你的北部星
+[32:09.740 --> 32:11.740] Yan Lacoon 和其他組織
+[32:11.740 --> 32:13.740] Machine Learning Old Guard
+[32:13.740 --> 32:16.740] 說LLMs 不會讓我們進入AGI
+[32:16.740 --> 32:18.740] 他在世界模式上
+[32:18.740 --> 32:20.740] 他跟別人說
+[32:20.740 --> 32:22.740] 有 breakthroughs 仍然有
+[32:22.740 --> 32:24.740] 讓我們進入那次的場景
+[32:24.740 --> 32:26.740] 你認為
+[32:26.740 --> 32:28.740] 你需要做的 breakthrough
+[32:28.740 --> 32:30.740] 是大量的目標
+[32:30.740 --> 32:32.740] 你會要在LLMs 和 AI 產生
+[32:32.740 --> 32:37.020] Beyond LLMS to stay competitive as the AI industry evolves?
+[32:37.020 --> 32:39.620] Yeah, you know, it's interesting.
+[32:39.620 --> 32:45.580] I think AGI is such a funny term because I think,
+[32:45.580 --> 32:47.740] Dario has also talked about this,
+[32:47.740 --> 32:49.300] but like many years ago,
+[32:49.300 --> 32:52.460] it was kind of a useful concept to say,
+[32:52.460 --> 32:57.660] when will artificial intelligence be as capable as a human?
+[32:57.660 --> 33:01.220] And what's interesting is by some definitions of that,
+[33:01.220 --> 33:02.500] we've already surpassed that, right?
+[33:02.500 --> 33:05.300] Claude肯定可以寄信用程式比我更好
+[33:05.300 --> 33:06.900] 是低級的
+[33:06.900 --> 33:08.900] 但Claude可以寄信用程式
+[33:08.900 --> 33:12.100] 也許有很多的發展者在英國
+[33:12.100 --> 33:13.700] 或者寄信用程式
+[33:13.700 --> 33:15.100] 也許有發展者在英國
+[33:15.100 --> 33:15.900] 這真是瘋狂
+[33:15.900 --> 33:18.300] 我們可能會利用
+[33:18.300 --> 33:19.500] 一些最好的
+[33:19.500 --> 33:21.700] 工程師和發展者在世界
+[33:21.700 --> 33:22.700] 很多人都會說
+[33:22.700 --> 33:26.300] Claude可以做很多的工作
+[33:26.300 --> 33:30.100] 或是非常地推進的工作
+[33:30.100 --> 33:34.360] 所以我覺得這個概念是AGI獨立的
+[33:34.360 --> 33:36.820] 而另一邊 但也像Claude
+[33:36.820 --> 33:39.900] 還不能做很多事 人們可以做的
+[33:39.900 --> 33:41.620] 所以我覺得
+[33:41.620 --> 33:46.040] 可能這個概念是錯的
+[33:46.040 --> 33:47.960] 或是錯的 但只是外出
+[33:47.960 --> 33:50.840] 但是我想這個問題
+[33:50.840 --> 33:53.220] 會不會讓我們有更高級的
+[33:53.220 --> 33:54.420] 更強大的 更加能力的
+[33:54.420 --> 33:56.420] 更加能力的 更加能力的
+[33:56.420 --> 33:58.740] 沒有其他 breakthroughs
+[33:58.740 --> 34:01.260] 我觉得实际上我们不知道
+[34:01.260 --> 34:04.860] 对吧 技术的方式
+[34:04.860 --> 34:07.260] 在很多的困难
+[34:07.260 --> 34:09.140] 和研究和技术的部分
+[34:09.140 --> 34:12.620] 我认为这些达伦的方式
+[34:12.620 --> 34:15.660] 是有些不同的方式
+[34:15.660 --> 34:17.860] 达到那些目标
+[34:17.860 --> 34:19.940] 但我认为
+[34:19.940 --> 34:22.060] 企业不估计是要停下来的
+[34:22.060 --> 34:24.260] 再次 没有什么停下来的
+[34:24.260 --> 34:26.140] 所以这些可能会发生
+[34:26.140 --> 34:28.140] 如果我猜到,我會說
+[34:28.140 --> 34:30.140] 可能會繼續
+[34:30.140 --> 34:32.140] 能夠更有能力
+[34:32.140 --> 34:34.140] 我們應該準備好
+[34:34.140 --> 34:35.140] 那是真的
+[34:35.140 --> 34:37.140] 你和Dario有不同的技術
+[34:37.140 --> 34:39.140] 你強烈的技術
+[34:39.140 --> 34:41.140] 是否有技術
+[34:41.140 --> 34:42.140] 你幫Dario
+[34:42.140 --> 34:44.140] 你幫我幫他弄得更好
+[34:44.140 --> 34:46.140] 是一種拳擊的
+[34:46.140 --> 34:48.140] 我和我的弟弟
+[34:48.140 --> 34:49.140] 一起玩
+[34:49.140 --> 34:51.140] 我們有很特別的關係
+[34:51.140 --> 34:52.140] 因為我們都認識了
+[34:52.140 --> 34:53.140] 我們一人
+[34:53.140 --> 34:54.140] 或是我一人
+[34:54.140 --> 34:56.140] 他四年沒我 真是壞人
+[34:56.140 --> 34:59.140] 但是我覺得Dario有這個
+[34:59.140 --> 35:02.140] 就是一種的優點
+[35:02.140 --> 35:04.140] 我一直說 誰會知道未來的
+[35:04.140 --> 35:05.140] Dario是一個人
+[35:05.140 --> 35:07.140] 能看到未來的最好
+[35:07.140 --> 35:09.140] 特別是從技術的
+[35:09.140 --> 35:12.140] 歷史上有這麼強大的
+[35:12.140 --> 35:13.140] 影響到
+[35:13.140 --> 35:15.140] 哪個技術的進行
+[35:15.140 --> 35:16.140] 什麼意思會給人
+[35:16.140 --> 35:18.140] 什麼意思會給社會
+[35:18.140 --> 35:20.140] 他有真正的
+[35:20.140 --> 35:22.140] 領導性的理想
+[35:22.140 --> 35:27.140] I'm very practical so I really love running the organization.
+[35:27.140 --> 35:30.140] I spend most of my time with the senior leadership team.
+[35:30.140 --> 35:32.140] So hiring the people that run the business.
+[35:32.140 --> 35:35.140] Thinking a lot about what it means to be a customer of Anthropoc.
+[35:35.140 --> 35:37.140] How do we really meet businesses where they are?
+[35:37.140 --> 35:38.140] How do we provide value for them?
+[35:38.140 --> 35:42.140] How do we build the partnerships that are needed to help us
+[35:42.140 --> 35:44.140] be a sustainable business?
+[35:44.140 --> 35:46.140] And I think, you know, Darryl and I really help each other.
+[35:46.140 --> 35:50.140] I think he's great at pushing me to think about the big picture.
+[35:50.140 --> 35:53.500] And I like to think I am helpful in thinking about
+[35:53.500 --> 35:56.780] Like how do we build an organization that is enduring
+[35:56.780 --> 36:00.980] That's sustainable that's filled with great people who really want to do the type of work that we
+[36:00.980 --> 36:04.580] Set out to do five years ago together
+[36:04.580 --> 36:06.420] Great, we'll leave it there. Thank you so much!
+[36:06.420 --> 36:07.420] Thank you!
