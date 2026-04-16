@@ -1,0 +1,706 @@
+We are going to talk about the future of AI and the workforce
+and the connection between humans and artificial intelligence
+which is obviously a topic of a lot of conversation
+over the last week and the last several months.
+Oxie, his chief architect at Palantir
+and has been on the front line of these issues
+for many years now
+and really excited to talk to you a lot about
+how Palantir sees the world in this way.
+We hear a lot from different artificial intelligence companies
+on this question of what is AI going to do
+做工作室
+然後真的
+他們會做
+人們的尋找
+為了目的
+和世界的意思
+我們如何做AI系統
+更好
+我們如何團隊
+有各種種類
+人類的
+人類
+背後
+領導
+領導
+我們開始
+在這裏
+開始在 private
+一段時間前
+我以為
+這裏會很重要
+給你們
+把這些視頻
+給世界上
+因為我並不認為
+我們在這裏
+很常見
+所以我認為
+所以謝謝你來參加我們今天
+我們在這段時間的訪問中
+我們看到的地方是
+我們的技術和能力增加人類
+而不是淘汰他們或淘汰他們
+我們也有提到
+我們在我們的網站
+所為我們有提供的技術
+讓我們看到
+他們的技術和能力增加
+他們的工作人員
+並且將他們的技術
+和能力增加
+I have done before
+but what I'm really interested in getting into today
+is talking about from a technical perspective
+what does that look like on the ground
+and how do you design a software system
+and an implementation of artificial intelligence
+in an enterprise context
+that can actually bring the best out of humans
+and how do you think about the relationship between
+AI and humans in that context
+I think that's a great prompt
+and first and foremost, thank you for having me, Jordan
+I'm excited to kind of dive into these issues
+with you these topics
+我相信有很多些很有趣的東西
+我們每天都在學習了很多
+我認為我必須挑戰自己
+在說不論有何東西是未有的
+或是我的意識是否有的
+每天都一樣
+這是年輕的時間
+我已經成功了13年
+我覺得這點
+變成可以令這項肯定的影響
+在 aware domain has never felt higher
+than it is right now
+I think I think maybe one thing I would start by
+by saying is like you know since day
+one at Palantir in much more humble
+circumstances it was always about trying to
+augment and enable decision makers
+in that case it was a handful of decision
+makers do counterterrorism
+analysts and soldiers downrange
+a very specific set of missions
+but I think that spirit has carried with us
+to the modern day so now we work
+agross 50 plus verticals
+from everything from making
+航行航行,航行航行,
+很多工作在航行防守,
+但我們仍然想很多
+什麼意思是在人們決定
+和進行這些任務
+我想現在的意見
+在種類的程度
+是,什麼是AI?
+能否是資源?
+能否是其中一種
+從增加到達的
+成功?
+我認為,你明白
+然後你把這部分推出
+我們看得到
+在這些特別的情況下
+我們會看到
+AI會把一些資訊
+或是做一些不必人類的事
+但是我們看得到
+非常多的大量努力
+和影響
+人們可以做的
+這些技術和模式
+在不同的形式和功能中
+我覺得這是很重要的
+因為
+你所說的
+其實
+因為你所說的
+是最多要有人在AI
+你必須有人在AI
+AI沒有人在AI
+而是在AI和人類的藏匯
+你會變得更加壞
+因為你不在乎人類
+而且你不在乎AI
+你能否說說
+我們怎樣去練習
+從技術方面
+我相信很多人
+會覺得
+有些人會覺得
+也算是不太技術的
+很多人都是技術技術
+在他們的自己的方式
+他們是技術技術
+他們是醫生的工作人員
+他們是一個人
+做了一個工作
+有些經驗的工作
+他們會有意義的理解
+我認為是要說的
+就是
+AI是成為
+訓練
+在現代的
+技術技術模式
+有很多資料
+在網上
+還有其他大部分的
+網路的資料
+所以它們的知識
+是很有趣的
+而他們的能力
+是挺有趣的
+但它是最大情況下的
+如果您想要使用
+您的特定醫療應用程序
+它要明白每一個工作人員
+或每一個團隊的方式
+如何做自己的決定
+為何您選擇使用
+一種資料上的資料
+以及基本上
+如何進行自己的動作
+所以我覺得
+這意味著
+您必須要有一個
+系統或一些困難
+如果您要調整AI
+我們其實有一個
+Customer that uses this term deshi
+which means intern.
+It's like an intern can be very capable
+but they know nothing about your context
+when they first join.
+So the question is how do you embed them
+into your context and give them more
+and more permission or allowable scope
+of work incrementally and do so securely.
+Yeah,and when you have
+and so I think there's a lot of
+technical dimensions to that.
+And when you have a really good intern
+they up your game also,right?
+100%
+because it's a brainstorming partner
+it's somebody who's giving you
+creative and fresh ideas
+and I assume that's where AI could go
+如果是最好的处理
+你正在uSketching right here
+对啊
+然后我刚刚说了
+如果我们想想
+这种专门整合而言
+特别有道理的效果
+这个问题是
+你有什么能力
+跟专门决定决定决定决定决定
+就有这个
+平常的经济
+你怎麼做決定
+我們想起了
+對決定的施工程序
+有些資料你用
+想起如何進行
+有些可能性
+你檢查到的
+你可能做的事
+有些 action 進行
+例如
+有些 fine-grained orchestration
+或是有些數據
+有些資料
+有些 logic or reasoning
+還有一些 action 進行
+人們會做這事
+幾乎在很多的 context
+有些是 more deliberately
+所以你必須
+連接了AIEM事態
+發射網路通電儲無交機
+finishing
+給他們
+做了一次
+比較尊敬的
+更кие技巧
+同檔示
+不同方式
+人們的使用
+產品
+因此
+explanation
+民眾
+獨存
+腔向
+領導
+另外
+how
+你
+終於
+你要
+承認
+火
+將
+副
+球
+與
+P
+致
+BL
+致
+Chipot or sort of chat interface
+is that is that correct
+I think so I think like you know
+I'm always a fan of trying to steal man
+things wherever I can
+but I think the limitations of a traditional
+Chipot paradigm or something
+where it's essentially acting like a Genie
+Right?
+It's like an I'm feeling lucky button
+when you ask one of these agents a question
+is that it's not really
+it's not embedded in the process with you
+and able to learn inductively over time
+along with as decisions are made
+而作為責任的責任
+等等等等
+它是一種像這個
+財富的交易
+我問它 它給我一個回答
+可能是好或壞
+我可以把它放在其中
+可能我用它不少
+但是我可以用很多的工作
+要求可以
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我們要求
+我,那是我和我解釋的
+如何解釋這些內容
+然後我可以慢慢地
+把腦子的轉向
+說,可能它會幫我
+做下一步
+可以選擇
+我們做的選擇
+比例的解決
+和解決的計劃
+所以我開始增加
+再試試把任何東西
+做得更好
+我們常常看到
+在這個 path dependent way
+它會把人做得更好
+更有趣的工作
+它能讓AI能夠運用一個高度設計
+讓它們做事很常做的事
+很常做的
+對 聽起來像你所說的
+是像一個動作從背後到前後
+你離開別人
+當我們想起《電腦大戰》
+我們想起了
+史蒂夫的《駕駛》
+但實際上在30年內
+人們只能用資料來進行
+傳統和傳統的傳統和傳統
+它變成了人物心思的太多
+因為你花時間在背後的辦公室
+和所有的經濟工具
+那裡有很多工具
+在任何的工業上
+在醫院我們知道
+如何讓醫生和醫生
+用紙巾做製作
+這做法在於
+他們的自由充滿
+讓他們能在高度的
+擁有人物的創意
+對 我覺得
+如果在網路計劃
+或者是在發展 或者是在軍事工作
+或者是在學習 還有兩種很重要的
+我們看到一種開始點
+是如何介紹AI 到這些 context
+第一種叫做 context bottleneck
+所以是一個人生的行動
+可能是在商量上擔任
+或是在商量上擔任
+像你所說的
+現在有很多資料
+能夠提供到什麼錯
+但我自己也不能
+完全不可以
+提供到所有的機器
+還有領域的領域
+還有領域的領域
+還有領域的領域
+有些資料和商人的資料
+有些網絡的交通資料
+你會有一點意識
+是一位人工的
+基本上要怎樣去拆除
+一些資料
+但是很不明的
+你只能不解釋
+你不能使用
+所以我認為
+我認為有興趣的是
+AI可以幫助你
+經常再次被拒絕
+和正常的採訪
+再提供更多的 context
+把你對的context
+對你對的點在進行的 process
+第二種的 bottleneck
+是capacity bottleneck
+所以我甚至
+不可以通過所有的問題
+我必須通過在日常的程度
+所以我必須
+做這些行動
+到最後的時間
+和這個數量的
+出現問題
+前我們將會關閉
+到最後的時間
+我並不能通過這些問題
+因為
+通過工作的努力
+每個人都能做得到
+我只能在時間中走過
+對比自己的領導
+所以能否AI幫我
+做得更多的事情
+和做更多…
+我認為這個行動
+是關於人們的想法
+就是想給人們
+更多的力量
+去做出他們的問題
+我認為
+是像 iron man
+還是 iron woman
+的性格
+我覺得很有趣
+對
+所以我認為
+有些人的恐懼
+AI將能夠增加
+技術和經濟
+和經濟的經濟
+因為如果我放在
+我的心裡
+對於這個系統的問題
+這令我感到很難得
+但我覺得你會容易
+把這個行動做得相當相反
+這令我感到很難得
+如果過去30年
+我們已經被淘汰
+在社會中的國家貿易
+你會看到反對的
+在社會中的工作人員
+最多的經濟經濟
+其實最多的經濟
+我們沒有說過
+經濟經濟是白色工作人員
+和他自己的心思
+和他自己的想法
+是否能能夠
+跟他做得更好
+所以我還在想
+我跟他講的
+他有什麼關係
+我跟他講的
+我跟他講的
+我跟他講的
+我跟他講的
+我跟他講的
+我跟他講的
+我跟他講的
+但是 even in the information processing paradigms
+in the original cybernetics distillation post world war 2
+there was kind of the axiom from whether it was Norbert Weiner or Vannevar Bush
+anything that can be encoded can eventually probably be automated
+if the job is just in bit space
+it's just an information space
+they're like, yeah, logically, it's going to be able to
+probably be automated in some form by a sophisticated enough machine
+or whatever term they use at the time
+some sort of Turing or von Neumann compliant algorithm
+我認為這是我們看到的,在低端的情況下
+我們在說,好,這很搞笑,
+大家可能都學會了,
+現在這就像是,
+那些領導的表現,
+是最初的,
+在低端的表現上的表現
+但是,你剛才說的,
+有很多工作在世界的 context
+有很多工作,
+並不太簡單地在這個程度上
+我認為,有任何藝術,
+OK it's like and so I think
+when people talk about, that kind
+of heat death of labor right like it's
+sort of like everything's going to
+just eventually go to a fine mist.
+it's like I think it assumes a vacuum
+where there's no competitive
+pressures and there's no frontier
+that humans are working against.
+It's like if you theta somebody in the
+enterprise like is this person's job
+is her job actually just to sift
+through these mundane issues every day.
+they'd like obviously not capable of way
+more than that but she has to and so I
+feel like what you're really seeing
+is the amplification of human
+potential to be able to deal
+而你開始吃掉那種
+下層的東西
+不常是宿命的東西
+但也有時候是
+不需要那些人的經驗
+我認為
+這件事是很沈默的
+這是我們看過的
+在行動和行動中的
+我們會看到
+這件事是很有趣的
+去到工作室
+去工作他們的工作
+然後說
+這其實是要
+重新重新重新重新重新重新
+重新重新重新重新重新
+或是說
+我現在要想起這些東西
+我都不想要重新想起人的手段
+我認為這是一個確保的標準
+你會有一個更加有利的方式
+對,這是一個例子
+我們有看過這個行動
+我們在工作時
+有人離開了
+和一些東西在每天的行動中
+被解決的
+並且在創造中
+和想起更高的問題
+對,我認為
+所有的醫療例子
+是非常強烈的
+我剛才提到的,我認為
+是
+PG&E的工作
+他們在前幾天分享了
+他們有一個很有趣的
+方向
+他們要
+提供力量
+最高的
+到 Northern California
+但他們也要
+跟消防問題和很多的安全問題
+要交流
+所以
+你試著交流
+用來擔心
+電力的部分
+叫做PSPS
+所以
+公共安全力
+因為有時會有危險或危險
+或有時會有危險的證據
+或是想要可能被關閉的
+或是利用上一個電子電池
+而能夠減少危險的時間
+現在不想要這樣
+因為人們需要關閉
+而不想要讓不需要的危險
+如果看著人們做這種工作
+呢?
+Inist morals they're an extension of the network, right? Thakes their ability to Understand.
+The grid, the circumstances,
+The factors that affect Low the factors that affect customers,
+It's almost like your like dealing with some sort of like mystical whisper of hardware and software systems,
+And seeing them able to get much more sophisticated through use of AI in Foundation where
+或者他們可以把更多資料
+給他們保護對那些
+擔心的建築和擔心的建築
+以及他們可以選擇
+找到他們還是不
+或者他們可以選擇
+更加能夠更加能夠
+更加能夠更加能夠
+更加能夠更加能夠
+更加能夠更加能夠
+我們當然是
+一部分在他們的整個程度
+但是他們能夠
+更加能夠
+減少生產
+和像是
+在過去幾年
+在這件事中
+被擔心的
+很多人都在
+擔心這些工作人員
+我們看來,在你提到的
+我認為這是一個很好的例子
+在職業的職業人員的解釋
+我們在Poundry的那些人的前提
+我們應該沒有一個失敗的想法
+但這就是一種正確的方式
+當你…
+有些人會有工作敵人
+或是一些人的手段敵人
+但這不代表我們會敵我們的職業人
+至少職業人的職業人
+不然他們會不代表敵人
+他們會想辦法使用他們的職業
+其實應該是在第一場使用的方式
+他們沒有必要跟很多東西
+跟他們一起交往
+這是怎樣看待你
+在世界上
+這場戰略能幫助對手的
+戰略能幫助對手的
+戰略能幫助對手的
+戰略能幫助對手的
+是否更是
+PG&E的例子
+或是其他事情
+你所想到的
+你的夢想
+對
+這會很酷
+如果我有時間
+或是我們人們
+會有時間
+想起這些事情
+他們會做什麼
+我認為
+它是一個好處
+我想
+它可能是
+在一些商業
+你這樣說
+fill the industry itself net displacement
+of work and of labor
+but i think what that opens up
+and what i would assume will be a positive
+some counterweight that will actually
+outgrow it over time is like
+the ability for entrepreneurs
+and people who are building net new
+companies to be able to do so
+way more productively with smaller
+groups of people but you get more
+of these companies because you
+don't need masses of people
+doing and differentiated work
+and so it's like the barrier to
+entry for being able to build
+a next generation power provider
+or a next generation logistics company
+was always so high for a lot of legitimate reasons
+when it comes to you know there's a complexity to the work
+but a lot of it was just like there's a lot of drudgery
+you have to do across all the core functions
+to even get to the starting line
+and so I think there's a lot of opportunity for like
+a rejuvenation of industry
+and almost like a creative destruction
+to occur whether you know are these incumbents
+that might be shying away from this
+through smaller more Spartan forces of people
+我覺得這可能會變成
+民主化的形式
+使民主化的一些
+商業的變化
+變得很堅定
+在一個公平的
+一段時間中
+讓我來回答
+這是一件
+民主應該知道
+在哪裡
+藝術經濟
+他們不懂
+從公共發言
+特別是
+在人類關係
+人類的關係
+如果可以看一件
+在國際交流
+或新聞的內容
+A.I. in the workforce is headed
+What's missing from that conversation?
+I think the thing that is missing is where the intelligence lies.
+So I think there's a lot of intelligence in the models themselves.
+But most of the intelligence is in the working functions
+and the human beings conducting work today.
+The thing is that information is not typically captured.
+Right? Like I kind of joke like everyone's
+It's very sci-fi to think about AI.
+It's very cybernetic.
+But it's almost like current human work is almost telepathic.
+它是像你看見人們在工作的
+在工廠工作的
+它是很驚訝
+想想看多麼的
+具體的、實際的
+和實際的技術
+他們都在用
+所以我認為
+這次的機會
+是讓大家的技術
+更加加強烈的
+並不是要把他們
+更加強烈的
+是真的
+最大的潛力
+它是一種
+充滿了
+技術的技術
+但是我們想想
+找位置
+建築的技術
+像Sham說的
+Minajuri of models that are all specific to specific use cases
+that I think flows from the lived reality of these people
+actually doing the work
+ut I think that's an untapped asset in large parts
+so, like, everyone's like, well.
+and I think there's kinda this feeling of
+Like I'm waiting for on high to give me more
+knowledge leverage to do my work
+and it's like actually, if you look around you
+that's for most of it, it's probably trapped.
+Yeah, well here's to finding out
+where those places are and unlocking them.
+so, actually thank you so much for joining us
+我真的很感激你的觀察
+謝謝 Jordyn
