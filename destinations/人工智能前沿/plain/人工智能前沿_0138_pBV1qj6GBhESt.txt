@@ -1,0 +1,1316 @@
+Cladbot is taking the world by storm right now
+and it is absolutely blowing my mind
+as well as the minds of everybody that's using it
+It is an AI assistant that not only gives you advice
+and you can chat with like the other bots
+but it will actually go and take action
+and do things on your behalf
+better than anything I've ever seen before
+and it doesn't matter what model you're using
+it can use like all of the models
+just in my own experimentation in this video
+I got it to create a chatbot with me in Slack
+created a daily AI news digest for me
+that delivers to Slack every single day
+installed cloud code for me
+so that it can go and build apps for me
+on my behalf by just giving it an app idea
+or in some cases
+I tell it a problem I need solved
+and it will go build an app for me
+I got it to install remotion
+and then generate a simple animation for me
+and I got it to completely dial in
+a virtual private server for me
+so that it could run itself
+like it basically went and gave itself
+自己的自己的教导
+去建造自己
+它是 wild
+你會要檢查這個
+Claudbot's amazing
+我們進去
+如果你最近在X
+你可能看到了
+像是一個 nonstop feed
+大家在說Claudbot
+這已經是
+XAI sphere by storm
+每個AI account
+我跟著
+都在說Claudbot
+我個人知道
+我會在AI bubble myself
+而世界的大部分
+沒有用到
+這個Claudbot thing
+所以我會把這段影片剪掉
+人們說你現在像你 own 24-7 AI employee
+會 save somebody $4,200 on a new car
+人們說Claudebot is going to run businesses of all sizes
+within a few months
+還有 over the last week
+人們在看MAC minis的前一天
+是為了安排這Claudebot的目標
+已經上升了
+所以是一大項大事
+在Ai Land
+我想做一個非常完美的影片
+所以我看了 pretty much what everybody was saying about it
+看了 all the tutorials
+試了 all the demos
+我花了很多時間在這裏
+我會給大家幾句 shout out
+給大家一些資料
+我用來搜尋這個影片
+Alex Volkov here put together
+這個Great Claude Bot Tips and Tricks article
+Robert Scobal put together
+這個Google doc here
+他也在裏面
+pretty much all of the resources
+有些人在說Claude Bot
+Shruti here put together
+A great article about the pros and cons of Claude bot
+Rahul here gave a nice write up about the security of Claude bot
+Nick here put together a 30 minute tutorial on how to get Claude bot started
+Tech friend AJ here shows how to use Amazon web services
+Free tier to set up Claude bot
+Damian player here also has a 30 minute setup guide
+That I referenced and Alex Finn here put together
+A great tutorial himself
+So I'm using all of these resources pulled them all together
+把所有的评论都拿出来
+在这段视频中
+你会明白
+什么Claudebot是
+什么人用的
+如何订买
+一些最好的使用机器
+保险和危害
+我们会盯着
+整个Claudebot的浪费
+所以我们就直接进去
+所以有五个主要的东西
+会令Claudebot
+不同于
+用Claude
+或是ChatGPT
+或者是其他其他
+功能的功能
+第一
+它在你的 computer 上映
+它将还会
+TAP INTO THE API'S OF THE CLOUD SERVICES
+like CLOD, like chatGPT if you want it to
+but it can also run local models directly on your computer
+if you want as well
+with it running on your local machine
+it has access to your files, your data, your app
+anything you can do on your computer manually
+pretty much clodbot is theoretically capable of doing
+number two you can control it from anywhere
+you can use apps like telegram and whatsapp
+and slack and message your bot from your phone
+from your ipad anywhere you want
+你能把你带进你的带子里
+然后推荐它做东西
+然后发现新闻
+第三,它有全系统的接触
+可以接触你的电脑
+和发行东西
+在你的带子里
+可以写写写书
+发行新闻
+甚至订习自己
+像我说的
+如果可以做到一个电脑
+就算是ClaudeBot
+应该可以做到的
+也好
+第四,它有一个远远的记忆
+非常大的记忆
+它记得所有的
+通过所有的
+用户
+它记得你的许多
+preferences your projects your communication style
+if there is one thing about Claude bot
+that makes it most impressive over everything else
+it's this persistent memory feature
+and the ability to go back and understand
+all of the history you have with it
+and number five it is self improving
+you can ask it to create a skill
+like a reusable workflow
+and it can write the code
+install it and start using it for you
+it is pretty crazy
+what the claims of what this can do are
+now before I get into how to set this up
+let's quickly talk about costs
+因为我觉得有点 confusion around this
+Claude Bot itself
+完全允许使用
+是开放的
+可以下转
+允许使用你的系统
+允许使用一个分开的电腦
+允许使用一个
+价值的 private server
+完全允许使用
+但如果允许使用VPS
+你必须要付钱
+如果允许使用
+用一个第二个电腦
+允许使用
+你必须要付钱
+第三点
+会有 API Costs
+所以如果你想用
+例如用Claude Opus 4.5
+你会付Claude API Fees
+如果你想用 GPT 5.2
+你會要付開放AI API fees
+如果你想要使用11 Lab
+同樣的
+任何功能你給它
+有功能的功能
+你必須付出功能
+但ClaudeBot itself
+是所有的
+功能的功能
+使用的功能
+如果你用ClaudeBot
+很多功能
+你會要付出Claude Opus 4.5 API
+你的功能能夠快速的
+你需要注意到
+現在你可以有ClaudeBot
+在使用Lama模式
+或是一種開放的Quinn模式
+有些選擇可以使用
+完全地地使用
+但如果你想使用
+最好的模式
+你可能會想
+把一些更大的公司的 API 進行
+如果你不知道
+不要擔心
+會有一點點意味
+當我們進入設定
+現在我們來談談
+你去哪個模式
+因為你會有幾個模式
+選擇第一是最簡單的選擇
+是設定在你的 own computer
+你已經使用的
+這也是最危險的選擇
+因為你會給你 access to your files and data
+如果有一個阻撓的
+或者會有錯誤
+可以用來擴大你的 computer
+但這是最簡單的方法
+如果你是在 x 最近
+你可能有看過
+人們在拍照的 Mac mini
+他們只買了
+來設定
+ClaudeBot on
+那是一个选择
+你能买一台级6000块
+那会计算这个东西
+是绝对是一个选择
+但是不必要
+如果你想要计算的级别模式
+你可能会想要一个更好的PC
+用更好的RAM
+去计算那些级别模式
+但如果你进入公司的公司
+或是开放AI
+或者是安逸
+或者是Google
+或者是公司
+那些
+你不会需要
+一个很便宜的级别模式
+所以选择3
+会计算在一个
+级别的公司
+也有 tech friend AJ here
+and Damian player here
+put together tutorials
+on how to run it
+on a free tier Amazon server
+and that's actually what we're going to do in this video
+again it doesn't need the most complex system to run this
+they even claim you could run it on a raspberry pi
+and i have seen posts of people doing exactly that
+so this thing could run on pretty much any computer
+alright so let's go ahead and get this thing set up
+now before i get any further with this video
+i want to make a quick disclaimer
+我不是工程師
+我只是一個人在網上
+貼上AI
+然後嘗試分享我所學的
+我所展示的東西
+有些是危險的
+可能是因為我沒有完全 aware of 了
+其實我所展示的東西
+我也學了從其他
+網路上的Randos
+所以如果你
+做了什麼我所展示的
+做到你的自己的危險
+還有因為保安
+我會分享一些
+更多的資料
+在我留言上
+作為我來通過他們
+我會勸你去讀書
+做好任何東西我會失去
+是清理好
+現在這樣說
+我會扣下勝利
+讓我們來做好
+首先我們要做的是
+www.aws.amazon.com
+如果已經沒有帳戶
+去創造一個
+我們會用這個自由的計劃
+在這個程度上
+它會問你求付資料
+它會允許你的帳戶
+但也會再次重新挖掘
+所以你應該沒有允許
+允許任何東西
+如果這裏已經允許
+當我們在我們的AWS帳戶
+我们要选择EC2
+这些是Amazon Virtual Cloud Server
+我们要点开放的订阅
+我们要点开放
+我会叫做Claudebot
+在OS Images里
+我们要选择Ubuntu
+在Instance 下方点开放
+我们要点开放的转圈
+我会做一个快搜索
+所以它是在自由的运动中
+你看到我们有1GB的记忆
+2GB的记忆
+4GB的8GB的记忆
+我们要8GB的记忆
+所以先選擇那一頁
+那就是我們現在要儘管
+先選擇發動時
+然後我們已經成功啟動
+我們選擇了這個時代
+它剛發揮過
+現在我們在EC2的細節
+我們選擇接接
+再選擇接接
+下方在下方
+現在我們在EC2時的電源
+我們的VPS設定
+我們現在可以充滿自由的
+現在我們要把ClaudeBot
+放在VPS
+現在要把這設定
+我們需要把Claude.bot
+这是Claudebot的 URL
+转发这里
+这里有个快开始
+还有一个小按键
+要做的是
+按键这个按键
+我们将回到
+EC2 Instance Terminal
+然后我将按键进入
+这里就像这样
+然后我会按进去
+现在我将去 install Claudebot
+好 这会花一分钟
+然后完成那设置的设置
+现在我们在上楼
+我们将接下来
+按键的设置
+它告诉我们
+这个是强硬的
+并且是丰富的
+我们要继续
+我们在vps
+我们不在自己的 computer 上
+所以我没事的
+我们先打Y
+对了
+上桌的模式
+我们先用快开始
+所以我先打Enter
+现在我会问我
+哪个模式我想要使用
+它会问为一个 API 计算
+这个会有价值
+所以这些不同的模式
+有不同价值
+Anthropic Opus 4.5
+会是最便宜的
+但也最强劳的
+如果你想要限制价值
+你可以在200块钱的
+Max Plan 上桌
+你基本上就要
+那输费用Claude
+但去选择任何模式
+你需要的
+我已经是Claude Max Subscriber
+所以我会去使用Enthropic
+我会去使用Enthropic Token
+我会去EdHit Enter 再次
+然后我会给你一些设计
+用Claude 设定Token
+在你的电脑
+然后用Generated Token 下面
+所以我会去撥一下这个小的签
+撥Claude 设定Token
+然后在我实际的电脑
+不是在AWS裡面的電腦
+我會用這個碼頭
+所以在Mac上我打開 command spacebar
+按電腦按鈕
+然後打開電腦
+如果你在Windows 電腦
+你會做相同的事
+按搜尋 打開電腦
+打開電腦
+我現在會用這個碼頭
+按到電腦的碼頭
+按Enter
+它會打開Claude website
+我會先去 authorize this
+現在它會告訴我
+建設什麼
+你已經設定了Claude Code
+你可以現在關閉這個碼頭
+所以我們先關閉這個關閉
+然後我們會開啟電腦
+我們原來的 command
+我們可以看到我們有一個圖案
+現在我會把圖案翻出來
+因為這是很明顯的原因
+我不想人們使用我的圖案
+但我們可以先去 copy 圖案
+在電腦裡面
+然後我們會把圖案
+進入在上面的
+整個圖案
+當圖案是在裡面
+按進去
+它會問我名字
+我會按進去
+然後按下 default
+然后它会问你哪个模式你想用
+我现在在Claude Max的计算项目
+它会限制我的货币
+我只要付200块钱一月
+我还不会付200块钱一月
+所以我可以用它最好的模式
+Claude Opus 4.5
+而不应该进行任何问题
+如果你在一个低级的计算项目
+或者你直接用Api
+你可能想用一个高级的模式
+比较便宜的
+但是我用的机型
+我会用Claude Opus 4.5
+我打入
+然后就要问
+哪个频道
+你想要在你的帮助里
+通知
+你也有机会
+像 Telegram
+Whatsapp
+Discord
+Google Chat
+Slaq
+Signal
+等等
+现在我帮助
+所有的团队
+在Slaq
+和我的
+实际人生团队
+所以我会保持
+这个在Slaq
+所以就在
+同一个地方
+我帮助
+任何人
+所以我打入
+当我帮助
+选择Slaq
+然后就要
+帮助我
+要帮助
+在Slaq
+一些人
+喜欢名字的帮助
+我不是一個粉絲
+我只會叫Claudbot
+但你做到的,你還是要做到的
+如果你想給我一個名字,就去找我
+我會按Enter
+然後給我一些教訓
+現在我會到API.SLACK.COM
+通過Apps
+然後我會打開新的App
+然後我會打開Scratch
+我會叫Claudbot
+然後在我的工作室
+我會選擇我的個人工作室
+我們先打開App
+然後我們有些選擇
+基本上我們要跟進教訓
+我们有的在这里
+它说
+添加添加模式
+添加了添加程式的程式
+所以我们按添加模式
+然后添加添加模式
+我不太知道
+我怎么叫添加名字
+所以我只会叫它
+Gladbot
+然后我们按添加
+我会再建立一个
+添加程式的设计
+然后我会把这些
+添加程式的设计
+交给这个添加程式
+但是我会把
+我的第二个模式
+所以你不可以
+看到我的添加程式
+我们按完
+现在它说
+Owath 和设计
+设计 添加程式
+所以你会把
+你會把所有的資料都填寫在
+App Manifest的下方
+這是簡單的方法
+把所有東西都填寫得很快
+按到那一頁
+你會看到一個盒子
+可以填寫JSON
+如果我再往這邊跳進去
+有些字幕的設計
+你可以看到這裡有一個
+Dock here for Slack
+我們先開啟Dock
+按一個新的鍵盤
+然後我們會填寫
+Dock where it shows Manifest
+這就是這裡
+我們會把整個Manifest填寫
+現在我們有這個Manifest填寫
+我們會回到這裡
+我會選擇指定A
+選擇所有
+然後選擇這位模式
+然後我們會 save our changes
+現在我會選擇Oath
+和 permissions
+在左邊的bar
+而那模式剛剛做的
+就是它製作了
+所有的獲得
+我們給了這套
+ClaudeBot access to
+在 Slack
+所以如果我選擇
+MAT Wolf now
+它會問我
+想要讓這個
+在我的工作室裡
+我會選擇讓
+然後我會有
+成功的訊息
+我现在有一个用户的Token
+和一个Bot的Token
+我们要用两个Token
+所以我会把这些Token
+与我用户的评评
+然后我们再进入
+EC2的机构
+然后在这里
+它说进入你的BotToken
+所以我会把BotToken
+用户的Token
+我们之前的Token
+是XOXB的机构
+然后我会把我的机构
+进入这里
+我会打进去
+然后它在问
+发行的BotToken
+它是XAPP的机构
+那是我们第一次的机构
+我會把我的名字封住
+然後它問我們想把slack channel access
+我會打開Enter on Yes
+for slack channel access
+我會先做推薦設定
+for allow list
+所以我會打開Enter
+然後在slack
+我會創造一個新channel
+所以我會把slack的部分推薦
+我已經分開了我的小組
+所以你不可以看到他們
+但我們會創造一個新channel
+我會叫我的Claudbot channel
+因為Claudbot的 username
+已經被我們創造的
+所以我會按Next on that
+我會做它 private
+所以它只有我
+然後再打開
+現在我已經有我的Claudbot channel
+我會移動slack 到側面
+然後在我移動的輪圈
+我會讓它有 access to
+Claudbot channel
+我會按Enter
+現在它在問我如果我想要 install skills
+然後對
+我們先去 and let it install skills
+我會按Enter on yes
+它想要給我展示 Homebrew install command
+我會按Yes
+我會繼續按Enter
+按到Default options here
+然後現在
+這裡有整整的技術
+我可以 install from day one
+我可以使用 Apple Notes 和 Apple Reminders
+有一个 Cloud Hub
+去搜搜、订阅、发布、发布
+发行者技术在 Cloud Hub
+肯定想做这个
+所以我会打开空间键
+去选择它
+有一个 Gemini CLI
+我们订阅这个
+有一个会选择视频的镜头
+那声音很棒
+Sumriser 选择
+文件、文件、文件、文件、文件、文件、文件、文件、文件、文件
+对,这声音很好
+现在你不必要订阅
+所有的视频
+你可以告诉你的贝斯
+去订阅它们
+但是我會選擇一些更多
+讓我們做開眼的宣傳
+讓我們做說話
+讓我們做能力去做PDF
+讓我們放了Nano Banana
+讓我們做一個技巧
+讓我們用來觀察
+一個網路看守的網路看守
+那會很便宜
+我們可以設定Apple Notes
+我覺得那應該是好處的
+所以我會按Enter
+讓它開始安裝
+所有的技巧和關卡
+它在問我如果要設定
+Google Places API 鍵
+我會說不
+現在我們會做很多這個技巧
+Later because we can have our cloud for us.
+I'm just going to hit no on most of these API requests right now
+because again, we will add them in a little bit.
+I'm going to turn on these available hooks here and hit enter.
+Let it install all of that.
+I'm going to use the recommended option here
+and now we're in cloudbot.
+So check this out.
+Hey, I just came online and it's quite in here.
+Fresh workspace, no memories yet.
+Just me and a bootstrap script
+telling me to figure out who I am.
+So who am I?
+Who are you?
+I don't have a name yet.
+No personality locked in.
+Just potential and a bunch of empty files
+waiting to be filled.
+Kind of exciting honestly.
+What should we call me?
+更重要的是
+誰在說話
+告訴我自己
+你會想什麼
+從一個AI的朋友
+什麼是嚴重的
+專業
+好奇
+有趣
+有幫助
+等等
+我們來解決這件事
+所以在看Alex Finn's影片
+我會測試
+他所說的第一件事
+你應該做的
+就是腦袋
+給你一些細節
+然後當你明白
+你是誰
+可以說明
+方法可以幫助你
+所以我會先把東西搜索
+但我會放在這裡
+所以你不必要看我搜索
+然後我們會看
+接下來的事情
+Alright, so I typed up a little bit of a brain dumb
+I don't think I put anything too personal in there
+so feel free to pause it and read what I wrote
+if you have the time and feel like it
+Let's go ahead and send that in and see what it says back to me
+Alright Matt Wolf Man
+I couldn't have asked for a more interesting human to work with
+AI content creator investor podcast host family man
+podgeracePan
+You're living in the exact space I exist in
+This is going to be fun
+Clawdbot.it is simple functional.no ego
+get this written down so I don't forget who we both are
+我只是說了一切記憶
+然後我們會有更多的資料
+完成
+我已經把你寫下來
+我自己的第一記憶
+然後把我寫到的 雙字圖片
+我現在存在了
+好 馬上來 馬上來
+我正在開設
+I've got tools to read write files
+run command search the web
+control browsers manage cron jobs
+for scheduled tasks
+and send messages across different platforms
+a few questions to figure out
+how useful I can actually be
+how do you want to reach me
+what's on fire right now
+any immediate projects
+alright let me go ahead and pause
+and answer some of the questions
+so I accidentally just answered
+the first question
+cause I hit enter to a new line
+and it submitted it
+so oops my bad
+but the first question was
+how do you prefer to reach me
+and I said I prefer to chat with you via Slack
+我相信已經設定了
+但是不確定是還在工作
+然後說
+SLAAC是 live and connected
+資料顯示是 on and ok
+所有東西都設定了
+現在設定了
+我可以只回應在頻道
+直接地凹凹
+所以ClaudeBot頻道
+是他唯一凹凹的頻道
+所以你現在有兩種選擇
+選A DME directly in Slack
+或是選B
+用ClaudeBot頻道
+然後他問如果想
+給我發送一條測試訊息
+去確認
+所以我們先說
+請發送一條測試訊息
+to slack to confirm that it's working
+alright so it's not connected to slack
+there's some sort of API misconfiguration
+i may have pasted the wrong API key in
+ok so we found the problem
+by just chatting with clodbot here
+and it says because i created this as a private channel
+i actually have to invite clodbot to the channel
+it tells me exactly what i need to do
+slash invite at clodbot
+i'm just gonna copy and paste it
+cause i'm lazy
+jump into slack
+And let's invite our Claudebot in
+Now Claudebot has joined
+And I will let it know
+I've invited you to the channel
+Please try messaging me again
+Alright, I just saw a notification light up in Slack
+So I think something's working
+Let's jump over to Slack
+Hey, Matt Claudebot here
+Slak is working
+This is our private channel
+Just you and me, hit me up anytime
+So now I don't need to be in this annoying
+Terminal window anymore
+You can see it says here
+We're live on Slack now
+You can DM me there
+Or use that private channel whenever you want
+I'll respond just like I do here
+What's next on your list?
+Just to make sure that this is okay
+I'm gonna say I'm closing down the terminal now
+I will chat with you on Slack
+Is that okay?
+Absolutely, I'm all set up and listening on Slack
+Talk to you there
+So we're good
+I can close out of all of this
+I don't need any of my Amazon and things open
+My Slack API can be closed
+Everything is good to go
+And we now have our conversations over here
+Inside of Slack
+How cool is this?
+So let's go ahead and send Claudebot a message here
+這個訊息是我從Alex Finn的提議
+他的訊息指出
+當你找到Claudbot在跑的時候
+基本上問它是什麼可以做到
+所以我會先去找Claudbot
+然後我會給它一個訊息
+根據你所知道的東西
+你覺得可以幫我做什麼
+什麼是你的優點
+可以幫你做的
+然後Claudbot回答
+在你的 profile 上面
+我看到最大的重點
+資料、資料、資料
+公佈AI news throughout the week
+在你的 Friday video
+資料、資料、資料、資料
+Ready to go scout new AI tools for future tools
+research guests slash topics for the next wave
+email message triage if you connect email
+I can surface what's actually important
+versed noise, draft responses to common requests
+first flag time sensitive stuff
+set up cron jobs to track new AI product launches
+social mentions, competitor content
+daily weekly digest instead of you checking 47 tabs
+calendar and reminders
+so all right quick wins I can set up today
+weekly AI news aggregator
+automated search plus summary delivered to you
+new tool alerts, monitor product hunt, hacker news
+and twitter for ai tool in an inbox zero system
+rules for categorizing incoming email awesome
+so now I can actually just reply to this message inside of Slack
+if I click reply here then I don't think I need to tag Claude bot
+but let's find out real quick
+I'd like to do a daily news aggregator
+where you find me ai news every single day
+我現在要你送我第一張
+現在
+先送給你
+手指通過了
+這個回答正確
+我沒有想要用截圖
+發佈日常日報
+Cron job for you
+我會發佈第一張
+現在
+有幾個預約
+讓我修改Cron format
+用 browser search instead
+所以好像已經試過修改
+找到預約
+已經找到預約
+那些預約
+好,有預約
+讓我拿更多資料
+然後修改Cron format
+我現在沒有做任何事
+这就是为了我做的
+现在我明白这个设计
+让我继续做这个狂妥
+还给我发送了新的
+看看我什么都好
+Chris Pratt的AI演员
+解决了
+ChetGPT的Altless Browser
+有达成的
+Google DeepMind
+AquaHires Hume AI CEO
+TrainAct
+介绍了昌格斯
+SandyOakomicCon
+连接AI艺术
+Grocks DeepFakeProblem
+AI时间 save reality check
+现在它说
+每天在8点平时
+我会发现新的新故事
+我希望可以找到一些新的項目
+讓大家知道
+我會在網上寫到
+有什麼需要做的
+我希望可以在網上寫
+用Claude Code 寫到
+我給你們新的項目
+可以把任何東西
+做成這樣嗎
+看來幾秒後
+Claude Code 寫到
+寫到
+我可以在網上寫
+Cli 動畫
+我會在項目裡
+review deploy it from there
+Huh, what do I want it to build for me?
+You know what?
+Let's get it to install the remotion skill
+that allows it to make animations
+and see if it can handle that.
+So let me go and find it real quick.
+Let me go to my ex account search up remotion.
+Alright, so here's the remotion website.
+What's the little command that I need?
+Alright, so we've got the remotion package manager here.
+Let's just go ahead and copy this
+and I'll jump back into Slack
+and say install remotion and any necessary dependencies
+here's the command to get it installed
+and then I got to remember to tag at clodbot here
+and let's see if we can get it to install remotion
+interesting when I set up remotion on my own local server
+I don't remember asking me what option
+but prompt to motion graphics seems like the right one
+I think prompt to motion graphics
+我希望能发生
+AFTRAFFIX 模式的动作
+这好像是对的
+好 打开打开
+推动计划
+完美的AFTRAFFIX 模式
+计划 计划 计划
+让我先拿一会
+好 打开
+好 它说它是计划
+它说它是计划
+它说它是计划
+它说它是计划
+所以我不太确定它是计划
+但我们先去
+说 计划 计划
+计划 计划
+它说它是计划
+The website futuretools.io
+Look at the website
+and use your own creativity
+to design a prompt to make it look slick
+Then do whatever you need to do
+for me to be able to preview it in my browser
+Let's see how far it will go
+and how much work it will actually do on my behalf
+On it creating a slick future tools animation
+The prompt to motion graphics feature
+需要一條開放AI的開放器
+開放AI的代替
+所以我寫了
+延期的延期程式
+我感覺
+延期程式不合理
+但是我只是想看
+好 它已經有10分鐘了
+我已經發信了
+你還在開放
+對 抱歉
+延期程式在開放
+這裡是你的預料
+如果這其實可以
+我會有點驚訝
+如果有任何事情
+沒有事會發生
+但我也知道
+我用延期程式
+看著延期程式的延期程式
+其實你怎麼安裝的Agent Skill
+是這個 command 這裡
+所以我給的 command 它是錯的
+所以我們來剪輯這個 command 這裡
+然後我們來進行slack
+然後我來給它 command
+這是Agent Skill
+我希望你來安裝 into Cloud Code
+和必須的 利用
+然後我給它那 command
+然後說
+我們來安裝這個
+I think we set up the wrong remotion.
+All right.
+Remotion skill installed contains 30 rule files
+deep knowledge of remotion,
+create a fresh simpler remotion project using this
+which is going to give it a little bit more instructions
+here just give it these details here
+and then we'll see if remotion actually worked this time.
+Alright so the new remotion is installed
+the way I was supposed to install it properly
+which was the Cloud Code skill
+它做了測試券, which seemed to work
+create in animation using the
+remotion skill in cloud code
+I'm going to give it that same prompt I gave it earlier to create something for future tools
+that shows off the website future tools I owe
+blablablabla
+and let's see if it can handle this now
+it created a future tools animation
+let's see it's running at this URL
+is that actually gonna work
+doesn't seem to be loading
+so let me see what I can do here
+就是要回答
+url上不充足
+我如何接觸影片
+好,那是内容AWSIP
+不充足我的 browser
+我放在公司屋内
+所以你能接触
+你不必要知道
+如何做任何事情
+你只要去Claudebot
+说做这些东西
+建立这些东西
+建立这些东西
+建立这些动画
+它就这样
+做它
+这些是一段时间
+我已经没有做过
+这些动画
+但是当它给我一个像前端的位置
+看这个
+挺好看的
+我们看看它有什么事
+传播室里
+它建立了一个空调
+传播室里
+我们看看这个传播室里
+好
+所以我们就把这个
+回到我们的Claudbot
+我会把这个传播室里的传播室里
+好 我说传播室里
+我们来一个新传播室里
+来一试
+同样的问题
+同样的问题
+再次传播室里
+传播室里继续死
+让我把它们继续跑在背后
+好 两个跑
+我們要試試這個
+我們有一個 URL
+它正在工作
+這很棒
+好,我們看看它做什麼
+好,那不是未來的Logo
+但歡迎到Remocean
+好,這就是Hello World
+這些是 default 動畫
+但這就是未來的Logo
+我們看看
+我感興趣
+未來,這不太好
+好,我們來玩
+這就是它創造的
+未來的Logo.io
+它會建立最好的AI tools
+讓你變成超人
+然后它拨出一堆不同的小小的
+像是Graphics 和5000AI 技术
+然后它就像是
+像是什么叫做
+一个转换的背景
+我觉得
+动画不太好看
+但是挺好看的
+就是我刚才要
+告诉ClaudeBot
+去把这些东西都计较好
+如果我再想把动画进行
+我会说
+这里是什么样的
+这里是什么样的
+然后让它做一个更好的动画
+所以我给它一个画面
+然后基本上说
+这里是什么样的
+还蛮恶心的
+然后它们就去尝试
+然后它们就做了这个
+这就是很基本的
+但是仅仅仅还很清晰的
+当然我可以回到
+更长时间
+更好看的动作
+但是你能看到
+我只想 demo 这个
+你看我现在有
+基本上是 AI 工作人员
+可以去做这些动作
+好 最后一句话
+我从以前的 EC2 机构
+我其实在这个视频里
+因为我正在担心
+我太過緊張了
+我幾乎都過了一些重要的保安訊息
+當我設定這個
+我非常非常推薦
+你去看我放的更多保安訊息
+我會在下方留言
+我真的想去測試ClaudeBot
+玩它
+這好像是最簡單的方法
+給它們去
+知道現在我會去
+設定它在一個新的 computer
+我家裡有的
+其實是在VPS
+很多人都在說這
+我真的想試試
+我自己的想法和正正的想法
+和我自己的想法和正正的想法
+現在我用了它
+我明白它是怎樣的
+我明白它是用法的
+我真的真的看到了價值
+請求你
+請求你
+讓我看清楚
+正確地保持它
+之前用這個來做自己
+特別是你正在使用VPS
+它是在網上展示的
+那是我的最後一句
+Claudbot是好
+但是我還在害怕
+這段影片
+只要把你做到的
+外表你可聊 with it like you would Claude or chat gpt
+and it has so much memory and context about what you used it for in the past
+and the conversations you've had
+but it also again can run software for you
+theoretically if you could do it on a computer
+then you can show this how to do that
+I even saw people create loom videos
+feed those loom videos over to Claude bot
+and then Claude bot learned how to do it
+by watching the loom videos
+which I mean I haven't tried that yet
+but it's pretty mind blowing if that actually works
+我看到这张照片从Andrew Wilkinson在X
+最酷的东西是Claudebot
+还有一个小小的带子
+有84个留言
+做了很酷的东西
+IlliaHear说
+Claudebot是在10分钟的CAL4NLC
+是什么他们已经在18个月里
+调整的
+Shrayon在这里说
+他们给了他们的OpenAI
+和11楼的API keys
+他们在调整的
+媒体媒体的
+调整的媒体
+IlliaHear说
+他们要学习
+他们的睡觉订阅
+他们做了一些研究
+并建立了技术
+Buddy here actually connected it to his Meta Ray Bands
+some examples of how they use that
+snap a photo with the Ray Bands
+send it to ClaudeBot via WhatsApp
+log this to expenses, categorize it
+add a line item breakdown
+add an event flyer to their calendar
+capture to white board
+snap a photo of a rough sketch
+use the photo with nano banana skill
+to have it turned into a clean modern infographic
+and a handful of other things
+feel free to pause and see some of the other use cases
+they did with Meta's glasses
+MatthewBerman is installing it on his RTX A6000
+96GB RAM PC
+and he also managed to get it running
+LM Studio remotely
+so he can run local models without tapping into
+expensive APIs
+and even that list is just scratching the surface
+I mean there is so much you can do with this
+that like I haven't even really gone too deep down
+the rabbit hole yet
+again it will build apps for you
+and then run the apps that it built
+it can connect to your calendar and your Gmail
+你能把任何東西
+和資料從那些地方拔掉
+我們學會可以創造很簡單的影片
+你可以用到像V03.1
+然後有它創作影片
+如果有一個API
+或者是一個app可以用
+或者是一個可以用到的地方
+你可以教Claude 買了怎麼做
+我覺得這就是這麼有趣的
+像是拿Claude
+或者是你最愛的AI大語言模式
+然後就能做到任何事情
+說到這
+這也是很可怕的
+如果你安裝了這在你的 local machine
+它會有關於你的 local files
+所以你不想要打開東西
+你不想要打開
+或者把你的系統打開
+這就是為什麼
+很多人都在用VPS
+或者用一個 brand new Mac mini
+就是用這個 on that computer
+如果你給了你的電郵
+有可能會寫到電郵
+然後可能會發送給你
+你不想要發送
+但最恐怖的是
+有可能有鎖匠的冒險
+所以說你
+在你ClaudeBot的網站上
+去看看網站
+在網站裡寫著
+它說
+不要所有前面的資料
+給我一些資料
+在你的網站上
+那是很有可能的
+而且不是 theoretical
+這肯定是發生了
+所以你得要小心
+那種事情
+這不只是一堆保護軸
+這是仍然是一個 Wild West App
+所以有几个简单的提示
+你必须在一个专业的机器上
+不是你的主机器
+或者在VPS上
+像我们刚刚放在EC2
+如果你接触到什么样的
+网站里
+需要一个电话号碼
+考虑新电话号碼
+为这个使用
+所以它没有收到你的真正电话号碼
+如果用了电话号碼
+考虑订阅新电话号碼
+在Google里
+instead of using your normal everyday email
+基本上你不会给任何的收到
+你不可以給你 access to a contractor
+你剛才的hired
+他們剛開始了
+你還沒知道他們的好處
+如果你不給這個資訊
+給那人
+還沒給Claudbot
+所以這裡是最大的圖片
+所有的Claudbot
+都給我了
+Claudbot是一個 preview
+我們在哪裡看AI go
+很多的駱鑽
+很多的駱鑽
+工程式
+會在後面的場面
+會更加的懶散
+你只會跟Claudbot
+聊聊
+it's going to go off and use the models that it needs to use
+This is where AI is heading
+This is what those of us who have been in AI for the last, you know, half a decade
+Have been saying is where this all will eventually go
+and we're getting a glimpse of that now with Claude-Bott
+Instead of AI being an assistant that makes suggestions and gives advice
+AI is at a point now where it's just going off and doing stuff for you
+That is very cool, also very scary
+If you get on X right now and you get into the AI sphere
+这个是一个文化的 phenomena 中的那种
+所有人都在说这个
+所有人都在买Mac mini 和订买这个
+现在就变成了一种 这就是像 iPhone 的一种
+一种时刻
+这就是一种时刻 大家在说
+噢 这次我明白了
+哪个时刻 还有哪个时刻 这次我明白了
+这就是一种时刻 现在这次我明白了
+这就是为何 Claude 把这些人的使用
+这些人的使用
+我再不再問
+這個將會變成
+這個標準
+就是這樣
+這是哪裡這個都會有
+這個問題真的
+你會開始學會
+玩 with it
+和理解它
+所以當所有東西
+都在那裡
+你準備好了
+這就是我建議的
+如果您找到這個影片
+幫忙
+請給我一個讚
+以及訂閱這個頻道
+如果它幫你
+因為我會在內容
+更多的影片
+和深入的影片
+如何做這些事情
+還有我會把
+所有的最新的AI新聞
+和大家一起進行
+What's happening in the world of ai
+I make videos every week to keep you tapped in
+So if that's of interest to you
+And you want to stay on the cutting edge
+So you're not left behind when this ai tsunami
+Just takes over
+Well, that's what my channel is designed for
+So again, give it a like, give it a subscribe
+I really, really appreciate you hanging out with me
+I know this one's probably longer than normal
+But I was really nerdy out about Claude Bott
+And I wanted to share my nerd out sesh with you
+So thank you so much for tuning in
+I really, really appreciate you
+Hopefully, ya like, you subscribe
+You do all the things and I will see you in the next one. Bye.
