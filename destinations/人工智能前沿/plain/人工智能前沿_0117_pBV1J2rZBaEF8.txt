@@ -1,0 +1,907 @@
+現在我們不可以有太多的構造
+在於鋼管和模型之間
+因為這個Asymmetric的鋼管
+因為它花了這麼長的時間
+鋼管的時間
+鋼管是有一個分析
+我們可以在下一代的AI技術中
+建造更快的鋼管和鋼管的 next generation chips
+但如果我們可以更快的鋼管
+我們可以把這個構造和構造
+co-evolution of workloads, applications, and chips all together.
+This week on Training Data, we explore the biggest bottleneck holding back AI,
+compute, and the design of chips themselves.
+Our guests are the founders of Recursive Intelligence,
+Anna Goldie, and Azalia Miharseni,
+the team behind Google's pioneering AlphaChip project
+that helped design four generations of TPUs.
+他們現在將AI 替整個智慧的設計
+將智慧的工程從法文化到設計化
+安安和昭莉也畫了一幅畫
+《Cambrian Explosion of Custom Silicon Means》的畫面
+我們會採用《Holy Grail》的主題
+《自動改革》的主題
+讓AI 設計智慧
+將令智慧的新智慧的設計更加激動
+為何 智慧的設計
+可以將超能力的方式進行
+享受這節目
+謝謝你為我們參與
+我們很期待在這新的新的活動
+和新的行動中
+祝福你們的新活動
+謝謝
+謝謝
+謝謝你
+請說一下
+你已經說了
+Chip Design是
+Compute bottleneck
+進行A.I.
+你能否分享和畫一張照片
+現在發生的情況
+什麼是Chip Design的 bottleneck
+我覺得我們說了
+我們有所提及的
+這個活動
+我們原來有的
+我們原來的
+就是這個觀察
+有的Neural Network 這些設計
+差不多已經涉及十多年的
+但是AI的成績不是那麼不適合
+直到我們繼續有更多的
+安ナ系統與安帳
+我們以為現在能使用
+安緩安耗的AIS 能夠使用
+將用來破壞
+安安的鎖 big-end 設計
+而使用更光明的安耗
+所以如果你看到這些
+視角構造法
+包括關於安法
+安備的安法
+也會對安法
+更有智慧的能量
+我們看到有這種不合理
+比如說GPUs
+原來設計了技術的過程
+但我們反而重新重新重新
+用了Crypto
+然後用了訓練、 Neural Networks 模式
+我猜他們會用大型的Metrix 去做
+但如果我們可以更好
+再加強模式和硬碟
+我們可以有更多的效果
+然後我們可以把那些效果
+推出的技術
+You were the co-creators of Alpha Chip at Google
+which I think is using four successive generations now of TPUs
+Maybe take us back to that project
+How did it get started, what were the key results you drove?
+Yeah, so we started the project in 2018
+and we had some earlier version of placement
+Placement work that we were interested in solving
+and that was not about chip placement
+是關於搜尋執行和基本上關於執行
+和執行的執行的執行網絡
+我們做了這項項目
+我們有很好的結果
+我們發表了
+我們想要有什麼最高的
+影響項目
+現在我們可以
+繼續推進
+還有即時發展的影響
+這就是
+我們開始的
+影響項目
+我們開始項目
+在Google的TPU
+工作非常近
+我們沒有太多的資料
+我們都知道雙方的設計
+和實際的程度
+所以我們很近地工作
+很早前
+因為在時代的AI
+我們仍然很討論
+但沒有什麼
+有關的技術
+所以我們真的要
+做出這些事
+讓我們看到他們的資料
+超越我們的 approach and hearing them what they needed from us, listening to them, iterating through the process and eventually we went from a research concept on chip placement all the way to something that was actually used in product, we could tape out and all that.
+我記得一份我們的第一項飯
+是因為我被你太太地失敬
+背後有太多的愛情
+我問你怎麼做
+你問了我一直在工作
+你們網路的TPU團隊
+是我們的網路團隊
+永遠都在這麼多年裡
+所以我想那真的給了你
+有其他 perspective
+你們的TPU團隊是什麼
+早前的反應
+至於你自己提出的
+我猜他們非常有心
+我們有研究員和研究員
+我們寫了一本研究文件
+我們說這是一半的緩衝鏈
+這是學生的報告結果
+我們讓這位藝術者
+可以儲存一半的緩衝鏈
+為了設置
+然後我們很期待
+跟他們分享這件事
+我們展示了這些結果
+他們其實很不愉快
+為何要給我們這些結果
+我們不想要一半的緩衝鏈
+我們想要一半的緩衝鏈
+像是根本的根本的根本
+像是根本的根本的根本
+和時間的根本
+和體力的根本
+和體力的根本
+我們就一直聽到他們
+我們就說
+好 什麼是重要的
+我想另一個部分
+就是讓你的客人
+感覺他們也有所影響
+對
+我們用他們的例子
+為他們作出的財富
+他們要關心的
+他們的利益
+所以Mustafa
+在TPU的團隊
+我們可以把他們的價格和價格都設計得很快
+然後我們可以儲存在價格和價格的價格
+然後我們可以儲存在價格的價格
+然後我們可以開設貨品
+讓我們可以讓我們看到
+這其實是兩種很好的結果
+在貨品上的貨品上的貨品
+他們也要注意
+所以我想說關於飾演
+我來自EDA家庭
+飾演是一種飾演的
+可以說只是聽眾
+不來自飾演的
+您的技巧如何解決它?
+所以, floor planning is a process
+where we place the components of a chip
+onto the silicon
+and the complexity of this process
+comes from the large size of the input problems
+like for a block of a chip
+not the entire chip
+like a single block in a chip
+the graph that we are optimizing
+可以有多少个评论
+所有的评论都需要被放置
+然后我们需要确保
+所有的评论都在之前的调查中
+我们在调查的
+PPA 力量 和比较的表现
+都要调查
+所有的体系评论都在调查
+所以调查的问题
+要做到我们可以做到的
+就是所有的评论
+由这些很小的技术
+NodeSize as given by TSMC and others are met.
+So we are dealing with a combinatorial optimization problem
+that's large scale but also all the metrics are hard to evaluate and measure.
+Got it.
+And this traditionally was done together with EDA software
+like a cadence or synopsis right?
+How does your method differ from the classical methods?
+So what we developed here was a learning based approach
+我們會訓練一個學者
+會嘗試不同的方式
+來解釋這個位置的問題
+我們會學會對這個環境
+建立的方式
+學會從正面位置的方式
+以及其他正面的例子
+以免改變自己
+所以我們會學會
+最主要的分別是
+我們所有的前方
+這能夠學會從體驗上學會
+可以自動改善
+像是一個人的經驗
+這樣變得更好
+他們能夠解決更多的問題
+更多的問題
+我們的經驗
+可以展現更多的行動
+這樣就是一個非常大的
+和变化和变化的变化
+对
+我记得你刚刚说的
+Move 37是很奇怪的
+因为它是一个人玩的模式
+有什么像样的事
+像 floor planning and chip design
+对
+我们看到这些很奇怪的
+像 curved placements
+所以它有个装饰
+我觉得人们会把纳衣的纳衣
+纳衣的纳衣是纳衣的纳衣
+比较大
+它会很合理
+然後他們會把內容放在中間
+然後他們會把所有的 component 連接到這些的
+但是如果你把形狀的形狀做成
+你可以減少磷網路
+可以減少力量和時間的減少
+但是只是一個 complexity
+把這個減少的位置
+像是在於
+人們想要的地方
+或是他們的危險
+所以對 這些鱗
+你當時有什麼意義
+這個有可能
+把整個程式
+不是只是地圖設計的程序
+而是你決定了
+有可能的一個公司
+有幾個大腦筋
+首先是說明了
+超人的結果
+在某些地圖上
+然後之後
+腦筋其實被塗了
+然後它回來了
+其實還在工作
+這是一個大腦筋
+因為它們能夠很很難處理
+如果有些人在社會上遺失
+所以那些很大的時刻
+他們的影響真正的
+還有在整個程度上
+我們看到這種
+自然的改變
+其實我們的模式
+會變得更好
+當他們解決更多的問題
+那就是很...
+因為當我們到那一刻
+沒有停止社會
+他們可以看到更多的資料
+而是更多的方式去解決
+對任何人的問題的改善
+更多的方式去解決
+所以那是你覺得
+對,所以
+這裡有更多的能量
+但是Alpha Chip
+是在註意
+一個模式
+一個部分的
+physical design
+但是
+像我們知道的
+它們有更多的
+像是 成績
+更多的 部分
+現在我們覺得
+所有東西從國內的AI
+和 AI 能力
+都在LLM 上
+還有其他 技術的 建議和 其他方式
+還有我們可以 really scale up
+這些 方式 和 能夠使用
+Synthetic Data
+非常大的 計劃和 研究
+所有東西都準備要
+去推出這項技術的優點
+所以我們很期待在公司做這項技術
+非常好
+你覺得在這項技術上
+可以做到最好的訓練資料
+我覺得這項技術是
+非常有關於A.I.
+還有這項技術
+可以有足夠的
+訓練資料或自動玩
+去做足夠的訓練資料
+我們很期待在訓練資料
+所以有些公司資料
+但並不太有趣或有意思
+我們不想把我們的模式討論
+因為我們想保持資料
+和每個人的資料
+但我們認為
+這是最大意義的資料
+我們和Azali
+在各種各樣的
+股市和地區
+和GEM&I
+和我們看過
+我們會有大機會
+把資料的大量
+跟我們每個人
+和我們分享的資料
+和大量的執行者
+和大量的執行者
+我猜
+在哪一刻
+他們的執行者
+停止在你上
+每一代的成功
+他們的進步
+可以使用這些設計
+我認為
+每星期
+我們會展示他們的資料
+每星期
+每星期
+每個星期
+因為
+他們的資料
+如果有什麼錯的錯,就像這個Layout
+設定在TPU的團隊是這樣的
+TPU是大量的和蠻大的
+所以他們分成了幾個團隊
+然後每個團隊都由人類
+而是他們的責任
+如果任何人錯了,就算是他們的錯
+所以他們會創造他們的 ownLayouts
+在合作中用了賣相的技術
+然後我們會展示他們的Layout
+有些AI-generated layout
+會看起來奇怪 會被改變
+然後他們會
+他們會說
+我選擇了
+這個AI-generated layout
+自己的自己的 layout
+我會用這個負責任
+我覺得對 需要很多信心
+我們必須要更好每個目標
+為他們選擇的
+我們看到
+每個成長的
+Generation of TPU
+我們已經更加
+更加重複製了
+更加重複製了
+還有我們也開始
+變得超人性的表現
+我們在上個月我們在這次的短片中發表了一個新的短片
+可以說一句話嗎?
+對,我們在短片中發表了一個新的短片
+對,我們在每個年代都發表了一個新的短片
+我想我們有三個年代的短片
+但我們其實都發表了另一種短片
+每個年代我們都看到更多的短片
+更多的超人表現
+所以基本上,零件的分別是零件的分別
+和基本的分別是零件的分別
+也有增長的
+這是零件的分別
+是零件的分別
+我們零件的分別是零件的分別
+是零件的分別
+是零件的分別
+為什麼公司叫做Recursive
+因為Recursive
+我們是Ai for chip design
+和Chip design for AI
+所以Recursive self improvement
+以名字的名字來說
+名字是自己的
+所以最初的日文是自己的
+自己的名字是
+自己的名字的第一兩句
+什麼是自己的自己的改善
+為什麼那是
+我哥哥的A.I. Race
+我們就說了
+這就沒問題了
+我們就說了
+對
+所以A.I.F.
+手機的A.I.F.
+和計劃的A.I.F.
+we are driving much of the progress in AI
+whether it's on pre-training, post-training test time and all that.
+and so the faster we can make chips that are more custom
+or better designed for the AIs that we run
+the faster we enable this more efficient kind of compute
+and that biens the care for our scaling law
+so that means we get to the next generation of AI
+更快地製造更好的智慧智慧的智慧智慧
+這是一個類似的自然改善
+我們想要看到的 因為智慧智慧
+可以幫助我們的智慧智慧
+更快地製造更好的智慧智慧
+這是一個自然改善
+的智慧智慧的智慧
+一種目標你擁有
+是在製造智慧智慧的智慧智慧
+What does that mean?
+Fabulous was basically this concept of
+it used to be that people thought that no serious chip maker could exist without their own fab.
+This was like obviously before like this multi trillion dollar companies like NVIDIA.
+TSMC basically created this whole new world where
+we could have these incredibly valuable fabless companies.
+So we think that there's an opportunity to create incredibly valuable companies
+that don't need to have their own in-house design teams.
+所以很多公司都用這些模式來做大量的計劃
+他們在這裏花了,我覺得100億美元的加持
+在A.I. inference alone
+像這個年代,他們在增加快速
+所以公司會用來
+用來做 custom chips 去
+用他們的模式來做
+但這需要大量的隊伍
+像是百多萬人的人員
+在家裡
+我們不認為這需要
+所以我們要向
+對,不需要的,有些不足的
+很有趣
+我們看到的確有
+Google 和 TPU
+Amazon 和 Trainium
+也有 OpenAI 和 Broadcom
+或者甚至 Tesla
+你覺得未來
+今天
+有幾個模式的
+模式的應用程式
+你覺得會是
+智商的應用程式
+甚至 individual 公司
+有幾個智商的建築
+作為結果嗎
+對
+你覺得
+我們會看到
+和更多的構造
+從模型和資料
+去做更多的構造
+和更多的構造
+去做更多的構造
+我們會把這做得更好
+構造是真的
+最好的方式
+或是更多的
+方式進行更多的
+能力和更多的表現
+但是現在
+我們沒有更多的構造
+與模型和構造
+因為這個大小的設計程式
+因為花了這麼長時間
+設計程式
+這次的程式是
+我們可以在下一代的AI技術中
+建立更快的 next generation AI methods
+然後我們可以更快的建立下一代的程式
+如果我們可以更快的建立更快的程式
+我們可以更快的建立更快的程式
+和 co-evolution of workloads applications
+and chips altogether.
+One of the things that I loved that we talked about early on was that
+the value bring isn't just on reducing the cost.
+It takes to actually design a chip or the speed at which
+you can accelerate the chip design process.
+Though that is transformative in itself.
+It's actually to unlock completely new potential applications
+and maybe custom silicon as well alongside it.
+可以分享一下
+你會有什麼想法?
+我覺得在每個角度的生活中
+會變得更加的優勢
+所以,當然,有些東西像ARVR
+有些像是蜘蛛、臉
+甚至是聽音音
+有些不可能的體驗
+不論你能夠使用
+在低能量的高度
+或低能量的高能量
+我們認為 custom silicon 能夠使用這些應用程序
+對,我們認為 AI 會在每個體驗中
+每個體驗的各種應用程序
+而他們的智慧能夠使用 AI 使用
+根據這個程序,我們會希望他們能夠使用
+非常能夠的,低能量,高速,所有的
+Custom Silicon is really going to enable that
+and we want to enable Custom Silicon
+for basically any workload that is being run as sufficient scale.
+Since we have the ear of whoever is listening on the podcast,
+who might some of your ideal customers be?
+There are a range of customers that we are envisioning
+in the first phase of the company when we are building
+人們會用手機 手機設計的方式
+我們人們會是手機設計的
+像AMVIDIA、AMD、ARM、MediaTech
+所有這些公司已設計手機
+他們全部想快速設計
+所以我們可以幫助他們
+用這個技術
+但我們想不要停止
+我們想要讓任何客人有工作或家庭的工作
+他們想要在足夠的程度上工作
+他們想要使用客人的資料
+我們想要讓他們有工作
+沒有讓他們有很多的工作
+還有很多的貴賓
+所以,我認為這回復是肯尼人的炫耀
+我們可以使用的蜘蛛
+我愛說話 about the kind of existing incumbents in chip design
+我和家裡的家裡,我和爸爸都在家裡
+我認為,蜘蛛是一種蜘蛛
+是在 between synopsis and cadence
+我認為他們在加上AI, 到他們的產品隧道
+how do you see your company playing outs
+versus the incumbents adding AI
+I think that we see ourselves as like
+sort of coming from the opposite direction
+like we are frontier AI lab
+we come from like Google brain
+or like orthophic
+that was kind of like backgrounds
+and we want to kind of rethink
+or reimagine how chip design can be done
+and we think that fundamentally
+in order to be able to
+this isn't like a point solution
+thing where we want to replace some module
+one at a time with AI
+我們想重新構思在不同的場地
+我們認為需要的AI程式
+你們想想看什麼?
+我會想到有幾種
+從興趣到極限的
+極限興趣到極限的
+或是很恐怖的
+你們想想看什麼?
+我覺得很多人都會跟我們一起工作
+有可能的客人
+也會很興奮
+很多人都很期待來參加我們工作
+但我們做的事情當然很不妙
+所以我確定很多人都很適合
+我們來談談這一點
+有些網路上的網路上
+有些人在網路上很喜歡吃辣
+有些人在網路上吃辣
+有些人在網路上說
+那些人不太正確為了X,Y,Z的原因
+你覺得是背後的
+你覺得是否有效的
+他們覺得不合理的事是不太好
+所以 whenever AI goes to a new field
+and does something disruptive
+we would see reactions like that
+and this is not necessarily just
+in our case it appears almost in every other field
+and we think the bitter lesson is part of it
+我們是真正的信任者
+這就是一種挑戰
+讓我們以一種新的技術
+或新的方式來看
+讓我們在這幾年來
+和這些人來解決
+我們在這個情況下
+我們跟Alpha-Chip 團體和我們帶來不單是EBA的背景
+至少我們沒有做過這些問題
+現在我們可以有問題和解決的問題
+這次的反應很重要
+但我們的工作的確有一個大大的影響
+比较大 than just the problem that we solved
+我可以提及一些例如
+在做广播学
+在看这些组织网络的计划
+有很多其他问题
+包括一个最好的文章
+在达克尔特尼尔厅的第二个文章
+第一名的文章是我们的团队
+很好的
+是
+好
+那是四個體驗
+我們看到它在其他程序上
+有其他程序的設計
+例如聖誕節等等
+工作帶出很多關注
+在2020年代的智慧
+技術中
+我們覺得
+它是一個最大的影響
+成為我們的項目
+現在的
+我們其實是
+一種MLLM的設計
+我們有很多 positive things happen as a result that you're grateful for that and proud of that.
+I had a funny interaction at ML for Systems Workshop, which is this another conference that we had started in like 2018.
+And this person was like, oh, Alphatip inspired my entire PhD thesis.
+And I was like, oh, that's wonderful.
+And I was like, so I'm just curious, like how did you first start with the AI approach?
+And I was like, I'm just curious.
+And I was like, I'm just curious.
+And I was like, I'm just curious.
+And I was like, I'm just curious.
+是你第一次來過書的
+然後他就說
+因為是一個反應
+對
+這很有趣
+我覺得我驚訝的事是
+我認為那些人
+會受到努力
+會是像
+有些人的職業
+他們的工作在危險
+對嗎
+這些職業的設計人
+是有很多的資料
+他們可以改變他們的心
+和接受我們的方式
+但他們並不是
+人們受到努力
+他們是人們
+在地上的方式
+我覺得在我對這方面的看法
+有什麼意義
+你會覺得
+你的時間、你的人類的
+你的心情、你的心情
+這些方式
+然後人們會來從你的地上
+然後他們會用
+簡單的方式
+他們用東西在地上
+用資料和作品
+然後你會表現
+有點...
+很痛苦
+但是我們都可以
+我們可以在這工作上建立
+我們可以在這工作上建立
+我問你一個反對的問題
+我愛的比特拉斯尼斯的答案
+我還沒有問反對的問題
+因為大型的語言模式
+變得很好的在用
+例如
+為什麼不然就自然地
+變得好在用
+Chip Design
+為什麼需要
+Chip Design的前提
+對
+Chip Design有很多
+有很多部分 它們的語言和資料 但其實是一個大部分的不跟語言和資料相關的
+還有它有不同的材料和技術的組合
+走 sheep
+and all these constraints that appear like these are like really, really hard large-scale
+community otol optimization problems that required a specific, like the custom way of
+a specific kind of approaches from ai perspective.
+and our approach here is to apply the right method to the, to the, to the every problem and
+LLMs, we love them so much.
+我們要用它們非常多的
+我們要建立LLM
+那些很方便的程度
+但是它們不一定能夠夠夠
+做到的
+所以我們要有
+自己的AI
+和特別的改變
+那些很重要的程度
+因為
+雖然我們設計了
+那些模式
+那些很快的
+我們不能在其他程度與其他技術和技術的同時
+我們會有很快的招式的招式
+我們是兩位信用者在AGI
+我們想在前面的那些技術中
+我們想在AGI上的那些技術
+我們想在前面的那些技術中
+我們想在前面的那些技術中
+我們想在前面的那些技術中
+我們想在前面的那些技術中
+我們想在前面的那些技術
+我看你能夠想像世界在十年或五年內
+但是你會想像到的
+在未來的情況下
+我猜AGI
+什麼是人類級別的
+比如你只能有很多工作人員
+只能有很多工作人員
+只能有很多工作人員
+我認為可能
+我會拿到假期
+但
+所以
+會有很大的
+我們可以以每個人的生活作為主要
+而我們可以以很多的經濟價值
+在今天不可能的程度上
+希望能夠在今天不可能的程度上
+在今天不可能的程度上
+所以我會有一個很優秀的觀看
+還有很多好東西會發生
+如果我們要小心,我們可以把人們的價值都分離
+這很棒
+我們要更新這件事
+對,因為我不太喜歡
+其實這需要 custom silicon
+因為它是不同的一種電源
+對,這很棒
+對,它有不同的需要
+從體質、抑或水分的抑或水分的抑或水分的抑或水分的抑或水分的抑或水分的抑或水分的抑
+連在Pixel phone的工作都要有不同的部分
+所以手機要有不同的溫度和減速
+所以你必須增加更多的部分
+我猜是這些手機
+對 這是一個好例子
+其實是不同的項目
+不同的手機
+不同的手機 不同的使用機
+手機在空間
+現在整個電子中心
+感覺到有種的體驗
+我們可以在這個世界上
+展現出現的GPU
+但是我認為
+如果對你的公司的進化
+會有什麼特別的進化
+對這個情況來說
+對
+對
+所以你已經變成了
+有很多的技能人物
+在公司的進化中
+幾個星期內
+我們有
+Geewoo
+Eachin
+Dan
+Eberhan
+你對於技術方面的看法是什麼?
+我們是在技術方面的建立
+每個範圍的技術設計
+我們都在技術方面的建立
+但也在LLM方面的建立
+我們是在A.I. Lab的前領
+所以我們想要求人們
+像是 pre-training, mid-training, post-training
+RL training, experts in evaluations, data
+還有我們在技術方面的 non-technical
+我們想要求職業的特工
+我們可以把工作人員和工作人員的工作都放在一起
+我們希望能夠完成這個年底
+我們會把年底的第一項產品放在一起
+對
+對
+強壯的商業
+對 強壯的商業
+我們想要有第一項產品和時間
+我們可以大部分的發展
+更加 broadly to other chip designers
+Anything you're willing to share
+in terms of what that first product might look like?
+Yes, it's going to accelerate the process
+It's going to tackle the long post in chip design
+And it's going to be more end to end
+than the products that we have access to today
+Yes. How do you see the role of a human engineer
+evolving in a world where the design process has automated
+What do they end up doing instead
+做的而不是用他們的時間和技能
+我覺得我們公司會在各種程度上進行
+所以這個問題的答案可能會改變 over time
+但是,有一個方法可以想像
+這些工人可以來跟我們一起工作
+幫我們重新想像,所以這是一個方法
+另一個方法,就像我們人們開始
+用Claude Code or Cursor
+可能他們不做太多手工
+但是他們變得更加廣闊
+而變得更加 productive
+透過這些AI tools
+所以像那樣
+例如
+甚至Alpha chip
+我們可以創造這些
+平均的轉變
+不同的 trade-offs
+每一種這些點
+會有人類的時間
+來創造
+但我們可以創造很多很多
+因為它只是
+很少時間來
+來研究這個模式
+所以人類可以
+去探索
+我們要怎麼創造
+什麼 trade-offs
+我們要關心
+所以我們要來
+來用Vibecode chips
+那我聽到嗎
+可能那不太
+但是
+哈哈哈
+So you've worked with some of the greatest of all time
+Jeff Dean, Noam Shazir, many many more
+Very closely
+Cock Lee and others
+What are some of the lessons that you've learned from them
+More experiences that have really shaped you and
+And how they shaped your perspective today
+So I think with all of these
+People that you and they are extraordinary
+Sitting the bar really high
+And all of them are also extremely passionate about what they're doing
+And that's how Anna and I feel about this company
+We are so excited to solve this problem no matter what
+So that's something that we think is very important to actually be successful
+The other thing about them is that they are just really nice people
+對
+那種很好的合作
+合作的合作
+每個人都聽到
+每個人都可以做最好的工作
+那是一個很重要的事情
+我們想要追蹤他們的路
+對
+我覺得Jeff 像Jeff
+很深入的 breath
+很深入的深入的速度
+但也很高的隱藏
+他每個人都會說
+尊敬不 matter if they're like president of the universe versus like they're an intern or something like it's equal like treatment
+and I think that's like we want to embody that too.
+And I just remember like Jeff he actually gave me like a performance review the corrective feedback or something he was like ask for him for more from other people.
+And so I wanted to get R2.
+Yeah, expect more from others too.
+I like that.
+I like what you shared.
+我看到這些照片
+是Jeff和Nurab在跑
+很多人在跑
+我認為這很完美
+所以你剛才說
+他歡迎別人進來
+他會用時間和他們
+無論如何
+我還記得
+他也是我們的管理員
+差不多十年
+他告訴我們
+深學的學習
+讓我們人生
+我們可以做
+很多不同的領導
+我認為這也很實在
+而且他也說
+我們要有 fun in this company
+我們其實享受
+我們認為這也很重要
+如果大家覺得有 fun
+我們會做更好的工作
+我愛這點
+謝謝你 so much
+Anna Zalia
+我們很期待你的第一年
+我們是藝術學生
+我們很期待
+在AiChip Design的
+Frontier Lab
+謝謝
+謝謝
