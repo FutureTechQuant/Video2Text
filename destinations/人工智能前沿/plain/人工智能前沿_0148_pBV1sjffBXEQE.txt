@@ -1,0 +1,3289 @@
+如果我們沒有AI
+我們會被惡毒
+但是會發生什麼事
+我們其實在現實
+50年代的
+很低的技術改變
+在社會上的
+敵人的發展
+時間已經很快
+我們會有AI和 Robots
+才會有我們
+人類的工作人員
+會在獲得獎金
+並非在這個情況下
+他們的利益
+是我們在現在
+生活的一段時間
+這是很很歷史的時間
+AI是一個綜合的
+現在我們有一個技術
+它是最常用的東西
+就是沙發
+turn in the most rare thing in the world
+which is thought
+I spent a lot of time with
+the most cutting edge AI
+forward founders
+the most leading edge founders
+they thinking of
+can you have entire companies
+you're where the founder does everything
+There's all this concern that young people
+jobs are not going to be there for them
+ai's replacing them
+Everybody wants to talk about job loss
+but really what you want to look at
+ask loss
+the job persists longer than the individual tasks
+What's your sense of just the future
+of three very specific roles
+product manager, engineer, designer
+There's like a Mexican standoff
+happening between those three roles
+every coder now believes
+也不能是一個商業領導和設計師
+因為他們有AI
+每個商業領導覺得他們可以是一個
+扣子和設計師
+然後每個商業領導知道
+他們可以是一個
+商業領導和設計師
+他們其實都很正確
+這就是
+成功的效果是
+兩件事是更多的
+成功的效果是
+三件事是更多的
+你變成了一個
+非常重要的特徵
+在其中的場面
+人們不太想
+看這個改變
+人們想要
+做自己的工作
+要每個小時
+每個時間
+在我看見
+在這時候
+在說AI
+就說好
+來吧
+今天我的 guest is Mark Andresen
+one of the most seminal figures in tech and in business
+he invented the web browser
+built the world's largest venture firm
+he's also a multi-time founder
+and an investor in essentially every generational tech company
+and is also one of the most clear-minded, lateral and insightful thinkers
+about both the past and the future of technology
+in this very special conversation
+we chat about how unique and significant
+the moment that we are all living through right now
+是, What skills he's teaching his kids to thrive in the AI future?
+What happens to product managers, designers, and engineers in the coming years?
+Where motes exist in AI?
+What the most AI native founders are doing differently?
+And so much more that is just scratching the surface of this very deep and important conversation.
+You are going to walk away from this chat being smarter about what is going on in the world right now,
+and where things are heading.
+謝謝大家在我的新聞社群上
+和大家在X上提供了
+題目和問題在這段話題上
+如果你喜歡這段 podcast
+請記得訂閱和追蹤
+你的最愛的 podcast 或 Youtube
+這項目很棒
+如果你是一個有趣的訂閱者
+你會獲得一年
+自由的20% 最愛的產品
+包括一年自由的
+愛情、熱情、狂情、感情、感情
+、聖誕、超人、魔鬼
+PostHog,Dscript,WhisperFlow,Proplexity,WarpGranola,MagicPatterns,RadeCastChapterD,MobinandStripeAtlas
+head on over to Lenny'snewsletter.com and click product pass
+with that I bring you Mark Entriesen after a short word from our sponsors
+today's episode is brought to you by DX
+the developer intelligence platform designed by leading researchers
+to thrive in the AI era,organizations need to adapt quickly
+but many organization leaders struggle to answer pressing questions like
+which tools are working,how are they being used,
+What's actually driving value?
+DX provides the data and insights that leaders need to navigate this shift.
+With DX companies like Dropbox, Booking.com, Adion and Intercom,
+get a deep understanding of how AI is providing value to their developers
+and what impact AI is having on engineering productivity.
+To learn more, visit DX's website at getdx.com.
+That's getdx.com.
+If you're a founder,
+最坏的部分是公司不在意
+是在工程上的計劃
+不得不討伐工作
+那是BREX的地方
+BREX是四位
+四位資料平台的資料平台
+BREX是最高的
+經貨品、簡單的銀行、
+高價值的財務
+加上是一群AI公司
+負責擔任何資料平台的
+他們會做所有的事情
+你不想做的
+例如 付出你的財產
+Skower Transactions for Waste
+and Run Reports
+All according to your rules
+With Brexima CI agents
+You can move faster while staying in full control
+One in three startups in United States already runs on brexima
+You can too, at brexima.com
+markandriezen thank you so much for being here
+And welcome to the podcast
+Awesome sexy thank you
+it's great to be here
+I want to start with just a big picture
+Question have a billion directions
+I want to go
+But I think this is going to give us
+A little bit of a famous reference
+是我們在現在的生活中
+是我們現在的一刻
+這就是我們現在的一刻
+這就是我們現在的一刻
+我認為2025是
+我對我一段年來最有趣的一段
+我對我一段生命
+我認為我會在2026年
+做到的
+我看到了一些東西
+感覺兩件事都在發生
+一件事是
+我們有很多人的信念
+以及我們在世界中
+its institutions around the world that i think in kind of full scale collapse right
+now.
+By the way there's a lot of data in the statistics of that and so I think there's
+isn't there's like a lot of structures in orders.
+And institutions that people have just relied on for a long time that have just
+proven and not be up for the up for the challenge.
+And then kind of corresponding with that is,
+the national and global conversations have become like let's say liberated.
+And so you know this sort of incredible revolution that we have in kind of
+我介紹這次自由的說話 自由的想法
+還有別人的能量
+也會提供一些事情
+他們可能還沒提及過幾年前
+他們只是將會增加
+我認為這次是一方的訓練
+只是一個更大的
+大部分的訓練
+然後
+還有這些
+像是大量的
+自由的政治訓練
+在發生的
+當然
+美國在改變很多
+歐洲在改變很多
+中國在改變很多
+美國在改變很多
+很嚴重的
+有些人在改變很多
+全世界都在改變
+我认为很多的计算都被拔出了
+在日常生活上和重新拔出
+然后这就是这些事情
+在同一时间发生的
+所以你把所有的国家
+和商业
+你懂 这些东西
+都会增加
+但是你用AI
+这种新技术
+这些会影响传染
+然后你把
+大家的民主
+能够完全参加
+能够提出一些的事情
+所以这三种
+大大事件都会在同一时间
+我认为
+这些是最初的
+我會把這三個都分成一種
+那些我會感覺
+歷史的瞬間
+是否能在《蘋果》的大型戰士
+進入《蘋果》的大型戰士
+可能是世界戰士
+那些瞬間
+我肯定會感覺這樣
+好神
+好久不見
+對
+在於《A.I》的
+那些人在想
+什麼做法
+你還不算是採採
+在於
+影響
+是 going to have on, say the world or just people listening.
+The other thing at this point, I think it's pretty clear with that with
+our technology hats on that like this stuff is really working now, right.
+And so there was this, you know kind of quinoe when there
+was a chat UPD movement three years ago is only by the way,
+only three years ago, right?
+was the chat UPD moment and the big question was,
+all right this is like incredibly fun and creative.
+and like, we have machines now that can compose Shakespearean sonics
+and rap lyrics.
+and like, you know, this is amazing.
+But then there was there you know, there's this great question like,
+Are you can harness this technology for reasoning
+and for problem solving and domains that really matter
+medicine and science and law and so forth
+and it turns out the answer to that is yes right
+and the last four months and especially the last
+even just the last three months have really proven
+that AI can really do like
+you're seeing it all now
+it can actually you know AI is not developing new math theorems
+over the holiday break
+there is sort of that but it feels like the AI coding thing
+really hit critical mass
+Tower of Outs in the world's best programmers
+including Line of Starвал
+for the first time over the holiday break
+Say that AI is coding better than we can
+That's incredibly powerful
+I think we all assume that AI
+is going to get good at reasoning
+any domain in which there are verifiable answer
+So that's going to include many very important domains
+So the technology feels
+It's moving fast and it's going to be working really well
+我认为这些东西不太理解
+很多人在商业中有这个形容
+就是这个一种形容
+就是这个形容的结果
+技术上的成绩
+就是它所谓的世界
+所谓的世界
+就是它所谓的世界
+和其他世界
+而我认为
+它是一个错误的
+我认为
+它是一个错误的
+意义
+我们的世界
+我们在过去的80年
+我会说出两件事
+一件事
+它有点像在美国
+像在美國和西方,在過去30年或50年
+我們在這段時間中有很大的改變
+但如果看來,其實是明顯的
+像是政治的明顯,像是政治的明顯
+你基本上不可以找到
+在這段時間中,經濟人們有一個方法
+在經濟和經濟的改變的程度
+就是產生的增長
+我們可以說到這意思
+但基本上是
+學術的表現,是影響科技的影響
+在過去50年,產生的價值是很低的
+並不是很高的
+我們都覺得很高
+有很多技術的改變
+其實是很低的
+其實,產生的價值
+像美國,在我們生活中
+是在我們生活中的半個月
+是在1940年-1970年
+半個月的價值
+是在1870年-1940年
+半個月的價值
+所以,在美國,美國的進行技術進行技術的進行技術,
+技術的進行技術,它其實是非常慢的
+我們知道,它會發生,但它會發生一個狀況
+我們其實沒有實際的進行技術進行技術進行技術
+我們可以說到這,還有另外一件很嚴重的事
+就是,它的文化,它是一種西方的,
+而是在世界上的大量的
+人類的生物的產品
+是在大量的
+而很多國家
+包括美國
+在世界上的產品
+也有很多的
+代表很多的國家
+包括中國
+這是一個很大的事
+我們將會再次解剖
+在下一世紀
+所以我們有這個
+這個復活
+其實我們有很少
+發展的技術
+在世界上
+還有世界上
+所以AI是將進入世界中
+這些兩件事是真正的
+我覺得這很重要
+因為我們需要AI工作
+以為我們要有利益
+我們需要成為經濟
+我們需要AI工作
+因為我們需要
+我們需要機器
+做所有工作
+所以我們不需要
+做人的工作
+因為我們會
+將會擴大
+將會擴大
+將會擴大
+將會擴大
+將會擴大
+將會擴大
+將會擴大
+將會擴大
+很多人都在想
+我會跟你們說話
+我現在有一個孩子
+我最喜歡的
+是如何人們認為
+他們的價值
+是他們在教育孩子
+和他們在向孩子的支持
+他們有什麼技巧
+或是他們的生產
+他們在向孩子的支持
+我認為這個
+我們有一個十歲的孩子
+所以我們在家裡
+所以我們在想這個
+所以我認為
+I think it's actually it's actually you know, there's a lot of people just focus on kind of this, you know, this kind of very I would say straightforward and overly simplistic view of just literally job gains, you know job losses, which we can talk about but there's two specific things at the level of like an individual person individual kids.
+So, I think it's pretty clear that AI is going to take people who are good at doing things and it's going to make them very good at doing things right and so it's going to be a tool that's going to sort of raise the average kind of a quality.
+足以 grewanget across the board and you know
+look, you see that playing out already
+you know, anybody who's in a position
+or they need to write something
+or design something or write code or whatever
+If they're pretty good at it today
+they use AI, all of a sudden they're very good at it
+And so they're they're sort of that aspect to it
+and I think the way the education system
+float large is going to teach AI
+is going to be based, also a lot on that
+But then there's this other thing that's happening
+which we're also starting to see
+and we're really seeing it
+particularly encoding right now
+where the really great people are becoming like spectacularly great.
+Right.
+And so you just kind of use it, use the term you think about like the super empowered individual, right.
+So the individual who is like really good at coding or really good at making movies or really good at making songs or really good at designing, you know, making art or whatever, whatever those things are, or, you know, or podcasting or, you know, hopefully venture capital.
+如果你很棒,你能成為很棒的表演員,你能變成很棒的表演員
+而且非常有創意,對吧?
+我確實有很多朋友在這個項目中,
+但我現在的朋友是很好的說明員,
+我現在的朋友是很好的說明員,
+我突然覺得我不是 twice as good as I used to be,
+我只是10x as good as I used to be.
+所以我認為,在一個人的項目中,
+我認為問題是如何讓人知道他們的操控
+他們的操控是超強的人
+這樣他們會很深入
+他們的操控是怎樣的
+但他們會深入的讓他們
+完全使用AI的操控
+並不是很棒的
+但也會很精彩
+我覺得這會是
+這就是我們的機會
+這就是我們所謂的
+這就是我所謂的
+我聽說他們是一個社會
+我們在Twitter看到他們
+是一個社會
+他們不等待有人告訴他們
+才能夠告訴他們
+要做什麼
+對
+這個字節的意思
+這次的社會
+已經變成很...
+很...
+很有名的
+在台灣
+在過去的幾年
+這件事很有趣
+因為我之前有很多問題
+因為我像社會
+他們在說什麼
+他們說的是
+在...
+在...
+在...
+在...
+你們可以做一些事情
+你們...
+就是...
+在...
+在...
+在社會上有很多名 live 遊戲
+你們可以...
+你可以像一個主持人,參加參加活動
+然後我第一次覺得
+對,那是很明顯的
+當然
+然後我會覺得
+其實沒有那麼明顯
+因為你對我們社會的重點
+是因為有這些規則
+然後大家被拒絕
+你應該要追蹤這些規則
+然後大家如果被拒絕
+大家被拒絕
+然後大家會覺得
+我們有時候
+我认为是你的孩子
+但是我不是很听话
+只是说我自己的
+只是说我自己的
+你能跟你说
+我自己的
+你能跟你说
+你自己的
+你自己的
+我自己的
+我自己的
+我自己的
+我自己的
+你自己的
+你自己的
+你自己的
+我自己的
+我擔任了
+在領導的領導中
+你必須先學會
+修理領導的領導領導
+你必須學會
+修理領導的領導領導
+然後
+要把他保持在某種程度上
+在他的生活中
+並不是只是一個公司
+但是對
+所以
+一些規定很重要
+但對
+有一個很大的
+有一個很大的
+生命
+在當一個
+能夠完全取得責任的
+責任的責任
+完全取得責任
+開一個領導領導的領導領導
+就能发展新的东西
+可能
+这可能是
+我们的过去30年
+我们的身体
+我们的健康
+现在有一个词
+我们的进入
+然后
+再次
+我对孩子的AI
+是
+AI是最后一句话
+对于生命
+可以说
+我可以实际上
+是一个主要的
+是否可以是一个主要的
+从
+新的領導,新的學生,新的文化,新的藝術
+新的創作,新的創作,新的創作
+什麼樣的東西,我可以在世界中完全參與
+我可以改變這些東西
+這與這技術的結合,我覺得很幫助
+你給我一個提示,我會移動世界
+移動世界?對,沒錯
+你也說過,那些年輕的學生,包括 Isaac Newton
+他們超級受到悲傷的
+他們是暖暖的,是由荷息師的
+始祥留醫有upkick
+荷息師繳出殊的一把
+保存知識
+可以學到他
+然後被導行
+增加高 flavour
+楓兒
+江山
+傳統
+佛地
+他不会能把这些东西传出
+让它成为新的东西
+他不会想出这些东西
+他不会想出这些东西
+现在我们在AI的技术中
+是把生物传进了想象中
+我记住了
+对
+世界最常的东西
+就是生物
+成为世界最少的东西
+就是想象中
+对
+所以AI是
+它是
+它是一块写真正的东西
+它是这样
+是那種很厲害的技術
+這就是我這麼興奮的
+我們在10歲的時候也想說
+我們要做的最主要是
+他知道完全如何解釋
+能夠使得到的效果
+就是AI
+這也很重要
+我們在教他
+有這個意義
+在教育學生的學生
+不要讓他們的孩子用腦筆
+我只是
+我可能會有幾個人
+那我也不知道
+我覺得是更正常的
+你比較有信心的地方
+在共和國的社會
+更重要的是
+讓你的孩子
+完全明白這個
+然後知道如何使用
+這就是我們的風格
+這就是我最勇敢的風格
+我希望可以讓 parents to think about
+I did not know your kid was homeschooled
+那是非常有趣的
+今天是一句很重要的說法
+可能有什麼想法
+我只是
+如果大家不想在你的帳號上
+想幫助他們的孩子
+要成功  maybe homeschool maybe not
+what advice would you have
+this is the challenge
+and again this kind of goes to how you're
+kind of your original question which is
+education
+there's two completely different ways to talk about
+think about education
+the way it's usually thought about
+and talked about is kind of at the level of like a nation
+right so it's like a national level issue
+or maybe a state level issue in the U.S.
+which is basically like how do you educate all the kids
+and of course that's incredibly important
+and of course you're going to need like some level
+LarScale System, National K through 12 school system
+or something like that, in order to do that.
+But then there's this other question, which is like an N equals 1
+for an individual kid, like what can you do with an individual kid?
+And so I'll just give you kind of the ultimate answer to that question,
+which is it's been known for centuries that the ideal way to teach a kid
+at the unit of N equals 1, by far the ideal way to do it
+is with one-on-one tutoring.
+如果你有一個孩子,目標是增加自己的孩子
+你會得到最好的結果,也有101的討論
+這就是每個世界家庭新的歷史
+每個歷史學家都新的歷史
+有很多的美麗的例子
+Alexander the Great 被歷史學家討論過
+他從世界上獲得了
+很多的美麗王和王
+世界家庭和歷史學家
+和其他世紀學家
+都一直有這種想法
+還有一些學生的分析
+是這個對的
+有一個問題在學校
+是如何進行學生的進行
+其實很難進行學生的進行
+但有一個方法
+叫做《Bloom 2 Sigma Effect》
+是一個方法
+讓學生進行學生的進行
+我們會拿一個小孩
+從50%到99%到1%
+然後就一人一人的學生
+如果再回到
+就像N equals 1, 有一個孩子和一個圖書
+他們都在一個很緊密的領域中
+他們的圖書可以常常在領域中
+做到的事情
+他們可以很快地進行
+做到一個很正確的時間
+你會有更好的成績
+但你問你的問題
+他們沒有經常被負責
+為任何人
+其他人的社會
+做到一個圖書的圖書
+AI 提供了一個很實際的
+能做到的
+因為現在
+如果你有一個孩子
+超級興趣的
+他们可以谈到LM 和LM 问问
+他们可以问一些计算数
+他们可以提出一些方式的信息
+其实你们可以说到LM
+他们可以教我做的方式
+你们可以说 哇 我不明白
+你们说的 让我稍微稍微
+好 现在我计算
+我应该明白
+人们可以今天做这个
+对吧
+所以我觉得有这个
+很大的机会
+在很多人的生活中
+有很多的时间和关系
+我可能會說,我孩子可能會繼續通過傳統的教育系統
+但是我會增加這個 with AI tutoring
+當然,當然,會有很多的開放,已經有很多的
+會試著建立所有的產品和服務
+這個,conacademy,在 non-profit side,有很大的推動
+所以,我認為, broad asker 會有一個很快的方式
+用學校,加上一對一的,Tutoring through AI
+還有這個,你也有聽過,有一個很高的學校
+新的學校系統叫Alpha
+我只描述的每一件事
+是他们的基础
+是一个结合
+人生、学校和学生
+但也很大顺利地
+在AI和AI的研究中
+所以我认为
+这种形式
+有一个魔法的方式
+我认为
+会更加快速地
+我和我的父母
+也很想知道
+现在会很快的
+开始想起来
+想想看
+选择的选项
+很有趣
+因为有很多
+年轻人的项目
+工作不一定会在这里
+AI在他们的位置
+在旁边
+这是你描述的
+我們在這裡說,感覺到人們來學習的
+今天會變得更快的動作
+學習得更多
+我們在這段時間裡,年輕人會有大麻煩
+或他們會變得最快的
+對,所以,工作室的改變
+是非常複雜的
+我覺得這是一個非常簡單的模式
+再回到最初的一句
+我們在50年內
+已經在經濟上進行了很低的技術
+然後,像我剛才說的
+就像我刚才说的,是一半的过程
+然后一三十年前的过程
+所以我们来到这个阶段
+我们过于我们的经济
+每次产生都没办法
+我们已经有了大部分的
+小专业业
+至于任何的历史
+所以如果以优势的
+优势的优势
+和经济的特征
+应该会像是大贴的
+它会重新重新
+在1870年-1930年,如果你回到1870年-1930年,
+人們就想到世界是一種機會,
+在這段時間的發展,
+孩子們能夠發展新的生產,
+新的經濟,
+新的產品和服務,
+我們現今的世界,
+我們都在這段時間的發展,
+我們都在這段時間的發展,
+所以,如果AI
+改變了經濟,
+它将将传辑到比较高的利率
+和比较高的利率
+这些利率将会有些
+贸易和贸易的达到位置
+但这些会被迫使
+贸易和利率的影响
+和传辑
+这些会发生
+我实际上
+它会全都在这里
+再次
+再回到
+其他事情
+这些都在对于
+cut
+h
+has
+and so human workers in many many many countries over the next 10 20 30 years are going to be at more and more of a premium
+literally because you're going to have shrinking population levels
+you know we don't really want to get into politics particularly but
+it does feel like the world broadly is is going to reverse course on on the rates of immigration we've had for less 50 years
+it seems to be kind of a broad-based
+you know kind of thing happening
+it was right right rise in nationalism
+Conserns about the rate of immigrationand Immigration historically countries like the US
+You know, it's kind ofeps old over time,based on kind of how the national mood shifts.
+And so if you sort of combine in the country like the US or any country in Europe
+If you combine declining population with less immigrationun,you can
+The remaining human workers are going to be at a premium,not at a discount.
+And so I think I think that combination of kindof faster productivity growth,
+Faster economic growth and then slower population growth and less immigration
+它其實就是說
+這 kind of dystopian
+you know no jobs thing
+I just think it's probably totally off base
+that is extremely interesting
+so what I'm hearing is you're not
+super worried about job loss
+is the key here that the timing
+kind of just works out
+this population decrease
+you know like all these kind of have to line up
+for there not to be this massive job
+loss with AI
+yeah look if we didn't have AI
+we'd be in a panic right now
+about what's gonna happen to the economy
+right
+because what we would be staring at
+is a future depopulation
+然后再次提升新技能
+就代表了经济的远程
+所以这就代表了经济的远程
+远程在时间中
+机会減少
+新的工程
+新的质量
+质量的质量
+所以你会很担心
+在过程中的
+非常严重的迫随
+而且
+基本上你会看
+这些非常迫随的
+经济的迫随
+所以大家會很擔心
+對方的問題
+大家會覺得他們擔心
+我們唯一的原因
+是因為我們現在知道
+我們有技術
+能夠改變
+人體的增加
+然後也有
+民族的增加
+所以
+我會說
+時間已經做得
+非常好
+我們會有
+AI和 Robots
+才能夠
+保持
+經濟
+從來都不斷的
+我認為
+這就是
+一個很重要的
+新故事
+新的故事
+如果要去到
+大部分的工作失敗
+人們擔心的
+另一方面的事情
+你必須要看
+遠遠遠遠的
+比利率的產品增加
+你必須要看
+比利率的產品增加
+20、30、50%的年期
+等等
+這是我們每一個
+經濟、歷史上的
+比利率的產品增加的
+我們可以得到的
+我用了我的
+優點
+和大家的
+大家的股份
+如果AI 像是
+达到所有的费用
+那可能
+我们可以把
+这种与人的情况
+比优化的比较高
+比优化的比较高
+比优化的比优化
+比优化的比优化
+比较高的
+你会有一个
+大量的经济
+你会有
+大量的
+优化
+然后比较高的
+你会有
+大量的
+费用
+费用的费用
+那些
+什么叫
+费用的费用
+费用的费用
+企業和資金會失去
+價值會變得更高
+而貿易價值會變得更高
+人們買的東西會變得更高
+這是一個大增加的比例
+在社會上
+我們要想想
+這是我們在說的
+因為人們會有這種問題
+如果AI會把經濟
+變成了
+歐洲或是歐洲
+或是什麼樣的
+那需要的經濟
+对于涉及新的经济公众
+所谓的经济公众
+主要是
+比坎坎的经济公众
+比比前代公众
+比剩下的经济公众
+更好
+对于汇除事件
+更高的经济公众
+汇出的经济公众
+永络的经济公众
+会影响下
+生产公众的经济公众
+wyn of the
+生产公众的经济公众
+今天的花了100美元 现在的花了10美元 现在的花了1美元
+这是大家的质疑
+因为现在他们都有这些质疑力
+这些质疑力传达到经济增长
+新的生产
+大家的质疑力比较快
+而且如果
+在其他方面 如果有一个不够的工作
+它现在比较便宜的
+社会安全网
+要保持人们的安排
+因为质疑力的质疑力
+就像是一個國際企業
+他們都會被毀滅
+所以 香港的財富和家庭的財富
+和學生的財富
+和所有的財富都會被毀滅
+因為這個大影響
+有什麼影響
+所以 這種有些
+有些人的心理和心理
+是沒有的
+沒有一個情況
+像大家都只是很貴
+其實是相反的
+因為大家都會變得更加富裕
+因為財富會被毀滅
+所以 其實是更容易
+付出社會安全的財富
+讓一些人
+為何不能找到工作
+又 maybe we end up in that scenario
+The optimistic part of me says
+Maybe AI is that powerful
+Maybe the rest of the economy can actually change
+to accommodate that
+but the result of that is going to be a much better new story
+than people think it's going to be
+Everything I've just described is like
+'just a very straightforward extrapolation of very basic economics'
+'I'm not making anyicken organise the predictions about what I just said',
+is just like a straightforward mechanical process
+that plays itself out if you have higher rates of productivity growth
+which is necessarily the results of higher
+It's got a great race and technological growth and so I think we're
+I think we're looking at it.
+I think we're looking at a world that's not like radically
+transformed the way that maybe the utopians think that it will be
+or the dystopians think it will be.
+I think it'll be more incremental for races we
+can discuss, but I think that incremental is
+I think that processes are going to be a good
+news process.
+And then even if it's much faster,
+it's also going to be a good news process.
+It'll just be a good news process.
+And the other way that I just described.
+I love hearing optimism and good news
+I will also add that you've been
+我之前在這聊過的資料中
+你已經在世界上
+經常在說話
+我特別期待在這裏
+我會給你一個短訊
+我相信很多更多的東西
+你會知道的
+在網上的網址
+你會知道的
+在2011年
+你已經說
+在10年代
+我們會有5億人
+使用手機
+你也有这个讨论 with Peter Thiel
+我过来的时候
+你讨论讨论
+许论技术停止了
+或者新技术会再次发展
+你也在说
+有进步 进步会再次发展
+他说
+现在我觉得我们已经完成了
+新技术
+你也对吗
+我认为
+有很多更多的东西
+你也对
+所以
+我只是
+我喜欢听你的证据
+因为我感觉
+他们会发展得对
+所以我开始说
+我一開始說我錯了很多東西
+但是我把那些都把後面的背後都戴上了
+- 把網路從網路上刪除 沒用的
+- 網路可以刪除
+- 我已經被他們扭曲了
+所以他們都沒有見過
+所以我也錯了很多次
+但對 但對 但對 但對 但對 但對 但對 但對 但對 但對
+我會說在Peter的
+我已經來過Peter的
+我會說那一句
+像今天一樣 但我會說那一句
+我會給他的視乎 但我會給他的視乎
+其實我們剛才的談論是
+我們有很多的進步和進步
+但是我們有很少的進步和進步
+那是我們想的
+我認為我只是有點
+我忘記了
+我只是想要把那些
+因為我太重視力
+讓大家明白
+其實還有進步和進步
+但是我認為
+很多的評論
+wash the lacquer progress and atoms is real.
+And and again this goes back to this thing of like in the last 这个
+In the last in the last in the last week.
+he,he you know he's talked about this for a long time.
+In the last 50 years.
+There has just been very little technological innovation.
+In most of the economy.
+There's been very little technological innovation.
+in particular,anything involving atoms.
+You know,there's been very little real world technological change .
+There just there just hasn't been like the built world.
+is just not that different today than it was 50 years ago.
+And if you and again,if you contrast that,
+If you compare and contrast 1870 and 1930.
+It was a dramatically different world.
+如果你可以相信1930和1970
+是一種非常不同的世界
+如果你可以相信1970和1980
+那是不一樣的
+你看你能看到
+你能走開
+然後就覺得
+對,有很多建築物
+建成了1960年代
+還有一條路
+建成了1930年代
+還有一條路
+建成了1910年代
+還有一個城市
+建成了1880年代
+還有
+我們做的
+我們有新的城市
+我們有新的城市
+我們...
+那是在加拿大海峰的海峰
+你知道嗎
+什麼都在發生
+所以我認為他
+我認為他很對於很多的
+這也是為什麼我認為
+AI不會像是快速的
+它不會像是
+這類的俄羅斯和埃塞斯的觀看
+每個東西都改變了
+我覺得這就不可能
+因為其中的原因
+因為有很多的問題
+就是
+世界的工作
+基本上就是
+像是紋紋的
+像是
+bureaucratic process rules restrictions
+you know the politics by the way, you know, unions cartels oligopolies.
+There's all these structures in the world that are kind of economic or political or regulatory structures that basically prevent things from changing.
+And so I mean, let's take a great example like AI is impact on the healthcare system.
+Like by rights, AI is going to have a dramatic impact on the healthcare system and in a very positive ways.
+但是大部分的醫療系統
+他們是卡特爾斯
+所以醫生是卡特爾
+醫生是卡特爾
+醫生是卡特爾
+然後還有這個動作
+去國際健康系統
+然後你又有政府的模特兒
+然後像卡特爾的模特兒
+他們不喜歡
+因為他們不喜歡快速的改變
+所以你像個孩子
+然後你覺得
+我可以用這個技術
+做A.I.的醫生
+然後他們覺得
+那是否能夠
+對醫生的工作
+我們就要把握一下
+我相信很多える优 therapeutis
+我看到这种能力
+我相信这种能力
+like Chipt's like
+almost certainly a better doctor
+than your doctor today
+but like
+CHEPT can't get Zhang
+a license to practice medicine
+so it can't substitute for doctor
+can't prescribe medications
+can't perform procedures
+there are these
+Anyway, so Peter
+Peter,I think
+was very articulate
+has been for a long time
+I'm like no
+there are actually real structuring
+impediments inthe economy
+and then the political system
+that we have
+onomers to prevent and it's the race of change that are anywhere near the race of change that people had in the past.
+And you can maybe say optimistically, you know, may be the presence of it of the new magic technology of AI, maybe it causes us to revisit a lot of these assumptions assumptions for the first time in decades to really say it is this really the world we want to live in.
+Don't we actually want to get to the future faster.
+So that maybe that would be the after Mr. It's time to build somebody famously said, I, in my calendar, actually have that as my when I start to work.
+It's time to build my block in the morning of the day.
+謝謝你
+OK,我愛我愛你走從
+像Macro,到像N1
+然後我去N1
+很多的聽眾在這個 podcast
+是產業管理,他們是工具
+他們是設計師,他們不是...
+有很多...有很多的 Founders
+但是有很多的 non Founders
+有很多人在建設產業
+他們不是 Founders
+然後,當然有很多人
+擔心他們的 career 要走的
+因為這一個角色會失去
+這一個角色會做得很好
+怎麼保持時間
+你跟很多的團隊、很多的團隊
+What's your sense of just the future of these three very specific roles?
+Product manager, engineer, designer?
+This I think is really funny question.
+So these three roles in particular obviously are kind of the central roles for building, you know, for tech companies.
+So the way I've been describing it is, you know, the concept of the Mexican standoff, right?
+Which is the movie scene where the two guys have guns pointing each other's heads.
+And then there's if you watch like John Woo movies, he loves to have, he does the three way Mexican standoff.
+Where you've got like a triangle, you know, people like that, you know, and of course John Woo movies.
+他们都把手机拿过来
+所以他们都在每个人都在银行
+对
+然后你会有这种 standoff situation
+所以我刚刚说的
+这是一个美国 standoff 变化的
+这三个转变
+between product manager, designer, and coder
+特别是每个 coder 相信
+他们可以是一个 product manager, and a designer
+因为他们有AI
+每个 product manager 都会是一个 coder, and a designer
+然后每个 designer 都会是一个 product manager, and a coder
+所以每個人都知道和 AI 和 他們都不需要 其他兩個人的實際性
+他們可以做到 因為 AI 能做到
+然後 還有 當然 還有 真正的誘惑
+所有的 三個 他們都會發現 AI 也能做得更好
+Amy, the gun is up the work chart, but that's probably the next phase.
+And what I think is so fascinating about this, Mexican staff is they're actually all kind of correct.
+I think, right?
+Which is AI is actually a pretty good now, it's actually now a really good coder.
+It's actually now a really good designer, and it's also a really good product manager.
+It's actually good at doing all three of those things or at least doing a lot of the tasks involved in those three jobs.
+So again, this goes back to this kind of idea of super empowered individual.
+如果我是一個學生
+我需要確認
+我能夠理解AI的學生
+什麼意思
+如何學生
+將會改變
+我需要解釋
+如何去改變
+學生的學生
+將會改變
+學生的學生
+將會改變
+學生的學生
+將會改變
+學生的學生
+將會改變
+學生的學生
+將會改變
+但其中
+我變成了
+學生的學生
+如何成為一個儲物產品的儲物產品
+然後也能夠用AI去做
+讓我能夠成為一個很好的產品領導人
+還有我能夠成為一個很好的設計人
+然後同樣的東西
+讓我成為一個儲物產品的儲物產品
+就是如何讓我能夠用儲物產品的儲物產品
+如何讓我能夠做一個很好的設計人
+同樣的東西讓我成為一個
+儲物產品的設計人
+也能夠成為一個儲物產品的儲物產品
+然後你會看到
+可能這些人的角色
+像這些不再是
+一些某種類的儲物產品
+就是他們的過了30年或什麼
+但是有些人的招牌会被超越
+然后会成为很好的人
+然后那些人会成为非常重要的
+因为那些人会成为新的品牌
+比如是互动 最重要的东西
+所以我觉得这就是机会
+我喜欢这个答案
+所以我听说
+如果你是很棒的
+有这三个招牌你会做得很好
+第一 如果你是很棒的
+那是很棒的
+但是也許, 最有趣的就是, 能夠完全擁有技術
+所以, 如果你是一個 master coder today
+你沒有必要去到那裡 去解決AI, 去調整你的技術
+還有做更多, 像在某個時候, 你會有一個問題
+另外一個方法, 經濟人們說到這個
+就是, 它是一種工作的概念
+与其所谓的业务是一种业务的业务
+业务业务是一种业务的业务
+业务是一种业务的业务
+大家想要谓业的业务
+但是你想要看的是
+业务的业务
+业务是一种业务
+业务是一种业务
+业务是一种业务
+业务是一种业务
+在一段时间
+经济人们不曾使用
+彩排写书
+或是个人的手机
+对吗
+如果你是總統政府的政府
+1970年代
+你沒有像一個
+寫寫文章或是
+在你寫寫的文章
+寫寫文章
+你還有一個
+寫寫文章
+你剩下的記憶
+然後會有這個改善
+然後就開始出現了
+然後發生了什麼
+寫寫文章的工作
+然後從寫寫文章的工作
+發出了文章
+就按照他們的
+發出的文章
+然後就把其他文章
+發給其他文章
+然後寫寫文章
+就把文章
+發給其他文章
+寫寫文章
+就把文章
+寫寫文章
+就用这些评论来给那些评论
+给那些评论来给秘密的秘密
+就会把秘密的秘密
+用这些评论来给秘密的秘密
+快速地说今天
+没有什么事
+现在的秘密就做到自己的秘密
+他们仍然有秘密
+或是秘密
+但是他们现在在做不同的评论
+他们在旅行
+和演出
+和做这些其他东西
+那些秘密的秘密
+然后那些评论
+组织比较有可能的
+我比较以往基本的 job 结束
+我一开始他就说了
+为什么会有这样的挑战
+因为现在我发现
+他会经历下层的整个新方式
+他会和那对比方域
+非民族和其它人
+会不及以为
+大家会在公司的工作
+会更加地能够
+然后当联系的变化变化得足够
+那就是联系变化的原因
+所以在人类的等级上
+你会想到
+我这联系的变化是一笔联系的
+我需要很好的确认
+我可以把联系的变化出去了
+我可以很好的选择
+使用新技术
+用AI的技术
+然后你也要加技术
+我可以很好的设计
+也很好的购买
+因为我用了这个新技术
+所以你需要更多的选择
+然後10年代的工作名叫做
+Coder 或者是Coder Designer Product Manager
+或者是我建設產品
+或者是我告訴AI 要建設產品
+那些叫做的工作
+誰都知道是怎樣
+但這很重要
+因為人們在工作
+會在AI 彈奏
+所以這就是
+最好的工作
+那是很難得的
+我認為人們不完全是
+specific software engineering and how much
+that is changing
+like it's pretty clear we're gonna be in a world soon
+where engineers are not actually writing code
+which I think a year ago we would not have thought
+and now it's just clearly this is where it's heading
+it's like there's gonna be this artisanal experience
+of sitting there writing code
+which is so crazy how much that job is gonna change
+yeah so again here I go back
+and again I pardon maybe the history lesson
+but like I go back like
+coding so the first
+you know the original definition
+你懂什麼意思嗎
+嗯
+不
+我還要說人
+對
+所以
+之前有像電子計劃員
+或是電腦
+或是任何這些東西
+你會做的
+你會做的
+像是
+像是
+一個資料公司
+會計劃
+廣告
+或是
+美國
+我都不知道
+什麼的
+證據
+什麼的
+你會做的
+就是你會有一個人
+還有一個人
+就是這樣
+100 或 1000 或 10 千人在做这些事情
+你会想起
+如果有一个人在前面的房间
+是否有什么办法
+就像什么样的码写
+然后他们会把
+码写的码写
+给人们坐在桌子里
+做的码写
+这些人是码写的
+所以我们从世界中
+你会有人在码写码写
+手上做码写
+然后我们就有第一个码写
+第一个码写
+他们只能有训练程序
+第一个是训练程序是1和0
+所以训练程序的目标是1和0
+然后那些成为训练程序
+还有很多人今天训练
+他们的工作是训练程序
+然后你会有一个叫做训练程序
+就是训练程序的方式
+但是有些训练程序的方式
+然后最好的训练程序是训练程序
+然后我来自于C的输入程式
+就输入了机构
+这就是我们的设计程式
+我还记得我们发行的
+我们发行的JavaScript
+然后Python 和Pearl 和其他设计程式
+设计程式在2000年中
+有一个大门的设计程式
+就是设计设计
+因为它是一种输入程式
+因为设计程式输入机构
+然后有些计划都会用来做线路
+他们都会用这种计划
+这些JavaScript和Python计划都会用这种软件
+它甚至是用来评论
+当然答案是,是的,它非常有用
+现在计划已经完成了
+用了写意的语言
+你看我的点
+写意的语言已经被逼迫了
+有五个字的调整在下面的部分
+人们都不会用手做的
+然后你的点是
+AI coding is the next layer on that AI coding actually abstracts away the process of actually writing the scripting code
+right and so in one sense this is a really big deal for all the obvious reasons but on the other hand it's like
+ok this is the next layer of the task redefinition under the job of programmer
+right now what's the job of that programmer it's to your point it's not necessarily to write the code by hand
+but what it is now is alright now if you talk to the world's best programmers today what they'll tell you is
+oh my job is I'm sitting there and I'm orchestrating 10 code bots
+网路网路博文所在国会当中
+他们在返离 网路反映
+而且他们的用键工程式
+现在是想认为人类网路
+执行他想试试制线网路
+先调查网上的问题
+回头再说
+网络的设计为网路笔
+但是如果你不懂
+认为网路的假设
+你不懂
+原来网路的寄货
+You asked about the ten-year old.
+the ten-year old is super-inch computers and super-inch programming.
+When I tell anybody.
+He's using cloud and chat.有 sweaty寄信息
+I'm copiling all these things.
+And when I'm telling him is like look.
+By the way, he loves vibe coding.
+He's on replete all the time doing vibe coding.
+Doing games,
+you know he's sitting there.
+It's hysterical,
+because you sit in there.
+The ten-year old basically.
+He was in a two hours at dinner arguing with an AI for fun.
+Right, but what I'm telling him is no.
+Look you need to still fully understand and learn
+how to write and understand code
+因为网络带给你网络
+如果不合适
+或者不做什么
+你预测
+或者不兴趣
+或者什么
+你需要理解
+结果的结果
+给你
+在同一方式
+有人写的语言
+需要理解
+终于是网络带给你
+所以
+这种上升
+的能量
+你需要
+能够去下
+理解
+这些事情
+是在做的
+连如果你不在
+今天
+做的那一件事
+我再看
+现在
+网络带给你
+10 百万
+1000次比以前的工作都要多
+對 而且這件事非常好
+對於工作的影響 但人們要在股份中
+在股份中 人們要在股份中
+在股份中 人們要在股份中
+在股份中 人們要在股份中
+股份中 人們要在股份中
+當然答案是100%
+沒問題
+所以你在股份中 還要學習股份
+還要學習股份
+對 完全
+如果你想要一個超級股份
+如果你想要一個超級股份
+我只會有AI的計劃
+並不是要剪輯什麼
+如果目的是做一個研究
+就讓AI做好
+AI會很完全地剪輯
+的大幅度是研究
+沒有問題,還好
+如果我做的目的是
+我會為世界最好的梳化人物
+而我會為世界最好的梳化人物
+而我會為世界最好的梳化人物
+然後你也會要有一百%看
+但你還要去一步
+你必須要整理一下
+在設計機構
+你也想要明白每一層的工具
+你也想要深深地明白
+它在船上的程度
+和網絡等等
+你也想要深深地明白
+它們的AI是怎樣的
+因為如果大家明白
+它們的AI是怎樣的
+它們可以更加的價值
+但它們不明白它是怎樣的
+你會更加的 productive
+如果你知道它是怎樣的
+你使用它
+所以對
+超強的個人
+在另一個方式
+想要做很好的事
+用新的技術
+對,你100%想要
+你会明白这个东西
+因为你会明白
+它给你的
+如果什么东西不合理
+或者是不合理
+你会明白为什么
+这个东西是
+再来 这回到教育
+AI是你朋友最好的
+帮助你学习
+因为你会明白
+这个不快
+我需要想起
+做一个课
+做一个不同的
+运动方式
+或者什么
+你会知道
+我没有太多
+知道怎么做
+OK AI
+10分钟 教我如何做这个
+教我这个意思
+所以你突然有这个
+非常兴奋的关系
+和AI
+也帮助你更好
+同时在做很多工作
+我会说
+我做了一个大会
+我做了一个专业研究生
+十年了
+那是我的语言
+你记得
+我不知道
+你做什么
+你记得
+至少前面
+你记得
+你还记得
+那是
+C读者
+在看着你
+在看着你
+就感觉
+对 这很快
+不够快
+你怎麼看他在說這件事
+對 沒錯
+當然 而且這件事
+他們是對的 最初沒有很快的
+最後他們一定是錯的
+更加快的 更加快的
+他們是世界上的
+今天最重要的就是 屬於屬於語言
+然後在屬於語言的方式
+人們真的懂屬於語言
+人們懂屬於語言的方式
+他們是屬於語言的方式
+他們真的做得很好
+所以這是一個很好的例子
+這種種類的適合
+然後再次
+那是一個更高的數字
+寫寫文字的寫文
+然後再寫寫文字的寫文
+我覺得這就是
+更有劇情的部分
+我愛那一段
+是設計成了一句語言
+我不知道你還記得那部分
+那是很好的作用
+這很難得
+因為這很像
+能夠理解
+很瘋狂
+對
+這集是帶來的
+你買了資訊
+現在我們來到Epo
+主要的體驗和技術技術
+產品領事在世界最佳的公司用了DataDog
+同樣在每天使用DataDog的研究機構
+每天使用DataDog的技術技術
+使用DataDog的技術技術
+包括Bugs,UXFriction,和商業影響
+開始時產品行業
+PMS可以看回合, 觀察機構, 進行重新重新重新
+然後去探索他們的增加劑力
+其他技術的部分, 娛樂機構思更加廣闊
+它會讓你能夠實現娛樂機構思的影響
+和娛樂機構思的影響
+當你注意到哪個目的, 娛樂機構思證明了什麼
+我第一次看到這個手機, 娛樂機構思的
+使用的研究程序最重要
+是去查看工作的
+和錯誤的東西
+同一團建立了
+研究程序在AirBnB建立了EPO
+DataDog讓你去看更多的數據
+用Session Replay
+看 how users interact
+用Heat Maps and Scroll Maps
+去實際理解 their behavior
+這 all is powered by feature flags
+that are tied to real-time data
+讓你能安全地
+保持安全地
+學習繼續
+DataDog is more than engineering metrics
+It's where great product teams learn faster,
+fix smarter, and ship with confidence.
+Request a demo at datadoghq.com slash Lenny.
+That's datadoghq.com slash Lenny.
+Coming back to these, this kind of triad.
+The other element that I hear more and more of is just as
+is the skill of taste and design and user experience.
+It feels like that's a very hard skill to learn.
+And to me, it tells me design is going to be much more valuable in the future.
+Yeah, that's right.
+And again, here, this is a great example.
+So, the again the the task level oflike Design the perfect icon right is going to be like all right
+A is gonna do that all day long. That's gonna be fine.
+There will still be by the way some level of human I can design or whatever
+But like they are gonna get really good at that.
+What are we trying to do?
+Like the you know kinda capital D design of like, all right, what is this thing for?
+怎么会这样的生活能够好优势
+是否会让人很高兴
+使人感到好
+会不会将他负责了
+会不会挑战他们的方式
+这些非常高级的问题
+就是我经常想到的
+就像是,這項目的設計,會更加重要的
+然後,再次,在AI做更多的內容
+所以,我認為,世界上最好的設計師,
+Johnny Ivor,或任何的,
+如果我今天設計師,如果我25歲的設計師
+我和我對Johnny Ivor的作品有利,
+我突然間有一個新的設計,
+我可以用來,
+因為Johnny,我覺得你做過A.I.
+現在,年輕的設計師會覺得
+如果我真的要做A.I.一年
+我會是世界上最好的設計師
+因為我不會只是
+我會更加超強的
+用這個技術做得更多
+然後我會更加多的時間和關注
+能夠在這幾個級別上升
+讓很多設計師都能做到
+這也會是很好的例子
+所以我可能會聽到
+這個T形勢的計劃
+如果你想成功任何三個角色
+就很很很好的
+如果是特殊的角色
+產業、工程、設計
+然後就夠了
+在其他兩角色上
+我覺得這很棒
+我覺得這很重要
+然後 Scott Adams
+剛才就失去了
+這就是一個真實的垃圾
+但我一直都在說
+其實Scott Adams
+他有這個名字
+他有這個名字的
+我看過他會給人的
+我覺得這有很多意義
+你也知道,他曾經說
+他說,我可以成為一個很好的藝術人
+或是可以成為一個很好的藝術人
+但我當時是一個很好的藝術人
+讓我變得很棒的,而且成為了做過的
+因為,世界上最好的藝術人
+沒有理解藝術人,就不會成為了做過
+世界上最好的藝術人
+沒有理解藝術人,就不會成為了做過
+他當時是有兩個技能的藝術人
+就能做得到
+這是一個最有優勢的
+肯定是歷史
+所以
+所以 way Scott always described it was
+從一個生產發展的 standpoint
+那種影響的效果
+在兩方面是更多的
+對嗎
+影響的效果
+在三方面是更多的
+對嗎
+因為你變成了
+超級重要的特首
+在其中的場面
+你看到這方面
+你看到這方面的影響
+你看到這方面的影響
+對,你看到這方面的影響
+但是我給你一個例子
+Hollywood
+Hollywood是一個例子
+很多寫作者不可以寫作者
+他們可以很成功寫作者
+很多寫作者不可以寫作者
+他們可以很成功寫作者
+但主題是
+在電影業的領導者
+他們可以寫作者
+他們也有個名字
+叫做藝術
+那些人
+是他們的創作者
+能夠進入園裡
+而且
+而且Hollywood
+其實很有趣
+我經常在Hollywood說話
+有關AI
+Hollywood有同一個機構
+可以站在那裡
+现在我们对不好意思
+韩额网咯
+手机
+创暴
+时候
+并没有
+观众
+问题
+是
+有一種
+新的
+新的
+所见
+是同一種插入的
+同一種插入的
+插入的
+插入的
+非常棒的是
+他們全是對的
+每個人
+每個人在這三個地方
+都會能夠在內地展現
+去取回那些其他
+那些加強的技巧
+然後是成果的
+你會有更多人
+可以在直播和直播
+或者直播和直播
+或當中的三個
+我認為
+在你的視角
+我覺得那會是
+基本上是違反了整個經濟
+如果你想想
+如果你想想
+關於T 插入的
+對
+The breath, the breath, the top of the tea is like
+How many individual domains are you familiar enough with
+to be able to use the AI tools to be able to do really good work
+and then the this part of the tea is how deep can you go
+and at least one of those domains
+so that you really, really deeply know what you're doing
+but like if you're like super deep on coding
+and you can use AI to do design
+and you can use AI to do product management
+right that's your tea right there
+and you're a triple threat at the top of the tea
+but with this level of technical grounding underneath that
+and I mean at that point you're again
+你會能夠表現像魔術的體驗
+例如在設計和建造你的產品
+那些人我的年代都沒有夢想過
+所以我覺得這是一個
+一種一種一種的理論
+可以依照整個經濟
+我現在會設計一個新的鏡頭
+忘了鏡頭
+我會拍攝F 或E
+或是2或3
+我不知道 下方的部分
+所以我聽到的
+至少要做好2
+我覺得對,我覺得對,對,對,我和賴琳瑞e pregnancy summer,
+a had a had a different version of the Scott Adams thing,
+which is he used to tell people, he said the key for per planning is he said,
+don't be fungible.
+right,and,you know, that's, it is economist version.
+So that was economic, speaking why and what that means is,
+what that means essentially is don't be repelsable,
+and so don't be a cog,right.
+So and when what they meant was, don't just be one thing.
+Right.
+So if you're,if you're quote unquote,you know,
+justices designers just brought a reinseritory decoder,
+然后你能在理想上可以双手双手
+但是如果你有这个
+如果你有这个E和F
+你能在内地放一种东西
+如果你有这个结合
+这些东西是很少人
+那你不可能不能双手双手
+不仅仅双手双手双手
+你其实很重要
+因为你只能是一人
+在世界上
+能够实现这种结合
+你的能量
+不可能变成一种
+像是
+就只能用AIs
+跟我們之前一樣
+這很奇怪
+因為我和別人
+有合作的工作
+這兩種技術
+他們都叫做
+《雲竹竿》
+《雲竹竿》
+《雲竹竿》
+我聽到
+這就是你必須
+變成
+變得很好的
+至少兩種
+你用什麼
+《雲竹竿》
+或是《雲竹竿》
+《雲竹竿》
+我聽到
+你必須
+最好有這兩種技術
+這兩種技術
+這兩種技術
+都會失去
+對
+preoccupation, I can't overstress the following for anybody listening to this.
+The thing about AI that I think people are just like not getting enough benefit out of yet is just, it will teach you.
+It's like this is amazing like there's never been a technology before where you could ask it like teach me how to do this thing.
+So, it's I always feel like it's like it's like people spend too much it's one of these things where it's like so much focus on figuring out how to use like a large language model is like okay what am I going to try to get it to do for me, right which is of course very important.
+但是另一邊是
+我可以學習自己的學習
+對吧
+而且是很好的學習
+所以
+這就是很大的學習
+超強
+人們想要學習自己
+和他們的學生
+每個小時都要學習
+在這個時候
+在AI上說
+好 幫我學習
+幫我學習
+幫我學習
+幫我學習
+我學習
+幫我學習
+我會做的
+它知道我該怎麼做
+讓我學習
+Problems,make me assignments that evaluate my results.
+It will do that just as happily as it will do work quote unquote for you.
+Two tricks I've heard along those lines.
+One is to watch the output, what the agent is doing and thinking as it's doing the work.
+So if you're not an engineer, just sit there and watch it think and make decisions.
+And it's almost become this like layer on top of learning to code is learning to see what the agent is doing and thinking.
+Because that teaches your butt architecture.
+And the other is a couple podcast guests have mentioned this.
+when you get stuck and then you figure out how to unstuck
+yourself you ask it.
+What could I have done differently?
+What could I have said
+that would have avoided this error in the first place?
+Yeah, that's right, that's right.
+That's right.
+Yeah, look on that first one and this again
+this is what I'm doing on my 10-year-old.
+Yeah, look, if you ask it...
+Yeah, this is a really good point.
+So if you ask NAI don't write me this code
+and then it doesn't it comes back
+it doesn't work right.
+Like if all you know is like single function
+I asked it and it gave me back something that's not good,
+like what do you even do with that,right?
+like you don't understand why I gave you that results
+你真的明白
+你明白什麼是要告訴他
+要做什麼不同
+但是你對你的點
+如果你其實看
+如果你其實看
+什麼是在做的
+然後你
+你會有地板
+那種那種
+你的F
+如果你有那種地板
+你會覺得
+我看到什麼在做
+我看到它做錯了
+我看到它走向左邊
+然後你突然間
+能夠進行
+能夠說
+不不不
+那不是我做的
+是別的
+然後再一次
+這就是一個大部分
+其實你明白的
+對於這個關係
+你明白的
+我明白的
+我明白的
+我明白的
+我明白的
+我明白的
+我明白的
+是一樣的
+你和我的朋友
+然後我問你
+你要做什麼
+你回和我完全不同
+我需要明白
+在你的頭上
+明白
+要給你
+給你
+如果我告訴你
+我對你錯
+不像
+我需要解釋
+我需要明白
+我需要明白
+你在想什麼
+可以給你對的訊息
+所以
+然後 再次
+AI是
+AI會快速地
+在那裡說
+為什麼它在做什麼
+它會快速地
+自己判斷
+你也可以
+你自己是個很有趣的東西
+你會有一個AI
+判斷另一個AI
+對
+這是另一個
+你會有一個AI
+判斷另一個AI
+判斷另一個AI
+判斷它
+所以你可以
+判斷對方的AI
+和對方的合作
+對
+這些都是
+各種技巧
+會變得最實際
+我覺得人們叫LLM的公司
+是
+他們在聊天
+對
+對
+我感覺我沒有設計的背景
+我一直想設計
+我一直想要成為一個很棒的設計
+感覺那是
+最難得想要的一項
+這些三項
+看著和聊著
+因為有很多的延遲
+我們
+像大家用這個詞
+怎麼學會成為一個很棒的設計
+那感覺是
+很難和值得的
+我的確
+我一直想要成為一個很棒的設計
+嗯
+但是我沒有藝術技術
+但是我們在說話的時候
+我會覺得很難
+你的時間是COMARC
+是的
+我想推翻你可能是你的粉絲
+你花了很多時間
+最高的A.I. forward founders
+我'm curious what you see them do
+how you see them
+someway they operate that's maybe blowing your mind
+about how the future of
+sturning company looks
+how the future of A.I. forward companies look
+yeah so this is a great
+it's a very very topical topic
+that's all playing out in real time right now
+on the leading edge
+so I think there's like three layers of it
+and see if this makes sense
+there's like three layers of it
+I think layer one is they're thinking alright
+how does A.I. redefine the products themselves
+And this is kind of the this is kind of the time-honored you know, kind of thing that happens with technology transitions.
+And this is kind of what a lot of venture capital is based on, which is you know, okay, there's a new technology that comes out and you know, maybe it's the person computer or the iPhone or the Internet or an out say, i
+And it's like, all right, is this a new capability that gets added to existing products, right.
+你突然有一个不知不觉的
+阻止了你的质源
+然后你把你的iPhone的版本
+和你把这些质源都放在一起
+你把新的技术
+加入了混合
+是一个新的技术
+当然
+新的技术都很像
+我没有想过
+当 flash storage 出现了什么
+你没有 really redefine
+阻止了技术
+因为人们只想用
+但是,当网易发展出现了,
+就像在幼稚园上的新手机,
+通常,不完全,
+但是很多人都死了,
+就像在网易上的新手机里,
+就像在网易上的新手机里,
+所以,有时候,
+你会有点加重,
+有时候你会有点加重,
+有时候你会有点加重,
+整个产品的数字,
+产品的生物,
+很多的公司会有点加重,
+所以,
+所以,
+所以,
+这就是这个问题,
+像,
+例如,
+你刚才提到的,
+你刚才提到的,
+例如,
+一個很好的例子是
+這些商業像
+像在印度的
+像是在照片店
+建立了一個40年代的
+鏡頭創作
+OK
+A.I.E.
+是現在的一個
+現在的鏡頭創作
+可以做A.I.E.
+鏡頭創作
+還是
+你會停止
+整個鏡頭創作
+因為你用
+用了一種 banana
+然後
+所有鏡頭都會
+創作
+然後就比較容易
+創作 A.I.E.
+創作新的鏡頭
+就是去試鏡頭
+所以我認為
+等于这些计划的预算
+等于什么项目
+而且这些项目
+已经是以来的
+但是这些计划
+已经放在很多的
+计划中
+也没有的
+这些计划
+这些计划
+都没有的
+而且这些计划
+都是用伴们的
+计划
+那些计划
+都可以用
+这些计划
+也没有的
+而且这些计划
+是用伴们的
+计划
+是用伴们的
+计划
+我们的计划
+我仍然在我的預算上
+我如何獲得這些儲存儲存
+並且超級儲存儲存
+並且不是儲存儲存
+我以前也有
+如果超級儲存儲存儲存儲存
+那意味著我還要100儲存
+可能還要10儲存
+還是意味著我還要100儲存
+但現在還要10多儲存
+所以很多最好的發展員
+正在工作
+然後我認為
+第三次的儲存儲存
+並未夠儲存
+但是是一個很大的儲存
+就是
+like the the the the basic idea of having a company right you know does that change and again here you've got this concept of the superpowered individual which is like okay
+you know can you have entire companies where you have basically the founder does everything right because what the founder is doing is like overseeing an army of the AI bots and and they're sort of this you know
+因为我们的生物与生物业的业务已经一直在上升
+所以我们可以有一个人的1%的钱
+我们已经有几个人在这些年了
+Bitcoin是最重要的一个例子
+有一个Syrium在背后
+这个人不是一个很小的一人
+但是一个很小的一个团队
+有一个Instagram和WhatsApp
+有很大的业务和小团队
+每一段时间
+你会找到一个业务业的业务
+然后你会找到一个很小的业务业
+但是那說,很多公司公司都會結業,
+很多人都是公司的,
+所以我認為,
+最主要的原理是,
+我會如何重新建立
+一個非常具有的方式,
+因為公司是一家公司,
+所以你會有公司,
+基本上就是公司,
+如果你在做任何事,
+在世界中的事實,
+但在一些情況下,
+如果你是在做公司,
+那應該會有可能,
+但在某些情況下,
+最後一個例子,
+比如那種大學
+你有跟兼仿兼衛生
+或兼仿兼衛生
+兼仿兼衛生
+或者是兼仿兼衛生
+無論它在一下子那裡
+為兼仿成本
+跟兼仿兼衛生
+整個工作都做得再高
+所以可能
+可能公安局
+可能公安局
+是最後一個成分
+我們有幾個
+你会有一个人的一人一百万美元的公司
+我觉得它是你的定义
+这个是一个出口
+我可以看到
+我曾经在一个人与一些公司的公司举行时
+推动我的新闻
+有很多少许许的东西
+需要跟他们商量
+与其他货币
+和货币的货币
+和货币的货币
+我认为
+一人一百万美元的公司
+即使是货币
+也许AI是对你的货币
+因为有很多的
+许多的货币
+我只是想要付出货币
+所以我相信
+你会有公司的货币
+就是你 know like what does it can what does it mean to be a one person but I'm just like I can't see that happening
+Yeah I mean look Bitcoin satoshi fold it off
+But like you know the open source community you know like does that count I don't know
+Yes I guess it counts okay
+Yeah exactly right so yeah that yeah and I was I don't propose to have answers here but more just like the smartest people I know or many of the
+many of the smartest people I know or thinking hard about this
+你會想起什麼?
+一個問題, 經常在智慧智慧智慧,
+其實每個人都會改變,
+就是你為什麼要在智慧智慧智慧智慧智慧智?
+你會想起什麼?
+我的經驗是一個很大的
+技術和形容,
+當然我經常用網絡
+看見這個,
+是一個很大的技術和形容
+他們會長時間玩出來,
+有這些很大的
+化學的意見,
+他們會隨時走開,
+然后有一个像是这个
+说到前面的证明
+人们说
+是为了解释的XYZ
+是为了解释
+这个公司
+是公司的未来公司
+不是这一种
+是为了解释
+这个公司
+是能够达到的
+是为了解释
+有经济的机会
+这一种
+不在其他人上
+是为了解释
+这些大部分的
+会在这一种
+技术上
+但不在其他地方
+然后
+你们知道
+他们会把这些
+有很多自然的問題
+他們真的好像有很多答案
+然後這些問題
+會去到網路
+因為網路自然會有
+絕對的答案
+因為
+CNBC是寫的
+他們想要有個答案
+但不像
+那是個好問題
+我發現
+如果你們回顧這些
+你們可以做這個
+在1993年-97年-2005年-2010年
+你會看見很多的信息
+在第一十五十年
+我會說
+他們幾乎都錯了
+我會說
+他們幾乎都錯了
+所以
+我認為
+會有很大的
+改變
+5-6個
+變成了
+像一個非常非常大的數字
+我覺得這就像是非常非常危險的
+去預測這些東西
+所以我只是想
+我只是想這個就是考驗
+你看看你會想到的
+但是它是
+像
+我們A.I.Models
+我們A.I.Models
+像是防守
+像是否有動作
+在A.I.Models
+然後你會覺得
+哇 它確實好像是
+還是應該是
+因為如果有東西
+你會花了很多錢
+去建造
+你要有za incredible critical massive like compute data there's only a certain number of computers and data and BC
+a number of engineers in the world who know how to do this and you know they are getting paid like NBA stars
+you know and then these companies have to deal with all these like crazy political issues and press issues and reputational stuff and regulatory and legal
+like all of that translates to like you know OK probably at the end of this there's gonna be 2 or three companies that are gonna end up with 100%
+I don't know whatever 50 50 or 30 3030 or 90 10 1 or whatever it is market share and then they're gonna have
+包括 whatever probability they have
+and it's gonna be a classic oligopoly
+or maybe one company will be a monopoly
+by the way, those outcomes have happened in software many times before
+so maybe that will be the outcome
+the other side of it is
+If you had told me three years ago
+that in Christmas of ChatchEPT
+that within basically a year, a year and a half
+there would be
+five other American company that have basically
+exactly capable products
+然后还有五个公司在中国,会有其他级别的购买,
+然后再次会有一个公司,基本上是同样的
+我会觉得,哇,这种东西,好像是黑魔,突然间就变成了红色,
+这就是对于这种情况,
+在一年,GPG3的公司在GPG3,在搜索,
+Fraction of the hardware, they were available for free.
+And then there were five, now you've got fully in the game, you've got Google, and you've got Anthropic, and you've got XAI, and you've got Meta, and you've got all these other companies that are deep-seeking, Kimi, and all these other Chinese companies.
+And so even at the level of like LLMs or AI models, you can squint and make that argument either way.
+By the way, same thing at the level of apps.
+对吧
+像是说
+一学生想起
+资源不一样
+因为模特儿
+会做所有的
+但另一种方式
+是不
+其实输入模特儿
+是一个
+输入
+成为人生的财富
+需要
+做出的
+能够在医生
+医生
+或医生
+或什么
+或医生
+不
+需要
+应该的财富
+能够充分
+可能LMS
+和资源
+能够充分
+你就可以 kind of squint
+either way on that one
+and I know very smart people
+who are on both sides of that argument.
+And so my honest answer on this
+is I think we're in a process
+of discovery over time
+which is, you know,
+it's in the way I think about
+this kind of structurally
+is it's a complex adaptive system.
+The technology itself
+you know, provides one of the inputs
+the legal and regulatory process
+you know, is another input.
+In, you know, actual individual choices
+made by entrepreneurs
+you know, matter a lot.
+You know, the economics matter a lot.
+贸易的贸易的贸易价值也在下降
+这些事情很重要
+而且这些事情很难做
+所以我们其实没有知道
+贸易的贸易价值还在下降
+而且我们需要在贸易的贸易中
+发展到一个很大的
+发展到一个很大的
+当然
+在VC这些事情很有趣
+因为我们现在做的
+我们应该把贸易的贸易
+和贸易的贸易的策略
+和贸易的贸易的策略
+我只是说
+我认为
+我认为
+我认为一位特别的贸易
+I don't know, Edgman manager or something who has to solve it figured out, but I guess I would say if it exists, I haven't met them yet.
+So what I'm hearing here is don't over obsess with modes at this point because we have no idea what it'll end up being.
+And as much as it may feel like, OK, there's no way OpenAI will lose this lead.
+Clearly, we're seeing a lot of competition.
+GPT wrapper point is really great.
+It is such a derogatory term.
+I don't know, a year ago, just like you just GPT wrapper.
+Now it's like the companies that are the biggest companies as fast as growing companies in the world.
+是一種不太好
+我還不知道
+這已經是三年前的假期
+在上個月或是下個月
+特別是Claude Code
+Claude Code
+但很棒
+Claude Code
+是一個很好的建議
+但還有Claude Code
+是一個APP
+是Claude Rapper
+是Agent Harness
+然後他們做了這個很棒的事
+他們出發了
+Cowork
+Cowork
+Cowork
+And remember they said a Cowork
+which is a CloudCodeCowork in a week
+Yeah, a week and a half, yep, 100%
+Well, and that's, and there's two ways of looking at that
+which is like, wow, that's really impre...
+I mean, obviously, that's really impressive
+the CloudCode was able to build Cowork
+in a week and a half.
+That's great, that's amazing.
+The other way to look at it is
+Cowork was developed in a week and a half.
+Like, how much complexity could there be?
+How much of a barrier can there be in something
+然后又是这个推动的一个强行
+就是它是非常丰富的 非常丰富的
+大家每天都在说 我不相信我可以做到这些
+它是最能够做到的 但同时也有一个月半
+所以每个模型的公司
+我肯定要在这里等待
+我们必须要建立一个旅行人
+然后我们必须建立一个合作的公司
+应对通常的人
+大家知道
+但过去都会做事
+准备组织是多少
+六月
+以前是
+一经理费够是脚踏
+还能脚踏
+过去的很久
+都希望
+最重要的内容
+就会更完美
+我上次
+我梦想
+把它说成一个
+两者一起喝
+There are no secrets among the big labs.
+The big labs have all the same information and have the same knowledge and they lap each other on a regular basis.
+There are no criteria here at this point.
+Depsy came out of the left field and had a lot of ideas on big labs and had some original ideas of its own.
+但是哇,不是太困難,基本上是有錢在中國做的,所以有多少尊重的資料
+但是另一邊,哇,這些大學生現在賣個人工人的學生,像他們的 rock stars
+他們是很明顯地創造了人,可能他們有幾個職業的,那些大學生
+但這實際上是很大的 breakthrough,很難再重複
+我認為,我需要一個大量的資料,我會用這個方式,
+ativo
+so with all this in mind do you feel like there's something you're paying attention to more to help you decide
+OK, this is where we want to place our bets
+or is the answer essentially the strategy you guys have
+which is place a lot of bets
+you guys raised the largest fund in history
+is that the way you win in this world?
+Yeah, so for us, yeah
+for us, we obviously have a very deliberate strategy
+when we think about this
+you remember the Peter Teal formulation of
+you said there's a two by two
+there's optimism and pessimism
+and then there's determinant
+and is it indeterminate and indeterminate, right?
+他一直說,他一直說,
+新冠狀態是特殊的,
+太多是叫做無法定義的,
+他一直說的,
+我認為他會說的,
+無法定義的,
+他認為世界會變得更好,
+但不可以解釋為什麼,
+有些東西會變得更好,
+即使我們不知道這些東西,
+他在歷史上,
+歷史上,
+他會說,
+那些危險,至少在想想法中,你會想想法的
+而世界需要更多的
+必須的肺炎,就是人們說
+沒有,世界會更好,因為我會做這個
+這個特別的想法
+例如,他會說
+例如,伊朗,他會說
+肺炎是必須的肺炎
+然後他會說
+伊朗是必須的肺炎
+然後他會說
+不,我會建造電子車
+我會建造空間,然後我會建造馬車
+然後他會說很細節的事情
+我想有很多2 Peter 的 framework
+但我會說的是
+如果在這個部分
+我覺得
+不定性的優點是更強的
+最少我認為他
+是歷史上的
+我會把自己
+平均地說
+不定性的優點
+是這個標準
+我們有的A16Z
+而原因是
+希望不太有史以來的
+是更不清楚的
+不定性的優點是
+勇敢的優點
+或者是
+A16Z 或者是
+Solicone Valley is very
+it's actually very specific
+which is
+there are these extremely bright and capable people
+like Elon and many others
+who are founders, right?
+and product and kind of product creators, right?
+And each of those individual people
+is a determinate optimist
+like each of them individually
+has like a very strong view
+what they're going to do
+but the great virtue of the capitalist system
+the great virtue of the American economy
+the great virtue of Silicon Valley is
+we don't just have one of those
+we don't just have 10 of those
+we have 100 and 1000
+and then 10,000 of those
+而且 the way to optimize the outcome is to have as many of those as possible
+to be as good as possible, run as hard as possible
+And then Q then just the nature of the future is like we just don't know all the answers
+And that's okay
+And the right way to deal with that is to run as many experiments as possible
+and have as many spray people trying to do as many interesting things as possible
+And so, I would put myself firmly on the side of the undeterminate optimist
+I'm wondering if the answer to the question of what you look for now
+more and more is this determinate, optimistic founder
+是一個很大的信念
+而且是在做到的
+對 沒錯
+那些 Founders 必須要
+成為一個最好的藝術人物
+他們必須要有一個很具有的計劃
+而且 副副副的
+他會說 副副副的
+UVC 必須要很簡單
+因為你不必要
+要做到的 要做到的
+你必須要做到的
+你必須要有很多的資料
+你必須要有很多的資料
+我们只能做得到一只船
+而且有实际的事
+我们的想法是
+船长们得到的船长们不必
+所以
+我们不能放手在船上
+所以
+最好的方法是
+你能够先试行
+对船长的目标
+在长期的号码
+船长的号码是 Henry Ford
+不过
+船长的号码是 Ford Motor Company
+公司失敗
+對嗎
+所以
+創業者是
+創業者 創業者 創業者
+和創業者
+這些人
+其實都用這個方式
+99.99%的利率
+但
+這樣說
+我覺得
+有什麼用
+創業者在背後
+不 幫忙
+幫忙保持
+整個 cycle 走
+你認為
+AGI
+在
+轉移你的資金
+就像我們來自AGI
+as an investor
+how do you think about your investment thesis changing
+so I've always kind of had a little bit of
+I've always kind of struggled with the concept of EGV
+because at least
+well, from the way there was defined terms
+where I kind of struggled with it
+which is there's like the prosaic
+there's the prosaic definition of EGV
+and then there is like the cosmic definition
+and the way I describe it is
+well, let's start with the cosmic one
+the cosmic one basically
+是新的,是新的,是新的
+所以AGI是一種時刻
+你進入新的,是新的
+而世界基本上是改變
+例如,新的世界都已經開發了
+我們現在正在進行新的 domain
+然後,是新的
+是新的,是新的
+而人類的決定是不太適合
+因為你會有這種自動改變
+AGI是改變
+而是一種,一種
+自動改變
+AGI是改變
+在地板下,就是在 washing and watching
+衛星做證據
+我本身是很屌掩的
+我擁有的,我認為
+你不一定和我們活在那世界
+不管是歐洲或是歐洲
+我們不認為我們活於幸運
+或是幸不幸
+因為我們沒得說
+但 scientific definition of AGI
+像我認為
+如果有純粹的議題
+我相信
+這就能做每一個
+非-economic relevant tasks
+都是一個任何人
+只有一個才是
+努力的
+我們對簡單的
+AS 접合
+而它是一個最重要的經濟項目
+所以它是10、15元
+不每一個經濟項目都要的項目
+好 明白了
+所以它是一個稍微的減少
+一個稍微的減少
+我們是要清楚地進行的
+如果我們不已經在這裡
+所以我那一天
+我感覺到
+我感覺到
+這個科目的經濟項目
+會發生什麼
+然後我感覺到
+這個經濟項目的經濟項目
+你剛剛給的
+我認為它會發生什麼
+會發生什麼
+像是幾個修改者
+And the reason for that is.
+I don't think there's any reason to assume that human skill level is the cap on anything.
+Right.
+And so we always say that as a API always is the definition.
+You gave the definition I gave it's kind of income.
+It's always kind of relative in comparison to a human worker.
+Right.
+And it's like I don't know like.
+Human skill level caps out at a certain point,
+But that's because of the inherent,
+Like biological limitations of the human organism.
+Right.
+Like we're, you know,
+Human, I give you example,
+Human IQ,
+Human IQ,
+You know, kind of they call fluid intelligence.
+或者是G-Factor的劇情
+IQI think tops out in humans as a species
+it tops out around 160
+where at 160 it's like Einstein level
+Einstein, Feynman, Vintros IQ
+You just tops out at 160
+The 160 IQ people are the ones who come up with new physics
+There's only a small handful of those
+Generally speaking when we run into somebody in the world
+who's incredibly smart
+who's like a best-selling author
+or like one of the world's best
+我认为有学者、美国科学者、美国科学者
+或者什么的
+可能会是140
+是这个项目的
+如果你是一个很好的 Lawyer
+可能是130
+如果你是一个很好的
+专门的专辑和商务人员
+可能是110
+如果你是一个小商务人员
+可能是在购买的
+购买的购买的
+可能是105
+所以这个项目的
+但我也希望能夠提供一點
+那個命令是
+人人的能量
+我們就在這裡
+在這裡
+我們說得很好
+我們就是我們
+以為我們是要
+創新的
+我們就是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們是要
+我們就是要
+我們是要
+我們是要
+Human Equivalent,IQ
+by the way,existing AM models right now are testing around the 131 40 level
+which means they're going to get to the 160 level
+and they're arguably on the mass size starting to get to the 160 level now
+but I think we're going to have AM models relatively quickly
+that are going to be 160,180,200,250,300
+by the way,and I think that's great
+I feel as great about that as I do about the fact that we occasionally get a 9-stime
+对吧 像世界会比较好 幺山会更坏 还有组合多些亚普也许
+回答是 世界会比较好国家亚普会更坏
+当然世界会比较好 loads 机组 机组
+但我们的资源 机组 机器是可以进行的
+我觉得很好
+然后 打吸机 我想其实有延络是对的
+性能的护士 护士的护士是可能会更好
+我觉得 让我来说
+conscious 台湾之中 说 OK
+这个例子是我们必须要調整好兽的
+OK, now we're going to have AI coders that are actually better coders than the best human coders.
+I think that's great.
+I think we're going to have AI doctors that are better than the best human doctors.
+I think we're going to have AI lawyers that are better than the best human lawyers,
+which actually is going to be very interesting to see,
+which I think is also great.
+And so like, I don't think there's a,
+I think we're used to living in a world where we just don't understand how good good can get,
+because we've been capped by our own biology.
+And we're going to get to experience what it's like when you have the capability at your fingertips
+that's actually better than human in these domains.
+und so I'm saying which is like I think this idea of like human equivalent is just going to be like a footnote.
+It's like oh yeah that was just on Tuesday, you know in in 2026 is when we hit that and it kind of didn't matter because the next question
+is like okay what are we going to what are we going to what do we get to do in a world in which we're actually have machines that are better than that.
+Right now so I think this is going to be much more of an exploratory process for actually exceeding human capability
+你的想法之類的
+我們可以想起
+也就是這個
+當你做戀理的
+遲 Youtable 的 Basically
+你會有提供
+一個很有趣的
+一個隱形直播
+就是說
+做一個意思
+就很喜歡
+因為你是個
+獨立的
+還有你
+小 stick
+做一個
+公式
+這是一個
+ie
+以上
+一個
+你的問題
+我'?
+捐贈
+我只想要寄这个东西
+或者我想要什么
+我想要有这个理想
+或者有一个计划
+或者是什么
+我只想要
+我没有八个小时
+或者八个小时的八个小时
+我只知道了
+我还没有做这个
+我还没有做这个
+我记忆没完
+我还不明白
+我寄的
+我寄的
+如果你有这个
+你会有信心
+你会寄10个
+然后你会说
+我忘记了
+我刚才说的
+我希望能够保持平衡
+但是我不能
+只是像你
+你只能有這個
+我已經開始生活在這種狀態上
+像我這樣的壓力
+我只能像
+如果我能夠變得更好
+我會更好
+我會做得更好
+但是我不這樣
+所以那就是
+我還不知道你會這樣
+但是我這種情況
+是在普遍的
+就是像
+我
+因為我們這樣
+我認識了很多人
+我都知道
+我確實是更好
+我明白了
+因為當我跟他們說話
+我只是在一個位置
+就像我剛才的一半
+我只是在整個時間中
+你知道我一整個時間
+我等下會談談
+我就 like 嘖
+像嚇死我
+這個人才能維持
+私人的心態
+然後他們會繼續想我
+我才可以
+我才會說
+我媽的
+我要回家
+我要喝一杯
+因為我不就是
+我就是不就是
+我只是這樣
+我們只有運用
+手機的意思
+就是要有科技
+這個手機的意思
+我們只有手機的意思
+我認為
+就更有趣
+你覺得有什麼人可以給你信用嗎
+Oh man
+我可以跟你們談談時間
+我正在想要把話說出來
+我想問你
+你的媒體和產品的大約
+你剛剛說了一堆書
+我認為你會在你身上
+經常在你身上看電視
+或是你的電話電腦
+我的生活變成了
+我正在聽你的電視
+現在的時間
+所以在媒體的大約
+你會在這些天天
+在一些網站
+網站 新聞 電視
+網站 等等
+然後有什麼書
+特別的
+對 對
+所以我會在
+我说我认为三个字的东西
+所以,在于大陆的媒体
+我基本上,我所说的
+我认为,我认为
+是一个完美的执行
+我认为,我认为
+是一个词,我认为是一个误会
+所以,我认为
+在现在的情况下,我认为
+是一本文章,五十年前的文章
+我认为,我认为
+在这段时间中,我认为
+有什么不够的时间
+然后,我认为,我认为
+Colabao
+And it's particular.
+It's kind of what I already said, which is
+I think if you go back and you read old nobody ever does this.
+It's actually really funny.
+Nobody ever does this.
+There's no market for it.
+But if you go back and you read old newspapers
+And by the way, you can do this just read last week's newspaper.
+Right.
+We're taping on Friday.
+So read last Friday's newspaper.
+Right.
+And just go back and read it.
+I'd be like, oh my God.
+Like, none of this happened.
+Like.
+Not that none of what they predicted, played out the way that they said that it would.
+這沒有變成了不合理的
+他們沒有理解
+他們沒有看見這個星期
+他們沒有
+所以他們在註冊中
+沒有資料
+但這就像
+哇 這是沒有
+我希望我從沒聽過這句話
+我的天
+然後是一樣的
+去回到《歷道》的報告
+然後就像
+他們的報告
+他們的報告
+然後
+新聞 至少在日後
+Zoully Data Day었죠.
+The thing with magazines is it's like, it's like a week or a month, you know, kind of a long cycle.
+And so it's even, You know, by the time an article even hits publication.
+It's often out of date.
+So I just, I just have like a big problem of kind of everything in the middle.
+And so it's either it's either it's être是到ru the moment or timeless.
+But then, yeah, you mention like newsletters.
+I mean, so the other thee other thing in this,
+This is maybe obvious ,
+But it, you know, this is probably probably still underrated.
+Which is the actual practitioners in the field who are actually creating content.
+I think probably is still like dramatically underrated .
+我认为这一部分,就是一些最高级的影响,
+就是,有些人是提供了的,
+并认为他是在这个地方调整的,
+这其实是非常专业,
+我们是在历史的,
+美国的各种文化,
+所谓的各样的文化,
+所谓的各样的,
+所谓的各样的,
+所谓的文化,
+所谓的文化,
+所谓的文化,
+所谓的文化,
+所谓的文化,
+所谓的文化,
+有些人在網上開放一些媒體的 podcast 和網站
+讓大家做出那樣的事
+對, 網友的學生們是非常棒的
+他們只是要保證公關的事
+他們是你的東西
+但也許他們的活動
+他們的活動能夠讓世界上的學生
+或者你們的小朋友
+你們的學生
+你們的學生
+他們的活動能夠讓世界上的學生
+讓世界上的學生
+他們的活動能夠讓世界上的學生
+像這麽再說普 Somre
+就是她很感動
+這個我很認識小海
+所以我特別喜歡
+它是最好的
+執行其實老鄭
+我知道它在大陸
+而且在大陸
+其實我就認識了
+這個很好
+所以這樣
+我基本上
+對那 l
+陛下
+我們對為什麼
+世界是一種洗澡的一種
+不是太多十年前
+所以我只能做這麼多
+還有一個文化
+在社會社會社會
+特別是在分享
+不想保持這些秘密
+大家都在網上
+一直說
+怎麼會這樣
+只是這樣
+對 有人說
+社會社會是一個公司
+但公司是社會社會
+對
+然後再次
+這次是一個
+很棒的
+在社會社會社會
+有人在開始
+在社會社會
+而 level of the world is one of running a company
+that's just a giant pain in the fucking butt
+because your secrets are walking out the door
+and your employees are walking out the door
+and the whole thing sucks
+but the other side of this you also benefit from that
+because you get to hire people
+with all these skills and experiences
+and you're in this ecosystem that adapts
+and channels talents and skill and knowledge
+and people into the new fields
+and so there's the push and pull of that
+at the level of being an individual CEO
+at the level of just being in the ecosystem
+到你 point like yeah, it's an absolutely magical phenomenon.
+And by the way, like, you know, one of the one of the, you know, for all the, for all the
+issues in Silicon Valley, you know, I think AI, I did the comment once.
+I think AI is the ninth major technology platform in history of Silicon Valley.
+Right.
+The, you know, Silicon Valley is Silicon Valley still called Silicon Valley.
+We haven't made a silicon here in decades.
+Right.
+We used to actually, you know, it's called Silicon Valley because they used to make chips.
+Right.
+This stuff that like the actual fans were in Silicon Valley and then they, and they
+designed them and they made the chips.
+那是Wave 1 開始的
+其實是Wave 3 還是什麼的
+但那是當年1950年代的
+但現在是Wave 9
+對嗎
+而這家公司的市場 phenomenon
+在公司的生產
+你會看到這個不定義的
+沒有人有辦法去計劃
+在1990年代
+他們會做網站
+在2000年他們會做手機
+在2010年他們會做 cloud
+在2020年他們會做 AI
+automated optimism of the ecosystem and flexibility of the ecosystem met that Silicon Valley could morph into all these categories and begin up, maybe a testimony to indeterminate optimism,
+這業務得起我們生那釣上每一個會都是帶把來的 what's reminds me of the meme of how we're all just wrappers over sand everything we're building is just wrapper wrapper wrapper wrapper
+正ом的亦�橋蟻是我在一個聯貨貘工贊的 thing is hysterical. Yeah. Yeah, I'm a software company. I'm Asia mo 있는
+違居生物業生物業生物. Right
+啊 Yeah, am a business application. Im a database wrapper
+Rapper
+嗯
+Yeah exactly
+I'm a Sandra
+I'm a yeah
+You and I
+You were all now
+Santa rappers
+Santa
+Perfect
+Ok one more question
+Along the media diet
+I asked your partner
+Bett Harwitz
+What's it
+Talk you about the Z and A16
+Z if people don't know him
+And he said that you're really into movies
+These days
+And so I don't know any movies
+Any movies you really into these days
+Any movies you've absolutely loved recently
+Yeah so the movie that blew my socks off
+Last year which I think is the best movie
+Of the decade for sure
+Maybe of the last like 15 years
+是這部電影
+當然是這部電影
+不太多人看到
+但我會很勇敢
+叫做Eddington
+你沒聽過
+你沒聽過
+OK,Ed,你會很享受
+我不會太多人在電影裡
+所以在電影的層面
+這個層面沒有
+在電影的層面
+它是在一個小島嶼
+叫Eddington
+是一個小島嶼
+有600人
+還有一個
+Sheriff
+他在《河北基因》的電影裡
+是一個很古老的
+基本上是一隻鷗魚
+然后还有一个美国人
+主席是帕克斯奥
+是一个年轻和不够的女生
+然后第二集《猫》开始
+我觉得在2020年
+所以开始后
+后来 covid 第一次
+然后它将将在
+两周之后
+它将被迫离开
+它将将将在
+2020年年期
+那时候
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+像是
+然后还有其他BLM的东西
+然后还有第三个东西
+就是一个公司
+基本上是一个软件的文件
+如果你讨论背后的故事
+就是建立了AI data center
+在奥斯克尔斯特的城市
+所以他们把这些东西
+拔下来
+这些东西比较大
+然后这个东西
+是非常棒的
+就是它真的展现
+这是一个小城市在新墨西州
+所以大家在城市
+都被全球的疫情
+全球的疫情
+全球的疫情
+and all the BLM stuff and they get fully wrapped up in all the
+like tech anxiety stuff but they're all experiencing
+it basically through the Internet right which is
+which is what actually happened.
+And so the reason I love the movie so much
+is one is it's the first movie that directly grapples with 2020
+of what happened in 2020 and that just like fully fully
+engages and grapples with like all the dynamics
+that were playing out of the country,
+but the other reason is it's the first movie
+that has a really good job of showing what it is
+what it was like, especially in that era to live in a world
+在那裡,有些事情發生在現實世界
+人們在網上經驗的情況下
+在一種很重要的一種程度
+所以,這做了一個很好的工作
+像是手機,社交媒體
+在一種很大的影響中
+很有趣的情況下
+整個都跟在一起,有趣的
+我不會說,我完全不願意
+同時,我會說
+我自己的電影,我會說
+我自己的電影,我會說
+我自己的電影,我會說
+我自己的電影,我會說
+我自己的電影,我會說
+他就想要找到第三個人
+然後我就會去找他
+我可以看到你
+是你最喜歡的
+是你最喜歡的
+大家可以看到
+是你最喜歡的
+好,最後一題
+我要問你
+你的產品是否有任何產品
+你會使用什麼產品
+那些你比較喜歡的產品
+你能不能提供
+你的產品是否有任何產品
+你會使用什麼產品
+你會使用什麼產品
+你會使用什麼產品
+你會使用什麼產品
+我推薦你能提供產品給你的利益
+如果你使用他們的
+我們有很多人
+那是很難的
+我經常覺得
+你是你的最愛的兒子
+所以很難
+拖到一個特別的
+但是我會說一些
+我只是看待
+我十歲的
+我十歲的
+現在我十歲的
+是百分之百的
+跟 Replet
+而且它不是我的
+你有孩子嗎
+我有一位
+二十年多
+二十年
+你没 run into what I'm running into now
+就是Whatever it is you do is not cool
+Whatever daddy does is the coolest thing in the fuckin world
+You know by the time he is 10
+whatever you do is deeply uncool
+I am highly aware of that
+if I mention that we work on XYZ
+he is like ok
+but when he discovers something
+then it is cool
+or when his friends tell about it,it is cool
+so he has through no interference on my part
+我发现了三个月前的组合
+和完全地伸动了组合的游戏
+所有的东西
+我一直在做这些事
+所以我看到这些有趣的 phenomena
+非常有趣
+第二 我非常喜欢
+所有的声音A.I.
+我觉得是非常有趣的
+我的最喜欢的兼职
+现在是去到Groc
+Bad Rudy
+which is if you've seen it's the
+it's a foul mouth raccoon
+Avatar on the in the in the Elon's GROCK app
+so I think that's super fun
+we had this company Sesame that had
+you know they they went viral ask you for this
+you know these these just incredibly like
+you know intimate emotional
+you know kind of voice experiences
+so I think the voice stuff is fantastic
+I'm also super fascinated by all the voice input stuff
+and so you know let me let me
+Linus recently a company recently sold, but you know that all the I think like dependence the wearables like all that stuff is going to be big the medical asses.
+I think there's going to be a whole wearables revolution here. I love the voice input stuff.
+I have this app in my, there's this app on my phone now called whisper flow, which is voice transcription, which works like staggeringly well.
+OK, and probably was like a voice transcription function.
+But you can actually talk to the model while you're doing voice transcription.
+So you can kind of kind of understands and you're telling it.
+No, I want bullet points over there and I want this and that.
+And it understands that you're not telling it to type in the words I want bullet points.
+It just actually understands that you want bullet points.
+So that's a great example of a super useful thing.
+So I think the voice mode stuff is going to be is going to be is going to be really great.
+Subscribers in my newsletter get a year free of replete and whisper flow so there we go.
+What's the most memorable thing your son built with replete.
+哦,所以他超級有充電器
+所以,他在寫充電器的領導
+所以,像所有的...
+將來的下一代
+好,我再問
+其實我們都喜歡他
+我們看了新充電器的學院
+其實不錯
+但我們看了新的
+我們看了他們
+但它是下一代
+他們其實發生了
+新的設計語言
+在 computer
+如果看了新的系列
+他們基本上只會有
+就是在上午的夜間,他們不太喜歡玩,
+他們在玩遊戲,他們在想要玩遊戲
+但我將來的年代,他們其實有設計
+他們其實有一個UIs設計
+所以,一個最有趣的東西,你可以去打開
+是,你可以給我一個充電器
+用電腦,或者什麼的
+或者,其實,他們叫
+他們叫L-Cars
+設計
+設計,然後,它會建立你
+充電器的年代,用電腦
+用你的選擇,
+但你也會有你的選擇
+例如 Star Trek Game
+他會很驚訝
+那聲音非常驚訝
+你們應該要開放
+Mark,我可以跟你說話
+你能做什麼
+任何事情你希望
+讓我們聽到
+或讓我們聽到
+對,所以一件事
+我們很幸運
+Packy McCormick寫的最好的一首
+其實是我們
+而且是我們做的最好的解釋
+以及我們認為的
+所以我會對此建議大家推薦
+我們現在有很多人在推薦
+我們在影片中在分享
+所以我會推薦我們的YouTube頻道
+我覺得有很多好東西
+會很興奮的
+很棒,我會把網絡連結到那裡
+YouTube.com slash A16Z
+something like that
+and you guys have great stuff
+Mark, thank you so much for being here
+awesome. Thank you for having me
+I really appreciate it
+bye everyone
+Thank you so much for listening
