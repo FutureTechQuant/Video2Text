@@ -1,0 +1,965 @@
+Hello everyone, thank you guys for coming.
+So today we have two very special guests with us today.
+Andrew from cursor and Phillip from Thrive.
+So Andrew leads product and engineering at cursor
+where he focuses on scaling AI agents.
+Prior to this Andrew was a co-founder and CEO of skiff
+and end-to-end encrypted platform for email calendar and docs
+scaling it from zero to 2.5 million users
+before being acquired by notion.
+Philip is a partner at Thrive
+Were you spearheaded some of the most successful investments Thrive has made.
+Including investments into Open AI, Cursor and physical intelligence prior to Thrive,
+Philip worked as a principal investor at AVC and an investment associate at Bridgewater.
+Both are Stanford alumni and are deeply involved in organizations on campus like the Stanford review and treehacks.
+So it's an honor to have both of you guys back on campus today.
+And thank you for your time and we're looking forward to speaking with you both today.
+啊, applause
+So I was thinking we could start maybe by you guys telling us a bit about what brought you here today, your background
+We gave a very high level overview, but you know, would love to hear a little more about your stories and how you got here today
+So I love if you want to start
+Yeah, well Andrew was always a better programmer than I was
+So I spent more time and ideas world than a coding world
+He helped me with my coding projects quite a bit when I was at Stanford
+And I think honestly I'm just an optimist and a technologist at the end of the day
+我花了很多時間在施工學院
+用一塊在學校的學校
+用一塊在很多其他學校的學生
+想知道世界如何在發展
+我希望可以說
+我叫了AI Boom
+我認為我們都很容易被ML封鎖
+但可能不至於我們應該會成為
+但是很多學生
+和旅行的過程都已經是
+你找到的很多很興奮的技術
+技術和不同的構思
+我沒有好好的想法
+開始一個公司
+所以我決定學習
+很棒的公司
+是一個很有趣的方式
+因為他們是最重要的
+技術和歷史
+所以我們開始了
+MAC和經濟鏡頭
+在水平鏡頭
+然後再做我的
+經濟鏡頭
+或是最近在Thrath
+我覺得我真的
+享受了維修
+我做了我的整個生活
+我花了很多時間
+在學校
+在學校進行
+維修
+在Treehacks
+然後開始
+我的公司
+就是在建設產品
+這點有影響了一些
+很合理的,很面對的東西
+我從事完整的電腦店
+所以我們試過順便用電腦
+我們用IP的電腦
+我們送電腦
+之後我們就開始了
+我們發了紳士郵件
+這就是我自己的一段時間
+然後我開始用Cursor
+我和我的 co-founder and I were like
+在最高一二三的
+Cursor Spenders at Notion
+5,000$ plus
+一人一月
+非常好
+然後就說
+我的天
+你能賺到最多的錢
+然後就很開心
+去工作
+用這個產品
+所以
+那時候就有一點更有趣
+去跟公司
+繼續賺錢
+Cursor Spend
+但是
+還在工作
+對
+對,我覺得在一個網站上,你會看到貨品能夠開發一週,
+可以賺一百萬元,即是一個貨品可以賺兩百萬元
+我沒有每天都賺一百萬元,但你只要一句話,
+你會看到貨品能夠開發一週,即是一百萬元
+I probably should have given them better career advice.
+But I think in all seriousness,
+I think both Android were pretty good about taking advantage of a lot of the stuff Stanford had to offer being on campus,
+like it's pretty unique how overlapped the best companies in the world are with Stanford,
+and I still don't think I took enough advantage of it.
+So, I just maximized it even more probably.
+That's a great answer.
+我認為另一個部分,我應該會做得更好
+是,我認為Cursor有一個很重要的IP
+基本上,怎麼做的儲物工程,怎麼做儲物工程
+然後,你如何把儲物工程
+很多,很多,百萬多萬的儲物工程
+給其他利用者
+我認為,學習到的
+把儲物工程進入你的頭目
+會令你像是一個很重要的鋼管
+或是,你正在工作在其他部分的公司
+所以,我認為,在之前的學習
+是你 know something that I'm still trying to work on
+like how can you kind of be in the critical IP of the company
+so you really know how everything works
+and then you can kind of adjust and make it better
+yeah definitely and then kind of pipping a little bit
+andrew you obviously founded your startup and got it acquired
+you work with generational companies
+you see them go from you know inception to massive massive scale
+there's a lot of founders i'm sure here
+or people are really interested in found
+founding a company one day
+本來就有那些特別的想法
+保存防 clams 也幫我們的課程
+和妒忌
+多了一個問題
+我們做了一個負責的
+我們有什麼辦法
+我們是在信用
+我們是在信用
+我們是在信用
+我們在信用
+我們是在信用
+我們是在信用
+我們是在信用
+我們是在信用
+人們都被困在那些大想法中
+我感覺我看到很多人
+同樣的錯誤
+你也會看到這兩件事
+找人們重複錯誤
+他們可能沒有真的能夠
+把他們的說話說出來
+我不知道你會看到
+但他們很快就會
+買出他們的第一位工作人員
+然後你可能會
+買出他們的產品
+沒有這樣
+大家會說
+我真的想買出他們的產品
+很難買出他們的產品
+然後我會說
+我只會在我市場上推出一本書
+我已經有110,000人在那一部遊戲
+只要有1個推出,有5億的觀眾
+所以我只會想要
+在Twitter和blogs上
+發出一些網站
+我會覺得大家可能會開始那一段時間
+大家可能會開始
+你的頁面、網站、個人的企業
+想想為什麼五年來
+人們會想要工作
+我會跟人們說
+我寫了每一句書
+或者我看到我的 co-founder Jason
+他有很多的設計 他們說
+對 我有這個項目在網上
+所以我覺得
+你必須要在世界上找到這些人
+說到這 我不一定是要問的問題
+但是Android是一種
+很 legendary hiring streak
+當他是剪輯的 founder of skiff
+我想 我不知道有多少人
+會知道這些名字
+但是很多很好的經理
+像Yash and Rhythm
+他去了星星 拍攝 電腦
+那 maybe that like even if we have 50% except right
+That would mean
+You know half the people we made offers to
+Did not turn out
+So these people also were
+Free thinking and
+You know risk taking enough to come work for like
+A small startup versus like
+Go and do whatever internship
+They were gonna do so
+I'm people self selected into that
+And then I think like
+You know the tree hacks and just kind of building
+Community is great
+That probably by other pieces of advice
+That's a good point
+Take a lot of risk when you're young
+I think like
+It's very easy to hear that and discount it
+我應該會有更多危險的情況
+當我小的時候
+很多東西都能做得到
+我們在很高的藝術世界
+所以我覺得這真的值得
+去為我們對著對手的解釋
+和去去去去去去去去去
+有所理解
+我們平時也忘了
+我們在這麼好的地方
+我們朋友們很聰明
+所以我還很想記得
+其實幾個月前
+我們在跟Jeff提及的
+不太喜歡的,不太想要做到的事
+是繼續學習
+現在看來繼續學習
+會是一個大技能
+讓整個社會變成2026的
+所以,Andrew,你覺得
+繼續學習會幫Cursor
+發展更好的經濟和模型
+以及發展更多的機會
+你會感到驚訝
+在學習繼續學習的情況下
+對,我覺得
+我們認為的最好的部分
+Cursor可以發展模型
+從大量的資料,基本上,用很大的資料
+所以我們已經有所有的資料
+可以做個人化,繼續學習,
+然後推出新的模式,
+我們可以用Tab and Agent 產品,
+很快,所以我們可以用它
+我認為,這可能會影響很多人
+有關資料和資料的產品
+這些產品,像是Agent 一樣,
+是一個很不可思議的,
+你 spent all this time writing beautiful prompt for them
+crafting tool used for them
+And then the next day you sort of have to
+re institutionalize them
+and all of things you want
+And so I think a lot of the people
+who have great agents today
+they probably just get a lot better
+My guess is there are categories
+where it is truly difficult
+to get meaningful work done
+without continual learning
+because the amount of context required
+to be productive is so enormous
+and unless we're compounding it
+it's actually hard to get really good results
+Like it strikes me that probably
+但是我相信你會看到很多遊戲
+從經濟上和新的公司
+也會看到
+一種大問題
+你也會看到
+公司能夠通過不同的模式
+和不同的公司
+這是一件好事
+是一件壞事
+你會想起
+在你的觀點
+你會建立一個
+公司
+讓你能夠通過
+不同的模式
+讓你能夠通過
+不同的公司
+這就是一件好事
+是一件壞事
+你會想起
+你的觀點
+你會建立
+我想說,不是說很重要,
+當然,最重要的業務
+真的有很重要的
+長期的方式
+但我想
+在很早期
+這些東西很難保留
+他們很無聊
+從產品和
+成績和成績的成績
+我想現在很容易
+回顧這件事
+這些很棒的利用
+這些很棒的模式
+每個人都會有很多用途
+以及同時的功能
+也許你能夠想像到
+但我認為最重要的問題
+是如何解決這個問題
+以及解決這個問題
+我認為如果解決這個問題
+就像是會讓其他人來的
+否則你會有你的MBA
+加緊一點
+而你會改變
+做一些這樣受阻的
+或是這樣受阻的
+對 我認為
+受阻的東西
+會是很明顯的
+你把你做的設定和設定
+你把你放在你的圖案上
+或者你把這些團隊設定
+和團隊設定
+或者你進行不同的部分
+我感覺
+我們做的事情
+並沒有近來的
+進行人工
+讓更多能力的
+能力的
+像是
+能力的階段
+甚至在 existing users
+每個月都會有很多人
+你能給人家的味道
+一個更好的模式
+做更多的事
+然後告訴他們
+可以把這個設計
+給你的團隊
+然後你就可以
+把你的團隊
+做成這樣
+然後我覺得
+團隊
+沒有任何東西
+是用來保護
+團隊的
+更多的
+能力和技術
+會讓他們
+變成任何一個
+相關的
+那就是
+因為
+如果
+扣扣
+然後有什麼
+有這麼大的
+保護
+他們就不會
+trick made this kind of rush to adopt cursor at companies like this, which I think is like a lesson that maybe we should not kind of take whatever defensively approach our competitors try because it's really just intelligence that people are looking for lure cool.
+um, so I think some people have been recently talking about like the lag between rapid advance sense of like models and like frontier research versus applications of AI and kind of legacy industries, or just immediately being effective in the real world economy.
+I think Thrive's answer has been kind of
+thrive holdings to some sense
+and I just I'm kind of curious in your guys perspective
+how long do you think you'll take for ai to be ubiquitous
+and the economic processes of the country
+and what are some of the biggest hurdles to overcome
+for that to be true?
+It's a big question.
+I'll give my answer.
+I think it's very spiky, right.
+which is to say
+we probably have something that looks pretty close to a g i
+including already.
+Maybe Andrew would quibble with that
+But at least it's very powerful AI, right?
+I think we can imagine that there are things that are very well suited to the models
+Gain there very quickly
+You know, I've tried some of the Excel plugins for some of these models recently
+And they're pretty fantastic
+I certainly need to update my models a lot less than I used to
+But I think there are things where the amount of work to extract the context
+To actually get the models to behave really well
+在非常非常高的情況下
+你可以想像
+在香港的健康和經濟經濟方面
+他們會在這裡
+他們會多拿更多的工作
+多拿更多的資料
+所以我不會驚訝
+如果未來有不同的時刻
+我們可以生活在
+世界的部分
+有些人在這裡
+生活在一些
+讓我感覺到更多
+非常強烈的A.I
+在這個年底下
+然後還有世界的部分
+還有世界的部分
+它其實 takes a lot longer than that
+for things to diffuse
+I think I have a non-consensus cursor view
+like most people at the company don't even like
+they're like why are you even talking about this
+my view is like I think we already have
+basically these capabilities
+and I think we have them through coding agents
+meaning that like coding agents are like
+the generalized AI agents that we're looking for
+like I can open up cursor, open cursor browser
+and tell like our model composer to like go
+我可以在家裡搜尋食物
+我覺得這才是能夠
+像是開放AI 或是
+培訓器 信息
+等等的
+你正在找到的優點
+我用Cursor
+然後用蕾絲
+然後我會把這些
+傳統的圖案
+或是想要在六個月內
+想要在六個月內
+我用Cursor
+去查查資料
+證據 證據 等等
+所以我認為這也會
+我有一種小夢
+Cursor是100%
+全都在用
+那種類似
+Jupiter 紐約紐約的紐約紐約
+然後還有一個非常大的綠色區
+就是所有的知識工作
+我認為這些顏色的顏色是能夠用的
+但這個綠色的領域
+我不知道會不會是用的
+或者是會用的
+或者是會用的
+在那裡做一些測試
+你覺得我們應該要建立一個好顏色
+你必須要有一個很好的顏色模式嗎
+對
+我覺得這是一個部分
+顏色是Codex
+開啟顏色的顏色
+它們很簡單
+它只用一個鏡頭
+來做剪輯
+而且很多其他网络的公司
+有一个计划程式
+5.7.0
+网络的网络的网络
+计划程式 等等
+所以挺有趣的
+因为如果每个网络是一个销售
+就代表你会有这些网络
+然后那些网络
+就代表你能做什么
+比如你能控制一个网络
+你能控制一个网络
+你能做一个网络
+所以
+对
+我认为这些资源的专业业的专业业
+和专业业业的公司
+也会有一个很大的主持
+因为如果你可以用一个专业业
+你会发展到世界的专业
+那么这会有一个很大的专业
+因为如果我们看
+对不起 选业业业业业业
+那是一个非常大问题
+什么都不能做
+或者大家在专业里
+只能经过发展
+如果我們有文字的程序
+我們會有100%的專注
+這也就是說我們想要有
+最能力的經驗
+寄信息的程序
+在任何的程序
+我覺得這也就是
+我們想要
+GPT的模式
+我們想要我們的經驗
+我們很確定
+是否能有更多的經驗
+我們可以用它
+更多的經驗
+我可以用一個
+經驗的經驗
+叫GPT的經驗
+然後他們可以
+用它們的方式
+所以我們是我們看的
+但是我覺得
+我們不會讓你和Cursor做任何任何的任務
+我覺得任何任務是必須的
+我想一個大部分是
+如何讓你獲得信用
+每個人在這個房間
+可以用電腦和電腦
+如果你在這裡坐
+我可以驚訝
+這個房間的大小
+很多人都不會驚訝
+所以
+有多難度
+很多人都會經歷
+很多的力量
+我們會很容易地表達到
+像是Cursor
+我會有人在我的團隊裡
+不像是Programmers
+或是Cursor
+或是Codex
+或什麼的
+但是我認為UI
+其實是一個大部分的
+我們有很多的技術
+然後將他們的建議
+在正式的方式上
+進行正式的討論
+這就很重要
+我們都很關注
+如何使用AI
+去超級充滿
+我們的產品
+這些東西
+你們倆都說
+利用這些建議
+將近的Code Generation
+你覺得自己的工作程式是如何的?
+你如何設立你的電腦電腦電腦?
+你覺得電腦電腦的程式是如何的?
+和其他行業的行業的行為是如何的?
+我完全無法感受
+我可能會帶來10個、1個萬個電腦
+很多時候我會帶來6個或8個電腦
+然后我会花5秒在每个字上
+然后我会选择哪一个字
+我会有一个想法的进行
+我会有一个想法的进行
+我会有6个语言的进行
+然后我会看到哪一个字
+我会说我应该选择这个字
+所以我会有一个语言的进行
+然后我会有6个语言的进行
+然后我会3-4个语言的进行
+然后我会选择这个字
+我会想到那些东西
+我会有些语言的进行
+可能我会用这3个语言的进行
+但最後可能我還會做一些 manual work
+做一些動作
+不是 manual work
+我用文字來寫文字
+manual work
+我會檢查文字
+我會寫文字
+我會寫文字
+我會寫文字
+不,那是錯的
+其實就是
+很大的Alpha
+我最大的想法是
+我沒有再做Git commands
+我會把這個放在這範圍
+去開PR
+那是最大的重量
+嗯
+no
+you guys ready here first
+I wrote like
+I wrote like the word const last time
+well
+I write less code for my job
+although we do sometimes build these fun little
+vibe coded apps to do
+ideation analysis that thrive
+one of my partners actually
+we were looking at software names
+right now
+I don't know how much you guys felt
+pull the public markets
+but the public markets a basic side that
+Anything that is not called open AR anthropic or NVIDIA is worthless.
+And so public SaaS companies have taken a real beating and sort of going
+through and thinking about, you know, may there be some diamonds in the rough there
+maybe not.
+And but one of my partners literally just like took a list
+of names built out this really cool dashboard we could use
+to like sort ideas by and track what's gone down.
+Let's go up what the metrics look like.
+And so I think a lot of cool tool creation, but honestly for us,
+如果你想想我的工作
+真的有三個問題
+你需要做的
+是
+做好意os
+做好意os
+做好意os
+做好意os
+做好意os
+我和模型很幫助
+我並不太 creative
+但我確實是一年或兩
+做好意os
+做得很好
+我有一天,我曾經做一些研究、讀一些網站
+看不同類型的圖案
+我感到可以將那些圖案重新加起來
+非常少的努力
+所以現在我只能在人類世界生活
+和人類世界想像中
+我感到更有趣
+我感到很開心
+在未來的資料研究中
+或在其他地方
+我會要寫《Skala》
+或是在看廣告的圖案
+你只要把较小的费用
+你才能做到这些非常漂亮的费用
+所以
+我觉得你只要被判断
+你的想法和你的费用
+你只要把费用的费用
+那是我最喜欢的工作
+所以我才能够选择
+我再问两句问题
+我会用Q&A
+你问我
+我问你
+所以在费用的方式
+你能否快点进行费用
+或者決定
+就是 when products are not worth
+essentially going moving forward with
+or not worth even starting
+either like they make the
+work flows too complicated
+they don't provide value to end user
+or they're just not good from
+a business point of view
+if you could shed kind of some light
+on your product decisions
+yeah I feel like there's a very simple
+criteria which is like does it
+help people use the agent more
+and then if everyone like thinks that
+a million times a day it can make
+really good product decisions
+例如,Cursor 無法在家中寫照片
+例如, 家長 、 家長 、 家長 、 家長
+因為那時候, 用很安全的 寫照片
+就像是經常寫照片
+如果你是用在家中寫照片
+Cursor 無法寫照片
+但有幾百多個照片
+在同一種類型的照片
+Cursor 無法寫照片
+例如, 規則照片
+這是一個例子
+Cursor 無法寫照片
+用在家中寫照片
+而無法寫照片
+所以, 我覺得
+每個人在團隊都覺得
+Oh my gosh, everything about cursor is focused on the agent.
+You know, the person implementing that would know
+They have to be really careful like you should not create these impediments to like how the agent works.
+I think there is a million like ways that trickles down.
+We launched like sub agents last week and you know,
+on like a legacy pricing plan that's request based.
+You have to like toggle max mode on in the product to be able to use sub agents.
+That's no longer the case,
+but like the person implementing sub agents would realize like
+No one's ever going to know to toggle this thing on to use this like incredibly powerful agent feature.
+所以我相信每個人都知道這問題
+可以回答這問題
+我想是最後一個問題
+我們先回答一下
+Nobody really knows
+什麼樣的未來
+作為工作
+這是一個很大的
+問題
+特別是 software engineering
+像你提到
+你不必用手機寫作詞
+如果是一個人
+想要開始他的生意
+現在什麼技術
+你認為是
+很高的回復和高的
+在這方面,如果你是最近的
+大量智慧的職業人員
+你應該能夠建立最多的東西
+在 deep AI 或是 science research problems
+我認為
+最重要的技能是
+我看見的
+是找到很大的成功的
+技術
+是在這方面
+最重要的技能是
+我看到的
+或是很成功的工作人員
+或是公司
+是能夠拿出很大的
+很重要的問題
+去獲得的結果
+在很短的時間內
+我覺得這需要
+很多的痛苦
+需要的 creativity
+需要能夠拿出
+一些很難的
+沒有領導
+或是
+一個設計的方式
+能夠用來解釋這個
+但我認為
+你會開始訓練更多的馬來西亞人
+你會開始訓練更多的馬來西亞人
+你會繼續走你的生活
+我認為我的將來在未來的工作
+是那些很強的工人
+在Cursor有一個很小的群聚人
+那些全都知道
+那些群聚人是全都知道的
+這就是我意思
+這些群聚人的整個社會
+要把自己的心態放下
+所以我認為最好的人
+或許有很多人在這個房間
+如果你是跟其他公司和你的公司
+你會跟其他公司一樣
+然後我認為更多的知識人士
+可以用扣電執照去做他們的工作
+他們不可能是工具
+或者他們不可能是
+硬碰的中心的大學生
+但他們還可以用
+扣電執照去做
+研究、研究或其他東西
+好
+我想我們打開
+觀眾的問題
+如果你們有問題
+就看 how fast cursor has grown.
+特別是 since Andrew joined.
+The timelines at which things can get done have just been compressed really radically.
+It's like a little bit of a trism, but things that I think in past years might have taken
+weeks months years, take days.
+And so I think the ability to process information and update your world is really important.
+And it's really important for people to be able to get to the point where they can
+weeks months years take days
+and so I think the ability to process information
+and update your worldview
+really quickly based on that
+then also understand if things are going to change
+really quickly what's going to continue to be valuable
+versus what's not going to continue to be valuable
+that is what is just a skill that is
+more important than it used to be
+given you know we might be playing
+sort of speed chest versus normal chest right now
+我們可以在一篇文章中,在什麼時候決定去做?
+我先把這問題問到你
+好,我認為最明顯的事情
+有很多的 cursor 和數字
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+我們會在這裡追蹤
+所以這就是簡單的一件事
+我覺得我們沒有辦法解決
+我們現在做的就是
+我們做了一個測試
+像是一個測試的程式
+而這個測試的程式
+就是一個人在100個
+很快的速度的寫作
+去看他們能否
+只能把一個錯誤的程式
+搭載成這樣
+那是當然不只是
+一個實際的測試
+所以我們會看看
+但我喜歡的一件事
+就是一個 browser
+意思是你拿了一整個圈圈
+像是一個Vive version
+urbal imaginary
+Perfect zero collision in the world
+But it doesn't go and suggest to you
+the the thing that you need to formally reduce
+So these suggestions are really awesome and cursor
+It gives you some of the next steps
+But then the intuition of the developers
+Like they don't have that expert knowledge
+Like that 40 year experience
+They kind of would need
+To really kind of have that seniority over it
+How do you sort of interpret that
+So if they do think it's revolutionary
+Presidential Investor
+In a nat revolutionary
+the claim is kind of embarrassing
+How do you sort of curves a tie on that?
+I don't know if this is a total answer to your question
+I feel like among really good engineers that I work with
+Some go
+some have just like been fully brayrodded
+and they're still really effective
+but they just like
+only go through the agent
+they've clearlynever like looked at their code
+and they make a lot of obvious mistakes
+I think then there are people who are
+really really careful
+and they're still only using coding agents
+they're only typing a cursor
+但他們很小心
+我認為那兩種工具
+是一種不可信任的
+100,000次的價值
+他們可以相信
+被創作的創作人
+或其他創作人的創作人
+我們現在有很多的
+計劃
+他們的成績必須
+成為一個人的
+成績
+然後他們的
+不像是一種
+不像是一種
+不像是一種
+他們只是
+executing with the agent and they're really good and fast.
+They don't have to make those decisions.
+So this was more like a labor market prediction question.
+But I think part of the allure of a lot of these AI companies
+is previously enterprise software budgets that were in hundreds of billions of dollars.
+Then when you look at US later overall, you're talking like $15 trillion, right?
+So these companies are really valuable because they have the context to go out and build long horizon enterprise agents that can replace knowledge work.
+我 am curious what your views are on the next two years five years.
+Do you expect that like certain parts of knowledge work will be completely displaced and replaced by agents?
+Do you expect we're going to continue to work with them in a complementary function or your side by side with it?
+Like kind of what you do today and maybe what someone might do in health care.
+I'm curious what that looks like.
+I can cry.
+I think it's a really important question.
+And I think it's important to be serious about because it's hard to imagine
+ism
+o
+talking about and or ripple effects
+I think anyone who tells you
+otherwise is I just
+not thinking rigorously about
+it that said I will make
+the observation that I've
+seen agents fire with the people
+like almost everyone I know
+and every company I work with
+uses cursor or some
+other coding agent in addition
+and I only any of them
+have done engineering layoffs
+have just done a lot more
+and so I there's a third
+我們可以有多少個價值
+我們可以有多少個價值
+如果你想要一些歷史的學習
+或是歷史的學習
+在1960年、1970年
+有一個大部分的
+人類的迷路
+就是
+中國人會吃飯
+印度人會吃飯
+我們有了
+我們煮了很多菜
+大家完全沒事
+我們可以支持
+這點
+我猜如果我們在20數目
+我們會把這個問題伸展出來
+就是
+我們有一個 fixed budget of labor dollars
+他們需要去某些地方
+或不去某些地方
+但如果我們在做
+更多的價值
+以為解決了更多的問題
+更多的重要問題
+整個東西其實會增加
+而且對於某些的計劃
+我們必須要注意
+但其實在上級
+是更多的效果
+對大家來說
+那會是我的希望
+坦白說
+我認為
+在哪些數目的數目
+會是最好的
+有很多網路的網友
+你會聽到Elon和其他人的說法
+工作會變成20年或什麼的
+你們有什麼想法?
+我比較自信
+我們會找到很好的問題
+我覺得工作已經變成了
+有很多不同的選擇
+對,我認為工作已經變成了
+我覺得
+Curse you're kind of all in or all out so
+So in some sense the baseball is getting better
+Code is one of the most prevalent forms of data on the internet
+And then at the same time we see models like
+QBG530 codex come out
+那你認為模式會繼續發展?
+你認為他們的管理方式會繼續進行?
+或是他們的基礎模式會變成更多的?
+那為什麼?
+那是一個很好的問題
+我認為通過的學習
+是所有的學習方式
+仍然被使用
+而且有很多的進步
+可以在基礎模式上
+在短暫的行程上
+短暫的行程上
+短暫的行程上
+在短暫的行程上
+在做模式
+讓他們做得更好
+在模式上
+能夠運作
+運作和調整他們的工作
+在行程上
+我覺得基本上
+每個地方都會有
+無法改變的
+讓人們仍然認為
+可以做到的
+我再次說了
+我認為我們很早就知道了
+A.I.Pitchmeeting
+I ever sat in on Sam had a very memorable line
+which is that you are going to spend as much on training AI models as the Apolo Program
+and it's probably gonna be more beneficial for humanity
+and I think he was absolutely right
+That is it for the audience's questions
+We have one last fun question to ask
+and that is the final question
+Do you think learn a bubble in the future?
+最後一條問題
+你認為我們是在掃描嗎?
+當然
+有些很棒的公司在創造
+有些很壞的公司在創造
+只是在任何情況
+但是有些更棒的公司
+會有更多的公司在創造
+謝謝你們
